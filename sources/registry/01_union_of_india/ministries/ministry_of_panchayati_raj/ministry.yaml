@@ -1,0 +1,26 @@
+name: Ministry of Panchayati Raj (MoPR)
+website: https://panchayat.gov.in
+contact:
+  address: 11th Floor, Jeevan Prakash Building, 25 K.G.Marg, New Delhi-110001
+  phone: ''
+  fax: ''
+  email: nic-mopr[at]nic[dot]in
+directory:
+- name: Shri Rajiv Ranjan Singh alias Lalan Singh
+  designation: Minister
+  organization: Ministry of Panchayati Raj
+  contact: 'Ph: 23380780, 23380781'
+  email: min-mopr[at]gov[dot]in
+- name: Prof. S. P. Singh Baghel
+  designation: Minister of State
+  organization: Ministry of Panchayati Raj
+  contact: 'Ph: 23782143, 23782518'
+  email: mos-mopr[at]gov[dot]in
+- name: Shri Vivek Bhardwaj
+  designation: Secretary
+  organization: Ministry of Panchayati Raj
+  contact: 'Ph: 23389008
+
+    Fax: 23389028'
+  email: secy-mopr[at]nic[dot]in
+status: active

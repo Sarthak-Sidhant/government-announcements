@@ -1,0 +1,46 @@
+parent_department: Department of Sports (DoS)
+organizations:
+- name: National Anti Doping Agency
+  website: https://nadaindia.yas.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Dope Testing Laboratory (NDTL)
+  website: https://ndtlindia.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Sports Authority of India
+  website: https://sportsauthorityofindia.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Lakshmibai National College of Physical Education (LNCPE), Thiruvananthapuram
+  website: https://lncpe.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Lakshmibai National Institute of Physical Education (LNIPE), Gwalior
+  website: https://www.lnipe.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Sports University, Imphal
+  website: https://nsu.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Netaji Subhas National Institute of Sports (NSNIS)
+  website: https://www.nsnis.org
+  status: external_link
+  category: Academies / Institutions
+- name: Asmita Portal
+  website: https://sfw.kheloindia.gov.in/public/index.php
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Sports Federation Portal
+  website: https://nsf.yas.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Sports Repository System (NSRS)
+  website: https://nsrs.kheloindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Stadia Booking System by Sports Authority of India (SAI)
+  website: https://booksaistadia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

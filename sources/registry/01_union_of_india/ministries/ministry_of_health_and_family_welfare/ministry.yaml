@@ -1,0 +1,39 @@
+name: Ministry of Health and Family Welfare (MoHFW)
+website: https://mohfw.gov.in
+contact:
+  address: Ministry of Health & Family Welfare, Room No. 402-D, Nirman Bhawan, New
+    Delhi - 110011
+  phone: 011-23062292
+  fax: ''
+  email: ''
+directory:
+- name: Shri Jagat Prakash Nadda
+  designation: Minister
+  organization: Ministry of Health and Family Welfare
+  contact: 'Ph: 23063513, 23061661
+
+    Fax: 23062358
+
+    Ph (R): 23794649
+
+    Address: Room No.: 348-A, Nirman Bhavan, New Delhi - 110011'
+  email: india-hfm[at]gov[dot]in
+- name: Shri Jadhav Prataprao Ganpatrao
+  designation: Minister of State
+  organization: Ministry of Health and Family Welfare
+  contact: 'Ph: 23061016, 23061551
+
+    Ph (R): 23782610
+
+    Address: Room No.: 250-A, Nirman Bhavan, New Delhi - 110011'
+  email: mosap-mohfw[at]gov[dot]in
+- name: Smt. Anupriya Patel
+  designation: Minister of State
+  organization: Ministry of Health and Family Welfare
+  contact: 'Ph: 23061016, 23061551
+
+    Fax: 23062828
+
+    Address: Room No.: 650-A, Nirman Bhavan, New Delhi - 110011'
+  email: mos-health[at]gov[dot]in
+status: active

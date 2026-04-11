@@ -10,6 +10,10 @@ reporting_to: "Revenue Department, Govt of The Dadra And Nagar Haveli And Daman 
 
 # === SCRAPING CONFIG ===
 url: "https://diu.gov.in"
+scraper_type: "s3waas"
+status: "active"
+last_scraped: null
+priority: "medium"
 sections_to_watch:
   - title: "Notices/Announcements"
     url: "https://diu.gov.in"

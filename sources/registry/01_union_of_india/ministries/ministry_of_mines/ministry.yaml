@@ -1,0 +1,34 @@
+name: Ministry of Mines (MoM)
+website: https://mines.gov.in
+contact:
+  address: 3rd Floor, A wing, Shastri Bhawan, New Delhi-110001
+  phone: 011-23070396
+  fax: ''
+  email: it-mines[at]nic[dot]in
+directory:
+- name: Shri G. Kishan Reddy
+  designation: Minister
+  organization: Ministry of Mines
+  contact: 'Ph: 011-23387277, 011-23383109
+
+    Address: Room No: 353- ''A'' Wing, Shastri Bhawan, New Delhi 110001'
+  email: minister[dot]mines[at]gov[dot]in
+- name: Shri Satish Chandra Dubey
+  designation: Minister of State
+  organization: Ministry of Mines
+  contact: 'Ph: 011-23070522, 011-23070524
+
+    Fax: 011-23070529
+
+    Address: Room No. 504 ''C'' Wing, Shastri Bhawan, New Delhi 110001'
+  email: mos-mines[at]gov[dot]in
+- name: Shri Piyush Goyal
+  designation: Secretary
+  organization: Ministry of Mines
+  contact: 'Ph: 011-23385173, 011-23382614
+
+    Ext: 335
+
+    Address: Room No: 320 - ''A'' Wing, Shastri Bhawan, New Delhi 110001'
+  email: secy-mines[at]nic[dot]in
+status: active

@@ -1,0 +1,46 @@
+parent_department: Department of Health Research (DHR)
+organizations:
+- name: Directorate General of Health Services
+  website: https://dghs.mohfw.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Health Education Bureau
+  website: https://cheb.mohfw.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Ethics Committee Registry for Biomedical and Health Research (NECRBHR)
+  website: https://naitik.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Indian Council of Medical Research (ICMR)
+  website: https://www.icmr.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: ICMR-National Institute of Immunohaematology, Mumbai
+  website: https://www.niih.org.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Cholera and Enteric Diseases (NICED)
+  website: https://niced.org.in
+  status: external_link
+  category: Academies / Institutions
+- name: Central Bureau of Health Intelligence
+  website: https://cbhidghs.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: DHR Electronic Project Management System (e-PMS)
+  website: https://schemes.dhr.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National ART and Surrogacy Registry
+  website: https://registry.artsurrogacy.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: ICMR-Vector Control Research Centre (ICMR-VCRC)
+  website: https://vcrc.icmr.org.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: COVID-19 Warriors of India
+  website: https://covidwarriors.gov.in
+  status: external_link
+  category: Others

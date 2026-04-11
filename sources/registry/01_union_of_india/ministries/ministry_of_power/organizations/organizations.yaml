@@ -1,0 +1,130 @@
+parent_ministry: Ministry of Power
+organizations:
+- name: Central Electricity Regulatory Commission (CERC)
+  website: https://cercind.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Eastern Regional Power Committee (ERPC)
+  website: https://erpc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Joint Electricity Regulatory Commission (JERC)
+  website: https://jercuts.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: North Eastern Regional Power Committee
+  website: https://nerpc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Southern Regional Power Committee
+  website: https://srpc.kar.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Western Regional Power Committee (WRPC)
+  website: https://www.wrpc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Bureau of Energy Efficiency (BEE)
+  website: https://beeindia.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Central Electricity Authority (CEA)
+  website: https://cea.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Damodar Valley Corporation (DVC)
+  website: https://www.dvc.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Bhakra Beas Management Board (BBMB)
+  website: https://bbmb.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Power Research Institute (CPRI), Bangalore
+  website: https://cpri.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Power Training Institute (NPTI), Faridabad
+  website: https://npti.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Energy Efficiency Services Limited (EESL)
+  website: https://www.eeslindia.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Grid Controller of India Limited
+  website: https://posoco.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Hydroelectric Power Corporation Limited (NHPC)
+  website: https://www.nhpcindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Thermal Power Corporation (NTPC)
+  website: https://www.ntpc.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: North Eastern Electric Power Corporation Limited
+  website: https://neepco.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Northern Regional Load Despatch Centre
+  website: https://nrldc.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: PFC Consulting Limited (PFCCL), New Delhi
+  website: https://www.pfcclindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Power Finance Corporation Limited, New Delhi
+  website: https://www.pfcindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Power Foundation of India (PFI)
+  website: https://powerfoundation.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Power Grid Corporation of India Limited (POWERGRID)
+  website: https://www.powergrid.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Power Trading Corporation of India Limited (PTC)
+  website: https://www.ptcindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Rural Electrification Corporation Limited
+  website: https://www.recindia.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Satluj Jal Vidyut Nigam Limited (SJVN)
+  website: https://sjvn.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Southern Regional Load Despatch Centre
+  website: https://srldc.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Tehri Hydro Development Corporation (THDC)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Power Research Institute (CPRI)
+  website: https://cpri.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Energy Conservation Award (NECA)
+  website: https://neca.beeindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Power Portal
+  website: https://npp.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Smart Grid Mission (NSGM)
+  website: https://www.nsgm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ujwal DISCOM Assurance Yojana (UDAY)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications

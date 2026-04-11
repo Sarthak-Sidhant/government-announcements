@@ -1,0 +1,46 @@
+parent_department: Department of Scientific and Industrial Research (DSIR)
+organizations:
+- name: Central Building Research Institute (CBRI), Roorkee
+  website: https://cbri.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Electronics Engineering Research Institute (CEERI), Pilani
+  website: https://www.ceeri.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Council of Scientific and Industrial Research (CSIR)
+  website: https://www.csir.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Minerals and Materials Technology
+  website: https://www.immt.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Electronics Limited
+  website: https://www.celindia.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Research Development Corporation (NRDC)
+  website: https://www.nrdcindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Institute of Digital Education and Employment Development
+  website: https://dsrvsindia.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Unit for Reaserch and Developmnet of Information Products
+  website: https://urdip.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Asian and Pacific Centre for Transfer of Technology
+  website: https://apctt.org
+  status: external_link
+  category: Others
+- name: Manthan
+  website: https://manthan.gov.in
+  status: external_link
+  category: Others
+- name: National Automotive Testing and RandD Infrastructure Project (NATRIP)
+  website: null
+  status: active_no_link
+  category: Others

@@ -1,0 +1,23 @@
+name: Ministry of Youth Affairs and Sports (MoYAS)
+website: https://yas.gov.in
+contact:
+  address: Room No 401,C-Wing, Shastri Bhawan New Delhi - 110001
+  phone: 011-23384183, 011-23386520
+  fax: ''
+  email: ''
+directory:
+- name: Dr. Mansukh Mandaviya
+  designation: Minister
+  organization: Ministry of Youth Affairs and Sports
+  contact: 'Ph: 23386520, 23381185
+
+    Address: Room No. 401, C-Wing, Shastri Bhawan, New Delhi - 110001'
+  email: office-moyas[at]gov[dot]in
+- name: Smt. Raksha Nikhil Khadse
+  designation: Minister of State
+  organization: Ministry of Youth Affairs and Sports
+  contact: 'Ph: 23071688
+
+    Address: Room No. 413, C-Wing, Shastri Bhawan, New Delhi - 110001'
+  email: mos-yas21[at]gov[dot]in
+status: active

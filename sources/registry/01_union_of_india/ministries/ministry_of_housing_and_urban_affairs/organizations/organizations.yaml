@@ -1,0 +1,179 @@
+parent_ministry: Ministry of Housing and Urban Affairs (MoHUA)
+organizations:
+- name: Central Public Works Department (CPWD)
+  website: https://cpwd.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Department of Publication
+  website: https://deptpub.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Estates
+  website: https://esampada.mohua.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Printing
+  website: https://dop.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Government of India Stationery Office, Kolkata
+  website: https://giso.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Land and Development Office
+  website: https://ldo.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Town and Country Planning Organisation
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Deendayal Antyodaya Yojana
+  website: https://nulm.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Delhi Urban Art Commission (DUAC)
+  website: https://www.duac.org.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Capital Region Planning Board (NCRPB)
+  website: https://ncrpb.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Real Estate Regulatory Authority (RERA), Delhi
+  website: https://rera.delhi.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Building Materials and Technology Promotion Council (BMTPC)
+  website: https://www.bmtpc.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Government Employees Welfare Housing Organisation (CGEWHO)
+  website: https://www.cgewho.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Cooperative Housing Federation of India (NCHFI)
+  website: https://www.nchfindia.net
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Urban Affairs (NIUA)
+  website: https://niua.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Regional Centre for Urban and Environmental Studies (RCUES), Hyderabad
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Hindustan Prefab Limited, New Delhi
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Steel Works Construction Limited (HSCL)
+  website: https://hsclindia.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Housing and Urban Development Corporation Limited (HUDCO)
+  website: https://hudco.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Nagpur Metro Rail Corporation Limited (NMRCL)
+  website: https://www.metrorailnagpur.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Buildings Construction Corporation Limited (NBCC)
+  website: https://nbccindia.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: AAINA-Dashboard for cities
+  website: https://aaina.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Atal Mission for Rejuvenation and Urban Transformation (AMRUT)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Building Related Information and Knowledge System (BRIKS)
+  website: https://briks.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Central Vista Project
+  website: https://centralvista.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: City Finance
+  website: https://cityfinance.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Environment Protection in Government Colonies, Directorate of Estates
+  website: https://epgc.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Geo Portal for Urban Mission
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Global Housing Technology Challenge (GHTC)
+  website: https://ghtc-india.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Urban Digital Mission
+  website: https://www.nudm.mohua.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Personnel Information and Management System, Central Public Works Department,
+    Delhi
+  website: https://cpwdpims.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Portal for Analytical Regional Information and Mapping of NCR (PARIMAN)
+  website: https://ncrpbgis.nic.in/NCR/index/index.html
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Awas Yojana (Urban)
+  website: https://pmay-urban.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Awas Yojana (Urban)-MIS Portal
+  website: https://pmaymis.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Smart Cities Mission
+  website: https://smartcities.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Swachh Bharat Mission-Urban
+  website: https://sbmurban.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Swachhata Hi Seva
+  website: https://swachhatahiseva.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Real Estate Development Council
+  website: https://naredco.in
+  status: external_link
+  category: Councils
+- name: Affordable Rental Housing Complexes (ARHCs)
+  website: https://arhc.mohua.gov.in
+  status: external_link
+  category: Others
+- name: Central Public Health and Environmental Engineering Organisation (CPHEEO)
+  website: https://cpheeo.gov.in
+  status: external_link
+  category: Others
+- name: National Buildings Organisation
+  website: https://nbo.gov.in
+  status: external_link
+  category: Others
+- name: Real Estate Regulation and Development Act
+  website: https://rera.mohua.gov.in
+  status: external_link
+  category: Others
+- name: Regional Centre for Urban and Environmental Studies (RCUES), Lucknow
+  website: null
+  status: active_no_link
+  category: Others
+- name: Waste to Wealth
+  website: https://www.wastetowealth.gov.in
+  status: external_link
+  category: Others

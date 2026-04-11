@@ -1,0 +1,238 @@
+parent_department: Department of Home (DoH)
+organizations:
+- name: Assam Rifles
+  website: https://assamrifles.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Border Security Force (BSF)
+  website: https://www.bsf.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Industrial Security Force (CISF)
+  website: https://cisfrectt.cisf.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Reserve Police Force (CRPF)
+  website: https://crpf.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General-Fire Services, Civil Defense and Home Guards
+  website: https://dgfscdhg.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Forensic Science Services (DFSS)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Indo Tibetan Border Police (ITBP)
+  website: https://itbpolice.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Awards Intra Portal
+  website: https://intraawards.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Disaster Response Force (NDRF)
+  website: https://www.ndrf.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Investigation Agency (NIA)
+  website: https://nia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Security Guard (NSG)
+  website: https://nsg.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: North Eastern Police Academy (NEPA)
+  website: https://nepa.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Sashastra Seema Bal (SSB)
+  website: https://ssb.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Office of the Registrar General and Census Commissioner
+  website: https://censusindia.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Bureau of Immigration (BOI)
+  website: https://boi.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Narcotics Control Bureau (NCB)
+  website: https://narcoticsindia.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Crime Records Bureau
+  website: https://ncrb.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Disaster Management Authority (NDMA)
+  website: https://ndma.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Fire Service College
+  website: https://nfscnagpur.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Foundation for Communal Harmony (NFCH)
+  website: https://nfch.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Sardar Vallabhbhai Patel National Police Academy
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: National Forensic Sciences University
+  website: https://nfsu.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Bharat Ke Veer
+  website: https://bharatkeveer.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Bharatpol Portal
+  website: https://bharatpol.cbi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Census Management and Monitoring System (CMMS)
+  website: https://census.gov.in/#
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Central Armed Police Forces eAwas (CAPF)
+  website: https://eawas.capf.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Civil Registration System (CRS)
+  website: https://dc.crsorgi.gov.in/crs
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: CyCord Portal
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Cyber Police Portal
+  website: https://cyberpolice.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Cybercrime Reporting Portal
+  website: https://cybercrime.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Emergency Response Support System with a Single Emergency Number 112
+  website: https://112.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Foreign Contribution Regulation Act Online Services (FCRA)
+  website: https://fcraonline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Foreigner's Identification Portal (FIP)
+  website: https://identification.mha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Citizenship Online
+  website: https://indiancitizenshiponline.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Cybercrime Coordination Centre (I4C)
+  website: https://i4c.mha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Interoperable Criminal Justice System
+  website: https://icjs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: MANAS - National Narcotics Helpline
+  website: https://www.ncbmanas.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Awards Portal
+  website: https://awards.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Cyber Crime Reporting Portal
+  website: https://cybervolunteer.mha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Cybercrime Training Centre (CyTrain)
+  website: https://cytrain.ncrb.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Cyclone Risk Mitigation Project (NCRMP)
+  website: https://ncrmp.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Database of Arms Licenses
+  website: https://ndal-alis.gov.in/armslicence
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Overseas Citizen Of India Services (OCI)
+  website: https://ociservices.gov.in/onlineOCI
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Padma Awards
+  website: https://www.padmaawards.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Padma Awards Dashboard
+  website: https://dashboard-padmaawards.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Sahyog Portal
+  website: https://sahyog.mha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Seizure Information Management System (SIMS)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: SAARC Disaster Management Centre (SDMC)
+  website: https://saarc-sdmc.org
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Directorate of Census Operation, Rajasthan
+  website: https://rajasthan.census.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Directorate of Census Operations, Tamil Nadu
+  website: https://tn.census.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Inter-State Council Secretariat
+  website: https://interstatecouncil.gov.in
+  status: external_link
+  category: Councils
+- name: Inter-State Council Secretariat Digital Resource
+  website: https://iscs-eresource.gov.in/web
+  status: external_link
+  category: Councils
+- name: India Disaster Resource Network (IDRN)
+  website: https://idrn.nidm.gov.in
+  status: external_link
+  category: Others
+- name: Indian Police in Service of the Nation
+  website: https://www.police.gov.in
+  status: external_link
+  category: Others
+- name: Mutual Legal Assistance in Criminal Matters with Foreign Countries
+  website: https://mlat.mha.gov.in
+  status: external_link
+  category: Others
+- name: National Crime Records Check
+  website: https://ncrc.gov.in
+  status: external_link
+  category: Others
+- name: National Integrated Database on Arrested Narco Offenders (NIDAAN)
+  website: https://nidaan.nic.in/NIDAAN
+  status: external_link
+  category: Others
+- name: No Money For Terror
+  website: null
+  status: active_no_link
+  category: Others
+- name: Police Service Medal
+  website: https://policeservicemedals.gov.in
+  status: external_link
+  category: Others

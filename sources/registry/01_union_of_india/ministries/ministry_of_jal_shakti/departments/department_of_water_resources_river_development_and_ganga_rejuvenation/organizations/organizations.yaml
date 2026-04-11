@@ -1,0 +1,119 @@
+parent_department: Department of Water Resources, River Development and Ganga Rejuvenation
+  (DoWRGR)
+organizations:
+- name: Betwa River Board (BRB)
+  website: https://brb.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Soil and Materials Research Station (CSMRS)
+  website: https://csmrs.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Water Commission (CWC)
+  website: https://cwc.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Water and Power Research Station (CWPRS)
+  website: https://cwprs.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Farakka Barrage Project (FBP)
+  website: https://fbp.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Upper Yamuna River Board
+  website: https://jalshakti-dowr.gov.in/upper-yamuna-river-board
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Ganga Flood Control Commission (GFCC), Patna
+  website: https://gfcc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Water Academy, Pune
+  website: https://www.nwapune.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Ground Water Board (CGWB)
+  website: https://cgwb.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Narmada Control Authority
+  website: https://nca.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Brahmaputra Board
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Godavari River Management Board
+  website: https://grmb.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Hydrology (NIH), Roorkee
+  website: https://nihroorkee.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: North Eastern Regional Institute of Water and Land Management (NERIWALM)
+  website: https://neriwalm.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Tungabhadra Board
+  website: https://tbboard.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Bansagar Control Board (BCB)
+  website: https://bcb.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Projects Construction Corporation Limited (NPCC)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Water Development Agency (NWDA)
+  website: https://nwda.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Water and Power Consultancy Services (India) Limited (WAPCOS)
+  website: https://www.wapcos.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Atal Bhujal Yojana (Atal Jal)
+  website: https://ataljal.mowr.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Command Area Development & Water Management Information System (CADWM-IS)
+  website: https://cadwm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: First Census of Springs
+  website: https://wrcensus-spring.mowr.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: India Water Resources Information System
+  website: https://india-water.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: India Water Week
+  website: https://indiawaterweek.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Jal Shakti Abhiyan
+  website: https://jsactr.mowr.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Water Mission
+  website: https://nwm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Water Resource Census Application
+  website: https://wrcensus.mowr.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Hydrology Project (NHP)
+  website: https://nhp.mowr.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Rapid Risk Screening of Specified Dams (RRSSD)
+  website: https://rrssd.cwc.gov.in
+  status: external_link
+  category: Others

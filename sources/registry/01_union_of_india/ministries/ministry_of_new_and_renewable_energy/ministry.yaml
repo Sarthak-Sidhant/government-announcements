@@ -1,0 +1,25 @@
+name: Ministry of New and Renewable Energy (MNRE)
+website: https://mnre.gov.in
+contact:
+  address: "Atal Akshaya Urja Bhawan, CGO Complex, Lodhi Road, New Delhi \u2013 110003,\
+    \ India"
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Pralhad Joshi
+  designation: Minister
+  organization: Ministry of New and Renewable Energy
+  contact: ''
+  email: minister[dot]mnre[at]gov[dot]in
+- name: Shri Shripad Yesso Naik
+  designation: Minister of State
+  organization: Ministry of New and Renewable Energy
+  contact: ''
+  email: mos-mnre[at]gov[dot]in
+- name: Shri Santosh Kumar Sarangi
+  designation: Secretary
+  organization: Ministry of New and Renewable Energy
+  contact: 'Ph: 20849010'
+  email: secy-mnre[at]nic[dot]in
+status: active

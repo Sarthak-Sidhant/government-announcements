@@ -1,0 +1,26 @@
+parent_department: Department of Drinking Water and Sanitation (DDWS)
+organizations:
+- name: Jal Jeevan Mission
+  website: https://jaljeevanmission.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Jal Jeevan Mission - Reports
+  website: https://ejalshakti.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Jal Jeevan Mission Training Portal
+  website: https://ejalshakti.gov.in/krc
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Rashtriya Jal Jeevan Kosh
+  website: https://jaljeevankosh.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Swachh Bharat Mission-Gramin
+  website: https://swachhbharatmission.ddws.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan)
+  website: https://gobardhan.sbm.gov.in
+  status: external_link
+  category: Others

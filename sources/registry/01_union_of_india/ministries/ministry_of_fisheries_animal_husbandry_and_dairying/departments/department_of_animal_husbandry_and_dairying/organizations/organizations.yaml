@@ -1,0 +1,46 @@
+parent_department: Department of Animal Husbandry and Dairying (DoAHD)
+organizations:
+- name: Central Poultry Development Organization (CPDO), Eastern Region
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Central Sheep Breeding Farm, Hisar
+  website: https://csbfhsr.com
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Committee Control and Supervision of Experiments on Animals
+  website: https://ccsea.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Dairy Development Board (NDDB), Anand
+  website: https://www.nddb.coop
+  status: external_link
+  category: Statutory Bodies
+- name: Veterinary Council of India (VCI)
+  website: https://vci.dahd.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Animal Quarantine and Certification Service Station (AQCS)
+  website: https://aqcsindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: NOC Approval for New Drug and Inoculation System Portal
+  website: https://nandi.gov.in/dahd
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Livestock Mission
+  website: https://nlm.udyamimitra.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Centre of Excellence for Animal Husbandry (CEAH), Bengaluru
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Regional Station for Forage Production and Demonstration, Pahadi Sharif
+  website: https://rsfpdhyd.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Animal Husbandry Infrastructure Development Fund (AHIDF)
+  website: https://ahidf.udyamimitra.in
+  status: external_link
+  category: Others

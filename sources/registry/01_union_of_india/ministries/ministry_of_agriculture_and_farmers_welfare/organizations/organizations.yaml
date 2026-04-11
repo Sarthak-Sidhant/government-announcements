@@ -1,0 +1,10 @@
+parent_ministry: Ministry of Agriculture and Farmers Welfare (MoAFW)
+organizations:
+- name: National Agricultural Co-operative Marketing Federation of India Limited (NAFED)
+  website: https://www.nafed-india.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Green-Ag Portal
+  website: https://greenag.nmsa.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

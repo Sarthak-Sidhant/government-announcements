@@ -1,0 +1,131 @@
+parent_ministry: Ministry of Earth Sciences (MoES)
+organizations:
+- name: Centre for Marine Living Resources and Ecology (CMLRE)
+  website: https://www.cmlre.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: India Meteorological Department (IMD)
+  website: https://mausam.imd.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Centre for Coastal Research
+  website: https://www.nccr.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Centre for Seismology (NCS)
+  website: https://seismo.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Indian Institute of Tropical Meteorology (IITM)
+  website: https://www.tropmet.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian National Centre for Ocean Information Services (INCOIS)
+  website: https://incois.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian National Centre for Ocean Information Services
+  website: https://io50.incois.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Centre for Earth Science Studies (NCESS)
+  website: https://ncess.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Centre for Polar and Ocean Research (NCPOR)
+  website: https://ncpor.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Ocean Technology
+  website: https://www.niot.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Customized Rainfall Information System (CRIS)
+  website: https://hydro.imd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: System of Air Quality forecasting and Research (SAFAR), Pune
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Agricultural Meteorology Division
+  website: https://www.imdagrimet.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Positional Astronomy Centre (PAC), Kolkata
+  website: https://packolkata.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Meteorological Center, Bengaluru
+  website: https://mausam.imd.gov.in/bengaluru
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Center, Gangtok
+  website: https://mausam.imd.gov.in/gangtok
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Center, Raipur
+  website: https://mausam.imd.gov.in/raipur
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Center, Pune
+  website: https://imdpune.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Centre, Ahmedabad
+  website: https://mausam.imd.gov.in/ahmedabad
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Centre, Thiruvananthapuram
+  website: https://mausam.imd.gov.in/thiruvananthapuram
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Centre, Bhubaneswar
+  website: https://mausam.imd.gov.in/bhubaneswar
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Centre, Hyderabad
+  website: https://mausam.imd.gov.in/hyderabad
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Centre, Shimla
+  website: https://mausam.imd.gov.in/shimla
+  status: external_link
+  category: Regional / Field Offices
+- name: Meteorological Centre, Goa
+  website: https://mausam.imd.gov.in/goa
+  status: external_link
+  category: Regional / Field Offices
+- name: Regional Meteorological Centre, Guwahati
+  website: https://mausam.imd.gov.in/guwahati
+  status: external_link
+  category: Regional / Field Offices
+- name: Regional Meteorological Centre, Kolkata
+  website: https://mausam.imd.gov.in/kolkata
+  status: external_link
+  category: Regional / Field Offices
+- name: Regional Meteorological Centre, Mumbai
+  website: https://mausam.imd.gov.in/mumbai
+  status: external_link
+  category: Regional / Field Offices
+- name: Regional Meteorological Centre, Nagpur
+  website: https://www.imdnagpur.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Regional Meteorological Centre, Chennai
+  website: https://mausam.imd.gov.in/chennai
+  status: external_link
+  category: Regional / Field Offices
+- name: Regional Specialized Meteorological Centre for Tropical Cyclones Over North
+    Indian Ocean (RSMC)
+  website: https://rsmcnewdelhi.imd.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: 'METNET : An e-Governance Intra-IMD Portal, New Delhi'
+  website: https://metnet.imd.gov.in
+  status: external_link
+  category: Others
+- name: Regional Meteorological Centre, New Delhi
+  website: null
+  status: active_no_link
+  category: Others

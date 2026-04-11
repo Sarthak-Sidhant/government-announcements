@@ -1,0 +1,30 @@
+name: Department of Chemicals and Petro-Chemicals (DoCP)
+website: https://chemicals.gov.in
+contact:
+  address: Department of Chemicals & Petro-Chemicals, Ministry of Chemicals & Fertilizers,
+    230 A , A-wing, 2nd floor, Shastri Bhawan, New Delhi-110001
+  phone: 011-23070712
+  fax: 011-23387892
+  email: hk[dot]suanthang[at]nic[dot]in
+directory:
+- name: Shri Jagat Prakash Nadda
+  designation: Minister
+  organization: Ministry of Chemicals and Fertilizers
+  contact: 'Ph: 23383559, 23386519
+
+    Address: Room No.: 316 A, A-wing, Shastri Bhawan, New Delhi-110001'
+  email: min-cnf[at]gov[dot]in
+- name: Smt. Anupriya Patel
+  designation: Minister of State
+  organization: Ministry of Chemicals and Fertilizers
+  contact: 'Ph: 23381768, 23383686
+
+    Address: Room No.: 303 A, A-wing, Shastri Bhawan, New Delhi-110001'
+  email: mos-mocf[at]nic[dot]in
+- name: Shri Tejveer Singh
+  designation: Secretary
+  organization: Chemicals & Petrochemicals
+  contact: 'Ph: 011-23384196, 011-23382467
+
+    Fax: 011-23387892'
+  email: sec[dot]cpc[at]nic[dot]in

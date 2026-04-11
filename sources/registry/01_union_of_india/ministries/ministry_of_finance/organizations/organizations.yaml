@@ -1,0 +1,6 @@
+parent_ministry: Ministry of Finance (MoF)
+organizations:
+- name: Web Portal for Indian Revenue Service (IRS) Officers
+  website: https://www.irsofficersonline.gov.in
+  status: external_link
+  category: Others

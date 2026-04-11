@@ -1,0 +1,50 @@
+parent_department: Department of Consumer Affairs (DoCA)
+organizations:
+- name: National Test House
+  website: https://nth.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Consumer Disputes Redressal Commission (NCDRC)
+  website: https://ncdrc.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Bureau of Indian Standards (BIS)
+  website: https://bis.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: INGRAM Portal-National Consumer Helpline
+  website: https://consumerhelpline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Jago Grahak Jago
+  website: https://jagograhakjago.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Portal for Grievances Against Misleading Advertisements (GAMA)
+  website: https://consumeraffairs.nic.in/consumerinformation/grievance-against-misleading-advertisements-gama
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Price Monitoring Division (PMD)
+  website: https://fcainfoweb.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: eMaap, Centralized Legal Metrology System
+  website: https://emaap.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Legal Metrology
+  website: https://lm.doca.gov.in
+  status: external_link
+  category: Others
+- name: National Co-operative Consumers' Federation of India Ltd.
+  website: https://nccf-india.com
+  status: external_link
+  category: Others
+- name: Right to Repair Portal India
+  website: https://righttorepairindia.gov.in
+  status: external_link
+  category: Others
+- name: e-Jagriti
+  website: https://e-jagriti.gov.in
+  status: external_link
+  category: Others

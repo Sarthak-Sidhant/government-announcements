@@ -1,0 +1,30 @@
+parent_department: Department of Expenditure (DoE)
+organizations:
+- name: Central Pension Accounting Office (CPAO)
+  website: https://cpao.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Controller General of Accounts (CGA)
+  website: https://cga.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: 8th Central Pay Commission
+  website: https://8cpc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: International Centre for Information Systems and Audit (iCISA)
+  website: https://cag.gov.in/icisa/en
+  status: external_link
+  category: Academies / Institutions
+- name: Swachh Bharat Kosh (SBK)
+  website: https://sbkosh.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Chief Adviser Cost
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Arun Jaitley National Institute of Financial Management
+  website: https://www.ajnifm.ac.in
+  status: external_link
+  category: Others

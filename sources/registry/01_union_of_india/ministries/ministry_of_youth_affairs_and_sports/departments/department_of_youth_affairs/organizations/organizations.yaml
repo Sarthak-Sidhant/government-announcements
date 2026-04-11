@@ -1,0 +1,30 @@
+parent_department: Department of Youth Affairs (DoYA)
+organizations:
+- name: Nehru Yuva Kendra Sangathan (NYKS), Delhi
+  website: https://nyks.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Rajiv Gandhi National Institute of Youth Development (RGNIYD)
+  website: https://www.rgniyd.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Fit India Movement
+  website: https://fitindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Khelo India-National Programme for Development of Sports
+  website: https://kheloindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: MyBharat
+  website: https://mybharat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Service Scheme (NSS)
+  website: https://nss.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: YUVA Portal
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications

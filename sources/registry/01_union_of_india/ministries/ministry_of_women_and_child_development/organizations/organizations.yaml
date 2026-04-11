@@ -1,0 +1,78 @@
+parent_ministry: Ministry of Women and Child Development (MoWCD)
+organizations:
+- name: National Commission for Protection of Child Rights (NCPCR)
+  website: https://ncpcr.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Commission for Women (NCW)
+  website: https://www.ncw.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Adoption Resource Authority (CARA), New Delhi
+  website: https://cara.wcd.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Commission of Women Women's HelpLine
+  website: https://ncwwomenhelpline.in
+  status: external_link
+  category: Statutory Bodies
+- name: Central Social Welfare Board (CSWB)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: National Institute of Public Cooperation and Child Development (NIPCCD)
+  website: https://nipccd.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Rashtriya Mahila Kosh (RMK)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: State Resource Centre for Women, Nagaland
+  website: https://missionshakti.nagaland.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Child Marriage Free Bharat
+  website: https://stopchildmarriage.wcd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Internship Programme (Ministry of Women and Child Development)
+  website: https://wcd.intern.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Mission Shakti
+  website: https://missionshakti.wcd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Mission Vatsalya
+  website: https://missionvatsalya.wcd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Nutrition Resource Platform, Child Development and Nutrition Bureau
+  website: https://www.nipccd.nic.in/schemes/nutrition-resource-platform-27
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pankhudi Web Portal
+  website: https://pankhudi.wcd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Matru Vandana Yojana
+  website: https://pmmvy.wcd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Prime Ministers Overarching Scheme for Holistic Nourishment (POSHAN)
+  website: https://poshanabhiyaan.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: SHe Box-Online Complaint Management System for Sexual Harassment at Workplace
+  website: https://shebox.wcd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Sakhi Dashboard
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Incremental Learning Approach (e-ILA)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications

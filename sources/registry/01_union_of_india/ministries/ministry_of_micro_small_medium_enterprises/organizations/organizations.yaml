@@ -1,0 +1,206 @@
+parent_ministry: Ministry of Micro, Small & Medium Enterprises (MSME)
+organizations:
+- name: Development Commissioner
+  website: https://dcmsme.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Khadi and Village Indutries Commission (KVIC)
+  website: https://www.kvic.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Coir Board
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Central Footwear Training Institute, Chennai
+  website: https://www.cftichennai.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Institute of Hand Tools, Jalandhar
+  website: https://ciht.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Institute of Tool Design (CITD), Hyderabad
+  website: https://www.citdindia.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Tool Room and Training Center, Kolkata
+  website: https://www.msmetoolroomkolkata.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Tool Room and Training Centre (MSME Tool Room), Bhubaneswar
+  website: https://www.cttc.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Fragrance and Flavour Development Centre (FFDC)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Institute for Design of Electrical Measuring Instruments, Mumbai
+  website: https://idemi.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Mahatma Gandhi Institute for Rural Industrialization (MGIRI)
+  website: https://mgiri.org
+  status: external_link
+  category: Autonomous Bodies
+- name: National Small Industries Corporation Limited (NSIC)
+  website: https://www.nsic.co.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute for Micro, Small and Medium Enterprises
+  website: https://www.nimsme.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Bank of Ideas and Innovations
+  website: https://ideas.msme.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Cluster Development Programme
+  website: https://cluster.dcmsme.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: MSME Innovative
+  website: https://innovative.msme.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Micro Small and Medium Enterprises Sampark
+  website: https://sampark.msme.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: My MSME-Ease of Doing Business
+  website: https://my.msme.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National MSME Trainee Database
+  website: https://ati.msme.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: SAMADHAAN
+  website: https://samadhaan.msme.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Udyam Assist Platform
+  website: https://udyamassist.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Udyam Parichay online Portal
+  website: https://udyamregistration.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Udyog Aadhaar
+  website: https://udyogaadhaar.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Coir Board Services
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Development and Facilitation Office, Thrissur
+  website: https://www.msmedithrissur.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Development and Facilitation Office, Ludhiana
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Employment Exchange for Industries, Development Commissioner (MSME)
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Indo German Tool Room, Indore
+  website: https://www.igtr-indore.com
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Indo German Tool Room, Aurangabad
+  website: https://www.igtr-aur.org
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Indo German Tool Room (IGTR), Ahmedabad
+  website: https://www.igtrahd.com
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Micro Units Development and Refinance Agency (MUDRA)
+  website: https://www.mudra.org.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Testing Centre, Mumbai
+  website: https://msmetcmumbai.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Tool Room (Indo-Danish Tool Room), Jamshedpur
+  website: https://www.idtr.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Tool Room Training Center (Extension Center), Patna
+  website: https://patna.idtr.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Credit Guarantee Fund Trust for Micro and Small Enterprise (CGTMSE), Mumbai
+  website: https://www.cgtmse.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Raipur
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Kolkata
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Cuttack
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Indore
+  website: https://www.msmeindore.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Agra
+  website: https://msmediagra.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Patna
+  website: https://msmedipatna.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Nagpur
+  website: https://msmedinagpur.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Mumbai
+  website: https://msmedimumbai.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Ahmedabad
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Dimapur
+  website: https://dcdi-dimapur.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Jaipur
+  website: https://www.msmedijaipur.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Guwahati
+  website: https://msmedi-guwahati.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Karnal
+  website: https://www.msmedikarnal.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Development and Facilitation Office, Agartala
+  website: https://msmedi-agartala.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Testing Centre, Okhla
+  website: https://msme-tc-nr.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Testing Centre, Kolkata
+  website: https://rtcer.gov.in
+  status: external_link
+  category: Regional / Field Offices

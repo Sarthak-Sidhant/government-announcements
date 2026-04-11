@@ -1,0 +1,62 @@
+parent_department: Department of Food and Public Distribution (DFPD)
+organizations:
+- name: Central Grain Analysis Laboratory (CGAL)
+  website: https://dfpd.nic.in/?q=node/979
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Sugar
+  website: https://dfpd.nic.in/?q=node/89
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Sugar and Edible Oils
+  website: https://dfpd.nic.in/?q=node/131
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Quality Control Cells (QCC)
+  website: https://dfpd.nic.in/?q=node/981
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Warehousing Development and Regulatory Authority (WDRA)
+  website: https://wdra.gov.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Central Warehousing Corporation (CWC)
+  website: https://cewacor.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Food Corporation of India
+  website: https://fci.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Vegetable Oils Corporation Ltd. (HVOC)
+  website: https://dfpd.nic.in/?q=node/974
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Grain Storage Management and Research Institute (IGMRI)
+  website: https://dfpd.nic.in/?q=node/980
+  status: external_link
+  category: Academies / Institutions
+- name: National Sugar Institute
+  website: https://nsi.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Central Food Grains Procurement Portal
+  website: https://cfpp.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Grievances for Violation of Public Procurement (PPP-MII)
+  website: https://pmiig.dpiit.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Integrated Management of Public Distribution System
+  website: https://impds.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Food Security Dashboard
+  website: https://nfsa.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-PDS Portal of India
+  website: https://epds.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

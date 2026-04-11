@@ -1,0 +1,28 @@
+name: Ministry of Power
+website: https://powermin.gov.in
+contact:
+  address: Ministry of Power Govt. of India, Shram Shakti Bhawan, Rafi Marg, New Delhi-1
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Manohar Lal
+  designation: Minister
+  organization: Ministry of Power
+  contact: 'Ph: 23717474, 23710411
+
+    Fax: 23710065'
+  email: ''
+- name: Shri Shripad Yesso Naik
+  designation: Minister of State
+  organization: Ministry of Power
+  contact: 'Ph: 23720450, 23720451
+
+    Ext: 424'
+  email: ''
+- name: Shri Pankaj Agarwal
+  designation: Secretary
+  organization: Ministry of Power
+  contact: 'Ph: 23721487'
+  email: secy-power[at]nic[dot]in
+status: active

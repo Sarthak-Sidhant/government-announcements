@@ -1,0 +1,36 @@
+name: Ministry of Education (MoE)
+website: https://www.education.gov.in
+contact:
+  address: 122-C, Shastri Bhawan New Delhi - 110001
+  phone: 011-23383451
+  fax: ''
+  email: ''
+directory:
+- name: Shri Dharmendra Pradhan
+  designation: Minister
+  organization: Ministry of Education
+  contact: 'Ph: 011-23782698, 011-23782387
+
+    Fax: 011-23382365
+
+    Address: Room No.: 302-C, Shastri Bhawan, New Delhi'
+  email: minister[dot]sm[at]gov[dot]in
+- name: Shri Jayant Chaudhary
+  designation: Minister of State
+  organization: Ministry of Education
+  contact: 'Ph: 011-23384327, 011-23381302
+
+    Fax: 011-23782052
+
+    Address: Room No.: 104A - C Wing, Shastri Bhawan, New Delhi'
+  email: mosedu-ss[at]gov[dot]in
+- name: Shri Sukanta Majumdar
+  designation: Minister of State
+  organization: Ministry of Education
+  contact: 'Ph: 011-23384073, 011-23386163
+
+    Fax: 011-23385112
+
+    Address: Room No.: 126-C, Shastri Bhawan, New Delhi'
+  email: mosedu-ad[at]gov[dot]in
+status: active

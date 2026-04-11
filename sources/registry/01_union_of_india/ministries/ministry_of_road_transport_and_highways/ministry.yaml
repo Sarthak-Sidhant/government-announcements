@@ -1,0 +1,54 @@
+name: Ministry of Road Transport and Highways (MoRTH)
+website: https://morth.gov.in
+contact:
+  address: Ministry of Road Transport & Highways, Room No. 316, Transport Bhawan 1,
+    Sansad Marg New Delhi-110001
+  phone: 011-23710140, 011-23719515
+  fax: ''
+  email: wim[dot]rth[at]nic[dot]in
+directory:
+- name: Shri Nitin Jairam Gadkari
+  designation: Minister
+  organization: Ministry of Road Transport and Highways
+  contact: 'Ph: 23711252, 23710121
+
+    Fax: 23719023
+
+    Ph (R): 23062019
+
+    Address: Room No.: 501, Transport Bhawan, 1, Parliament Street, New Delhi-110001'
+  email: nitin[dot]gadkari[at]nic[dot]in
+- name: Shri Ajay Tamta
+  designation: Minister of State
+  organization: Ministry of Road Transport and Highways
+  contact: 'Ph: 23710236, 23731522
+
+    Ext: 6310
+
+    Fax: 23718568
+
+    Ph (R): 23017056
+
+    Address: Room No.: 310, Transport Bhawan, 1, Parliament Street, New Delhi-110001'
+  email: ''
+- name: Shri Harsh Malhotra
+  designation: Minister of State
+  organization: Ministry of Road Transport and Highways
+  contact: 'Ph: 23352204, 23353931
+
+    Ext: 6404
+
+    Address: Room No.: 213, Transport Bhawan, 1, Parliament Street, New Delhi-110001'
+  email: ''
+- name: Shri V. Umashankar
+  designation: Secretary
+  organization: Ministry of Road Transport and Highways
+  contact: 'Ph: 23714104
+
+    Ext: 6509
+
+    Fax: 23356669
+
+    Address: Room No.: 509, Transport Bhawan, 1, Parliament Street, New Delhi-110001'
+  email: secy-road[at]nic[dot]in
+status: active

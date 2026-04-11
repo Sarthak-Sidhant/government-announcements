@@ -1,0 +1,30 @@
+name: Department of Fertilizers (DoFz)
+website: https://fert.gov.in
+contact:
+  address: Department of Fertilizers, Ministry of Chemicals and Fertilizers, Room
+    no.407-B, B Wing, 4th floor, Shastri Bhawan,New Delhi-110001
+  phone: 011-23388064
+  fax: 011-23387965
+  email: johan[dot]topno[at]nic[dot]in
+directory:
+- name: Shri Jagat Prakash Nadda
+  designation: Minister
+  organization: Ministry of Chemicals and Fertilizers
+  contact: 'Ph: 23383559, 23386519
+
+    Address: Room No.: 316 A, A-wing, Shastri Bhawan, New Delhi-110001'
+  email: min-cnf[at]gov[dot]in
+- name: Smt. Anupriya Patel
+  designation: Minister of State
+  organization: Ministry of Chemicals and Fertilizers
+  contact: 'Ph: 23381768, 23383686
+
+    Address: Room No.: 303 A, A-wing, Shastri Bhawan, New Delhi-110001'
+  email: mos-mocf[at]nic[dot]in
+- name: Shri Rajat Kumar Mishra
+  designation: Secretary (F )
+  organization: Secretary Office
+  contact: 'Ph: 23381275, 23383695
+
+    Fax: 23387965'
+  email: fertsec[at]nic[dot]in

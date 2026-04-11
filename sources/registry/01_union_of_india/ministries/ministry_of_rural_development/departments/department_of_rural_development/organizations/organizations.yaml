@@ -1,0 +1,79 @@
+parent_department: Department of Rural Development (DoRD)
+organizations:
+- name: Deendayal Antyodaya Yojana-NRLM
+  website: https://aajeevika.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: District Development Coordination and Monitoring Committees (DISHA)
+  website: https://disha.gov.in/disha
+  status: external_link
+  category: Commissions/ Committees
+- name: Mission Amrit Sarovar
+  website: https://amritsarovar.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Rural Infrastructure Development Agency (NRIDA)
+  website: https://pmgsy.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY - NRLM)
+  website: https://nrlm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital India Land Records Modernization Programme (DILRMP)
+  website: https://dilrmp.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Electronic Maintenance of Rural Roads under PMGSY (eMARG)
+  website: https://emarg.gov.in/application_main.htm
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: GRameen Internal audit Portal (GRIP)
+  website: https://grip.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Lakhpati Didi
+  website: https://lakhpatididi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Social Assistance Programme (NSAP)
+  website: https://nsap.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Management, Monitoring and Accounting System, Pradhan Mantri Gram Sadak
+    Yojana
+  website: https://online.omms.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Rural Internal Audit Portal
+  website: https://ruralaudit.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Saansad Adarsh Gram Yojana (SAANJHI)
+  website: https://saanjhi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: SabhaSaar
+  website: https://sabhasaar.panchayat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Saras Aajeevika
+  website: https://www.esaras.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Shyama Prasad Mukherji Rurban Mission (SPMRM)
+  website: https://rurban.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Unified IT Platform for DDUGKY and RSETI
+  website: https://kaushal.rural.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: eProcurement System for Pradhan Mantri Gram Sadak Yojana (PMGSY)
+  website: https://pmgsytenders.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: North Eastern Regional Centre of National Institute
+  website: https://www.nirdnerc.nic.in
+  status: external_link
+  category: Regional / Field Offices

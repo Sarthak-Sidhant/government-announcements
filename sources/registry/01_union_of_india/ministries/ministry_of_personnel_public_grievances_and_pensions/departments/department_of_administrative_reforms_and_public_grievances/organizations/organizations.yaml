@@ -1,0 +1,30 @@
+parent_department: Department of Administrative Reforms and Public Grievances (DARPG)
+organizations:
+- name: Abhinav Pahal
+  website: https://abhinavpahal.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Centralised Public Grievance Redress and Monitoring System
+  website: https://pgportal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Citizens Charters in Government of India
+  website: https://goicharters.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Conference on e-Governance
+  website: https://nceg.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National e-Governance Service Delivery Assessment (NeSDA)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PMO Grievance Portal
+  website: https://pmopg.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Prime Ministers Award for Excellence in Public Administration
+  website: https://pmawards.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

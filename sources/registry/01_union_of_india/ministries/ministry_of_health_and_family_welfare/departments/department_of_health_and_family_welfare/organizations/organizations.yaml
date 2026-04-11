@@ -1,0 +1,277 @@
+parent_department: Department of Health and Family Welfare (DoHFW)
+organizations:
+- name: Central Institute of Psychiatry (CIP)
+  website: https://cipranchi.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Health Services (DGHS)
+  website: https://dghs.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National AIDS Control Organisation (NACO)
+  website: https://www.naco.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Vector Borne Disease Control Programme (NVBDCP), DELHI
+  website: https://ncvbdc.mohfw.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Pradhan Mantri Jan Arogya Yojana (PMJAY) (PMJAY)
+  website: https://www.pmjay.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Indian Pharmacopoeia Commission (IPC)
+  website: https://ipc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Medical Counselling Committee (MCC)
+  website: https://mcc.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Commission for Allied and Healthcare Profession
+  website: https://ncahp.abdm.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Medical Commission
+  website: https://www.nmc.org.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Dental Council of India
+  website: https://dciindia.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Food Safety and Standards Authority of India (FSSAI)
+  website: https://fssai.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Indian Nursing Council
+  website: https://indiannursingcouncil.org
+  status: external_link
+  category: Statutory Bodies
+- name: Pharmacy Council of India
+  website: https://pci.gov.in/en
+  status: external_link
+  category: Statutory Bodies
+- name: All India Institute of Medical Sciences (AIIMS), New Delhi
+  website: https://www.aiims.edu
+  status: external_link
+  category: Autonomous Bodies
+- name: All India Institute of Physical Medicine and Rehabilitation, Mumbai
+  website: https://aiipmr.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: All India Institute of Speech and Hearing (AIISH), Mysore
+  website: https://aiishmysore.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Research Institute (CRI), Kasauli, Himachal Pradesh
+  website: https://crikasauli.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: International Institute for Population Sciences (IIPS)
+  website: https://www.iipsdata.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)
+  website: https://jipmer.edu.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Lady Hardinge Medical College, New Delhi
+  website: https://lhmc-hosp.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Health Systems Resource Centre (NHSRC)
+  website: https://nhsrcindia.org
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Health and Family Welfare (NIHFW), New Delhi
+  website: https://nihfw.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Tuberculosis Institute (NTI), Bangalore
+  website: https://nti.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Post Graduate Institute of Medical Education and Research, Chandigarh
+  website: https://pgimer.edu.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Regional Institute of Medical Sciences, Imphal
+  website: https://www.rims.edu.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Drugs Standard Control Organization (CDSCO)
+  website: https://cdsco.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Medical Services Society (CMSS)
+  website: https://cmss.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: HLL Lifecare Limited
+  website: https://www.lifecarehll.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hospital Services Consultancy Corporation (India) Limited (HSCC)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Board of Examinations
+  website: https://www.natboard.edu.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: All India Institute of Hygiene and Public Health (AIIH and PH)
+  website: https://aiihph.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia
+    Hospital, New Delhi
+  website: https://rmlh.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Biologicals, Noida, Uttar Pradesh
+  website: https://nib.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: RajKumari Amrit Kaur College of Nursing
+  website: https://rakcon.com
+  status: external_link
+  category: Academies / Institutions
+- name: Aarogya Setu Mobile App
+  website: https://www.mygov.in/aarogya-setu-app
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ayushman Arogya Mandir
+  website: https://ab-hwc.nhp.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ayushman Bharat Digital Mission
+  website: https://abdm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Beneficiary Portal, Pradhan Mantri Jan Arogya Yojana
+  website: https://beneficiary.nha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Central Government Health Scheme (CGHS)
+  website: https://www.cghs.mohfw.gov.in/AHIMSG5/hissso/Login
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Food Safety Compliance System (FoSCoS-FSSAI)
+  website: https://foscos.fssai.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Health Management Information System
+  website: https://hmis.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Healthcare Workforce Mobility
+  website: https://healbyindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Integrated Disease Surveillance Project (IDSP), Delhi
+  website: https://idsp.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Integrated Health Information Platform
+  website: https://ihip.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Centre for Disease Control (NCDC), New Delhi
+  website: https://ncdc.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Health Authority
+  website: https://nha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Health Mission
+  website: https://nhm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Leprosy Eradication Programme
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Medical Register (NMR)
+  website: https://nmr-nmc.abdm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Viral Hepatitis Control Program
+  website: https://nvhcp.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Application for Licensing, Central Drugs Standard Control Organization
+    (CDSCO)
+  website: https://www.cdscoonline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: OxyCare-Management Information System
+  website: https://oxycare.gov.in/ocmis/oxycare.aspx
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Personal Health Record Application, Ayushman Bharat Digital Mission
+  website: https://phr.abdm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)
+  website: https://pmssy.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Swasthya Suraksha Yojana
+  website: https://www.pmssy-mohfw.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri TB Mukt Bharat Abhiyaan
+  website: https://communitysupport.nikshay.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Reproductive and Child Health Portal (RCH)
+  website: https://rch.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: U-WIN Vaccination Platform
+  website: https://uwin.mohfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Dantseva-National Oral Health Programme (NOHP)
+  website: https://edantseva.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Advanced Centre for Treatment, Research and Education in Cancer, Tata Memorial
+    Centre (ACTREC)
+  website: https://actrec.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Regional Resource Centre for North Eastern States, Guwahati
+  website: https://www.rrcnes.in
+  status: external_link
+  category: Regional / Field Offices
+- name: EPITOME
+  website: https://epitome.gov.in
+  status: external_link
+  category: Others
+- name: Indian Nursing Council
+  website: https://nrts.indiannursingcouncil.gov.in
+  status: external_link
+  category: Others
+- name: Lokopriya Gopinath Bordoloi Regional Institute of Mental Health (LGBRIMH)
+  website: https://lgbrimh.gov.in
+  status: external_link
+  category: Others
+- name: National ART and Surrogacy Portal
+  website: https://artsurrogacy.gov.in
+  status: external_link
+  category: Others
+- name: Population Research Centre
+  website: https://prc.mohfw.gov.in
+  status: external_link
+  category: Others
+- name: Pre-Conception and Pre-Natal Diagnostic Techniques, New Delhi
+  website: https://pndt.gov.in
+  status: external_link
+  category: Others
+- name: Scholarship for Medical Students - AIPMST Secondary
+  website: https://www.aipmstsecondary.co.in
+  status: external_link
+  category: Others

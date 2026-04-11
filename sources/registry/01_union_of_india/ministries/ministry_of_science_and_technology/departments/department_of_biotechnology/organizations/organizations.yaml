@@ -1,0 +1,98 @@
+parent_department: Department of Biotechnology (DBT)
+organizations:
+- name: Biotechnology Research and Innovation Council
+  website: https://www.bric.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Bharat Immunologicals and Biologicals Corporation
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Biotechnology Industry Research Assistance Council, New Delhi
+  website: https://birac.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Vaccine Corporation Ltd.
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Centre for DNA Fingerprinting and Diagnostics
+  website: https://www.cdfd.org.in
+  status: external_link
+  category: Academies / Institutions
+- name: DBT Postgraduate Teaching Programme
+  website: https://www.pgt.dbtindia.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute for Stem Cell Science and Regenerative Medicine
+  website: https://instem.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Bioresources and Sustainable Development
+  website: https://ibsd.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Life Sciences
+  website: https://www.ils.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: International Centre for Genetic Engineering and Biotechnology
+  website: https://www.icgeb.org
+  status: external_link
+  category: Academies / Institutions
+- name: Microbial Type Culture Collection and Gene Bank (MTCC), Chandigarh
+  website: https://mtccindia.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Agri-Food Biotechnology Institute, Mohali
+  website: https://nabi.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Brain Research Centre
+  website: https://www.nbrc.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Centre for Cell Sciences
+  website: https://www.nccs.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Animal Biotechnology, Hyderabad
+  website: https://www.niab.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Biomedical Genomics
+  website: https://www.nibmg.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Immunology
+  website: https://nii.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Plant Genome Research, New Delhi
+  website: https://nipgr.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Rajiv Gandhi Centre for Biotechnology
+  website: https://www.rgcb.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Regional Centre for Biotechnology
+  website: https://www.rcb.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Translational Health Science and Technology Institute
+  website: https://www.thsti.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Biological Research Regulatory Approval Portal
+  website: https://biorrap.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Conference, Travel, Exhibition and Popular Lectures (CTEP)
+  website: https://www.dbtctep.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: MANAV-Human Atlas Initiative
+  website: https://www.manavatlas.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

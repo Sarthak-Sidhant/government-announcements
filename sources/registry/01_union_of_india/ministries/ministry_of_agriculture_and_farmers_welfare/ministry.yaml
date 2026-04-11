@@ -1,0 +1,38 @@
+name: Ministry of Agriculture and Farmers Welfare (MoAFW)
+website: null
+contact:
+  address: Krishi Bhawan, New Delhi
+  phone: '23389340'
+  fax: ''
+  email: ''
+directory:
+- name: Shri Shivraj Singh Chouhan
+  designation: Minister
+  organization: Ministry of Agriculture & Farmers Welfare
+  contact: 'Ph: 23383370, 23782691
+
+    Fax: 23384129
+
+    Ph (R): 23794697
+
+    Address: Room No- 120, Krishi Bhawan, New Delhi'
+  email: agrimin[dot]india[at]gmail[dot]com
+- name: Shri Ram Nath Thakur
+  designation: Minister of State
+  organization: Ministry of Agriculture & Farmers Welfare
+  contact: 'Ph: 23383975, 23383976
+
+    Address: Room No- 322, Krishi Bhawan, New Delhi'
+  email: ''
+- name: Shri Bhagirath Choudhary
+  designation: Minister of State
+  organization: Ministry of Agriculture & Farmers Welfare
+  contact: 'Ph: 23782343, 23388165
+
+    Fax: 23074190
+
+    Ph (R): 23015410
+
+    Address: Room No- 199Q, Krishi Bhawan, New Delhi'
+  email: ''
+status: active

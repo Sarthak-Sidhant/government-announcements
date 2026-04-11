@@ -1,0 +1,210 @@
+parent_ministry: Ministry of Culture
+organizations:
+- name: Anthropological Survey of India
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Archaeological Survey of India (ASI)
+  website: https://asi.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Archaeological Survey of India (ASI), Bhopal
+  website: https://asibhopal.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Reference Library
+  website: https://www.crlindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Library
+  website: https://nli.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Museum, New Delhi
+  website: https://nationalmuseumindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Monuments Authority (NMA)
+  website: https://nma.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: The Asiatic Society, Kolkata
+  website: https://asiaticsociety.culture.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Centre for Cultural Resources and Training (CCRT)
+  website: https://ccrtindia.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Delhi Public Library
+  website: https://dpl.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Gandhi Smriti and Darshan Samiti (GSDS)
+  website: https://gandhismriti.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indira Gandhi National Centre for the Arts (IGNCA)
+  website: https://ignca.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indira Gandhi Rashtriya Manav Sangrahalaya
+  website: https://igrms.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Kalakshetra Foundation, Chennai
+  website: https://kalakshetra.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Khuda Bakhsh Oriental Public Library
+  website: https://kblibrary.bih.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Lalit Kala Akademi, New Delhi
+  website: https://lalitkala.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Maulana Abul Kalam Azad Institute of Asian Studies (MAKAIAS)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: National Council of Science Museums (NCSM)
+  website: https://ncsm.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Culture Fund (NCF)
+  website: https://ncf.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Gallery of Modern Art (NGMA), New Delhi
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: National Museum Institute (NMI)
+  website: https://nmi.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National School of Drama
+  website: https://nsd.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Science Centre, Delhi
+  website: https://nscd.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Nava Nalanda Mahavihara, Nalanda
+  website: https://www.nnm.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: North Zone Cultural Center
+  website: https://www.culturenorthindia.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Raja Rammohun Roy Library Foundation (RRRLF)
+  website: https://rrrlf.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Raman Science Centre and Planetarium, Nagpur
+  website: https://rscnagpur.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Sahitya Akademi
+  website: https://www.sahitya-akademi.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Salar Jung Museum, Hyderabad
+  website: https://www.salarjungmuseum.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Sangeet Natak Akademi
+  website: https://www.sangeetnatak.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Victoria Memorial Hall, kolkata
+  website: https://www.victoriamemorial-cal.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Visvesvaraya Industrial and Technological Museum, Bangalore
+  website: https://www.vismuseum.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Zonal Cultural Centres (ZCC)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Central Institute of Buddhist Studies
+  website: https://cibs.ac.in/directors-desk
+  status: external_link
+  category: Academies / Institutions
+- name: Central Institute of Higher Tibetan Studies, Sarnath
+  website: https://www.cihts.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Central Institute of Himalayan culture Studies (CIHCS)
+  website: https://cihcs.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: Bharat Rang Mahotsav
+  website: https://www.brm.nsd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Defence eProcurement Portal
+  website: https://defproc.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Culture Portal
+  website: https://indianculture.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Kala Sanskriti Vikas Yojana Scheme Directory
+  website: https://culturescheme.dashboard.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Mera Gaon Meri Dharohar
+  website: https://mgmd.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Meri Maati Mera Desh
+  website: https://merimaatimeradesh.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Mission for Manuscripts
+  website: https://www.namami.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PM Mementos
+  website: https://pmmementos.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Central Secretariat Library (CSL)
+  website: https://csl.nic.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Indian Museum, Kolkata
+  website: https://indianmuseumkolkata.org
+  status: external_link
+  category: Divisions / Units / Wings
+- name: National Archives of India
+  website: https://nationalarchives.nic.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Allahabad Museum, Prayagraj
+  website: https://theallahabadmuseum.com
+  status: external_link
+  category: Others
+- name: Azadi Ka Amrit Mahotsav
+  website: https://amritkaal.nic.in
+  status: external_link
+  category: Others
+- name: Jagriti Yatra
+  website: https://www.jagritiyatra.com
+  status: external_link
+  category: Others
+- name: Pradhan Mantri Sangrahalaya
+  website: https://www.pmsangrahalaya.gov.in
+  status: external_link
+  category: Others
+- name: eAuction India
+  website: https://eauction.gov.in/eauction
+  status: external_link
+  category: Others

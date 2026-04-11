@@ -1,0 +1,134 @@
+parent_department: Department of Telecommunications (DoT)
+organizations:
+- name: Controller of Communication Accounts (CCA), Uttarakhand
+  website: https://cgca.gov.in/ccauk
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Controller of Communication Accounts, Punjab
+  website: https://cgca.gov.in/ccapb
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Universal Service Obligation Fund (USOF)
+  website: https://usof.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Director General Telecom
+  website: https://dgtelecom.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Controller General Of Communication Accounts (CGCA)
+  website: https://www.cgca.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Telecom Disputes Settlement and Appellate Tribunal (TDSAT)
+  website: https://tdsat.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Telecom Regulatory Authority of India (TRAI)
+  website: https://www.trai.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Institute of Communication Finance (NICF)
+  website: https://nicf.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Telecom Equipment and Services Export Promotion Council (TEPC), New Delhi
+  website: https://www.telecomepc.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Telecommunication Engineering Centre, New Delhi
+  website: https://www.tec.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Bharat Broadband Network Limited (BBNL)
+  website: https://bbnl.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bharat Sanchar Nigam Limited Portal (BSNL)
+  website: https://www.bsnl.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Centre for Development of Telematics (C-Dot)
+  website: https://www.cdot.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Centre for Excellence in Telecom Technology and Management (CETTM)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Telephone Industries Limited (ITI)
+  website: https://www.itiltd.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mahanagar Telephone Nigam Limited (MTNL), Mumbai
+  website: https://mtnlmumbai.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Telecommunications Consultants India Limited
+  website: https://www.tcil.net.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Communications Academy-Technology
+  website: https://ntiprit.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Bharat 5G Portal
+  website: https://www.bharat5glabs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: GatiShakti Sanchar Portal
+  website: https://gatishaktisanchar.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Mandatory Testing & Certification of Telecommunication Equipment Portal
+  website: https://www.mtcte.tec.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PM-WANI Central Registry
+  website: https://pmwani.gov.in/wani
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Saral Sanchar Portal
+  website: https://saralsanchar.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: System for Accounting and Management of Pension (SAMPANN)
+  website: https://dotpension.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Tarang Sanchar Portal
+  website: https://tarangsanchar.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Telecom eServices Portal
+  website: https://eservices.dot.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Bharat Sanchar Nigam Limited-Calcutta
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Controller General Of Communication Accounts, Andhra Pradesh
+  website: https://cgca.gov.in/ccaap
+  status: external_link
+  category: Regional / Field Offices
+- name: Controller of Communication Accounts, Uttar Pradesh (East), Lucknow
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Controller of Communication Accounts, Uttar Pradesh (West)
+  website: https://cgca.gov.in/ccaupeast
+  status: external_link
+  category: Regional / Field Offices
+- name: Call Before u Dig
+  website: https://cbud.gov.in
+  status: external_link
+  category: Others
+- name: Digital Communication Innovation Square
+  website: https://dcis.dot.gov.in
+  status: external_link
+  category: Others
+- name: National Centre for Communication Security
+  website: https://nccs.gov.in
+  status: external_link
+  category: Others

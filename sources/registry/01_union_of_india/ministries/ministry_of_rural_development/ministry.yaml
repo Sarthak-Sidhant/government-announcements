@@ -1,0 +1,29 @@
+name: Ministry of Rural Development (MoRD)
+website: https://rural.gov.in/en
+contact:
+  address: Ministry of Rural Development Government of India Krishi Bhavan, Dr. Rajendra
+    Prasad Road, New Delhi - 110001 INDIA
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Shivraj Singh Chouhan
+  designation: Minister
+  organization: Ministry of Rural Development
+  contact: 'Ph: 23782327, 23782373
+
+    Fax: 23070309'
+  email: minister[dot]rd[at]gov[dot]in
+- name: Dr. Chandra Sekhar Pemmasani
+  designation: Minister of State
+  organization: Ministry of Rural Development
+  contact: ''
+  email: ''
+- name: Shri Kamlesh Paswan
+  designation: Minister of State
+  organization: Ministry of Rural Development
+  contact: 'Ph: 24105585, 23388859
+
+    Fax: 23388827'
+  email: ''
+status: active

@@ -1,0 +1,35 @@
+parent_ministry: Ministry of Development of North Eastern Region (MDONER)
+organizations:
+- name: North Eastern Development Finance Corporation (NEDFI), Guwahati
+  website: https://www.nedfi.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: North Eastern Handicrafts And Handlooms Development Corporation Ltd., (NEHHDC),
+    Guwahati
+  website: https://nehhdc.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: North Eastern Regional Agricultural Marketing Corporation Ltd (NERAMAC), Guwahati
+  website: https://neramac.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Ashtalakshmi Mahotsav
+  website: https://www.ashtalakshmimahotsav.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Poorvottar Vikas Setu
+  website: https://nesetu.mdoner.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Yuva Sangam
+  website: https://ebsb.aicte-india.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: North East India Tourism-North Eastern Council
+  website: https://necouncil.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Non-Lapsable Central Pool of Resource (NLCPR)
+  website: https://nlcpr.mdoner.gov.in
+  status: external_link
+  category: Others

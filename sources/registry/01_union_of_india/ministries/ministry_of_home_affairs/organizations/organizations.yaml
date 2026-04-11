@@ -1,0 +1,22 @@
+parent_ministry: Ministry of Home Affairs (MHA)
+organizations:
+- name: National Industrial Security Academy (NISA), CISF, Hyderabad
+  website: https://nisa.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Narcotics Coordination Portal
+  website: https://narcoordindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Central Workshop and Stores, Border Security Force (BSF)
+  website: null
+  status: active_no_link
+  category: Others
+- name: Rajasthan Frontier, Border Security Force (BSF)
+  website: https://www.bsf.gov.in/@frontierrajasthan_hi
+  status: external_link
+  category: Others
+- name: Srinagar Frontier, Border Security Force (BSF)
+  website: https://www.bsf.gov.in/@frontierkashmir
+  status: external_link
+  category: Others

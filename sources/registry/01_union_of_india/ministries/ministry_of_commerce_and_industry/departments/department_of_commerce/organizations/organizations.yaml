@@ -1,0 +1,182 @@
+parent_department: Department of Commerce (DoC)
+organizations:
+- name: Directorate General Of Trade Remedies
+  website: https://www.dgtr.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Commercial Intelligence and Statistics
+  website: https://dgciskol.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Foreign Trade (DGFT)
+  website: https://www.dgft.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Agricultural and Processed Food Products Export Development Authority
+  website: https://apeda.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Coffee Board
+  website: https://coffeeboard.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Export Inspection Council (EIC)
+  website: https://www.eicindia.gov.in/WebApp1
+  status: external_link
+  category: Statutory Bodies
+- name: Marine Products Export Development Authority (MPEDA)
+  website: https://mpeda.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Rubber Board
+  website: https://rubberboard.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Special Economic Zone (SEZ)
+  website: https://sezindia.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Spices Board
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Tea Board of India, Kolkata
+  website: https://www.teaboard.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Tobacco Board
+  website: https://tobaccoboard.com
+  status: external_link
+  category: Statutory Bodies
+- name: Indian Diamond Institute
+  website: https://diamondinstitute.net
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Foreign Trade (IIFT)
+  website: https://www.iift.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Packaging
+  website: https://www.iip-in.com
+  status: external_link
+  category: Autonomous Bodies
+- name: EEPC India
+  website: https://www.eepcindia.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Export Credit Guarantee Corporation of India Limited (ECGC)
+  website: https://www.ecgcltd.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Export Promotion Council for EOUs and SEZs (EPCES)
+  website: https://www.epces.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Federation of Indian Export Organisation
+  website: https://fieo.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: India Trade Promotion Organisation (ITPO)
+  website: https://www.indiatradefair.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Minerals and Metals Trading Corporation Limited (MMTC)
+  website: https://mmtclimited.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: PEC Limited
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: State Trading Corporation of India Limited (STCI)
+  website: https://stclimited.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Institute of Plantation Management, Bangalore
+  website: https://iipmb.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: Central Public Procurement Portal
+  website: https://eprocure.gov.in/cppp
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Council for Leather Exports (CLE)
+  website: https://leatherindia.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Government e-Marketplace (GeM)
+  website: https://gem.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Trade Portal
+  website: https://www.indiantradeportal.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: NIRYAT - National Import-Export Record for Yearly Analysis of Trade
+  website: https://niryat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Trade Connect Portal
+  website: https://www.trade.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Trade Intelligence and Analytics Portal
+  website: https://trade-analytics.commerce.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: CHEMEXCIL-Basic Chemicals, Cosmetics and Dyes Export Promotion Council
+  website: https://chemexcil.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Indian Oilseed and Produce Export Promotion Council (IOPEPC)
+  website: https://iopepc.org
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Cochin Special Economic Zone (CSEZ)
+  website: https://csez.com
+  status: external_link
+  category: Regional / Field Offices
+- name: Falta Special Economic Zone (FSEZ)
+  website: https://fsez.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Kandla Special Economic Zone (KSEZ)
+  website: https://kasez.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Madras Special Economic Zone (MEPZ)
+  website: https://www.mepz.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Noida Special Economic Zone (NSEZ)
+  website: https://nsez.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Santa Cruz Special Economic Zone (SEEPZ), Mumbai
+  website: https://seepz.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Visakhapatnam Special Economic Zone (VSEZ)
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Services Export Promotion Council, Gurgaon
+  website: https://www.servicesepc.org
+  status: external_link
+  category: Councils
+- name: Sports Goods Export Promotion Council (SGEPC)
+  website: null
+  status: active_no_link
+  category: Councils
+- name: Pharmaceuticals Export Promotion Council of India (PHARMEXCIL)
+  website: https://pharmexcil.com
+  status: external_link
+  category: Others
+- name: Project Exports Promotion Council of India (PEPC)
+  website: https://www.projectexports.com
+  status: external_link
+  category: Others
+- name: Shellac and Forest Products Export Promotion Council (SHEFEXIL), Kolkata
+  website: https://www.shefexil.org
+  status: external_link
+  category: Others

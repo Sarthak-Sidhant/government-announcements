@@ -1,0 +1,34 @@
+name: Ministry of Parliamentary Affairs (MPA)
+website: https://www.mpa.gov.in
+contact:
+  address: Ministry of Parliamentary Affairs, Room. No. 92, Parliament House, New
+    Delhi - 110001 (India)
+  phone: 011-23034761
+  fax: 011-23018220
+  email: ''
+directory:
+- name: Shri Kiren Rijiju
+  designation: Minister
+  organization: Ministry of Parliamentary Affairs
+  contact: ''
+  email: ''
+- name: Shri Arjun Ram Meghwal
+  designation: Minister of State
+  organization: Ministry of Parliamentary Affairs
+  contact: ''
+  email: ar[dot]meghwal[at]sansad[dot]nic[dot]in
+- name: Dr. L. Murugan
+  designation: Minister of State
+  organization: Ministry of Parliamentary Affairs
+  contact: ''
+  email: ''
+- name: Shri Nikunja Bihari Dhal
+  designation: Secretary
+  organization: Ministry of Parliamentary Affairs
+  contact: 'Ph: 23017663, 23034644
+
+    Fax: 23017726
+
+    Ph (R): 21610680'
+  email: secympa[at]nic[dot]in
+status: active

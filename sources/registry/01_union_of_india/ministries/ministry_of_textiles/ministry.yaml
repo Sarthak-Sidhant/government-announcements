@@ -1,0 +1,28 @@
+name: Ministry of Textiles (MoT)
+website: https://texmin.gov.in
+contact:
+  address: Ministry of Textiles, Udyog Bhavan, New Delhi
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Giriraj Singh
+  designation: Minister
+  organization: Ministry of Textiles
+  contact: 'Ph: 23060482, 23061385
+
+    Ext: 387'
+  email: minister[dot]textiles[at]gov[dot]in
+- name: Shri Pabitra Margherita
+  designation: Minister of State
+  organization: Ministry of Textiles
+  contact: ''
+  email: mos-textiles[at]gov[dot]in
+- name: Ms. Neelam Shami Rao
+  designation: Secretary
+  organization: Ministry of Textiles
+  contact: 'Ph: 23061769
+
+    Ext: 203'
+  email: secy-textiles[at]nic[dot]in
+status: active

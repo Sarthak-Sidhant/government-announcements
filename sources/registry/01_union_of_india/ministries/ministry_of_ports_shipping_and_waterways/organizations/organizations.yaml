@@ -1,0 +1,122 @@
+parent_ministry: Ministry of Ports, Shipping and Waterways (MoPSW)
+organizations:
+- name: Andaman Lakshadweep Harbour Works (ALHW)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Lighthouses and Lightships
+  website: https://www.dgll.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Shipping, Mumbai
+  website: https://dgshipping.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Chennai Port Authority
+  website: https://www.chennaiport.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Cochin Port Authority
+  website: https://www.cochinport.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Deendayal Port Authority, Gandhidham
+  website: https://www.deendayalport.gov.in/en
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Maritime University
+  website: https://www.imu.edu.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Inland Waterways Authority of India (IWAI)
+  website: https://iwai.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Jawaharlal Nehru Port Authority
+  website: https://jnport.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Mormugao Port Authority
+  website: https://mptgoa.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Mumbai Port Authority
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: New Mangalore Port Authority, Panambur
+  website: https://newmangaloreport.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Paradip Port Authority
+  website: https://paradipport.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Seamens Provident Fund Organisation
+  website: https://spfo.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Shyama Prasad Mukherjee Port
+  website: https://smportkolkata.shipping.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Tariff Authority for Major Ports (TAMP)
+  website: https://tariffauthority.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: V.O. Chidambaranar Port Authority
+  website: https://www.vocport.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Visakhapatnam Port Authority
+  website: https://www.vizagport.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Cochin Shipyard Limited
+  website: https://cochinshipyard.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Dredging Corporation of India, Visakhapatnam
+  website: https://www.dredge-india.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hooghly Cochin Shipyard Limited
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Port Global Limited
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Port Rail and Ropeway Corporation Limited
+  website: https://iprcl.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Ports Association
+  website: https://ipa.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Kamarajar Port Limited
+  website: https://www.ennoreport.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Sagarmala Development Company Limited
+  website: https://sdclindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Shipping Corporation of India Limited (SCI)
+  website: https://www.shipindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Logistics Portal Marine
+  website: https://nlpmarine.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Sagarmala
+  website: https://sagarmala.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Ocean Memorandum of Understanding, Goa
+  website: https://iomou.nic.in
+  status: external_link
+  category: Divisions / Units / Wings

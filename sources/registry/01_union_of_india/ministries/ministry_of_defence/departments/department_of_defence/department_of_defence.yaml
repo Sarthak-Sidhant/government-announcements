@@ -1,0 +1,35 @@
+name: Department of Defence (DoD)
+website: https://www.mod.gov.in/dod
+contact:
+  address: Room No 234 - South Block, Ministry of Defence, New Delhi.
+  phone: 011-23019474
+  fax: ''
+  email: ''
+directory:
+- name: Shri Raj Nath Singh
+  designation: Minister
+  organization: Ministry of Defence
+  contact: 'Ph: 23012286, 23019030
+
+    Fax: 23015403
+
+    Address: Room No. : 104, South Block, New Delhi'
+  email: rmo[at]mod[dot]nic[dot]in
+- name: Shri Sanjay Seth
+  designation: Minister of State
+  organization: Ministry of Defence
+  contact: 'Ph: 23792128, 23794621
+
+    Fax: 23016255
+
+    Address: Room No. : 114, South Block, New Delhi'
+  email: mos-defence[at]gov[dot]in
+- name: Shri Aramane Giridha
+  designation: Defence Secretary
+  organization: Department of Defence
+  contact: 'Ph: 23012380, 23011976
+
+    Fax: 23010044
+
+    Address: Room No. : 101-A, South Block, New Delhi'
+  email: defsecy[at]nic[dot]in

@@ -1,0 +1,219 @@
+parent_department: Department of Science and Technology (DST)
+organizations:
+- name: National Atlas and Thematic Mapping Organisation (NATMO)
+  website: https://portal.natmo.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Mission on Nano Science and Technology
+  website: https://dst.gov.in/scientific-programmes/mission-nano-science-and-technology-nano-mission
+  status: external_link
+  category: Commissions/ Committees
+- name: Science and Engineering Research Board (SERB)
+  website: https://www.serb.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST)
+  website: https://www.sctimst.ac.in
+  status: external_link
+  category: Statutory Bodies
+- name: Technology Development Board (TDB), New Delhi
+  website: https://tdb.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Agharkar Research Institute (ARI)
+  website: https://aripune.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Aryabhatta Research Institute of Observational Sciences (ARIES)
+  website: https://www.aries.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Birbal Sahni Institute of Palaeobotany
+  website: https://www.bsip.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Centre for Nano and Soft Matter Sciences, Bengaluru
+  website: https://www.cens.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Academy of Sciences, Bangalore
+  website: https://www.ias.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Association for the Cultivation of Science (IACS), Kolkata
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Indian Association for the Cultivation of Science
+  website: https://www.iacs.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Astrophysics (IIA)
+  website: https://www.iiap.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Geomagnetism
+  website: https://iigm.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian National Academy of Engineering, Delhi
+  website: https://www.inae.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian National Science Academy (INSA)
+  website: https://insaindia.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Science Congress Association, Kolkata
+  website: https://sciencecongress.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Advanced Study in Science and Technology (IASST)
+  website: https://iasst.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: International Advanced Research Centre for Powder Metallurgy and New Materials,
+    Hyderabad
+  website: https://www.arci.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)
+  website: https://www.jncasr.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Academy of Sciences
+  website: https://www.nasonline.org
+  status: external_link
+  category: Autonomous Bodies
+- name: National Academy of Sciences, Allahabad
+  website: https://nasi.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Innovation Foundation (NIF)
+  website: https://nif.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: North East Center for Technology Application and Reach
+  website: https://www.nectar.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Raman Research Institute, Bangalore
+  website: https://www.rri.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: S. N. Bose National Centre for Basic Sciences, Kolkata
+  website: https://www.bose.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Technology Information, Forecasting and Assessment Council (TIFAC)
+  website: https://tifac.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Vigyan Prasar Science Portal
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: National Science and Technology Entrepreneurship Development Board
+  website: https://www.nstedb.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bose Institute, Kolkatta
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Indo-French Centre for the Promotion of Advanced Research
+  website: https://www.cefipra.org
+  status: external_link
+  category: Academies / Institutions
+- name: Indo-US Science and Technology Forum
+  website: https://iusstf.org
+  status: external_link
+  category: Academies / Institutions
+- name: Survey of India, Dehradun
+  website: https://www.surveyofindia.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Vigyan Jyoti
+  website: https://vigyanjyoti.dst.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Wadia Institute of Himalayan Geology
+  website: https://www.wihg.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: e-journals, Indian National Science Academy
+  website: https://insa.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: BharatGen
+  website: https://bharatgen.tech
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Common Fellowship Portal
+  website: https://fellowships.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: E-Management of INSPIRE Award Scheme
+  website: https://inspireawards-dst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Electronic Project Management System (e-PMS)
+  website: https://onlinedst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Emerging Science, Technology, and Innovation Conclave (ESTIC)
+  website: https://estic.dst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: India Science, Technology and Innovation Portal (ISTI)
+  website: https://indiascienceandtechnology.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Innovation in Science Pursuit for Inspired Research (INSPIRE)
+  website: https://online-inspire.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Knowledge and Awareness Mapping Platform (KAMP)
+  website: https://www.kamp.org.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: NIScPR Online Periodicals Repository
+  website: https://nopr.niscpr.res.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Science and Technology Management Information System (NSTMIS)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Supercomputing Mission
+  website: https://nsmindia.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Union Catalogue of Scientific Serials in India
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Onlinemaps Portal
+  website: https://onlinemaps.surveyofindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: State Science & Technology Programme
+  website: https://www.sstp.dst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Viksit Bharat Initiative for Student Innovation and Outreach Network (VISION)
+  website: https://www.viksitbharatinnovation.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Visiting Advanced Joint Research Faculty Scheme
+  website: https://www.vajra-india.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Knowledge Resource Consortium
+  website: https://nkrc.niscpr.res.in
+  status: external_link
+  category: Others
+- name: National Science Digital Library
+  website: https://nsdl.niscpr.res.in
+  status: external_link
+  category: Others

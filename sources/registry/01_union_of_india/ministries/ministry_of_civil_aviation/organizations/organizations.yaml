@@ -1,0 +1,50 @@
+parent_ministry: Ministry of Civil Aviation (MoCA)
+organizations:
+- name: Aircraft Accident Investigation Bureau (AAIB)
+  website: https://aaib.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Bureau of Civil Aviation Security (BCAS)
+  website: https://bcasindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Commission of Railway Safety (CRS)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Civil Aviation (DGCA)
+  website: https://www.dgca.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Airports Economic Regulatory Authority (AERA)
+  website: https://aera.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Indira Gandhi Rashtriya Uran Academy (IGRUA)
+  website: https://igrua.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Rajiv Gandhi National Aviation University (RGNAU)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Air india Assets Holding Limited (AIAHL)
+  website: https://www.aiahl.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Airports Authority of India (AAI)
+  website: https://www.aai.aero
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Pawan Hans Limited (PHL)
+  website: https://www.pawanhans.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: AirSewa-Online Flight Details, Airport Information and Grievance Redressal
+  website: https://airsewa.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Bureau of Civil Aviation Security
+  website: https://ebcas.gov.in
+  status: external_link
+  category: Others

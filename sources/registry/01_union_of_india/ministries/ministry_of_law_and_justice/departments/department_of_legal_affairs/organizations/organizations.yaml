@@ -1,0 +1,26 @@
+parent_department: Department of Legal Affairs (DoLA)
+organizations:
+- name: Law Commission of India
+  website: https://lawcommissionofindia.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Legal Information Management & Briefing System (LIMBS)
+  website: https://limbs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Notary Online Application Portal
+  website: https://notary.legalaffairs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Securities Appellate Tribunal, Mumbai
+  website: https://sat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: High Courts Services
+  website: https://hcservices.ecourts.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Income Tax Appellate Tribunal (ITAT)
+  website: https://itat.gov.in
+  status: external_link
+  category: Others

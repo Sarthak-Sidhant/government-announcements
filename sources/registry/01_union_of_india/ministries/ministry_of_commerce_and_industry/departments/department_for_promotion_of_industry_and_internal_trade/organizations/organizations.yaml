@@ -1,0 +1,135 @@
+parent_department: Department for Promotion of Industry and Internal Trade (DPIIT)
+organizations:
+- name: Controller General of Patents, Designs and Trade Marks
+  website: https://ipindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Office of Chief Controller of Accounts
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Office of the Economic Adviser
+  website: https://eaindustry.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Petroleum and Explosives Safety Organisation (PESO)
+  website: https://peso.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Office of the Salt Commissioner
+  website: https://saltcomindia.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Footwear Design and Development Institute (FDDI)
+  website: https://fddiindia.com
+  status: external_link
+  category: Statutory Bodies
+- name: Central Pulp and Paper Research Institute (CPPRI), Saharanpur
+  website: https://cppri.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Rubber Materials Research Institute (IRMRI), Thane
+  website: https://irmri.org
+  status: external_link
+  category: Autonomous Bodies
+- name: National Accreditation Board for Testing and Calibration Laboratories (NABL)
+  website: https://nabl-india.org
+  status: external_link
+  category: Autonomous Bodies
+- name: National Council for Cement and Building Materials (NCCBM)
+  website: https://www.ncbindia.com
+  status: external_link
+  category: Autonomous Bodies
+- name: National Industrial Corridor Development Corporation (NICDC), New Delhi
+  website: https://www.nicdc.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Design, Madhya Pradesh
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: National Institute of Design (NID)
+  website: https://www.nid.edu
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Design, Andhra Pradesh
+  website: https://www.nid.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Design, Haryana
+  website: https://www.nidh.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Design, Assam
+  website: https://nidj.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Productivity Council (NPC)
+  website: https://www.npcindia.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Quality Council of India
+  website: https://qcin.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Jammu and Kashmir Development Finance Corporation (JKDFC)
+  website: https://www.jkdfc.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: DigiReady Certification Portal
+  website: https://digiready.qcin.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Foreign Investment Facilitation Portal (FIFP)
+  website: https://fifp.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: G2B Portal
+  website: https://services.dpiit.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Import Monitoring System
+  website: https://imports.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: India Investment Grid
+  website: https://indiainvestmentgrid.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Invest India
+  website: https://www.investindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Make in India-A National Program designed to transform India into a global
+    manufacturing hub
+  website: https://www.makeinindia.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Single Window System for Business Approvals
+  website: https://www.nsws.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Startup India Portal
+  website: https://www.startupindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Startup India Seed Fund Scheme
+  website: https://seedfund.startupindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Uttar Poorva Transformative Industrialization Scheme
+  website: https://unnati.dpiit.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Cell for IPR Promotion and Management (CIPAM)
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Copyright Office
+  website: https://copyright.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: India International Convention and Expo Centre (IICC), New Delhi
+  website: https://www.iiccnewdelhi.com
+  status: external_link
+  category: Others

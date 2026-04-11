@@ -1,0 +1,50 @@
+parent_ministry: Ministry of Panchayati Raj (MoPR)
+organizations:
+- name: AuditOnline
+  website: https://auditonline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: E-Gramswaraj
+  website: https://egramswaraj.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Gram Manchitra
+  website: https://grammanchitra.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Local Government Directory (LGD)
+  website: https://lgdirectory.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Meri Panchayat
+  website: https://meripanchayat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Panchayat Awards
+  website: https://panchayataward.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Panchayat Advancement Index Portal
+  website: https://pai.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Panchayat Development Plan
+  website: https://gpdp.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Panchayat Nirnay Portal
+  website: https://panchayatnirnay.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Svamitva Scheme
+  website: https://svamitva.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Training Management Portal
+  website: https://trainingonline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Vibrant Gram Sabha
+  website: https://meetingonline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

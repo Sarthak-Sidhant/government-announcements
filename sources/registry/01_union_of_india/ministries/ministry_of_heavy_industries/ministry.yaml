@@ -1,0 +1,36 @@
+name: Ministry of Heavy Industries (MoHI)
+website: https://heavyindustries.gov.in
+contact:
+  address: Room No. 123-B, Udyog Bhawan, Rafi Marg,New Delhi - 110011
+  phone: '23062714'
+  fax: '23062714'
+  email: ea[dot]dhi[at]nic[dot]in
+directory:
+- name: Shri H. D. Kumaraswamy
+  designation: Minister
+  organization: Ministry of Heavy Industries and Public Enterprises
+  contact: 'Ph: 23063598, 23061339
+
+    Fax: 23062552
+
+    Address: Room No. 176, Udyog Bhawan, New Delhi'
+  email: ''
+- name: Shri Bhupathi Raju Srinivasa Varma
+  designation: Minister of State
+  organization: Ministry of Heavy Industries and Public Enterprises
+  contact: 'Ph: 23062676, 23062678
+
+    Fax: 23714779
+
+    Address: Room No. 36, Udyog Bhawan, New Delhi'
+  email: ''
+- name: Shri Kamran Rizvi
+  designation: Secretary
+  organization: Ministry of Heavy Industries and Public Enterprises
+  contact: 'Ph: 23063633, 23061854
+
+    Fax: 23062633
+
+    Address: Room No. 155, Udyog Bhawan, New Delhi'
+  email: shioff[at]nic[dot]in
+status: active

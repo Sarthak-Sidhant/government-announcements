@@ -1,0 +1,17 @@
+# === IDENTITY ===
+id: "sez-madras"
+name: "Madras Export Processing Zone"
+type: "special_economic_zone"
+jurisdiction_level: "sez"
+
+# === HIERARCHY ===
+parent_state: "tamil_nadu"
+parent_district: "kanchipuram"
+governing_body: "Ministry of Commerce and Industry"
+
+# === SCRAPING CONFIG ===
+url: "https://mepz.gov.in"
+scraper_type: "custom"
+status: "pending"
+last_scraped: null
+priority: "medium"

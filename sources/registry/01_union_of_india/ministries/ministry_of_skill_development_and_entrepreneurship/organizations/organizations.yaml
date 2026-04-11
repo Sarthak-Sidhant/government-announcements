@@ -1,0 +1,62 @@
+parent_ministry: Ministry of Skill Development and Entrepreneurship (MSDE)
+organizations:
+- name: Directorate General of Training (DGT)
+  website: https://dgt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Indian Institute of Entrepreneurship
+  website: https://iie.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute for Entrepreneurship and Small Business Development (NIESBUD)
+  website: https://niesbud.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Instructional Media Institute (NIMI)
+  website: https://nimi.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Skill Development Corporation India (NSDC), New Delhi
+  website: https://www.nsdcindia.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Staff Training and Research Institute (CSTARI), Kolkata
+  website: https://www.cstaricalcutta.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Council for Vocational Education and Training (NCVET)
+  website: https://ncvet.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Council for Vocational Training (NCVT)
+  website: https://ncvtmis.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Skill India Digital Hub (SIDH)
+  website: https://www.skillindiadigital.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Jan Shikshan Sansthan (JSS)
+  website: https://jss.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Apprenticeship Training Scheme
+  website: https://nats.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Qualifications Register
+  website: https://nqr.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+  website: https://pmkvyofficial.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Infrastructure Equipment Skill Council (IESC)
+  website: https://iescindia.com
+  status: external_link
+  category: Councils
+- name: National Skill Development Fund/Trust
+  website: https://nsdctrust.com
+  status: external_link
+  category: Others

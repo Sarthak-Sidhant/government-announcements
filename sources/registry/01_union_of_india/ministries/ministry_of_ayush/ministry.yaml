@@ -1,0 +1,24 @@
+name: Ministry of AYUSH (MoA)
+website: https://ayush.gov.in
+contact:
+  address: Ministry of AYUSH, Ayush Bhawan, B Block, GPO Complex, INA, New Delhi -
+    110023
+  phone: 011-24648354
+  fax: ''
+  email: support-moayush[at]nic[dot]in
+directory:
+- name: Shri Jadhav Prataprao Ganpatrao
+  designation: Minister of State (Independent Charge)
+  organization: Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy
+    (AYUSH)
+  contact: 'Ph: 24651955, 24651935'
+  email: minister-ayush[at]nic[dot]in
+- name: Shri Rajesh Kotecha
+  designation: Secretary
+  organization: Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy
+    (AYUSH)
+  contact: 'Ph: 24651950
+
+    Fax: 24651937'
+  email: secy-ayush[at]nic[dot]in
+status: active

@@ -1,0 +1,17 @@
+# === IDENTITY ===
+id: "sez-kandla"
+name: "Kandla Special Economic Zone"
+type: "special_economic_zone"
+jurisdiction_level: "sez"
+
+# === HIERARCHY ===
+parent_state: "gujarat"
+parent_district: "kutch"
+governing_body: "Ministry of Commerce and Industry"
+
+# === SCRAPING CONFIG ===
+url: "https://kasez.gov.in"
+scraper_type: "custom"
+status: "pending"
+last_scraped: null
+priority: "medium"

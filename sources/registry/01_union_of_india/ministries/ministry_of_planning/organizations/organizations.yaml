@@ -1,0 +1,6 @@
+parent_ministry: Ministry of Planning (MoP)
+organizations:
+- name: Economic Advisory Council to the Prime Minister (EAC-PM)
+  website: https://eacpm.gov.in
+  status: external_link
+  category: Others

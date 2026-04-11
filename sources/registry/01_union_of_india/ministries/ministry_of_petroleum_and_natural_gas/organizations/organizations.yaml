@@ -1,0 +1,82 @@
+parent_ministry: Ministry of Petroleum and Natural Gas (MoPNG)
+organizations:
+- name: Directorate General of Hydrocarbons (DGH), Noida
+  website: https://dghindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Bharat Petroleum Corporation Limited (BPCL)
+  website: https://www.bharatpetroleum.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Brahmaputra Cracker and Polymer Limited (BCPL), Guwahati
+  website: https://bcplonline.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Chennai Petroleum Corporation Limited (CPCL)
+  website: https://cpcl.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Engineers India Limited (EIL)
+  website: https://engineersindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Gas Authority of India Limited (GAIL)
+  website: https://www.gailgas.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Petroleum Corporation Limited (HPCL)
+  website: https://www.hindustanpetroleum.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Oil Corporation Limited (IOCL)
+  website: https://www.iocl.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mangalore Refinary and Petrochemicals Limited
+  website: https://www.mrpl.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Oil India Limited (OIL), Noida
+  website: https://www.oil-india.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Oil Industry Development Board (OIDB), Noida
+  website: https://www.oidb.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Oil and Natural Gas Corporation Limited (ONGC)
+  website: https://ongcindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Oil and Natural Gas Corporation Videsh Limited
+  website: https://ongcvidesh.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Petroleum and Natural Gas Regulatory Board (PNGRB), New Delhi
+  website: https://pngrb.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Government of India Employees Flight Booking Portal (Balmer Lawrie)
+  website: https://govemp.balmerlawrietravelapp.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: My LPG Portal
+  website: https://pmuy.gov.in/mylpg.html
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Unified Registration Portal for CBG / Bio CNG Plants
+  website: https://gobardhan.eil.co.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Centre for High Technology (CHT), Noida
+  website: https://cht.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Oil Industry Safety Directorate (OISD)
+  website: https://www.oisd.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Petroleum Planning and Analysis Cell (PPAC)
+  website: https://ppac.gov.in
+  status: external_link
+  category: Divisions / Units / Wings

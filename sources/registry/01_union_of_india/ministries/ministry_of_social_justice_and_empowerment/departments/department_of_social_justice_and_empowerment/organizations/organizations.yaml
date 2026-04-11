@@ -1,0 +1,103 @@
+parent_department: Department of Social Justice and Empowerment (DoSJE)
+organizations:
+- name: National Commission for Backward Classes (NCBC)
+  website: https://ncbc.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Commission for Scheduled Castes (NCSC)
+  website: https://ncsc.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Commission for Safai Karamcharis (NCSK)
+  website: https://ncsk.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Babu Jagjivan Ram National Foundation (BJRNF)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Dr. Ambedkar Foundation
+  website: https://ambedkarfoundation.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Dr. Ambedkar International Centre
+  website: https://daic.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Social Defence (NISD)
+  website: https://www.nisd.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Artificial Limbs Manufacturing Corporation of India (ALIMCO), Kanpur
+  website: https://www.alimco.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Backward Classes Finance and Development Corporation (NBCFDC)
+  website: https://nbcfdc.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Safai Karamcharis Finance and Development Corporation (NSKFDC)
+  website: https://nskfdc.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Scheduled Castes Finance and Development Corporatioin (NSFDC)
+  website: https://www.nsfdc.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Chief Commissioner for Persons with Disabilities Case Portal
+  website: https://ccpdcourt.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Free Coaching Scheme for SC and OBC Students
+  website: https://dbtmis-msje.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: India Accessible Campaign
+  website: https://sugamyabharat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Nasha Mukt Bharat Abhiyaan
+  website: https://nmba.dosje.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Helpline against Atrocities (NHAA)
+  website: https://nhapoa.gov.in/en
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Overseas Scholarship Scheme (NOS)
+  website: https://nosmsje.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Grievance Management Portal of National Commission for Scheduled Castes
+  website: https://ncsc.negd.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Registration-Rehabilitation Council of India, New Delhi
+  website: https://rciregistration.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Adarsh Gram Yojana (PMAGY)
+  website: https://pmagy.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi Yojana
+  website: https://pmdaksh.dosje.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Scheme for Residential Education for Students in High Schools in Targeted
+    Areas (SHRESHTA)
+  website: https://shreshta.admissions.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Senior Citizens Welfare Portal
+  website: https://scw.dosje.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Anudaan, NGO Portal
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Writings and Speeches of Babasaheb DR. B.R. Ambedkar
+  website: null
+  status: active_no_link
+  category: Others

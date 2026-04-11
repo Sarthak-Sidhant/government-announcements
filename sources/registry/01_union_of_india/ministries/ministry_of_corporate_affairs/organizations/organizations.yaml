@@ -1,0 +1,70 @@
+parent_ministry: Ministry of Corporate Affairs (MCA)
+organizations:
+- name: Insolvency and Bankruptcy Board of India (IBBI)
+  website: https://ibbi.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Office of Offical Liquidator
+  website: https://olkarnataka.kar.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Registrar of Companies (ROC)
+  website: https://www.mca.gov.in/content/mca/global/en/contact-us/roc.html
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Serious Fraud Investigation Office (SFIO)
+  website: https://sfio.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Competition Commission of India
+  website: https://www.cci.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Institute of Chartered Accountants of India (ICAI)
+  website: https://www.icai.org
+  status: external_link
+  category: Statutory Bodies
+- name: Institute of Cost Accountants of India
+  website: https://icmai.in
+  status: external_link
+  category: Statutory Bodies
+- name: Investor Education and Protection Fund Authority (IEPFA)
+  website: https://www.iepf.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Company Law Appellate Tribunal (NCLAT)
+  website: https://nclat.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Company Law Tribunal (NCLT)
+  website: https://nclt.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Indian Institute of Corporate Affairs
+  website: https://iica.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Financial Reporting Authority (NFRA)
+  website: https://nfra.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Company Secretaries of India (ICSI)
+  website: https://www.icsi.edu
+  status: external_link
+  category: Academies / Institutions
+- name: Central Depository Services Limited (India)
+  website: https://www.cdslindia.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: E-Sahaj Seva
+  website: https://esahajmcaservices.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National CSR Exchange Portal
+  website: https://www.csrxchange.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Corporate Social Responsibility Data Portal (CSR)
+  website: https://www.csr.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

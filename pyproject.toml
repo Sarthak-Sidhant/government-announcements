@@ -1,0 +1,25 @@
+[project]
+name = "government-announcements"
+version = "0.1.0"
+description = "A modular scraper system for government announcements and portals."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "python-dotenv",
+    "pydantic",
+    "openai",
+    "tenacity",
+]
+
+[project.scripts]
+spider-s3waas = "cli.spider_s3waas:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]

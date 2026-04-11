@@ -1,0 +1,17 @@
+# === IDENTITY ===
+id: "sez-santacruz"
+name: "SEEPZ Special Economic Zone"
+type: "special_economic_zone"
+jurisdiction_level: "sez"
+
+# === HIERARCHY ===
+parent_state: "maharashtra"
+parent_district: "mumbai_suburban"
+governing_body: "Ministry of Commerce and Industry"
+
+# === SCRAPING CONFIG ===
+url: "https://www.seepz.gov.in"
+scraper_type: "custom"
+status: "pending"
+last_scraped: null
+priority: "medium"

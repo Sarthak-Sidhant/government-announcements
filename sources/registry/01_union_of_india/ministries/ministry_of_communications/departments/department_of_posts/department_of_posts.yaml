@@ -1,0 +1,35 @@
+name: Department of Posts (DoP)
+website: https://www.indiapost.gov.in
+contact:
+  address: Postal Directorate Dak Bhavan New Delhi 110001
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Jyotiraditya M. Scindia
+  designation: Minister
+  organization: Ministry of Communications
+  contact: 'Ph: 23739191, 23710445
+
+    Fax: 23372169
+
+    Address: Room No.: 105, 1st Floor, Sanchar Bhawan, New Delhi 110001'
+  email: moc-office[at]gov[dot]in
+- name: Dr. Chandra Sekhar Pemmasani
+  designation: Minister of State
+  organization: Ministry of Communications
+  contact: 'Ph: 23372414, 23372565
+
+    Fax: 23372277
+
+    Address: Room No.: 102, 1st Floor, Sanchar Bhawan, New Delhi 110001'
+  email: mosc-office[at]gov[dot]in
+- name: Ms. Vandita Kaul
+  designation: Secretary
+  organization: Department of Posts & Chairperson, Postal Services Board
+  contact: 'Ph: 23096060
+
+    Ext: 4800
+
+    Address: Secretary (Posts), Dak Bhawan,New Delhi-110001.'
+  email: secretary-posts[at]indiapost[dot]gov[dot]in

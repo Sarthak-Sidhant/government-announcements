@@ -1,0 +1,18 @@
+parent_department: Department of Pension & Pensioner's Welfare (DoPPW)
+organizations:
+- name: Anubhav Portal
+  website: https://pensionersportal.gov.in/anubhav
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Bhavishya, Pension Sanction and Payment Tracking System
+  website: https://bhavishya.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Integrated Pensioners' Portal
+  website: https://ipension.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pensioners' Portal
+  website: https://pensionersportal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

@@ -1,0 +1,90 @@
+parent_ministry: Ministry of External Affairs (MEA)
+organizations:
+- name: Consulate of India
+  website: https://cgilagos.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Indian Council for Cultural Relations (ICCR)
+  website: https://www.iccr.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Sushma Swaraj Institute of Foreign Service
+  website: https://ssifs.mea.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: ASEAN-India Science, Technology and Innovation Cooperation
+  website: https://aistic.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Consular Services Management System
+  website: https://madad.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Kailash Mansarovar Yatra
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ministry of External Affairs Telephone Directory
+  website: https://videshapps.gov.in/videsh
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PRAYAS Portal
+  website: https://prayas.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Passport Seva Portal
+  website: https://passportindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Performance Dashboard of Ministry of External Affairs (MEA)
+  website: https://meadashboard.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pravasi Bharatiya Divas (PBD)
+  website: https://pbdindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Scholarship Programme for Diaspora Children (SPDC)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Suborno Jayanti Scholarships
+  website: https://sjsdhaka.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Sanad
+  website: https://esanad.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Economic Diplomacy Division
+  website: https://indbiz.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Indian Technical and Economic Cooperation Division (ITEC)
+  website: https://www.itecgoi.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Library, Ministry of External Affairs
+  website: https://mealib.nic.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Protocol Division
+  website: https://meaprotocol.nic.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: General Instructions for Registration and Other Services
+  website: https://indianfrro.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Annual Maintenance Contracts Portal
+  website: https://amcmea.gov.in
+  status: external_link
+  category: Others
+- name: BRICS INDIA 2026
+  website: https://www.brics2026.gov.in
+  status: external_link
+  category: Others
+- name: Centre for United Nations Peacekeeping (CUNPK)
+  website: https://cunpkindia.gov.in
+  status: external_link
+  category: Others

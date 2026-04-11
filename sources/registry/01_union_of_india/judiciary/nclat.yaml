@@ -1,0 +1,15 @@
+# === IDENTITY ===
+id: "union-jud-nclat"
+name: "National Company Law Appellate Tribunal"
+type: "judiciary"
+jurisdiction_level: "national"
+
+# === HIERARCHY ===
+parent: "union_of_india"
+
+# === SCRAPING CONFIG ===
+url: "https://nclat.nic.in"
+scraper_type: "unknown"
+status: "pending"
+last_scraped: null
+priority: "medium"

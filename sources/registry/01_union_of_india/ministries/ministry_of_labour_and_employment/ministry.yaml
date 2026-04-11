@@ -1,0 +1,35 @@
+name: Ministry of Labour and Employment (MoLE)
+website: https://labour.gov.in
+contact:
+  address: Ministry of Labour & Employment Govt. of India, Shram Shakti Bhawan Rafi
+    Marg. New Delhi-110001 India
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Dr. Mansukh Mandaviya
+  designation: Minister
+  organization: Ministry of Labour and Employment
+  contact: 'Ph: 011-23717515, 011-23710240
+
+    Address: Room No.: 120, Shram Shakti Bhawan, Rafi marg New Delhi-110001'
+  email: minoffice-mole[at]nic[dot]in
+- name: Sushri Shobha Karandlaje
+  designation: Minister of State
+  organization: Ministry of Labour and Employment
+  contact: 'Ph: 011-23720013
+
+    Ext: 1515
+
+    Address: Room No.: 112, Shram Shakti Bhawan, Rafi marg New Delhi-110001'
+  email: ''
+- name: Ms. Vandana Gurnani
+  designation: Secretary
+  organization: Ministry of Labour and Employment
+  contact: 'Ph: 011-23710265
+
+    Ext: 2101
+
+    Address: Room No.: 104, Shram Shakti Bhawan, Rafi marg New Delhi-110001'
+  email: secy-labour[at]nic[dot]in
+status: active

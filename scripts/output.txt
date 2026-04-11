@@ -1,0 +1,1748 @@
+
+[START] Root: Ministry of AYUSH (MoA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Rc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rc4zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rc4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rc4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rc4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 13 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rc4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[START] Root: Ministry of Agriculture and Farmers Welfare (MoAFW)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/FM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/FM4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Agricultural Research and Education (DARE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P9e83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 4 items (Button-first strategy).
+  Recursing into Department: Department of Agriculture and Farmers Welfare (DoAFW)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 16 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 24 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/QNe83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/FM4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/FM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Chemicals and Fertilizers (MoCF)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Fc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Fc4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 3 items (Button-first strategy).
+  Recursing into Department: Department of Chemicals and Petro-Chemicals (DoCP)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Qde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Qde83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Qde83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Fertilizers (DoFz)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Qte83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Qte83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 14 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Qte83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Pharmaceuticals (DoPs)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Q9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q9e83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q9e83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Civil Aviation (MoCA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Fs4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Fs4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Fs4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Fs4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Fs4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Fs4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Fs4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Coal
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/F84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/F84zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/F84zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/F84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 12 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/F84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Commerce and Industry (MoCI)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/GM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/GM4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department for Promotion of Industry and Internal Trade (DPIIT)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/E005/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/AUTBDY/list
+  [INFO] Extracted 12 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/SPMA/list
+  [INFO] Extracted 11 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/DUW/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZmQzG3sBNf80hyXhNfrU/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Commerce (DoC)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 9 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/CNCL/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rde83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Communications (MoC)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Gc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Gc4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Posts (DoP)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Rte83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rte83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rte83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rte83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rte83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rte83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rte83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 11 items (Button-first strategy).
+  Recursing into Department: Department of Telecommunications (DoT)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R9e83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Consumer Affairs, Food and Public Distribution (MoCAFP)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Gs4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Gs4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Consumer Affairs (DoCA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/SNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/SNe83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SNe83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SNe83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SNe83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SNe83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 4 items (Button-first strategy).
+  Recursing into Department: Department of Food and Public Distribution (DFPD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Sde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Sde83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Sde83XQBYNG-XPnvjOsx/E051/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Sde83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Sde83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Sde83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[START] Root: Ministry of Cooperation
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/3p8Len0BjXgo0VKujWP3
+
+[LIST] Navigating to: https://igod.gov.in/organization/3p8Len0BjXgo0VKujWP3/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/3p8Len0BjXgo0VKujWP3/AUTBDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/3p8Len0BjXgo0VKujWP3/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/3p8Len0BjXgo0VKujWP3/E009/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/3p8Len0BjXgo0VKujWP3/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Corporate Affairs (MCA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/G84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/G84zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/G84zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/G84zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/G84zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/G84zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/G84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[START] Root: Ministry of Culture
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/HM4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[START] Root: Ministry of Defence (MoD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Hc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hc4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 5 items (Button-first strategy).
+  Recursing into Department: Department of Defence (DoD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 13 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 11 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 13 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ste83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Defence Production (DDP)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/S9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/S9e83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 10 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/S9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/S9e83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 19 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/S9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/S9e83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/S9e83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Defence Research and Development (DRDO)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/TNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/TNe83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/TNe83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 25 items (Button-first strategy).
+  Recursing into Department: Department of Ex-Servicemen Welfare (DESW)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Tde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Tde83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Tde83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Military Affairs (DMA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/YQUjYIQBF92NGf8XoaQ6
+
+[LIST] Navigating to: https://igod.gov.in/organization/YQUjYIQBF92NGf8XoaQ6/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/YQUjYIQBF92NGf8XoaQ6/DUW/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/YQUjYIQBF92NGf8XoaQ6/OTHR/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hc4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hc4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hc4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hc4zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hc4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 9 items (Button-first strategy).
+
+[START] Root: Ministry of Development of North Eastern Region (MDONER)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Q84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q84zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Q84zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Earth Sciences (MoES)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Hs4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hs4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hs4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hs4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hs4zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hs4zv3QBGZk0jujBKgGW/RFO/list
+  [INFO] Extracted 16 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Hs4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of Education (MoE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/J84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/J84zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Higher Education (DoHE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/E051/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/T9e83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of School Education and Literacy (DSEL)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/UNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/UNe83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/UNe83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 9 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/UNe83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 16 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/J84zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/J84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of Electronics and Information Technology (MeitY)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/ftJDHHUBGGphvn7wU-O6
+
+[LIST] Navigating to: https://igod.gov.in/organization/ftJDHHUBGGphvn7wU-O6/OTHR/list
+  [INFO] Extracted 10 items (Button-first strategy).
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/QAWg4YgBF92NGf8XN8qA
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/lvNbDHwBnAUp6yMBWd4K
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/kfNJDHwBnAUp6yMBp97V
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/9AVrYoUBF92NGf8XaqwV
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/j_NHDHwBnAUp6yMBAt4u
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/QwWk4YgBF92NGf8XsMoK
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/lPNYDHwBnAUp6yMBdd74
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/t2VFDHwBNf80hyXhlQGF
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/jfNCDHwBnAUp6yMBht5X
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/l0nPCIcBlHCxpSX6POcf
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 14 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/RFO/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/RM4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[START] Root: Ministry of Environment, Forest and Climate Change (MoEFCC)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 14 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 13 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/H84zv3QBGZk0jujBKgGW/RFO/list
+  [INFO] Extracted 12 items (Button-first strategy).
+
+[START] Root: Ministry of External Affairs (MEA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/IM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/IM4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/IM4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/IM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 11 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/IM4zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/IM4zv3QBGZk0jujBKgGW/RFO/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/IM4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Finance (MoF)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ic4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ic4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 6 items (Button-first strategy).
+  Recursing into Department: Department of Economic Affairs (DEA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ude83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Expenditure (DoE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ute83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ute83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ute83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ute83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ute83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ute83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ute83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Financial Services (DoFS)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/U9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/U9e83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 10 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/U9e83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 15 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/U9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/U9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/U9e83XQBYNG-XPnvjOsx/CNCL/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/U9e83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 9 items (Button-first strategy).
+  Recursing into Department: Department of Investment and Public Asset Management (DIPAM)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/VNe83XQBYNG-XPnvjOsx
+  Recursing into Department: Department of Public Enterprises (DPE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/W9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/W9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Revenue (DoR)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 21 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 23 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 12 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 22 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Vde83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ic4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Fisheries, Animal Husbandry and Dairying (MoFAHD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/SM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/SM4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Animal Husbandry and Dairying (DoAHD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J
+
+[LIST] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J/RFO/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/SI7dxHQBnHZIjqMuV49J/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Fisheries (DoF)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/LKNfInUBxrox_NfiSIBI
+
+[LIST] Navigating to: https://igod.gov.in/organization/LKNfInUBxrox_NfiSIBI/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/LKNfInUBxrox_NfiSIBI/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/LKNfInUBxrox_NfiSIBI/OTHR/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of Food Processing Industries (MoFPI)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Is4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Is4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Is4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Is4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[START] Root: Ministry of Health and Family Welfare (MoHFW)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/I84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/I84zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Health Research (DHR)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Wde83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Health and Family Welfare (DoHFW)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 12 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/WNe83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/I84zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/I84zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/I84zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[START] Root: Ministry of Heavy Industries (MoHI)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/JM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/JM4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/JM4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 15 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/JM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/JM4zv3QBGZk0jujBKgGW/CNCL/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of Home Affairs (MHA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Jc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Jc4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 3 items (Button-first strategy).
+  Recursing into Department: Department of Border Management (DoBM)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Xte83XQBYNG-XPnvjOsx
+  Recursing into Department: Department of Home (DoH)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 13 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 25 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/CNCL/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/X9e83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 7 items (Button-first strategy).
+  Recursing into Department: Department of Official Language (DoOL)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Yte83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Yte83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Yte83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Yte83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Yte83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Jc4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Jc4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Jc4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Housing and Urban Affairs (MoHUA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 16 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/CNCL/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Js4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[START] Root: Ministry of Information and Broadcasting (MIB)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/KM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/KM4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 10 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/KM4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/KM4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/KM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 12 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/KM4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of Jal Shakti (MoJS)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/eqNfInUBxrox_NfiSIBI
+
+[LIST] Navigating to: https://igod.gov.in/organization/eqNfInUBxrox_NfiSIBI/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Drinking Water and Sanitation (DDWS)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/ZNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZNe83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/ZNe83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Water Resources, River Development and Ganga Rejuvenation (DoWRGR)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zde83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Labour and Employment (MoLE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Kc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Kc4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Kc4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Kc4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Kc4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Kc4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[START] Root: Ministry of Law and Justice (MoLJ)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ks4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ks4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 3 items (Button-first strategy).
+  Recursing into Department: Department of Justice (DoJ)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Zte83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zte83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zte83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zte83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zte83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Zte83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Legal Affairs (DoLA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Z9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/Z9e83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Z9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Z9e83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Z9e83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Legislative Department (LD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/aNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNe83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Micro, Small & Medium Enterprises (MSME)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7/AUTBDY/list
+  [INFO] Extracted 9 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7/SPMA/list
+  [INFO] Extracted 10 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7/DUW/list
+  [INFO] Extracted 11 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/aNJDHHUBGGphvn7wU-S7/RFO/list
+  [INFO] Extracted 17 items (Button-first strategy).
+
+[START] Root: Ministry of Mines (MoM)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/K84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/K84zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/K84zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/K84zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/K84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/K84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/K84zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Minority Affairs (MoMA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/LM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/LM4zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/LM4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/LM4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/LM4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/LM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of New and Renewable Energy (MNRE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Lc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Lc4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Lc4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Lc4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Lc4zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Panchayati Raj (MoPR)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ls4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ls4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 12 items (Button-first strategy).
+
+[START] Root: Ministry of Parliamentary Affairs (MPA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/L84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/L84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/L84zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Personnel, Public Grievances and Pensions (MoPPGP)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/MM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/MM4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 3 items (Button-first strategy).
+  Recursing into Department: Department of Administrative Reforms and Public Grievances (DARPG)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/ade83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/ade83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 7 items (Button-first strategy).
+  Recursing into Department: Department of Pension & Pensioner's Welfare (DoPPW)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/ate83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/ate83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+  Recursing into Department: Department of Personnel and Training (DoPT)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/a9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/a9e83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/a9e83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/a9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/a9e83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/a9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[START] Root: Ministry of Petroleum and Natural Gas (MoPNG)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Mc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Mc4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Mc4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 13 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Mc4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Mc4zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Planning (MoP)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/5wPlNYYB77KrIrzWr9-k
+
+[LIST] Navigating to: https://igod.gov.in/organization/5wPlNYYB77KrIrzWr9-k/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Ports, Shipping and Waterways (MoPSW)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Rs4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rs4zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rs4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 15 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rs4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 9 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rs4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Rs4zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Power
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ms4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ms4zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ms4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ms4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ms4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 15 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ms4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ms4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[START] Root: Ministry of Railways (MoR)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/E051/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 16 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/DUW/list
+  [INFO] Extracted 11 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/RFO/list
+  [INFO] Extracted 18 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/M84zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 14 items (Button-first strategy).
+
+[START] Root: Ministry of Road Transport and Highways (MoRTH)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Ns4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ns4zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ns4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ns4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ns4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 10 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Ns4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of Rural Development (MoRD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/NM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/NM4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Land Resources (DLR)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/bNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/bNe83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/bNe83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+  Recursing into Department: Department of Rural Development (DoRD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/f47dxHQBnHZIjqMuV49J
+
+[LIST] Navigating to: https://igod.gov.in/organization/f47dxHQBnHZIjqMuV49J/E013/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/f47dxHQBnHZIjqMuV49J/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/f47dxHQBnHZIjqMuV49J/SPMA/list
+  [INFO] Extracted 14 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/f47dxHQBnHZIjqMuV49J/RFO/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/NM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[START] Root: Ministry of Science and Technology (MST)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Nc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Nc4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 3 items (Button-first strategy).
+  Recursing into Department: Department of Biotechnology (DBT)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/d9KpHHUBGGphvn7w1-jZ
+
+[LIST] Navigating to: https://igod.gov.in/organization/d9KpHHUBGGphvn7w1-jZ/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/d9KpHHUBGGphvn7w1-jZ/E059/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/d9KpHHUBGGphvn7w1-jZ/E009/list
+  [INFO] Extracted 17 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/d9KpHHUBGGphvn7w1-jZ/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+  Recursing into Department: Department of Science and Technology (DST)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 23 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 16 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/b9e83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Scientific and Industrial Research (DSIR)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/cNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/cNe83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cNe83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cNe83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cNe83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Skill Development and Entrepreneurship (MSDE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW/E005/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW/CNCL/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/R84zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Social Justice and Empowerment (MoSJE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/nxKd9XkBmn7FjzzhzCSZ
+
+[LIST] Navigating to: https://igod.gov.in/organization/nxKd9XkBmn7FjzzhzCSZ/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Empowerment of Persons with Disabilities (DEPWD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/E051/list
+  [INFO] Extracted 11 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cde83XQBYNG-XPnvjOsx/RFO/list
+  [INFO] Extracted 3 items (Button-first strategy).
+  Recursing into Department: Department of Social Justice and Empowerment (DoSJE)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/cte83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/cte83XQBYNG-XPnvjOsx/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cte83XQBYNG-XPnvjOsx/STABDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cte83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cte83XQBYNG-XPnvjOsx/E059/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cte83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 13 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/cte83XQBYNG-XPnvjOsx/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/nxKd9XkBmn7FjzzhzCSZ/E051/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/nxKd9XkBmn7FjzzhzCSZ/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Statistics and Programme Implementation (MoSPI)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Oc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Oc4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Oc4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 6 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Oc4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Steel (MoS)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Os4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Os4zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Os4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 9 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Os4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Os4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[START] Root: Ministry of Textiles (MoT)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 9 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 8 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/O84zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[START] Root: Ministry of Tourism
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/PM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/PM4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/PM4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/PM4zv3QBGZk0jujBKgGW/E009/list
+  [INFO] Extracted 21 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/PM4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 7 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/PM4zv3QBGZk0jujBKgGW/OTHR/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[START] Root: Ministry of Tribal Affairs (MoTA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/Pc4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/Pc4zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Pc4zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Pc4zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/Pc4zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 18 items (Button-first strategy).
+
+[START] Root: Ministry of Women and Child Development (MoWCD)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/P84zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/P84zv3QBGZk0jujBKgGW/E013/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P84zv3QBGZk0jujBKgGW/STABDY/list
+  [INFO] Extracted 2 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P84zv3QBGZk0jujBKgGW/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P84zv3QBGZk0jujBKgGW/E059/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/P84zv3QBGZk0jujBKgGW/SPMA/list
+  [INFO] Extracted 11 items (Button-first strategy).
+
+[START] Root: Ministry of Youth Affairs and Sports (MoYAS)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/QM4zv3QBGZk0jujBKgGW
+
+[LIST] Navigating to: https://igod.gov.in/organization/QM4zv3QBGZk0jujBKgGW/E003/list
+  [INFO] Extracted 2 items (Button-first strategy).
+  Recursing into Department: Department of Sports (DoS)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/c9e83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/c9e83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 3 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/c9e83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 4 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/c9e83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 4 items (Button-first strategy).
+  Recursing into Department: Department of Youth Affairs (DoYA)
+
+[DETAIL] Navigating to: https://igod.gov.in/organization/dNe83XQBYNG-XPnvjOsx
+
+[LIST] Navigating to: https://igod.gov.in/organization/dNe83XQBYNG-XPnvjOsx/AUTBDY/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/dNe83XQBYNG-XPnvjOsx/E009/list
+  [INFO] Extracted 1 items (Button-first strategy).
+
+[LIST] Navigating to: https://igod.gov.in/organization/dNe83XQBYNG-XPnvjOsx/SPMA/list
+  [INFO] Extracted 5 items (Button-first strategy).
+
+✅ Flattened Recursive scrape complete.

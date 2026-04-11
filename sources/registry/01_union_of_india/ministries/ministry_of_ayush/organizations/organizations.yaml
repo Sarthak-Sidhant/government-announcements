@@ -1,0 +1,114 @@
+parent_ministry: Ministry of AYUSH (MoA)
+organizations:
+- name: Ayush Admissions Central Counseling Committee
+  website: https://intraaaccc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Commission for Homoeopathy
+  website: https://nch.org.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Commission for Indian System of Medicine (NCISM), New Delhi
+  website: https://ncismindia.org
+  status: external_link
+  category: Commissions/ Committees
+- name: Pharmacopoeia Commission for Indian Medicine and Homoeopathy (PCIMH)
+  website: https://pcimh.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Council for Research in Ayurvedic Sciences (CCRAS)
+  website: https://ccras.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Council for Research in Homoeopathy (CCRH)
+  website: https://www.ccrhindia.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Council for Research in Siddha (CCRS)
+  website: https://siddhacouncil.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Council for Research in Unani Medicine (CCRUM)
+  website: https://ccrum.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Council for Research in Yoga and Naturopathy (CCRYN), New Delhi
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Rashstriya Ayurveda Vidyapeeth
+  website: https://ravdelhi.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Medicines Pharmaceutical Corporation Limited (IMPCL)
+  website: https://impclmohan.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: All India Institute of Ayurveda (AIIA), New Delhi
+  website: https://aiia.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Central Ayurveda Research Institute, Bengaluru
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Institute of Teaching and Research in Ayurveda (ITRA), Jamnagar
+  website: https://www.itra.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Morarji Desai National Institute of Yoga (MDNIY), New Delhi
+  website: https://www.yogamdniy.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Ayurveda, Jaipur
+  website: https://nia.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Homoeopathy, Kolkata
+  website: https://nih.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Naturopathy, Pune
+  website: https://ninpune.ayush.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Siddha (NIS), Chennai
+  website: https://nischennai.org
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Sowa Rigpa (NISR), Leh
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: National Institute of Unani Medicine (NIUM), Bangalore
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: North Eastern Institute of Ayurveda and Folk Medicine Research
+  website: https://neiafmr.org.in
+  status: external_link
+  category: Academies / Institutions
+- name: North Eastern Institute of Ayurveda and Homoeopathy (NEIAH), Shillong
+  website: https://neiah.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: Rashtriya Ayurveda Vidyapeeth, Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Ayush Research Portal
+  website: https://ayushportal.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ayush Suraksha Portal
+  website: https://suraksha.ayush.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ayush System Portal
+  website: https://ayushedu.bisag-n.gov.in/AYUSH_EDU
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Charak Portal
+  website: https://echarak.ayush.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

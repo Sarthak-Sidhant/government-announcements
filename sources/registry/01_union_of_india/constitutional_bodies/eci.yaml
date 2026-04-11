@@ -1,0 +1,15 @@
+# === IDENTITY ===
+id: "union-const-eci"
+name: "Election Commission of India"
+type: "constitutional_body"
+jurisdiction_level: "national"
+
+# === HIERARCHY ===
+parent: "union_of_india"
+
+# === SCRAPING CONFIG ===
+url: "https://eci.gov.in"
+scraper_type: "s3waas"
+status: "pending"
+last_scraped: null
+priority: "high"

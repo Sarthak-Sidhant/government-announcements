@@ -1,0 +1,31 @@
+name: Ministry of Tribal Affairs (MoTA)
+website: https://tribal.gov.in
+contact:
+  address: 416, 4th Floor, B-Wing, Ministry of Tribal Affairs, Shastri Bhawan, New
+    Delhi-110001
+  phone: 011-23383303
+  fax: ''
+  email: ''
+directory:
+- name: Shri Jual Oram
+  designation: Minister
+  organization: Ministry of Tribal Affairs
+  contact: 'Ph: 23388482, 23381499
+
+    Fax: 23070577'
+  email: ''
+- name: Shri Durgadas Uikey
+  designation: Minister of State
+  organization: Ministry of Tribal Affairs
+  contact: 'Ph: 23062153, 23062154
+
+    Fax: 23062158'
+  email: ''
+- name: Ms. Ranjana Chopra
+  designation: Secretary
+  organization: Ministry of Tribal Affairs
+  contact: 'Ph: 23381652
+
+    Fax: 23073160'
+  email: secy-tribal[at]nic[dot]in
+status: active

@@ -1,0 +1,31 @@
+name: Department of Defence Research and Development (DRDO)
+website: https://drdo.gov.in/drdo
+contact:
+  address: DRDO Bhawan, Rajaji Marg, New Delhi-110011
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Raj Nath Singh
+  designation: Minister
+  organization: Ministry of Defence
+  contact: 'Ph: 23012286, 23019030
+
+    Fax: 23015403
+
+    Address: Room No. : 104, South Block, New Delhi'
+  email: rmo[at]mod[dot]nic[dot]in
+- name: Shri Sanjay Seth
+  designation: Minister of State
+  organization: Ministry of Defence
+  contact: 'Ph: 23792128, 23794621
+
+    Fax: 23016255
+
+    Address: Room No. : 114, South Block, New Delhi'
+  email: mos-defence[at]gov[dot]in
+- name: Shri Samir V. Kamat
+  designation: Secretary
+  organization: Department of Defence R&D and Chairman, DRDO
+  contact: ''
+  email: ''

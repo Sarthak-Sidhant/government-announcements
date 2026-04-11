@@ -1,0 +1,30 @@
+name: Ministry of Earth Sciences (MoES)
+website: https://moes.gov.in
+contact:
+  address: Ministry of Earth Sciences, Government of India, Prithvi Bhavan, Opp. India
+    Habitat Centre, Lodhi Road, New Delhi - 110003
+  phone: 011-24669578
+  fax: ''
+  email: ''
+directory:
+- name: Dr. Jitendra Singh
+  designation: Minister
+  organization: Minister of State (Independent Charge)
+  contact: 'Ph: 24629788, 24629789
+
+    Fax: 23794559
+
+    Address: 5th Floor, Prithvi Bhavan, Opp. India Habitat Centre, Lodhi Road, New
+    Delhi - 110003'
+  email: mos-stes[at]gov[dot]in
+- name: Shri M. Ravichandran
+  designation: Secretary
+  organization: Ministry of Earth Sciences
+  contact: 'Ph: 011-24629771, 011-24629772
+
+    Fax: 011-24629777
+
+    Address: Room No.: 108, Prithvi Bhavan, Opp. India Habitat Centre, Lodhi Road,
+    New Delhi - 110003'
+  email: secretary[at]moes[dot]gov[dot]in
+status: active

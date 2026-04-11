@@ -1,0 +1,28 @@
+name: Ministry of Finance (MoF)
+website: https://finmin.gov.in
+contact:
+  address: Ministry of Finance, Department of Expenditure, Room No. 76, New Delhi
+    - 110001
+  phone: 011-23092604
+  fax: ''
+  email: ''
+directory:
+- name: Smt. Nirmala Sitharaman
+  designation: Minister
+  organization: Ministry of Finance
+  contact: 'Ph: 23092510
+
+    Ph (R): 23793791
+
+    Address: Room No. 134, North Block, New Delhi'
+  email: appointment[dot]fm[at]gov[dot]in
+- name: Shri T.V. Somanathan
+  designation: Finance Secretary
+  organization: Ministry of Finance
+  contact: 'Ph: 23095610
+
+    Ext: 5610
+
+    Address: Room No. 129-A, North Block, New Delhi'
+  email: secyexp[at]nic[dot]in
+status: active

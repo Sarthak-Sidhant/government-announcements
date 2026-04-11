@@ -1,0 +1,32 @@
+name: Ministry of Tourism
+website: https://tourism.gov.in
+contact:
+  address: Room No.119, Transport Bhawan, 1, Parliament Street, New Delhi - 110 001
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Gajendra Singh Shekhawat
+  designation: Minister
+  organization: Ministry of Tourism
+  contact: 'Ph: 23718310, 23717969
+
+    Address: Room No. 301, 3rd Floor, Transport Bhawan, Parliament Street, New Delhi
+    - 110001'
+  email: g[dot]shekhawat[at]sansad[dot]nic[dot]in
+- name: Shri Suresh Gopi
+  designation: Minister of State
+  organization: Ministry of Tourism
+  contact: 'Ph: 23715717
+
+    Address: Room No. 112, 1st Floor, Transport Bhawan, Parliament Street, New Delhi
+    - 110001'
+  email: ''
+- name: Shri Bhuvnesh Kumar
+  designation: Secretary
+  organization: Ministry of Tourism
+  contact: 'Ph: 23711792, 23321395
+
+    Address: Room No. 109, Transport Bhawan, 1 Parliament Street, New Delhi - 110011'
+  email: sectour[at]nic[dot]in
+status: active

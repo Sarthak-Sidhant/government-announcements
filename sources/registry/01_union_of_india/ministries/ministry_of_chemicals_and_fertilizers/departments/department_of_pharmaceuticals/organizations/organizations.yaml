@@ -1,0 +1,62 @@
+parent_department: Department of Pharmaceuticals (DoPs)
+organizations:
+- name: National Pharmaceutical Pricing Authority (NPPA)
+  website: https://nppa.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Bengal Chemicals and Pharmaceuticals Limited (BCPL)
+  website: https://bengalchemicals.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bengal Chemicals and Pharmaceuticals Limited
+  website: https://pharma-dept.gov.in/bengal-chemicals-pharmaceuticals-limited
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Antibiotics Limited (HAL)
+  website: https://hindantibiotics.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Drugs and Pharmaceuticals Limited (IDPL)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Jan Aushadhi-Bureau of Pharma PSUs of India (BPPI)
+  website: https://janaushadhi.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Karnataka Antibiotics and Pharmaceuticals Limited (KAPL), Bangalore
+  website: https://www.kaplindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Institute of Pharmaceutical Education and Research (NIPER), Hyderabad
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: National Institute of Pharmaceutical Education and Research (NIPER), Ahmedabad
+  website: https://niperahm.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Pharmaceutical Education and Research (NIPER), Kolkata
+  website: https://www.niperkolkata.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Pharmaceutical Education and Research (NIPER), Guwahati
+  website: https://niperguwahati.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Pharmaceutical Education and Research (NIPER), Hajipur
+  website: https://www.niperhajipur.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Pharmaceutical Education and Research (NIPER), Rae Bareli
+  website: https://niperraebareli.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Pharmaceutical Education and Research (NIPER), Mohali
+  website: https://niper.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Promotion of Research and Innovation in Pharma MedTech sector (PRIP)
+  website: https://prip.pharma-dept.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

@@ -1,0 +1,106 @@
+parent_department: Department of Defence Research and Development (DRDO)
+organizations:
+- name: Aeronautical Development Agency
+  website: https://www.ada.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Advanced Numerical Research and Analysis Group (ANURAG), Hyderabad
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Aerial Delivery Research and Development Establishment (ADRDE), Agra
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Aeronautical Development Establishment (ADE), Bengaluru
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Arnament Research and Development Establishment (ARDE), Pune
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Centre For Air Borne System (CABS), Bengaluru
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Centre for Artificial Intelligence and Robotics (CAIR), Bengaluru
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Centre for Fire, Explosive and Environment Safety (CFEES), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Centre for Personnel Talent Management (CEPTAM), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Combat Vehicles Research and Development Establishment (CVRDE), Chennai
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Avionics Research Establishment (DARE), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Bio-Engineering and Electro Medical Laboratory (DEBEL), Bengaluru
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Electronics Application Laboratory (DEAL), Dehradun
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Electronics Research Laboratory (DLRL), Hyderabad
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Food Research Laboratory (DFRL), Mysore
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Institute of Advanced Technology (DIAT), Pune
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Institute of Physiology and Allied Sciences (DIPAS), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Institute of Psychological Research (DIPR), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Laboratory (DLJ), Jodhpur
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Materials Research and Development Establishment (DMSRDE), Kanpur
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Research Laboratory (DRL), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Research and Development Establishment (DRDE), Gwalior
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Research and Development Laboratory (DRDL), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Scientific Information and Documentation Centre (DESIDOC), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Defence Terrain Research Laboratory (DTRL), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Electronics and Radar Development Establishment (LRDE), Bengaluru
+  website: null
+  status: active_no_link
+  category: Academies / Institutions

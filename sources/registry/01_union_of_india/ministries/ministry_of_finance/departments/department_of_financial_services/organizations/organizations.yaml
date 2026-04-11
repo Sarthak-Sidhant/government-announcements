@@ -1,0 +1,162 @@
+parent_department: Department of Financial Services (DoFS)
+organizations:
+- name: Debt Recovery Appellate Tribunal (DRAT), Chennai
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Debt Recovery Tribunal (Madurai)
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Debts Recovery Tribunal, Coimbatore
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Debts Recovery Tribunal No 1, Chennai
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Debts Recovery Tribunal No 2, Chennai
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Debts Recovery Tribunal No 3, Chennai
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: International Financial Services Centres Authority
+  website: https://www.ifsca.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Pension System and Trust
+  website: https://npstrust.org.in
+  status: external_link
+  category: Statutory Bodies
+- name: Pension Fund Regulatory and Development Authority (PFRDA)
+  website: https://www.pfrda.org.in
+  status: external_link
+  category: Statutory Bodies
+- name: Reserve Bank of India (RBI)
+  website: https://www.rbi.org.in
+  status: external_link
+  category: Statutory Bodies
+- name: Atherstone Investor Communications Limited
+  website: https://www.aicl.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: General Insurance Corporation of India (GIC)
+  website: https://www.gicre.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Industrial Finance Corporation of India (IFCI)
+  website: https://www.ifciltd.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Life Insurance Corporation of India (LIC)
+  website: https://www.licindia.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Housing Bank (NHB)
+  website: https://nhb.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Insurance
+  website: https://nationalinsurance.nic.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: New India Assurance Co. Ltd
+  website: https://www.newindia.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Oriental Insurance Company Limited (OICL)
+  website: https://orientalinsurance.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Punjab National Bank (PNB)
+  website: https://www.pnbindia.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Regional Rural Banks (RRB)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: State Bank of India (SBI)
+  website: https://sbi.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: UCO Bank
+  website: https://www.ucobank.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: UTI Infrastructure Technology And Services Limited (UTIITSL)
+  website: https://www.utiitsl.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Union Bank of India
+  website: https://www.unionbankofindia.co.in/english/home.aspx
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: United India Insurance Company Limited
+  website: https://uiic.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Institute of Public Finance and Policy (NIPFP), New Delhi
+  website: https://www.nipfp.org.in
+  status: external_link
+  category: Academies / Institutions
+- name: Small Industries Development Bank of India (SIDBI)
+  website: https://www.sidbi.in/en
+  status: external_link
+  category: Academies / Institutions
+- name: Debts Recovery Appellate Tribunal
+  website: https://drt.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: JanSamarth-National Portal for Government Sponsored Schemes
+  website: https://www.jansamarth.in/home
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Public Financial Management System (PFMS)
+  website: https://training.pfms.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Council of Applied Economic Research (NCAER), New Delhi
+  website: https://www.ncaer.org
+  status: external_link
+  category: Councils
+- name: Bank of Baroda
+  website: https://www.bankofbaroda.in
+  status: external_link
+  category: Others
+- name: Bank of India
+  website: https://bankofindia.co.in
+  status: external_link
+  category: Others
+- name: Bank of Maharashtra
+  website: https://bankofmaharashtra.in
+  status: external_link
+  category: Others
+- name: Canara Bank
+  website: https://canarabank.com
+  status: external_link
+  category: Others
+- name: Indian Bank
+  website: https://www.indianbank.in
+  status: external_link
+  category: Others
+- name: Indian Overseas Bank
+  website: https://www.iob.in
+  status: external_link
+  category: Others
+- name: National Bank for Agriculture and Rural Development (NABARD)
+  website: https://www.nabard.org
+  status: external_link
+  category: Others
+- name: Punjab and Sind Bank
+  website: https://punjabandsindbank.co.in
+  status: external_link
+  category: Others
+- name: Specified Undertaking of The Unit Trust of India (SUUTI)
+  website: https://suuti.in
+  status: external_link
+  category: Others
