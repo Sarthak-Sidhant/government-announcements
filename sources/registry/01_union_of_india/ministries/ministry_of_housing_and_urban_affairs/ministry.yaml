@@ -1,0 +1,37 @@
+name: Ministry of Housing and Urban Affairs (MoHUA)
+website: https://mohua.gov.in
+contact:
+  address: 'Economic Advisor (WIM), Ministry of Housing And Urban Affairs, Government
+    of India, Room No : 232-C Nirman Bhawan , New Delhi'
+  phone: '23061397'
+  fax: '23062170'
+  email: dinesh[dot]kapila[at]gov[dot]in
+directory:
+- name: Shri Manohar Lal
+  designation: Minister
+  organization: Ministry of Housing and Urban Affairs
+  contact: 'Ph: 23061162, 23063495
+
+    Fax: 23062089
+
+    Address: Room No.: 104-C, Nirman Bhawan , New Delhi'
+  email: minister-mohua[at]nic[dot]in
+- name: Shri Tokhan Sahu
+  designation: Minister of State
+  organization: Ministry of Housing and Urban Affairs
+  contact: 'Ph: 23063071, 23061999
+
+    Fax: 23061103
+
+    Address: Room No.: 130-C, Nirman Bhawan , New Delhi'
+  email: ''
+- name: Shri Katikithala Srinivas
+  designation: Secretary
+  organization: Ministry of Housing and Urban Affairs
+  contact: 'Ph: 23062377
+
+    Fax: 23061459
+
+    Address: Room No.: 122-C, Nirman Bhawan , New Delhi'
+  email: secyurban[at]nic[dot]in
+status: active

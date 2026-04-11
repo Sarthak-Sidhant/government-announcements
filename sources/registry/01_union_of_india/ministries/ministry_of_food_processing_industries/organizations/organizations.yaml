@@ -1,0 +1,32 @@
+parent_ministry: Ministry of Food Processing Industries (MoFPI)
+organizations:
+- name: Production Linked Incentive Scheme (PLIS)
+  website: https://plimofpi.ifciltd.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Institute of Food Technology Entrepreneurship and Management (NIFTEM),
+    Kundli
+  website: https://niftem.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Food Technology Entrepreneurship and Management (NIFTEM),
+    Thanjavur
+  website: https://niftem-t.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Investor's Portal
+  website: https://www.foodprocessingindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Formalisation of Micro Food Processing Enterprises Scheme
+  website: https://pmfme.mofpi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Kisan Sampada Yojana
+  website: https://sampada-mofpi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: World Food India
+  website: https://worldfoodindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

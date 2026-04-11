@@ -1,0 +1,39 @@
+name: Ministry of Minority Affairs (MoMA)
+website: https://minorityaffairs.gov.in
+contact:
+  address: Ministry of Minority Affairs 11th Floor, Pandit Deendayal Antyodaya Bhawan,
+    CGO Complex, Lodhi Road, New Delhi-110003
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Kiren Rijiju
+  designation: Minister
+  organization: Ministry of Minority Affairs
+  contact: 'Ph: 24360585, 24360586
+
+    Ext: 256, 268
+
+    Fax: 24360587
+
+    Address: Room No.: 101, Pt. Deendayal Antyodaya Bhawan, New Delhi-110003'
+  email: minister-moma[at]nic[dot]in
+- name: Shri George Kurian
+  designation: Minister of State
+  organization: Ministry of Minority Affairs
+  contact: 'Ph: 24364275
+
+    Ext: 311
+
+    Address: Room No.: 1101, B1 Wing, Pt. Deendayal Antyodaya Bhawan, New Delhi-110003'
+  email: mos-moma[at]nic[dot]in
+- name: Shri Srivatsa Krishna
+  designation: Secretary
+  organization: Ministry of Minority Affairs
+  contact: 'Ph: 24364272
+
+    Ext: 306
+
+    Address: Room No.: 1110, Pt. Deendayal Antyodaya Bhawan, New Delhi-110003'
+  email: secy-mma[at]nic[dot]in
+status: active

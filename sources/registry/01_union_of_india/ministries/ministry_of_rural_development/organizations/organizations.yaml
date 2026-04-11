@@ -1,0 +1,10 @@
+parent_ministry: Ministry of Rural Development (MoRD)
+organizations:
+- name: Mahila Kisan Sashaktikaran Pariyojana (MKSP), NRLM
+  website: https://mksp.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Rural Internal Audit Portal
+  website: https://ruralaudit.dord.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

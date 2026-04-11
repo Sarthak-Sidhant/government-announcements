@@ -1,0 +1,98 @@
+parent_ministry: Ministry of Heavy Industries (MoHI)
+organizations:
+- name: Automotive Research Association of India (ARAI)
+  website: https://www.araiindia.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Manufacturing Technology Institute (CMTI)
+  website: https://cmti.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Fluid Control Research Institute (FCRI), Palakkad
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Andrew Yule and Company Limited
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bharat Heavy Electricals Limited (BHEL)
+  website: https://www.bhel.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bharat Pumps and Compressors Limited, Allahabad
+  website: https://www.bpcnaini.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Braithwaite Burn and Jessop Construction Company Limited
+  website: https://www.bbjconst.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bridge and Roof Company (India) Limited
+  website: https://www.bridgeroof.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Cement Corporation of India Limited (CCI)
+  website: https://www.cciltd.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Engineering Projects (India) Ltd.
+  website: https://epi.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: HMT Limited
+  website: https://www.hmtindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Heavy Engineering Corporation Limited (HEC)
+  website: https://www.hecltd.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Cables Limited (HCL), Kolkata
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Paper Corporation Ltd.
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Salts Limited
+  website: https://www.indiansalt.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Instrumentation Limited, Jaipur
+  website: https://ilkota.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: NEPA Limited
+  website: https://www.nepamills.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Rajasthan Electronics and Instruments Ltd.
+  website: https://www.reiljp.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: FAME-India
+  website: https://www.fame-india.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Knowledge Integration for Technology Enrichment
+  website: https://www.mykite.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)
+  website: https://pmedrive.heavyindustries.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Scheme to Promote Manufacturing of Electric Passenger Cars in India (SPMEPCI)
+  website: https://spmepci.heavyindustries.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Automotive Skills Development Council (ASDC)
+  website: https://www.asdc.org.in
+  status: external_link
+  category: Councils
+- name: Capital Goods Skill Council (CGSC)
+  website: https://www.cgsc.in
+  status: external_link
+  category: Councils

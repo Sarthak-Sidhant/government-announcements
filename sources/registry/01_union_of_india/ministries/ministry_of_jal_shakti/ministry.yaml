@@ -1,0 +1,28 @@
+name: Ministry of Jal Shakti (MoJS)
+website: https://jalshakti.gov.in
+contact:
+  address: "e-Governance Cell, 6th Floor Cabin, Shram Shakti Bhawan, Rafi Marg, New\
+    \ Delhi \u2013 110001"
+  phone: ''
+  fax: ''
+  email: egov-mowr[at]nic[dot]in
+directory:
+- name: Shri C R Patil
+  designation: Minister
+  organization: Ministry of Jal Shakti
+  contact: "Ph: 23714200\nAddress: Room no. - 210, Shram Shakti Bhawan, Rafi Marg,\
+    \ New Delhi \u2013 110001"
+  email: minister-jalshakti[at]gov[dot]in
+- name: Shri V. Somanna
+  designation: Minister of State
+  organization: Ministry of Jal Shakti
+  contact: "Ph: 24368618\nAddress: Room no. - 215, Shram Shakti Bhawan, Rafi Marg,\
+    \ New Delhi \u2013 110001"
+  email: mosoffice-mdws[at]nic[dot]in
+- name: Shri Raj Bhushan Choudhary
+  designation: Minister of State
+  organization: Ministry of Jal Shakti
+  contact: "Ph: 23718759\nAddress: Room no. - 215, Shram Shakti Bhawan, Rafi Marg,\
+    \ New Delhi \u2013 110001"
+  email: mos-mowr[at]nic[dot]in
+status: active

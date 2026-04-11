@@ -1,0 +1,35 @@
+name: Ministry of Information and Broadcasting (MIB)
+website: https://www.mib.gov.in
+contact:
+  address: Ministry of Information & Broadcasting, Room No 552, A wing Shastri Bhawan
+    New Delhi-110001
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Ashwini Vaishnaw
+  designation: Minister
+  organization: Ministry of Information and Broadcasting
+  contact: 'Ph: 011-23384782, 011-23386748
+
+    Fax: 011-23782118'
+  email: minister[dot]inb[at]gov[dot]in
+- name: Dr. L. Murugan
+  designation: Minister of State
+  organization: Ministry of Information and Broadcasting
+  contact: 'Ph: 011-23381193, 011-23381194
+
+    Fax: 011-23070561
+
+    Address: Room No.: 119, A-Wing,Shastri Bhawan, New Delhi'
+  email: mos-moib[at]gov[dot]in
+- name: Shri Chanchal Kumar
+  designation: Secretary
+  organization: Ministry of Information and Broadcasting
+  contact: 'Ph: 011-23382639, 011-23386530
+
+    Fax: 011-23383513
+
+    Address: Room No.: 655, A-Wing, Shastri Bhawan, New Delhi'
+  email: secy[dot]inb[at]nic[dot]in
+status: active

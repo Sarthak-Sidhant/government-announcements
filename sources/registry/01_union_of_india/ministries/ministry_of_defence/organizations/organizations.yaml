@@ -1,0 +1,75 @@
+parent_ministry: Ministry of Defence (MoD)
+organizations:
+- name: Indian Naval Academy
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Sainik School Rewari, Haryana
+  website: https://ssrw.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Armed Forces Tribunal, Regional Bench, Guwahati
+  website: https://aftrbghy.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Cantonment Board, Aurangabad, Maharashtra
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Cantonment Board, Delhi
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Cantonment Board, Kamptee, Maharashtra
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Navy Children School, Kochi, Kerala
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Navy Children School, Rajali, Arakkonam, Vellore, Tamil Nadu
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Bureau of Naviks (BUVIK), Indian Coast Guard
+  website: https://buvik.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Headquarters Recruiting Zone Madhya Pradesh and Chhattisgarh
+  website: https://armyrecruitmentmp.nic.in
+  status: external_link
+  category: Others
+- name: Indian Army Veterans Grievance Handling Portal
+  website: https://indianarmyveterans.gov.in
+  status: external_link
+  category: Others
+- name: Indian Naval Ship Valsura
+  website: null
+  status: active_no_link
+  category: Others
+- name: Indian Navy - Careers and Opportunities
+  website: https://www.joinindiannavy.gov.in
+  status: external_link
+  category: Others
+- name: National Cadet Corps (NCC)
+  website: https://nccindia.gov.in
+  status: external_link
+  category: Others
+- name: Online Application - Indian Coast Guard, Ministry of Defence
+  website: null
+  status: active_no_link
+  category: Others
+- name: Principal Controller of Accounts (Factories), Kolkata
+  website: null
+  status: active_no_link
+  category: Others
+- name: Principal Controller of Defence Accounts (Navy)
+  website: null
+  status: active_no_link
+  category: Others
+- name: Retired Officers Digital Records Archive - Veteran Officers and Family Pensioners
+    of Indian Army
+  website: https://rodra.gov.in
+  status: external_link
+  category: Others

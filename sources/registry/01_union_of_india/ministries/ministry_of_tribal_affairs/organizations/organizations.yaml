@@ -1,0 +1,90 @@
+parent_ministry: Ministry of Tribal Affairs (MoTA)
+organizations:
+- name: National Commission for Scheduled Tribes (NCST)
+  website: https://ncst.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Education Society for Tribal Students
+  website: https://nests.tribal.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Tribal Cooperative Marketing Development Federation of India (TRIFED)
+  website: https://trifed.tribal.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Scheduled Tribes Finance and Development Corporation (NSTFDC)
+  website: https://nstfdc.tribal.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Adi Prashikshan
+  website: https://adiprashikshan.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Adi Vaani App
+  website: https://adivaani.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Adi-Prasarasn
+  website: https://adiprasaran.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Adivasi Grants Management System
+  website: https://grants.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital Knowledge Repository of Best Practices
+  website: https://knowledge.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Direct Benefit Transfer Portal (DBT)
+  website: https://dbttribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Going Online as Leaders Program (GOAL)
+  website: https://goal.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: NGO Grants Online System
+  website: https://ngo.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Overseas Scholarship Portal
+  website: https://overseas.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Tribal Fellowship Portal
+  website: https://fellowship.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Tribal Migration Support Portal
+  website: https://shramshakti.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Tribal Research Portal
+  website: https://tritribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Tribal Virtual Art and Culture Portal
+  website: https://adikalakar.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Scheduled Tribe Component Monitoring System
+  website: https://stcmis.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Scheduled Tribes and Other Traditional Forest Dwellers
+  website: https://forestrights.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Spring Water Atlas
+  website: https://thespringsportal.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Swasthya, Tribal Health and Nutrition Portal
+  website: https://swasthya.tribal.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Tribal Digital Document Repository
+  website: https://tribal.nic.in/repository
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

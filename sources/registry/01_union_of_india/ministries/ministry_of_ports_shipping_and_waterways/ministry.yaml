@@ -1,0 +1,37 @@
+name: Ministry of Ports, Shipping and Waterways (MoPSW)
+website: https://shipmin.gov.in
+contact:
+  address: Ministry of Ports, Shipping and Waterways, Transport Bhawan, 1, Parliament
+    Street, New Delhi-110001
+  phone: 011-23356712
+  fax: 011-23753396
+  email: jscord-psw[at]gov[dot]in
+directory:
+- name: Shri Sarbananda Sonowal
+  designation: Minister
+  organization: Ministry of Ports, Shipping and Waterways
+  contact: 'Ph: 23717422, 23717423
+
+    Ext: 5201
+
+    Fax: 23356709
+
+    Address: Room no. 201, Parivahan Bhavan, 1, Parliament Street, New Delhi'
+  email: ''
+- name: Shri Shantanu Thakur
+  designation: Minister of State
+  organization: Ministry of Ports, Shipping and Waterways
+  contact: 'Ph: 23710189, 23710356
+
+    Ph (R): 23012529
+
+    Address: Room no. 213, Parivahan Bhavan, 1, Parliament Street, New Delhi'
+  email: shantanu[dot]thakur20[at]sansad[dot]nic[dot]in
+- name: Shri Vijay Kumar
+  designation: Secretary
+  organization: Ministry of Ports, Shipping and Waterways
+  contact: 'Ph: 23714938, 23716656
+
+    Address: Room no. 401, Parivahan Bhavan, 1, Parliament Street, New Delhi'
+  email: secyship[at]nic[dot]in
+status: active

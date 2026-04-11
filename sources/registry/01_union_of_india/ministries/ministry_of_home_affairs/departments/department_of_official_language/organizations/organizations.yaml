@@ -1,0 +1,26 @@
+parent_department: Department of Official Language (DoOL)
+organizations:
+- name: Central Translation Bureau
+  website: https://ctb.rajbhasha.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Committee of Parliament on Official Language
+  website: https://samiti.rajbhasha.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Town Official Language Implementation Committee
+  website: https://narakas.rajbhasha.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Hindi Training Institute
+  website: https://chti.rajbhasha.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Information Management System
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Kanthasth Portal
+  website: https://kanthasth.rajbhasha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

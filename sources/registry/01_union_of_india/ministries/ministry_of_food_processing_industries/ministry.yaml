@@ -1,0 +1,41 @@
+name: Ministry of Food Processing Industries (MoFPI)
+website: https://mofpi.gov.in
+contact:
+  address: Panchsheel Bhawan, August Kranti Marg Khelgaon, New Delhi-110049
+  phone: 011-26406500
+  fax: 011-26493228
+  email: support-net[at]mofpi[dot]gov[dot]in
+directory:
+- name: Shri Chirag Paswan
+  designation: Minister
+  organization: Ministry of Food Processing Industries
+  contact: 'Ph: 26493889, 26493890
+
+    Ext: 502
+
+    Fax: 26493298
+
+    Address: Minister Chamber, Panchsheel Bhawan, August Kranti Marg Khelgaon, New
+    Delhi-110049'
+  email: minister[dot]fpi[at]nic[dot]in
+- name: Shri Ravneet Singh
+  designation: Minister of State
+  organization: Ministry of Food Processing Industries
+  contact: 'Ph: 26491254, 26491256
+
+    Ext: 585
+
+    Address: MOS Chamber, Panchsheel Bhawan, August Kranti Marg Khelgaon, New Delhi-110049'
+  email: mos-fpi[at]nic[dot]in
+- name: Shri A. P. Das Joshi
+  designation: Secretary
+  organization: Ministry of Food Processing Industries
+  contact: 'Ph: 26493225, 26492431
+
+    Ext: 601
+
+    Fax: 26493012
+
+    Address: Room No.: 201, Panchsheel Bhawan, August Kranti Marg Khelgaon, New Delhi-110049'
+  email: secy[dot]mofpi[at]nic[dot]in
+status: active

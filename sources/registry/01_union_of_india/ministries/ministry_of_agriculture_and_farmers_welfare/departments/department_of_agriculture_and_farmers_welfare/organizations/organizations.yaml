@@ -1,0 +1,230 @@
+parent_department: Department of Agriculture and Farmers Welfare (DoAFW)
+organizations:
+- name: Central Fertilizer Quality Control and Training Institute
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Arecanut and Spices Development (DSAD)
+  website: https://www.dasd.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Cashewnut and Cocoa Development (DCCD)
+  website: https://www.dccd.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Economics and Statistics (DES)
+  website: https://desagri.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Jute Development
+  website: https://jute.dac.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Marketing and Inspection (DMI)
+  website: https://dmi.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Plant Protection Quarantine and Storage
+  website: https://ppqs.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Pulses Development
+  website: https://dpd.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Rice Development, Patna
+  website: https://drdpat.bih.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: KRISHI VISTAR-Directorate of Extension
+  website: https://krishivistar.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Mahalanobis National Crop Forecast Centre (NCFC), New Delhi
+  website: https://ncfc.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Seed Research and Training Centre (NSRTC)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: North Eastern Farm Machinery Training and Testing Institute, Chariali
+  website: https://nerfmtti.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Northern Farm Machinery Training and Testing Institute, Hissar
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Soil and Land Use Survey of India
+  website: https://slusi.da.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Southern Region Farm Machinery Training and Testing Institute
+  website: https://srfmtti.dacnet.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Commission for Agricultural Costs and Prices (CACP)
+  website: https://cacp.da.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Mission for Integrated Development of Horticulture (MIDH)
+  website: https://midh.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Institute of Horticulture, Nagaland
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: National Centre for Cold-Chain Development (NCCD)
+  website: https://nccd.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Agricultural Extension Management (MANAGE)
+  website: https://www.manage.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Agricultural Marketing (NIAM)
+  website: https://ccsniam.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Plant Health Management (NIPHM)
+  website: https://niphm.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Rainfed Area Authority (NRAA)
+  website: https://nraa.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Coconut Development Board
+  website: https://coconutboard.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Bee Board (NBB)
+  website: https://nbb.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Horticulture Board (NHB)
+  website: https://nhb.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Seeds Corporation Limited (NSC)
+  website: https://indiaseeds.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Agri-Exchange
+  website: https://agriexchange.apeda.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Centre of Organic and Natural Farming
+  website: https://nconf.dac.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Agri Stack Portal
+  website: https://agristack.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Agri-Clinics and Agri-Business Centres
+  website: https://acabcmis.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Agricultural Census, New Delhi
+  website: https://agcensus.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital Platform for Farm Mechanization and Technology
+  website: https://agrimachinery.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Direct Benefit Transfer Portal for Agriculture Schemes
+  website: https://dbtdacfw.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Extension Reforms Monitoring System
+  website: https://extensionreforms.da.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Farmer Analysis Package
+  website: https://farmap.dac.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Farmers Portal-One Stop Shop For Farmers
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Integrated Pesticide Management System (IPMS)
+  website: https://ipms.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Kisan Rin Portal
+  website: https://fasalrin.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Kisan Suvidha
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Kisan-eMitra
+  website: https://kisanemitra.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Krishi DSS
+  website: https://krishi-dss.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Krishi MApper
+  website: https://krishimapper.dac.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Krishi Nivesh Portal
+  website: https://krishinivesh.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Namo Drone Didi Portal
+  website: https://namodronedidi.da.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Agriculture Infra Financing Facility
+  website: https://agriinfra.dac.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Agriculture Market Portal (NAM)
+  website: https://www.enam.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Bamboo Mission
+  website: https://nbm.da.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Food Security Mission
+  website: https://nfsm.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Horticulture Mission, Maharashtra
+  website: https://hortnet.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Mission on Natural Farming (NMNF)
+  website: https://naturalfarming.dac.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Mission on Oilseeds and Oil Palm (NMOOP)
+  website: https://nmeo.dac.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Portal on Mechanization and Technology
+  website: https://farmech.dac.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Protection of Plant Varieties and Farmers Rights Authority, New Delhi
+  website: https://www.plantauthority.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Agriculture Marketing Information System Network (AGMARKNET)
+  website: https://agmarknet.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Central Integrated Pest Management Centre (CIPMC)
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices

@@ -1,0 +1,62 @@
+parent_ministry: Ministry of Mines (MoM)
+organizations:
+- name: Geological Survey of India (GSI)
+  website: https://www.gsi.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Indian Bureau of Mines
+  website: https://ibm.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Coal Controller Organization
+  website: https://coalcontroller.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC)
+  website: https://jnarddc.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Rock Mechanics (NIRM)
+  website: https://nirm.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Mineral Exploration Trust (NMET)
+  website: https://nmet.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Hindustan Copper Limited (HCL)
+  website: https://www.hindustancopper.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mineral Exploration Corporation Limited (MECL)
+  website: https://mecl.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Aluminium Company Limited (NALCO)
+  website: https://nalcoindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mining Surveillance System (MSS)
+  website: https://ib.pmgatishakti.gov.in/ibm/login
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Geoscience Data Repository
+  website: https://geodataindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Landslide Forecasting Centre
+  website: https://bhusanket.gsi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Non-Ferrous Metal Recycling
+  website: https://nfmrecycling.jnarddc.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Satyabhama Portal
+  website: https://research.mines.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Star Rating of Coal Mines
+  website: https://starrating.coal.gov.in
+  status: external_link
+  category: Others

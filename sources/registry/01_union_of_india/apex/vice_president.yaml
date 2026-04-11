@@ -1,0 +1,16 @@
+# === IDENTITY ===
+id: "union-apex-vp"
+name: "Vice President's Secretariat"
+type: "apex_executive"
+jurisdiction_level: "national"
+
+# === HIERARCHY ===
+parent: "union_of_india"
+reporting_to: "Vice President of India"
+
+# === SCRAPING CONFIG ===
+url: "https://vicepresidentofindia.nic.in"
+scraper_type: "unknown"
+status: "pending"
+last_scraped: null
+priority: "medium"

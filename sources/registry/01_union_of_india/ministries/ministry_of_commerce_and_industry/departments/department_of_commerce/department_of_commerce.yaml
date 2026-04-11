@@ -1,0 +1,29 @@
+name: Department of Commerce (DoC)
+website: https://commerce.gov.in
+contact:
+  address: Ministry of Commerce and Industry, Vanijya Bhawan, New Delhi 110011
+  phone: 011-23062261
+  fax: 011-23063418
+  email: ''
+directory:
+- name: Shri Piyush Goyal
+  designation: Minister
+  organization: Ministry of Commerce and Industry
+  contact: 'Ph: 23039110, 23039111
+
+    Address: Room No.: 501, Vanijya Bhawan, New Delhi - 110001'
+  email: piyush[dot]goyal[at]gov[dot]in
+- name: Shri Jitin Prasada
+  designation: Minister of State
+  organization: Ministry of Commerce and Industry
+  contact: 'Ph: 23039174, 23039184
+
+    Address: Room No.: 513, Vanijya Bhawan, New Delhi - 110001'
+  email: mos-ci[at]gov[dot]in
+- name: Shri Rajesh Agarwal
+  designation: Secretary
+  organization: Commerce Secretary
+  contact: 'Ph: 23039251, 23039252
+
+    Address: Room No.: 426, Vanijya Bhawan, New Delhi - 110001'
+  email: csoffice[at]nic[dot]in

@@ -1,0 +1,31 @@
+name: Ministry of Electronics and Information Technology (MeitY)
+website: https://meity.gov.in
+contact:
+  address: Ministry of Electronics and Information Technology (Government of India)
+    Electronics Niketan, 6, CGO Complex, Lodhi Road, New Delhi - 110003
+  phone: 011-24361756, 011-24364751
+  fax: ''
+  email: webmaster[at]meity[dot]gov[dot]in
+directory:
+- name: Shri Ashwini Vaishnaw
+  designation: Minister
+  organization: Ministry of Electronics and Information Technology
+  contact: 'Ph: 24369191, 24362626
+
+    Fax: 24366070'
+  email: moeit[at]gov[dot]in
+- name: Shri Jitin Prasada
+  designation: Minister of State
+  organization: Ministry of Electronics and Information Technology
+  contact: 'Ph: 24368757, 24368758
+
+    Fax: 24360958'
+  email: mos-eit[at]gov[dot]in
+- name: Shri S. Krishnan
+  designation: Secretary
+  organization: Ministry of Electronics and Information Technology
+  contact: 'Ph: 24364041
+
+    Fax: 24363134'
+  email: secretary[at]meity[dot]gov[dot]in
+status: active

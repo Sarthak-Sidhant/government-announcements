@@ -1,0 +1,26 @@
+parent_department: Department of Fisheries (DoF)
+organizations:
+- name: Central Institute of Coastal Engineering for Fishery, Bangalore
+  website: https://cicef.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Fishery Survey of India (FSI), Mumbai
+  website: https://fsi.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Fisheries Digital Platform (NFDP)
+  website: https://nfdp.dof.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Matsya Kisan Samridhi Sah Yojana (PM-MKSSY)
+  website: https://pmmkssy.dof.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Coastal Aquaculture Authority
+  website: https://caa.gov.in
+  status: external_link
+  category: Others
+- name: National Fisheries Development Board (NFDB), Hyderabad
+  website: https://nfdb.gov.in
+  status: external_link
+  category: Others

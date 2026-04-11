@@ -1,0 +1,30 @@
+parent_ministry: Ministry of Minority Affairs (MoMA)
+organizations:
+- name: Haj Committee of India
+  website: https://www.hajcommittee.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: National Commission for Minorities (NCM)
+  website: https://ncm.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Waqf Council
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: National Minorities Development and Finance Corporation (NMDFC)
+  website: https://www.nmdfc.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Maulana Azad Education Foundation
+  website: https://maef.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: Jiyo Parsi Scheme Portal
+  website: https://jiyoparsi.minorityaffairs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: UMEED Central Portal
+  website: https://umeed.minorityaffairs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

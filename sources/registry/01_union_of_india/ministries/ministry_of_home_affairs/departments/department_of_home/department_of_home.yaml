@@ -1,0 +1,42 @@
+name: Department of Home (DoH)
+website: null
+contact:
+  address: ''
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Amit Shah
+  designation: Minister
+  organization: Ministry of Home Affairs
+  contact: 'Ph: 23092462, 23094686
+
+    Fax: 23017580
+
+    Address: Room No.: 104, North Block, New Delhi - 110001'
+  email: ''
+- name: Shri Nityanand Rai
+  designation: Minister of State
+  organization: Ministry of Home Affairs
+  contact: 'Ph: 23092870, 23092595
+
+    Address: Room No.: 101, North Block, New Delhi - 110001'
+  email: ''
+- name: Shri Bandi Sanjay Kumar
+  designation: Minister of State
+  organization: Ministry of Home Affairs
+  contact: 'Ph: 23092073, 23094054
+
+    Address: Room No.: 127, North Block, New Delhi - 110001'
+  email: ''
+- name: Shri Govind Mohan
+  designation: Home Secretary
+  organization: Secretary Office
+  contact: 'Ph: 23092989, 23093031
+
+    Ext: 215
+
+    Fax: 23093003
+
+    Address: Room No.: 113, North Block, New Delhi - 110001'
+  email: hshso[at]nic[dot]in

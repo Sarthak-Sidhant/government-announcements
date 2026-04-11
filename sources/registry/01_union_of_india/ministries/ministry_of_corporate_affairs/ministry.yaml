@@ -1,0 +1,26 @@
+name: Ministry of Corporate Affairs (MCA)
+website: https://www.mca.gov.in
+contact:
+  address: 5th Floor, A-Wing, Shastri Bhawan, New Delhi-110001
+  phone: 0120-4832500
+  fax: ''
+  email: crc[dot]escalation[at]mca[dot]gov[dot]in
+directory:
+- name: Smt. Nirmala Sitharaman
+  designation: Minister
+  organization: Ministry of Corporate Affairs
+  contact: 'Ph: 23073804, 23073805
+
+    Fax: 23073806'
+  email: ''
+- name: Shri Harsh Malhotra
+  designation: Minister of State
+  organization: Ministry of Corporate Affairs
+  contact: ''
+  email: ''
+- name: Ms. Deepti Gaur Mukerjee
+  designation: Secretary
+  organization: Ministry of Corporate Affairs
+  contact: 'Ph: 23382324, 23384257'
+  email: secy[dot]mca[at]nic[dot]in
+status: active

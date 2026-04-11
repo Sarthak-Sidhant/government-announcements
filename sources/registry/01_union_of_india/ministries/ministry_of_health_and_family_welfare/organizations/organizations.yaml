@@ -1,0 +1,35 @@
+parent_ministry: Ministry of Health and Family Welfare (MoHFW)
+organizations:
+- name: BCG Vaccine Laboratory, Chennai
+  website: https://dirbcglab.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Medical Stores Organisation, Ministry of Health and Family Welfare
+  website: https://mso-gmsd.in/IMCS/hissso/loginLogin.imcs
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Leprosy Teaching and Research Institute, Chengalpattu, Tamil Nadu
+  website: https://cltri.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Regional Institute of Pharmaceutical Science and Technology (RIPSAT), West
+    Tripura
+  website: https://ripsat.tripura.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Central Drugs Laboratory, Kasauli
+  website: https://cdlkasauli.gov.in
+  status: external_link
+  category: Others
+- name: Central Tuberculosis (TB) Division
+  website: https://tbcindia.mohfw.gov.in
+  status: external_link
+  category: Others
+- name: National Organ and Tissue Transplant Organization (NOTTO), New Delhi
+  website: https://notto.mohfw.gov.in
+  status: external_link
+  category: Others
+- name: National Programme for Control of Blindness & Visual Impairment (NPCVI)
+  website: https://npcbvi.gov.in
+  status: external_link
+  category: Others

@@ -1,0 +1,26 @@
+name: Ministry of Railways (MoR)
+website: https://indianrailways.gov.in
+contact:
+  address: 256-A, Raisina Road, Rajpath Area, Central Secretariat, New Delhi, 110001
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Ashwini Vaishnaw
+  designation: Minister
+  organization: Ministry of Railways
+  contact: 'Ph: 23386645, 23017061
+
+    Fax: 23387333'
+  email: officeofmr[at]gov[dot]in
+- name: Shri V. Somanna
+  designation: Minister of State
+  organization: Ministry of Railways
+  contact: ''
+  email: ''
+- name: Shri Ravneet Singh
+  designation: Minister of State
+  organization: Ministry of Railways
+  contact: ''
+  email: ''
+status: active

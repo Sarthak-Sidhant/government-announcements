@@ -1,0 +1,43 @@
+name: Ministry of Women and Child Development (MoWCD)
+website: https://wcd.gov.in
+contact:
+  address: Ministry of Women and Child Development, Government of India Shastri Bhawan,
+    New Delhi
+  phone: 011-23381611
+  fax: ''
+  email: ''
+directory:
+- name: Smt. Annpurna Devi
+  designation: Minister
+  organization: Ministry of Women and Child Development
+  contact: 'Ph: 23071331, 23071332
+
+    Ext: 401, 402
+
+    Fax: 23071329
+
+    Address: Room No.: 301, Shastri Bhawan, New Delhi - 110001'
+  email: min-wcd[at]gov[dot]in
+- name: Smt. Savitri Thakur
+  designation: Minister of State
+  organization: Ministry of Women and Child Development
+  contact: 'Ph: 23382361, 23382363
+
+    Ext: 298, 297
+
+    Fax: 23387854
+
+    Address: Room No.: 756, Shastri Bhawan, New Delhi - 110001'
+  email: officeofmos-wcd[at]gov[dot]in
+- name: Shri Anil Malik
+  designation: Secretary
+  organization: Ministry of Women and Child Development
+  contact: 'Ph: 23383586, 23386731
+
+    Ext: 203, 204
+
+    Fax: 23381495
+
+    Address: Room No.: 601, Shastri Bhawan, New Delhi - 110001'
+  email: secy[dot]wcd[at]nic[dot]in
+status: active

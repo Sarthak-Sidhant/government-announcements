@@ -1,0 +1,15 @@
+# === IDENTITY ===
+id: "union-leg-rajyasabha"
+name: "Rajya Sabha (Council of States)"
+type: "legislative"
+jurisdiction_level: "national"
+
+# === HIERARCHY ===
+parent: "union_of_india"
+
+# === SCRAPING CONFIG ===
+url: "https://rajyasabha.nic.in"
+scraper_type: "unknown"
+status: "pending"
+last_scraped: null
+priority: "high"

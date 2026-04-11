@@ -1,0 +1,66 @@
+parent_department: Department of Fertilizers (DoFz)
+organizations:
+- name: Brahmaputra Valley Fertilizer Corporation Limited (BVFCL)
+  website: https://bvfcl.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: FCI Aravali Gypsum and Minerals India Limited (FAGMIL)
+  website: https://fagmil.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Fertilizer Corporation of India Limited (FCIL)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Fertilizers and Chemicals Travancore Limited (FACT)
+  website: https://fact.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Fertilizer Corporation Limited (HFCL)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Urvarak & Rasayan Limited
+  website: https://www.hurl.net.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Farmers Fertilizer Cooperative Limited (IFFCO)
+  website: https://www.iffco.in/en/corporate
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Krishak Bharati Cooperative Limited (KRIBHCO)
+  website: https://www.kribhco.net
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Madras Fertilizers Limited (MFL)
+  website: https://madrasfert.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Fertilizers Limited (NFL)
+  website: https://www.nationalfertilizers.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Projects and Development India Limited (PDIL)
+  website: https://www.pdilin.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Ramagundam Fertilizers and Chemicals Limited (RFCL)
+  website: https://www.rfcl.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Rashtriya Chemicals and Fertilizers Limited (RCF)
+  website: https://www.rcfltd.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Talcher Fertilizer LTD. (TFL)
+  website: https://tflonline.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Integrated Fertilizer Management System
+  website: https://dbtfert.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Urvarak
+  website: https://urvarak.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

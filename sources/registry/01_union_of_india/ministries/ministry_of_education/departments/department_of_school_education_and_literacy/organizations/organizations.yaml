@@ -1,0 +1,110 @@
+parent_department: Department of School Education and Literacy (DSEL)
+organizations:
+- name: Central Board of Secondary Education (CBSE)
+  website: https://cbse.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Council for Teacher Education (NCTE)
+  website: https://web.ncte.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Bhartiya Shiksha Board
+  website: https://bsb.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Kendriya Vidyalaya Sangathan (KVS)
+  website: https://kvsangathan.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Bal Bhavan
+  website: https://nationalbalbhavan.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Council of Educational Research and Training (NCERT)
+  website: https://ncert.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Open Schooling (NIOS)
+  website: https://www.nios.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Navodaya Vidyalaya Samiti
+  website: https://cbseitms.rcil.gov.in/nvs
+  status: external_link
+  category: Autonomous Bodies
+- name: School of Planning and Architecture (SPA), Vijayawada
+  website: https://spav.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: School of Planning and Architecture (SPA), New Delhi
+  website: https://spa.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: School of Planning and Architecture (SPA), Bhopal
+  website: https://spabhopal.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Automated Permanent Academic Account Registry (APAAR)
+  website: https://apaar.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital Repository Portal
+  website: https://repository.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Eco Clubs for Mission LiFE
+  website: https://ecoclubs.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Hamara Sankalp Viksit Bharat
+  website: https://viksitbharatsankalp.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: NIPUN Bharat
+  website: https://nipunbharat.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Achievement Survey (NAS)
+  website: https://nas.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Digital Education Architecture
+  website: https://www.ndear.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Project Appraisal, Budgeting, Achievements & Data Handling System (PRABANDH)
+  website: https://prabandh.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Rashtriya e-Pustakalaya
+  website: https://ndl.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Samagra Shiksha
+  website: https://samagra.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: School Education Shagun Portal
+  website: https://seshagun.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Swachh Evam Harit Vidyalaya Rating (SHVR)
+  website: https://shvr.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: ULLAS - Nav Bharat Saaksharta Karyakram
+  website: https://ullas.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Unified District Information on School Education Plus (UDISE+)
+  website: https://udiseplus.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Vidyanjali - A School Volunteer Programme
+  website: https://vidyanjali.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Web Based School GIS application
+  website: https://schoolgis.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

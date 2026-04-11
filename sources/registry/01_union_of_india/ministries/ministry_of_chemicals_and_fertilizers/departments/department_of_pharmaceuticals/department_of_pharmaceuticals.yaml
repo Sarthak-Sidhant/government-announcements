@@ -1,0 +1,30 @@
+name: Department of Pharmaceuticals (DoPs)
+website: https://pharma-dept.gov.in
+contact:
+  address: Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers, Room
+    No. 340B, A-Wing, 3rd Floor, Shastri Bhawan, New Delhi-110001
+  phone: 011-23381927
+  fax: 011-23070245
+  email: srea-dop[at]gov[dot]in
+directory:
+- name: Shri Jagat Prakash Nadda
+  designation: Minister
+  organization: Ministry of Chemicals and Fertilizers
+  contact: 'Ph: 23383559, 23386519
+
+    Address: Room No.: 316 A, A-wing, Shastri Bhawan, New Delhi-110001'
+  email: min-cnf[at]gov[dot]in
+- name: Smt. Anupriya Patel
+  designation: Minister of State
+  organization: Ministry of Chemicals and Fertilizers
+  contact: 'Ph: 23381768, 23383686
+
+    Address: Room No.: 303 A, A-wing, Shastri Bhawan, New Delhi-110001'
+  email: mos-mocf[at]nic[dot]in
+- name: Shri Manoj Joshi
+  designation: Secretary
+  organization: Pharmaceuticals
+  contact: 'Ph: 23381573
+
+    Fax: 23070245'
+  email: secretary[at]pharma-dept[dot]gov[dot]in

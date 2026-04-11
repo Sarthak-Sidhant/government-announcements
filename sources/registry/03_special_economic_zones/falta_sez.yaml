@@ -1,0 +1,17 @@
+# === IDENTITY ===
+id: "sez-falta"
+name: "Falta Special Economic Zone"
+type: "special_economic_zone"
+jurisdiction_level: "sez"
+
+# === HIERARCHY ===
+parent_state: "west_bengal"
+parent_district: "south_24_parganas"
+governing_body: "Ministry of Commerce and Industry"
+
+# === SCRAPING CONFIG ===
+url: "https://faltasez.gov.in"
+scraper_type: "custom"
+status: "pending"
+last_scraped: null
+priority: "low"

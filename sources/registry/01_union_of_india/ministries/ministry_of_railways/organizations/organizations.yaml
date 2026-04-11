@@ -1,0 +1,315 @@
+parent_ministry: Ministry of Railways (MoR)
+organizations:
+- name: Research Designs and Standards Organisation (RDSO)
+  website: https://rdso.indianrailways.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Rail Land Development Authority, New Delhi
+  website: https://rlda.indianrailways.gov.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Indian Railway Institute of Signal Engineering and Telecommunications, Secunderabad
+  website: https://iriset.indianrailways.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Railways Institute of Civil Engineering (IRICEN)
+  website: https://www.iricen.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Railways Institute of Electrical Engineering (IRIEEN)
+  website: https://irieen.indianrailways.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Railways Institute of Mechanical and Electrical Engineering (IRIMEE),
+    Jamalpur
+  website: https://irimee.indianrailways.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Railways Institute of Transport Management (IRITM), Lucknow
+  website: https://iritm.indianrailways.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Academy of Indian Railways, Vadodara
+  website: https://nair.indianrailways.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Braithwaite and Co Limited
+  website: https://www.braithwaiteindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Organisation for Modernisation of Workshops, COFMOW
+  website: https://cofmow.indianrailways.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Centre for Railway Information Systems (CRIS)
+  website: https://cris.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Container Corporation of India Limited (CONCOR)
+  website: https://concorindia.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Dedicated Freight Corridor Corporation of India (DFCCIL)
+  website: https://dfccil.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: IRCON International Limited
+  website: https://www.ircon.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Railway Catering and Tourism Corporation Ltd. (IRCTC)
+  website: https://www.irctc.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indian Railway Finance Corporation Limited (IRFC)
+  website: https://irfc.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Integral Coach Factory, Chennai
+  website: https://icf.indianrailways.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Konkan Railway Corporation Limited
+  website: https://konkanrailway.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Kutch Railway Company Limited, Delhi
+  website: https://www.kutchrail.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mumbai Railway Vikas Corporation Limited (MRVC)
+  website: https://mrvc.indianrailways.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Pipavav Railway Corporation Limited
+  website: https://pipavavrailway.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Rail India Technical and Economic Service Limited (RITES)
+  website: https://www.rites.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Rail Vikas Nigam Limited
+  website: https://rvnl.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: RailTel Corporation of India Limited
+  website: https://www.railtelindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Gati Shakti Vishwavidyalaya
+  website: https://gsv.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Rail transport
+  website: https://irt.indianrailways.gov.in/irt_new/irthome.jsp
+  status: external_link
+  category: Academies / Institutions
+- name: Jagjivan Ram RPF Academy, Lucknow
+  website: https://jrrpfa.indianrailways.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Divyangjan Card Application
+  website: https://divyangjanid.indianrail.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Freight Operations Information System (FOIS)
+  website: https://www.fois.indianrail.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Railway Catering and Tourism Corporation - eQuery (IRCTC)
+  website: https://equery.irctc.co.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Railway Parcel Services
+  website: https://parcel.indianrail.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Railways Online
+  website: https://www.indianrail.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Portal for Rail-Road Inspection & Stages Management - Steel Girders (PRISM-SG)
+  website: https://gip.digitalindiacorporation.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: RailMadad, A Grievance Redressal Mechanism
+  website: https://railmadad.gov.in/madad/final/home.jsp
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Railway Coaching Refund
+  website: https://refunds.indianrail.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Banaras Locomotive Works, Varanasi
+  website: https://blw.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Central Organisation for Railway Electrification (CORE)
+  website: https://core.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Chittaranjan Locomotive Works (CLW)
+  website: https://clw.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Diesel Loco Modernisation Works
+  website: https://dmw.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Indian Railways eProcurement Systems
+  website: https://www.ireps.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Patiala Locomotive Works
+  website: https://plw.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Rail Coach Factory, Kapurthala
+  website: https://rcf.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Rail Wheel Factory, Yelahanka
+  website: https://rwf.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Rail Wheel Plant, Bela
+  website: https://rwp.indianrailways.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Railway Recruitment Board
+  website: https://www.rrbapply.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Railway Recruitment Control Board (RRCB)
+  website: https://rrcb.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Central Railways
+  website: https://cr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Darjeeling Himalayan Railway
+  website: https://dhr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: East Central Railway
+  website: https://ecr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: East Coast Railway
+  website: https://eastcoastrail.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Eastern Railway
+  website: https://er.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Metro Railway, Kolkata
+  website: https://mtp.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: North Central Railway
+  website: https://ncr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: North Eastern Railway
+  website: https://ner.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: North Western Railway
+  website: https://nwr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Northeast Frontier Railway
+  website: https://nfr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Northern Railway
+  website: https://nr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: South Central Railway
+  website: https://scr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: South East Central Railway
+  website: https://secr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: South Eastern Railway
+  website: https://ser.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: South Western Railway
+  website: https://swr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Southern Railway
+  website: https://sr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: West Central Railway
+  website: https://wcr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Western Railway
+  website: https://wr.indianrailways.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: All India Railwaymen's Federation (AIRF)
+  website: https://www.airfindia.org
+  status: external_link
+  category: Others
+- name: Bharat Gaurav Trains
+  website: https://bharatgauravtrains.indianrailways.gov.in
+  status: external_link
+  category: Others
+- name: Federation of Railway Officers Association (FROA)
+  website: https://froa.in
+  status: external_link
+  category: Others
+- name: Helicopter Yatra to Shri Kedarnath Dham
+  website: https://www.heliyatra.irctc.co.in
+  status: external_link
+  category: Others
+- name: Indian Railway Accounts Service Association
+  website: https://www.irastimes.org
+  status: external_link
+  category: Others
+- name: Indian Railway Traffic Service Association (IRTS)
+  website: https://irts.org.in
+  status: external_link
+  category: Others
+- name: Indian Railway Welfare Organisation (IRWO)
+  website: https://www.irwo.net
+  status: external_link
+  category: Others
+- name: Integrated Coaching Management System - Reports
+  website: https://icms.indianrail.gov.in
+  status: external_link
+  category: Others
+- name: Modern Coach Factory, Raebareli
+  website: https://mcf.indianrailways.gov.in
+  status: external_link
+  category: Others
+- name: National Federation of Indian Railwaymen (NFIR)
+  website: https://www.nfirindia.com
+  status: external_link
+  category: Others
+- name: National Rail Museum, New Delhi
+  website: https://www.nrmindia.org
+  status: external_link
+  category: Others
+- name: Officers' Rest House Management System, Southern Railway
+  website: https://southernrailway.gov.in/sr-orh
+  status: external_link
+  category: Others
+- name: Rates Branch System
+  website: https://rbs.indianrail.gov.in
+  status: external_link
+  category: Others
+- name: Workshop Projects Organisation (Patna)
+  website: https://wpo.indianrailways.gov.in
+  status: external_link
+  category: Others

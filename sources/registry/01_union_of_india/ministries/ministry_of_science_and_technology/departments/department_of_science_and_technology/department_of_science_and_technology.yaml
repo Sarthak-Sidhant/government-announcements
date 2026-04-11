@@ -1,0 +1,19 @@
+name: Department of Science and Technology (DST)
+website: https://dst.gov.in
+contact:
+  address: Department of Science & Technology, Technology Bhavan, New Mehrauli Road,,
+    New Delhi-110 016.
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Dr. Jitendra Singh
+  designation: Minister of State (Independent Charge)
+  organization: Ministry of Science and Technology
+  contact: 'Ph: 23316745, 24629788'
+  email: mos-stes[at]gov[dot]in
+- name: Prof. Abhay Karandikar
+  designation: Secretary
+  organization: Department of Science and Technology
+  contact: 'Ph: 26510068, 26511439'
+  email: dstsec[at]nic[dot]in

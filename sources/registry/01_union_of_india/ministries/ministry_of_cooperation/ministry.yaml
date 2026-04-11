@@ -1,0 +1,35 @@
+name: Ministry of Cooperation
+website: https://www.cooperation.gov.in
+contact:
+  address: Atal Akshay Urja Bhawan, CGO Complex, Lodhi Road, Behind NIA Building,
+    New Delhi
+  phone: ''
+  fax: ''
+  email: sanjeev[dot]kumar29[at]nic[dot]in
+directory:
+- name: Shri Amit Shah
+  designation: Minister
+  organization: ''
+  contact: 'Ph: 20849035, 20849036
+
+    Address: Atal Akshay Urja Bhawan, 8th Floor, CGO Complex, Lodhi Road, Behind NIA
+    Building, New Delhi'
+  email: pstohm-cm[at]gov[dot]in
+- name: Shri Krishan Pal
+  designation: Minister of State
+  organization: ''
+  contact: 'Address: Atal Akshay Urja Bhawan, 8th Floor, CGO Complex, Lodhi Road,
+    Behind NIA Building, New Delhi'
+  email: ''
+- name: Shri Murlidhar Mohol
+  designation: Minister of State
+  organization: ''
+  contact: 'Address: Atal Akshay Urja Bhawan, 8th Floor, CGO Complex, Lodhi Road,
+    Behind NIA Building, New Delhi'
+  email: ''
+- name: Shri Ashish Kumar Bhutani
+  designation: Secretary
+  organization: ''
+  contact: 'Ph: 20849022'
+  email: secy-coop[at]gov[dot]in
+status: active

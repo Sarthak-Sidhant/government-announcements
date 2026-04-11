@@ -1,0 +1,26 @@
+parent_department: Department of Military Affairs (DMA)
+organizations:
+- name: Defence Services Staff College, Wellington
+  website: https://www.dssc.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Indian Army
+  website: https://indianarmy.nic.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Indian Navy
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Chief of Defence Staff (CDS), New Delhi
+  website: null
+  status: active_no_link
+  category: Others
+- name: Indian Airforce, New Delhi
+  website: https://indianairforce.nic.in
+  status: external_link
+  category: Others
+- name: Integrated Defence Staff, New Delhi
+  website: null
+  status: active_no_link
+  category: Others

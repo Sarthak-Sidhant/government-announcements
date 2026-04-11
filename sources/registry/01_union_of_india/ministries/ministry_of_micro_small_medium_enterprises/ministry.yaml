@@ -1,0 +1,41 @@
+name: Ministry of Micro, Small & Medium Enterprises (MSME)
+website: https://msme.gov.in
+contact:
+  address: Ministry of Micro, Small and Medium Enterprises, Udyog Bhawan, Rafi Marg,
+    New Delhi - 110011
+  phone: 011-23063288
+  fax: ''
+  email: ''
+directory:
+- name: Shri Jitan Ram Manjhi
+  designation: Minister
+  organization: Ministry of Micro, Small & Medium Enterprises
+  contact: 'Ph: 011-23061566, 011-23061739
+
+    Ext: 3256
+
+    Fax: 011-23063141
+
+    Address: Room no.: 51, Udyog Bhawan, Rafi Marg, New Delhi - 110011'
+  email: min-msme[at]nic[dot]in
+- name: Sushri Shobha Karandlaje
+  designation: Minister of State
+  organization: Ministry of Micro, Small & Medium Enterprises
+  contact: 'Ph: 011-23061258, 011-23063142
+
+    Ext: 2455
+
+    Fax: 011-23010324
+
+    Address: Room no.: 133, Udyog Bhawan, Rafi Marg, New Delhi - 110011'
+  email: mos-msme[at]gov[dot]in
+- name: Shri S. C. L Das
+  designation: Secretary
+  organization: Ministry of Micro, Small & Medium Enterprises
+  contact: 'Ph: 011-23062107, 011-23061023
+
+    Fax: 011-23063045
+
+    Address: Room no.: 169, Udyog Bhawan, Rafi Marg, New Delhi - 110011'
+  email: secretary-msme[at]nic[dot]in
+status: active

@@ -1,0 +1,50 @@
+parent_ministry: Ministry of Cooperation
+organizations:
+- name: Central Registrar of Cooperative Societies
+  website: https://crcs.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Co-operative Development Corporation (NCDC)
+  website: https://www.ncdc.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Institute of Co-operative Management (ICM), Guwahati
+  website: https://icmguwahati.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Council for Co-operative Training (NCCT)
+  website: https://www.ncct.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Co-operative Exports Limited
+  website: https://ncel.coop
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Institute of Co-Operative Management (ICM), Imphal
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Institute of Co-operative Management, Pune
+  website: https://www.icmpune.org
+  status: external_link
+  category: Academies / Institutions
+- name: Netaji Subhas Regional Institute of Cooperative Management (NSRICM), Kalyani
+  website: https://www.nsricm.com
+  status: external_link
+  category: Academies / Institutions
+- name: Vaikunth Mehta National Institute of Cooperative Management
+  website: https://vamnicom.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: CRCS-Sahara Refund Portal
+  website: https://mocrefund.crcs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Central Registrar of Cooperative Societies, Re-submission Portal (CRCS)
+  website: https://mocresubmit.crcs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Cooperative Database
+  website: https://cooperatives.gov.in/en
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

@@ -1,0 +1,30 @@
+name: Ministry of Statistics and Programme Implementation (MoSPI)
+website: https://www.mospi.gov.in
+contact:
+  address: Ministry of Statistics and Programme Implementation Khurshid Lal Bhawan,
+    Janpath, New Delhi,110001
+  phone: 011-23742150
+  fax: ''
+  email: ''
+directory:
+- name: Shri Rao Inderjit Singh
+  designation: Minister of State (Independent Charge)
+  organization: Ministry of Statistics and Programme Implementation
+  contact: 'Ph: 23340884, 23367245
+
+    Fax: 23340138
+
+    Ph (R): 24643265
+
+    Address: No. 6, Lodhi Estate, New Delhi - 110011'
+  email: minister[dot]spi[at]nic[dot]in
+- name: Shri Saurabh Garg
+  designation: Secretary
+  organization: Ministry of Statistics and Programme Implementation
+  contact: 'Ph: 23742150, 23344689
+
+    Fax: 23742067
+
+    Address: Room No.-204, Khurshid Lal Bhawan, Janpath, New Delhi,110001'
+  email: secretary[at]mospi[dot]gov[dot]in
+status: active

@@ -1,0 +1,299 @@
+parent_department: Department of Defence (DoD)
+organizations:
+- name: Border Roads Organisation (BRO), New Delhi
+  website: https://bro.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Badamibagh
+  website: https://badamibagh.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Aurangabad
+  website: https://aurangabad.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Ahmednagar
+  website: https://ahmednagar.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Ahmedabad
+  website: https://ahmedabad.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Almora
+  website: https://almora.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Ambala
+  website: https://ambala.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Ajmer
+  website: https://ajmer.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Agra
+  website: https://agra.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Amritsar
+  website: https://amritsar.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Barrackpore
+  website: https://barrackpore.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Cannanore
+  website: https://cannanore.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Dalhousie
+  website: https://dalhousie.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Chakrata
+  website: https://chakrata.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Danapur
+  website: https://danapur.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Belgaum
+  website: https://belgaum.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Bareilly
+  website: https://bareilly.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Bakloh
+  website: https://bakloh.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Babina
+  website: https://babina.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Fatehgarh
+  website: https://fatehgarh.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Ayodhya
+  website: https://ayodhya.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Jabalpur
+  website: https://jabalpur.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Ferozepur
+  website: https://ferozepur.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Dehradun
+  website: https://dehradun.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Cantonment Board, Dehuroad
+  website: https://dehuroad.cantt.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Armed Forces Tribunal, Delhi
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Chandigarh
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Guwahati
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Jabalpur
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Chennai
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Mumbai
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Kochi
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Srinagar
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Kolkata
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Lucknow
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Armed Forces Tribunal, Jaipur
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Indian Coast Guard
+  website: https://indiancoastguard.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Cadets Corps (NCC), New Delhi
+  website: null
+  status: active_no_link
+  category: Statutory Bodies
+- name: Directorate of Public Relations
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Himalayan Mountaineering Institute (HMI), Darjeeling
+  website: https://hmidarjeeling.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Manohar Parrikar Institute for Defence Studies and Analyses (MP-IDSA), New
+    Delhi
+  website: https://idsa.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Defence Academy (NDA)
+  website: https://nda.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Mountaineering and Adventure Sports, Dirang
+  website: https://nimasdirang.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Nehru Institute of Mountaineering (NIM), Uttarkashi
+  website: https://www.nimindia.net
+  status: external_link
+  category: Autonomous Bodies
+- name: Sainik School Ghorakhal, Nainital
+  website: https://www.ssghorakhal.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Sainik School Kapurthala, Punjab
+  website: https://www.sskapurthala.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Sainik School Society, New Delhi
+  website: https://sainikschoolsociety.in
+  status: external_link
+  category: Autonomous Bodies
+- name: School of Foreign Languages, New Delhi
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Services Sports Control Board (SSCB), New Delhi
+  website: https://sscbindia.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Bharat Dynamics Limited (BDL)
+  website: https://bdl-india.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Innovations for Defence Excellence
+  website: https://idex.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Armed Forces Medical College (AFMC), Pune
+  website: https://afmc.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: College of Defence Management
+  website: https://cdm.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Defence College (NDC), New Delhi
+  website: https://ndc.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Defense Estates Management (NIDEM), New Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: National Institute of Hydrography, Goa
+  website: https://nih.indiannavy.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Rashtriya Indian Military College, Dehradun
+  website: https://rimc.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: Rashtriya Military School, Bangalore
+  website: https://www.rashtriyamilitaryschools.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: Sainik School Korukonda, Vizianagaram, Andhra Pradesh
+  website: https://www.sainikschoolkorukonda.org
+  status: external_link
+  category: Academies / Institutions
+- name: Sainik School Kunjpura, Karnal, Haryana
+  website: https://www.sskunjpura.org
+  status: external_link
+  category: Academies / Institutions
+- name: Sainik School Nagrota, Jammu and Kashmir
+  website: https://www.sainikschoolnagrota.com
+  status: external_link
+  category: Academies / Institutions
+- name: Sainik School Nalanda, Bihar
+  website: https://www.sainikschoolnalanda.edu.in
+  status: external_link
+  category: Academies / Institutions
+- name: Sainik School Purulia, West Bengal
+  website: https://sainikschoolpurulia.com
+  status: external_link
+  category: Academies / Institutions
+- name: Sainik School, Chittorgarh, Rajasthan
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: INS Valsura International Alumni Portal
+  website: https://alumni.indiannavy.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Armed Forces Museums
+  website: https://indianarmedforcesmuseums.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: NCC Alumni Association
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Principal Controller of Defence Accounts (Pension) (Sparsh)
+  website: https://sparsh.defencepension.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Vendor Registration Application
+  website: https://apovra.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Directorate of Public Relations, New Delhi
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Directorate General of Married Accommodation Project (DG MAP), Delhi
+  website: https://dgmap.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Naval Pension Office (NAVPEN)
+  website: https://navpen.indiannavy.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Pay Accounts Office (GREF-Dighi Camp), Pune
+  website: https://paogref.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Rashtraparv
+  website: https://rashtraparv.mod.gov.in
+  status: external_link
+  category: Others

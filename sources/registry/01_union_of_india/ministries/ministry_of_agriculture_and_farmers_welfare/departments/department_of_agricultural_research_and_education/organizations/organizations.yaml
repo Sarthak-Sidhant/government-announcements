@@ -1,0 +1,80 @@
+parent_department: Department of Agricultural Research and Education (DARE)
+organizations:
+- name: Agricultural Scientists Recruitment Board
+  website: https://asrb.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Farm Machinery Training and Testing Institute (FMTTI), Budni
+  website: https://fmttibudni.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Council of Agricultural Research (ICAR)
+  website: https://www.icar.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Fisheries Post Harvest Technology and Training (NIFPHATT),
+    Kochi
+  website: https://nifphatt.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Agrinnovate India
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Agricultural University, Imphal
+  website: https://cau.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Indira Gandhi Krishi Vishwavidyalaya, Raipur
+  website: https://igkv.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Bureau of Animal Genetic Resources (NBAGR), Karnal
+  website: https://nbagr.icar.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Post-Graduate Programme Indian Agricultural Research Institute Managment System
+    (IARI)
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Rani Lakshmi Bai Central Agricultural University
+  website: https://www.rlbcau.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Agricultural Scientists Recruitment Board (ASRB)
+  website: https://oasis.asrb.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Small Farmers Agri-Business Consortium (SFAC), New Delhi
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Directorate of Oil Palm Research, West Godavari
+  website: https://iiopr.icar.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Directorate of Poultry Research (DPR), Hyderabad
+  website: https://pdonpoultry.org
+  status: external_link
+  category: Divisions / Units / Wings
+- name: ICAR-Central Marine Fisheries Research Institute (CMFRI), Kochi
+  website: https://www.cmfri.org.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: ICAR-Agricultural Technology Application Research Institute, Umiam
+  website: https://icarzcu3.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Indian Institute of Horticultural Research (IIHR)
+  website: https://www.iihr.res.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Krishi Vigyan Kendra, East Kameng
+  website: https://kvkeastkameng.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Krishi Vigyan Kendra (KVK), Wokha
+  website: https://kvkwokha.nic.in
+  status: external_link
+  category: Regional / Field Offices

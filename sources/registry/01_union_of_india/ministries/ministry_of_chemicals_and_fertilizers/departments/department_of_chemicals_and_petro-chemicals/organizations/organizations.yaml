@@ -1,0 +1,26 @@
+parent_department: Department of Chemicals and Petro-Chemicals (DoCP)
+organizations:
+- name: Hindustan Fluorocarbons Limited (HFL), Hyderabad
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Insecticides Limited (HIL)
+  website: https://www.hil.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Organic Chemicals Limited (HOCL)
+  website: https://www.hoclindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Orissa Drugs and Chemicals Limited
+  website: https://odcl.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Institute of Plastics Engineering and Technology (CIPET)
+  website: https://www.cipet.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Institute of Pesticides Formulation Technology (IPFT)
+  website: https://ipft.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

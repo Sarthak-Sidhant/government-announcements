@@ -1,0 +1,34 @@
+name: Ministry of Coal
+website: https://coal.nic.in
+contact:
+  address: A-Wing, Ministry of Coal, Shastri Bhawan, Dr. Rajender Prasad Marg, New
+    Delhi -110001
+  phone: 23384887, 23384631
+  fax: ''
+  email: ''
+directory:
+- name: Shri G. Kishan Reddy
+  designation: Minister
+  organization: Ministry of Coal
+  contact: 'Address: Room No.: 353-A, Shastri Bhawan, Dr. Rajender Prasad Marg, New
+    Delhi -110001'
+  email: ''
+- name: Shri Satish Chandra Dubey
+  designation: Minister of State
+  organization: Ministry of Coal
+  contact: 'Ph: 23070522, 23070529
+
+    Address: Room No.: 504-C, Shastri Bhawan, Dr. Rajender Prasad Marg, New Delhi
+    -110001'
+  email: ''
+- name: Shri Vikram Dev Dutt
+  designation: Secretary
+  organization: Ministry of Coal
+  contact: 'Ph: 23384884
+
+    Ext: 222
+
+    Address: Room No.: 317-A, Shastri Bhawan, Dr. Rajender Prasad Marg, New Delhi
+    -110001'
+  email: secy[dot]moc[at]nic[dot]in
+status: active

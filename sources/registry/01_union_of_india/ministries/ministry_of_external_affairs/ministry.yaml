@@ -1,0 +1,37 @@
+name: Ministry of External Affairs (MEA)
+website: https://www.mea.gov.in
+contact:
+  address: SO(DB), 74B South Block, New Delhi
+  phone: '23794753'
+  fax: ''
+  email: aord[at]mea[dot]gov[dot]in
+directory:
+- name: Dr. Subrahmanyam Jaishankar
+  designation: Minister
+  organization: Ministry of External Affairs
+  contact: 'Ph: 23011127, 23011165
+
+    Fax: 23013254'
+  email: eam[at]mea[dot]gov[dot]in
+- name: Shri Kirtivardhan Singh
+  designation: Minister of State
+  organization: Ministry of External Affairs
+  contact: 'Ph: 23011141, 23014070
+
+    Fax: 23011425'
+  email: mosvmo[at]mea[dot]gov[dot]in
+- name: Shri Pabitra Margherita
+  designation: Minister of State
+  organization: Ministry of External Affairs
+  contact: 'Ph: 23086789, 23017763
+
+    Fax: 49016726'
+  email: mos[dot]pm[at]mea[dot]gov[dot]in
+- name: Shri Vikram Misri
+  designation: Foreign Secretary
+  organization: Ministry of External Affairs
+  contact: 'Ph: 23012318, 23012196
+
+    Fax: 23016781'
+  email: psfs[at]mea[dot]gov[dot]in
+status: active

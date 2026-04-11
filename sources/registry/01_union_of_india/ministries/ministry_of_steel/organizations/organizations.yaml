@@ -1,0 +1,62 @@
+parent_ministry: Ministry of Steel (MoS)
+organizations:
+- name: Joint Plant Committee (JPC)
+  website: https://jpcindiansteel.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Bird Group of Companies
+  website: https://www.birdgroup.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Ferro Scrap Nigam Limited (FSNL), Chhattigarh
+  website: https://fsnl.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Kudremukh Iron Ore Company Limited (KIOCL)
+  website: https://kioclltd.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Manganese Ore (India) Limited (MOIL)
+  website: https://moil.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Metal Scrap Trade Corporation Limited (MSTC), New Delhi
+  website: https://www.mstcindia.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Metallurgical and Engineering Consultants (India) Limited (MECON)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Mineral Development Corporation Limited (NMDC)
+  website: https://www.nmdc.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Rashtriya Ispat Nigam Limited (RINL)
+  website: https://www.vizagsteel.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Steel Authority of India Limited (SAIL)
+  website: https://www.sail.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Biju Patnaik National Steel Institute
+  website: https://www.bpnsi.org
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Secondary Steel Technology (NISST)
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Bharat Steel
+  website: https://bharat.steel.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Metallurgist Award Scheme
+  website: https://awards.steel.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Steel Import Monitoring System (SIMS)
+  website: https://sims.steel.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

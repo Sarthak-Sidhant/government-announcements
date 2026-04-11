@@ -1,0 +1,14 @@
+parent_department: Department of Land Resources (DLR)
+organizations:
+- name: Integrated Watershed Development Programme (IWMP)
+  website: https://iwmpmis.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Generic Document Registration System
+  website: https://ngdrs.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Watershed Development Component, Assam
+  website: https://slnaiwmpassam.gov.in
+  status: external_link
+  category: Others

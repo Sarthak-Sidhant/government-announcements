@@ -1,0 +1,161 @@
+parent_ministry: Ministry of Tourism
+organizations:
+- name: Indian Institute of Tourism and Travel Management (IITTM)
+  website: https://www.iittm.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Hotel Management (IHM), Hajipur
+  website: https://www.ihmhajipur.net
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Hotel Management, Gurdaspur
+  website: https://ihm-gsp.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Hotel Management, Lucknow
+  website: https://www.ihmlucknow.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Hotel Management (IHM), Gwalior
+  website: https://ihmgwalior.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Hotel Managment, Bangalore
+  website: https://www.ihmbangalore.kar.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Council for Hotel Management and Catering Technology (NCHMCT)
+  website: https://nchm.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: India Tourism Development Corporation (ITDC), New Delhi
+  website: https://itdc.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Food Craft Institute, Ajmer
+  website: https://fciajmer.com
+  status: external_link
+  category: Academies / Institutions
+- name: Food Craft institute, Kerala
+  website: https://www.fcikerala.org
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management Catering Technology and Applied Nutrition, Chennai
+  website: https://ihm-chennai.org
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management and Catering Technology, Kovalam
+  website: https://www.ihmctkovalam.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management and Catering Technology (IHMCT), Silvassa
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology, Hyderabad
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Srinagar
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Ahmedabad
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Bhopal
+  website: https://www.ihmbhopal.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Kolkata
+  website: https://ihmkol.org
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Jaipur
+  website: https://www.ihmjaipur.com
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Dehradun
+  website: https://ihmddn.com
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Kurukshetra
+  website: https://www.ihmkkr.com
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Bhubaneswar
+  website: https://www.ihmbbs.org
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Mumbai
+  website: https://www.ihmctan.edu
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Goa
+  website: https://ihmgoa.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering Technology and Applied Nutrition,
+    Shillong
+  website: https://ihmshillong.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering and Nutrition, Kufri
+  website: https://ihmshimla.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Institute of Hotel Management, Catering and Nutrition, Pusa
+  website: https://ihmpusa.net
+  status: external_link
+  category: Academies / Institutions
+- name: Pondicherry Institute of Hotel Management and Catering Technology, Colas Nagar
+  website: https://pihmct.py.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: State Institute of Hotel Management and Catering Technology (SIHMCT), Tiruchirappalli
+  website: https://www.sihmct.org
+  status: external_link
+  category: Academies / Institutions
+- name: Bharat Rannbhoomi Darshan
+  website: https://bharatrannbhoomidarshan.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Chalo India
+  website: https://www.chaloindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Integrated Database of Hospitality Industry
+  website: https://nidhi.tourism.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Rural Tourism
+  website: https://www.rural.tourism.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Swadesh Darshan Scheme
+  website: https://sd2.tourism.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Tourism and Hospitality Institute Management System
+  website: https://thims.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: UTSAV-India a Land of Festivals
+  website: https://utsav.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Incredible India
+  website: https://www.incredibleindia.gov.in
+  status: external_link
+  category: Others

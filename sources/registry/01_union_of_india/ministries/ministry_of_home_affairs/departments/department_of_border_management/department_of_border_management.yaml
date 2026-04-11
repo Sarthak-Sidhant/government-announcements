@@ -1,0 +1,42 @@
+name: Department of Border Management (DoBM)
+website: null
+contact:
+  address: ''
+  phone: ''
+  fax: ''
+  email: ''
+directory:
+- name: Shri Amit Shah
+  designation: Minister
+  organization: Ministry of Home Affairs
+  contact: 'Ph: 23092462, 23094686
+
+    Fax: 23017580
+
+    Address: Room No.: 104, North Block, New Delhi - 110001'
+  email: ''
+- name: Shri Nityanand Rai
+  designation: Minister of State
+  organization: Ministry of Home Affairs
+  contact: 'Ph: 23092870, 23092595
+
+    Address: Room No.: 101, North Block, New Delhi - 110001'
+  email: ''
+- name: Shri Bandi Sanjay Kumar
+  designation: Minister of State
+  organization: Ministry of Home Affairs
+  contact: 'Ph: 23092073, 23094054
+
+    Address: Room No.: 127, North Block, New Delhi - 110001'
+  email: ''
+- name: Shri Rajendra Kumar
+  designation: Secretary (BM)
+  organization: Secretary Office
+  contact: 'Ph: 23092431
+
+    Ext: 201
+
+    Fax: 23092573
+
+    Address: Room No.: 124, North Block, New Delhi - 110001'
+  email: secybm[at]nic[dot]in

@@ -1,0 +1,15 @@
+# === IDENTITY ===
+id: "union-jud-ngt"
+name: "National Green Tribunal"
+type: "judiciary"
+jurisdiction_level: "national"
+
+# === HIERARCHY ===
+parent: "union_of_india"
+
+# === SCRAPING CONFIG ===
+url: "https://greentribunal.gov.in"
+scraper_type: "s3waas"
+status: "pending"
+last_scraped: null
+priority: "medium"

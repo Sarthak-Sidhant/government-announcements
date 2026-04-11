@@ -1,0 +1,233 @@
+parent_ministry: Ministry of Environment, Forest and Climate Change (MoEFCC)
+organizations:
+- name: Botanical Survey of India (BSI)
+  website: https://bsi.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Forest Education Dehradun
+  website: https://dfe.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Forest Survey of India (FSI)
+  website: https://fsi.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Indian Forest Service (IFS)
+  website: https://ifs.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Indira Gandhi National Forest Academy (IGNFA)
+  website: https://www.ignfa.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Institute of Forest Genetics and Tree Breeding (IFGTB)
+  website: https://ifgtb.icfre.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Green Tribunal (NGT), New Delhi
+  website: https://www.greentribunal.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Museum of Natural History (NMNH)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: National River Conservation Directorate (NRCD)
+  website: https://nrcd.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Zoological Park, Delhi
+  website: https://nzpnewdelhi.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Research in Environment (RE) Division, Ministry of Environment, Forest and
+    Climate Change
+  website: https://repmismoef.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Society of Integrated Coastal Management (SICOM)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Wildlife Crime Control Bureau
+  website: https://wccb.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Zoological Survey of India (ZSI)
+  website: https://zsi.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Pollution Control Board (CPCB)
+  website: https://cpcb.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Central Zoo Authority (CZA)
+  website: https://cza.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Commission for Air Quality Management in National Capital Region and Adjoining
+    Areas
+  website: https://caqm.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Compensatory Afforestation Fund Management and Planning Authority
+    (CAMPA)
+  website: https://nationalcampa.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Tiger Conservation Authority (NTCA), New Delhi
+  website: https://ntca.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Himalayan Forest Research Institute
+  website: https://hfri.icfre.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: ICFRE-Institute of Wood Science and Technology
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Indian Council of Forestry Research and Education (ICFRE), Dehradun
+  website: https://icfre.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Forest Management (IIFM), Bhopal
+  website: https://iifm.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Biodiversity Authority (NBA)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Wildlife Institute of India (WII)
+  website: https://wii.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Andhra Pradesh Pollution Control Board
+  website: https://pcb.ap.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Animal Welfare Board of India (AWBI)
+  website: https://awbi.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Forest Academy, Coimbatore
+  website: https://www.forests.tn.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Govind Ballabh Pant 'National Institute of Himalayan Environment' (NIHE)
+  website: https://www.gbpihed.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: ICFRE-Forest Research Institute (FRI), Dehradun
+  website: https://fri.icfre.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: ABS End-to-End Portal
+  website: https://absefiling.nbaindia.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: CPREEC-EIACP Programme Centre, Resource Partner on Ecological Heritage and
+    Sacred Sites of India
+  website: https://cpreecenvis.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: EIACP (PC-RP) on Environmental Problems of Mining, Dhanbad
+  website: https://ismenvis.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Environment Education Programme
+  website: https://eepmoefcc.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Green Skill Development Programme (GSDP)
+  website: https://gsdp-envis.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: LiFE LiFEStyle for Environment
+  website: https://missionlife-moefcc.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Centre for Sustainable Coastal Management (NCSCM), Chennai
+  website: https://www.ncscm.res.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Mission for Clean Ganga (NMCG), New Delhi
+  website: https://nmcg.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Transit Pass System
+  website: https://ntps.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Consent Management & Monitoring System
+  website: https://ocmms.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Submission and Monitoring of Environmental Clearances
+  website: https://environmentclearance.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ozone Cell-Ministry of Environment and Forests, New Delhi
+  website: https://ozonecell.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PARIVESH an environmental single window hub for Environment, Forest, Wildlife
+    and CRZ clearances
+  website: https://parivesh.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: ENVIS Environmental Information System, Indian Centre for Plastic in the Environment
+    (ICPE)
+  website: https://icpe.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: EIACP Centre on Himalayan Ecology, Almora
+  website: https://gbpihedenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: EIACP Centre on Plants and Pollution, Lucknow
+  website: https://nbrienvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: EIACP PC Resource Partner (RP) on Avian Ecology, Mumbai
+  website: https://bnhsenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: EIACP Programme Centre on Climate Change and Public Health, Hyderabad
+  website: https://iictenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: ENVIS Centre on Biogeochemistry Jawaharlal Nehru University, New Delhi
+  website: https://jnuenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: ENVIS Centre on Control of Pollution-Central Pollution Control Board (CPCB)
+  website: https://cpcbenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: ENVIS Centre on Faunal Diversity, Kolkata
+  website: https://zsienvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: ENVIS Centre on Microorganisms and Impact of Public Health, Chennai
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: ENVIS Centre on Tripura State Pollution Control Board, Agartala
+  website: https://trpenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: ENVIS Resource Partner on Biodiversity, Kolkata
+  website: https://bsienvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: SPA-EIACP PC RP on Human Settlements and their Impact on Environment, Delhi
+  website: https://spaenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Wildlife Conservation (including species and habitats) using Geospatial Techniques,
+    WWF-India, New Delhi
+  website: https://wwfenvis.nic.in
+  status: external_link
+  category: Regional / Field Offices

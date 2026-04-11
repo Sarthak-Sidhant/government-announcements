@@ -1,0 +1,257 @@
+parent_department: Department of Higher Education (DoHE)
+organizations:
+- name: Common Management Admission Test (CMAT)
+  website: https://cmat.nta.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Board of Secondary Education - Academics
+  website: https://cbseacademic.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: All India Council of Technical Education (AICTE)
+  website: https://aicte.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Aligarh Muslim University (AMU)
+  website: https://www.amu.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Assam University
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Atal Bihari Vajpayee Indian Institute of Information Technology and Management
+    (ABV-IIITM), Gwalior
+  website: https://www.iiitm.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Auroville Foundation, Auroville
+  website: https://aurovillefoundation.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Board of Apprenticeship Training (Southern Region), Chennai
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Board of Apprenticeship Training, Northern Region
+  website: https://boatnr.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Board of Apprenticeship Training, Mumbai
+  website: https://boatwr.education.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Board of Practical Training (BOPT), Easter Region
+  website: https://bopter.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Hindi Directorate, New Delhi
+  website: https://chd.education.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Institute of Classical Tamil (CICT)
+  website: https://www.cict.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Institute of Indian Languages (CIIL)
+  website: https://www.ciil.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Central University of Karnataka
+  website: https://www.cuk.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Commission for Scientific and Technical Terminology (CSTT)
+  website: https://www.cstt.education.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Council of Architecture
+  website: https://www.coa.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Dr B R Ambedkar National Institute of Technology, Jalandhar
+  website: https://www.nitj.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Educational Consultants India Limited (EDCIL)
+  website: https://www.edcilindia.co.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Council of Historical Research (ICHR), New Delhi
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Indian Council of Philosophical Research (ICPR), New Delhi
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Indian Council of Social Science Research (ICSSR)
+  website: https://www.icssr.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Advanced Study (IIAS)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Indian Institute of Information Technology (IIIT), Allahabad
+  website: https://www.iiita.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Information Technology (IIIT), Una
+  website: https://iiitu.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Information Technology (IIIT), Tiruchirappalli
+  website: https://iiitt.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Information Technology (IIIT), Kottayam
+  website: https://iiitkottayam.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Information Technology (IIIT), Chittoor
+  website: https://iiits.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central University Portal
+  website: https://cup.ugc.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Awards to Teachers
+  website: https://nationalawardstoteachers.education.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Sanskrit University, Tirupati
+  website: https://nsktu.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: National University of Educational Planning and Administration (NUEPA), New
+    Delhi
+  website: null
+  status: active_no_link
+  category: Academies / Institutions
+- name: Nav Bharat Saksharta Karyakramme (ULLAS)
+  website: https://nilp.education.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Pandit Sunderlal Sharma Central Institute of Vocational Education
+  website: https://unevoc.unesco.org/home/Explore+the+UNEVOC+Network/centre=312
+  status: external_link
+  category: Academies / Institutions
+- name: AICTE Student Learning Assessment Project
+  website: https://aslap.aicte-india.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: All India Survey on Higher Education
+  website: https://aishe.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Atal Ranking of Institutions on Innovation Achievements (ARIIA)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Centralized Counseling for M.Tech and M.plan Admissions
+  website: https://ccmt.admissions.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital Survey for National Curriculum
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Ek Bharat Shreshtha Bharat
+  website: https://ekbharat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Graduate Pharmacy Aptitude Test (GPAT)
+  website: https://gpat.nta.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Higher Education Institution Directory
+  website: https://dashboard.aishe.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Innovation Cell
+  website: https://mic.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Institute for Studies in Industrial Development (ISID)
+  website: https://isid.org.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Jan-Dhan Se Jan Suraksha Portal
+  website: https://jansuraksha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Joint Entrance Examination (Advanced) (JEE Advanced)
+  website: https://jeeadv.ac.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Joint Entrance Examination (Main) (JEE)
+  website: https://jeemain.nta.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Joint Seat Allocation Authority
+  website: https://josaa.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Apprenticeship Training Scheme (NATS)
+  website: https://portal.mhrdnats.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Center for Catalysis Research (NCCR)
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Digital Library of India
+  website: https://www.ndl.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Eligibility Cum Entrance Test (UG)
+  website: https://neet.nta.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Mission on Education through Information and Communication Technology
+    (NMEICT)
+  website: https://www.nmeict.ac.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Task Force
+  website: https://ntf.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: One Nation One Subscription (ONOS)
+  website: https://onos.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PM e-VIDYA
+  website: https://pmevidya.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PRERANA-School of Experiential Learning
+  website: https://prerana.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Poshan Shakti Nirman
+  website: https://pmposhan.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Uchchatar Shiksha Abhiyan (PM-USHA)
+  website: https://pmusha.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Council for Hotel Management
+  website: https://nchmjee.nta.nic.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Supercomputing Facility for Bioinformatics and Computational Biology (SCFBIO)
+  website: null
+  status: active_no_link
+  category: Divisions / Units / Wings
+- name: Academic Bank of Credits
+  website: https://www.abc.gov.in
+  status: external_link
+  category: Others
+- name: Kashi Tamil Sangamam
+  website: https://kashitamil.iitm.ac.in
+  status: external_link
+  category: Others

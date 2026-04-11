@@ -1,0 +1,6 @@
+parent_department: Legislative Department (LD)
+organizations:
+- name: INDIA CODE-Text Base of all the Central Legislations
+  website: https://www.indiacode.nic.in
+  status: external_link
+  category: Others

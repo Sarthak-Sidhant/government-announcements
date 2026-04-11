@@ -1,0 +1,17 @@
+# === IDENTITY ===
+id: "sez-cochin"
+name: "Cochin Special Economic Zone"
+type: "special_economic_zone"
+jurisdiction_level: "sez"
+
+# === HIERARCHY ===
+parent_state: "kerala"
+parent_district: "ernakulam"
+governing_body: "Ministry of Commerce and Industry"
+
+# === SCRAPING CONFIG ===
+url: "https://csez.gov.in"
+scraper_type: "custom"
+status: "pending"
+last_scraped: null
+priority: "medium"

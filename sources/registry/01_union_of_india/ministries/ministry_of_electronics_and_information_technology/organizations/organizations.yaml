@@ -1,0 +1,471 @@
+parent_ministry: Ministry of Electronics and Information Technology (MeitY)
+organizations:
+- name: National Informatics Centre (NIC)
+  website: https://www.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Standardisation Testing and Quality Certification (STQC)
+  website: https://www.stqc.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Controller of Certifying Authorities (CCA)
+  website: https://cca.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Indian Computer Emergency Response Team (CERT-In)
+  website: https://www.cert-in.org.in
+  status: external_link
+  category: Statutory Bodies
+- name: Semiconductor Integrated Circuits Layout Design Registry (SICLDR)
+  website: https://sicldr.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Unique Identification Authority of India (UIDAI)
+  website: https://www.uidai.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Bhaskaracharya National Institute for Space Applications and Geo-informatics
+    (BISAG-N)
+  website: https://bisag-n.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Centre for Development of Advanced Computing (C-DAC)
+  website: https://cdac.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Centre for Materials for Electronics Technology (C-MET)
+  website: https://cmet.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Education and Research Network of India
+  website: https://ernet.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Semi-Conductor Laboratory
+  website: https://www.scl.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Society for Applied Microwave Electronic Engineering and Research (SAMEER)
+  website: https://www.sameer.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Software Technology Parks of India (STPI)
+  website: https://www.stpi.in
+  status: external_link
+  category: Autonomous Bodies
+- name: MyGov India
+  website: https://www.mygov.in
+  contact:
+    address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+      and Information Technology (Government of India) Electronics Niketan, 6, CGO
+      Complex, Lodhi Road, New Delhi - 110003, India
+    phone: 011-24301815, 011-24364706
+    fax: ''
+    email: ''
+  directory:
+  - name: Shri Nand Kumarum
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369903
+
+      Fax: 011-24301815'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations:
+  - name: 9 Years of Government
+    website: https://static.mygov.in/archive/9years/index.html
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: AatmaNirbharBharat (MyGov)
+    website: https://aatmanirbharbharat.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: Blog (MyGov)
+    website: https://blog.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: Campus Ambassador Programme (MyGov)
+    website: https://campus.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: Innovate India (MyGov)
+    website: https://innovateindia.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: MyGov Saathi
+    website: https://saathi.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: Pledge (MyGov)
+    website: https://pledge.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: Quiz (MyGov)
+    website: https://quiz.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: Transforming India (MyGov)
+    website: https://transformingindia.mygov.in
+    contact:
+      address: Office of CEO, MyGov 3rd Floor, Room no-3015 Ministry of Electronics
+        and Information Technology (Government of India) Electronics Niketan, 6, CGO
+        Complex, Lodhi Road, New Delhi - 110003, India
+      phone: 011-24301815, 011-24364706
+      fax: ''
+      email: ''
+    directory:
+    - name: Shri Nand Kumarum
+      designation: CEO
+      organization: MyGov
+      contact: 'Ph: 011-24369222, 011-24301913'
+      email: compliance-officer[at]mygov[dot]in
+    sub_organizations: []
+    category: Others
+  - name: Register as COVID-19 Volunteer (Individuals and Organisations)
+    website: https://self4society.mygov.in
+    status: external_link
+    category: Others
+  category: PSUs / JVs / Companies / Societies
+- name: MyGov India-Hindi
+  website: https://xn--11b3cgab9b4bm5d.xn--h2brj9c/hi
+  contact:
+    address: Office of CEO, MyGov 3rd Floor, Room no-3015
+    phone: 011-24301815, 011-24364706
+    fax: ''
+    email: ''
+  directory:
+  - name: Shri Nand Kumarum
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369903
+
+      Fax: 011-24301815'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: PSUs / JVs / Companies / Societies
+- name: Digital India Corporation
+  website: https://dic.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National E-Governance Division (NEGD)
+  website: https://negd.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Informatics Centre Services Incorporated (NICSI)
+  website: https://nicsi.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Internet eXchange of India (NIXI)
+  website: https://nixi.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: "\u200BNational Institute for Smart Government (NISG)"
+  website: https://www.nisg.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Institute of Electronics and Information Technology
+  website: https://www.nielit.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Chandigarh
+  website: https://www.nielit.gov.in/chandigarh
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Aurangabad
+  website: https://www.nielit.gov.in/aurangabad
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology, Kohima
+  website: https://www.nielit.gov.in/kohima
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Shimla
+  website: https://www.nielit.gov.in/shimla
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Agartala
+  website: https://www.nielit.gov.in/agartala
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Kurukshetra
+  website: https://www.nielit.gov.in/kurukshetra
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Bhubaneswar
+  website: https://www.nielit.gov.in/bhubaneswar
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Gorakhpur
+  website: https://www.nielit.gov.in/gorakhpur
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Majuli
+  website: https://www.nielit.gov.in/majuli
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Patna
+  website: https://www.nielit.gov.in/patna
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute of Electronics and Information Technology (NIELIT), Pali
+  website: https://www.nielit.gov.in/pali
+  status: external_link
+  category: Academies / Institutions
+- name: UX4G-A Gov Design Guide
+  website: https://www.ux4g.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Visvesvaraya PhD Scheme for Electronics & IT
+  website: https://phd.dic.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: API Setu
+  website: https://apisetu.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Aadhaar Good Governance Portal
+  website: https://swik.meity.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Abhilekh Patal
+  website: https://www.abhilekh-patal.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Anuvaad, Web Service Text Translation
+  website: https://anuvaad.bhashini.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Bharat Maps
+  website: https://bharatmaps.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Biometric Attendance System-Delhi Central (BAS)
+  website: https://attendance.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: CHAVI-Comprehensive Archive of Imaging in Oncology
+  website: https://chavi.ai
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Chips to Startup (C2S)
+  website: https://c2s.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Common Services Centers Jaankari Suvidha
+  website: https://jaankari.csccloud.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Common Services Centers Scheme (CSC)
+  website: https://csc.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Cyber Swachhta Kendra
+  website: https://www.csk.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Design Linked Incentive (DLI)
+  website: https://chips-dli.gov.in/DLI/HomePage
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: DigiDhan Dashboard
+  website: https://digipay.gov.in/dashboard/Default.aspx
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: DigiLocker-Dedicated personal storage space, linked to residentas Aadhaar
+    number
+  website: https://digitallocker.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital Brand Identity Manual (DBIM)
+  website: https://dbimtoolkit.digifootprint.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital India Awards
+  website: https://digitalindiaawards.india.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital India Internship Portal
+  website: https://intern.meity.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital India Programme
+  website: https://digitalindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Electronic Procurement (GePNIC)
+  website: https://gepnic.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Electronics Component Manufacturing Scheme
+  website: https://ecms.meity.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: FutureSkills Prime
+  website: https://www.futureskillsprime.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: GREENE-An E-Waste Awareness Initiative
+  website: https://greene.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Government eAuction System
+  website: https://eauction.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Guidelines for Indian Government Websites (GIGW)
+  website: https://guidelines.india.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: INDIAai-Central hub for everything Artificial Intelligence (AI) in India and
+    beyond
+  website: https://indiaai.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Institute of Electronics and Information Technology (NIELIT), Srinagar,
+    Jammu
+  website: https://www.nielit.gov.in/srinagar
+  status: external_link
+  category: Regional / Field Offices
+- name: National Institute of Electronics and Information Technology (NIELIT), Calicut
+  website: https://www.nielit.gov.in/calicut
+  status: external_link
+  category: Regional / Field Offices
+- name: National Institute of Electronics and Information Technology (NIELIT), Imphal
+  website: https://www.nielit.gov.in/imphal
+  status: external_link
+  category: Regional / Field Offices
+- name: Cashless India
+  website: null
+  status: active_no_link
+  category: Others
+- name: Digital Locker Authority (DLA)
+  website: https://dla.gov.in
+  status: external_link
+  category: Others
+- name: Independence Day Celebrations, 15th August
+  website: https://independenceday.nic.in
+  status: external_link
+  category: Others
+- name: Kisan Sarathi
+  website: https://kisansarathi.in
+  status: external_link
+  category: Others
+- name: National Government Cloud Services
+  website: https://ngc.gov.in
+  status: external_link
+  category: Others
+- name: Sansad TV
+  website: https://webcast.gov.in/lstvlive
+  status: external_link
+  category: Others
+- name: Stay Safe Online
+  website: https://staysafeonline.in
+  status: external_link
+  category: Others
+- name: ePARINAM
+  website: https://eparinam.gov.in
+  status: external_link
+  category: Others

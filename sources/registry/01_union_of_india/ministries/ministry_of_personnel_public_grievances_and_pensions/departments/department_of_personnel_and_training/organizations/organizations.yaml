@@ -1,0 +1,82 @@
+parent_department: Department of Personnel and Training (DoPT)
+organizations:
+- name: Capacity Building Commission
+  website: https://cbc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Information Commission (CIC)
+  website: https://cic.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Vigilance Commission (CVC)
+  website: https://cvc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Staff Selection Commission, Bangalore
+  website: https://ssckkr.kar.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Union Public Service Commission (UPSC)
+  website: https://www.upsc.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Bureau of Investigation (CBI)
+  website: https://cbi.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Staff Selection Commission (SSC)
+  website: https://ssc.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Indian Institute of Public Administration (IIPA)
+  website: https://www.iipa.org.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Institute of Secretariat Training and Management (ISTM)
+  website: https://www.istm.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Lal Bahadur Shastri National Academy of Administration (LBSNAA)
+  website: https://www.lbsnaa.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Karmayogi Bharat
+  website: https://karmayogibharat.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Public Enterprises Selection Board (PESB)
+  website: https://pesb.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: CSE Candidates' Information Central
+  website: https://cseplus.dopt.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Circular Management Information System
+  website: https://ccis.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Electronic Human Resource Management System 2.0
+  website: https://e-hrms.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Lokpal Online-Digital Platform for Management of Complaints
+  website: https://lokpalonline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Conference of Chief Secretaries
+  website: https://ncsconf.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Symposium on Excellence in Training (NSET)
+  website: https://nset.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: RTI applications/First Appeals to Central Government Organisations (RTI Online)
+  website: https://rtionline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Recruitment Rules Formulation, Amendment and Monitoring System
+  website: https://rrfams.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

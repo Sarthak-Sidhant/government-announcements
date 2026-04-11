@@ -1,0 +1,94 @@
+parent_department: Department of Posts (DoP)
+organizations:
+- name: Directorate of Postal Life Insurance
+  website: https://pli.indiapost.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Centre of Geo-Informatics
+  website: https://ncog.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Rafi Ahmed Kidwai National Postal Academy (RAKNPA), Ghaziabad
+  website: https://raknpa.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Dak-Karmayogi
+  website: https://dakkarmayogi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Digital Address Services
+  website: https://dac.indiapost.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: GDS Online Engagement
+  website: https://indiapostgdsonline.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: India Post Complaint Registration
+  website: https://crm.indiapost.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Postage Stamps
+  website: https://postagestamps.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: SANVARDHAN
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: ePOST-send messages to any address in India by India Post
+  website: https://epost-indiapost.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: ePost Office-India Post on Your Desktop
+  website: https://www.epostoffice.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Center for Excellence in Postal Technology (CEPT)
+  website: https://cept.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: AP Postal Circle
+  website: https://vijayawadapost.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Chhattisgarh Postal Circle
+  website: https://www.cgpost.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Haryana Postal Circle
+  website: https://circleadmin.haryanapost.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Karnataka Postal Circle
+  website: https://www.karnatakapost.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Kerala Postal Circle
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Madhya Pradesh Postal Circle
+  website: https://mppost.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Maharashtra Postal Circle
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Postal Training Centre (PTC)
+  website: https://ptcmysore.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Tamil Nadu Postal Circle
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Uttarakhand Postal Circle
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: West Bengal Postal Circle
+  website: https://westbengalpost.gov.in
+  status: external_link
+  category: Regional / Field Offices

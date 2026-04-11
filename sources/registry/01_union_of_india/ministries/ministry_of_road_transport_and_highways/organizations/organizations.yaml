@@ -1,0 +1,66 @@
+parent_ministry: Ministry of Road Transport and Highways (MoRTH)
+organizations:
+- name: National Highways Authority of India (NHAI)
+  website: https://nhai.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Highways and Infrastructure Development Corporation ltd.
+  website: https://nhidcl.com
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Institute of Road Transport (CIRT)
+  website: https://www.cirtindia.com
+  status: external_link
+  category: Academies / Institutions
+- name: Indian Academy of Highway Engineers (IAHE)
+  website: https://iahe.morth.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: E-Amrit Portal
+  website: https://www.e-amrit.niti.gov.in/home
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: INAM-Pro, Platform for Infrastructure and Materials Providers
+  website: https://www.inampro.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Land Acquisition Portal
+  website: https://bhoomirashi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: No Objection Certificate Portal
+  website: https://morthnoc.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Over Dimensional/Over Weight Cargo Movement Online Application (ODC/OWC)
+  website: https://morth-owc.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Parivahan Sewa
+  website: https://parivahan.gov.in/parivahan
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Rajmarg Pravesh Portal
+  website: https://rajmargpravesh.morth.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Road Safety Advocacy Scheme
+  website: https://rsa.morth.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Smart Card Operating System for Transport Application (SCOSTA)
+  website: https://scosta.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: VAHAN-Integrated Solution for Vehicle Registration
+  website: https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Roads Congress (IRC)
+  website: https://www.irc.nic.in
+  status: external_link
+  category: Others
+- name: Registered Vehicle Scrapping Facility
+  website: https://vscrap.parivahan.gov.in/vehiclescrap/vahan/welcome.xhtml
+  status: external_link
+  category: Others

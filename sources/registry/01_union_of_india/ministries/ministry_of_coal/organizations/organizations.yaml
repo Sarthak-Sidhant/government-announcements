@@ -1,0 +1,62 @@
+parent_ministry: Ministry of Coal
+organizations:
+- name: Coal Controller's Organization
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Coal Mines Provident Fund Organisation (CMPFO)
+  website: https://cmpfo.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Bharat Coking Coal Limited (BCCL)
+  website: https://www.bcclweb.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Coalfields Limited (CCL)
+  website: https://www.centralcoalfields.in/ind/index_h.php
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Mine Planning and Design Institute Limited, Ranchi
+  website: https://www.cmpdi.co.in/index.php?lang=Eng
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Coal India Limited (CIL)
+  website: https://www.coalindia.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Eastern Coal Fields Limited
+  website: https://www.easterncoal.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mahanadi Coalfields Limited
+  website: https://www.mahanadicoal.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: NLC India Limited (NLCIL)
+  website: https://www.nlcindia.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Northern Coalfields Limited
+  website: https://www.nclcil.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Science and Technology Research in Coal and Lignite Sector
+  website: https://scienceandtech.cmpdi.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Singareni Collieries Company Limited (SCCL)
+  website: https://scclmines.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: South Eastern Coalfields Limited (SECL)
+  website: https://secl-cil.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Western Coalfields Limited (WCL)
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Single Window Clearance System gateway for Operationalization of Coal Mines
+  website: https://swcs.coal.gov.in/admin
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

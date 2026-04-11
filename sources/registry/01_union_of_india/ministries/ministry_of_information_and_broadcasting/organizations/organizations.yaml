@@ -1,0 +1,138 @@
+parent_ministry: Ministry of Information and Broadcasting (MIB)
+organizations:
+- name: Central Board of Film Certification (CBFC), Mumbai
+  website: https://www.cbfcindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Bureau of Communication (CBC)
+  website: https://cbcindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Electronic Media Monitoring Center (EMMC)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Employment News
+  website: https://employmentnews.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: New Media Wing
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Office of Registrar of Newspapers for India (RNI)
+  website: https://rni.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Photo Division of PIB
+  website: https://photodivision.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Press Information Bureau (PIB)
+  website: https://pib.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Publications Division
+  website: https://www.publicationsdivision.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: e-Filing Services, Registrar of Newspaper for India
+  website: https://egov.rni.nic.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Children's Film Society
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Directorate of Film Festivals
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Film and Television Institute of India, Pune
+  website: https://ftii.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Films Division
+  website: https://filmsdivision.org
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Institute of Mass Communication (IIMC)
+  website: https://iimc.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Prasar Bharati, Broadcasting Corporation of India
+  website: https://prasarbharati.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Press Council of India (PCI)
+  website: https://presscouncil.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Satyajit Ray Film and Television Institute
+  website: https://srfti.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Broadcasting Engineering Corporation of India Limited (BECIL)
+  website: https://www.becil.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Film Development Corporation (NFDC)
+  website: https://www.nfdcindia.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Broadcast Seva Portal
+  website: https://new.broadcastseva.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Doordarshan of India News
+  website: https://ddnews.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Information Service
+  website: https://iis.mib.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: International Film Festival of India
+  website: https://www.iffigoa.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Video Gateway of Bharat
+  website: https://navigatebharat.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: News on All India Radio
+  website: https://newsonair.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Output Outcome Monitoring Framework
+  website: https://oomf.mib.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: PM India Webcast
+  website: https://pmindiawebcast.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Performance Dashboard
+  website: https://mib.dashboard.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Press Registrar General of India
+  website: https://prgi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Press Sewa Portal
+  website: https://presssewa.prgi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: SAMVAD 2.0
+  website: https://samvad.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Hamara Samvidhan, Hamara Swabhiman
+  website: https://constitution75.com
+  status: external_link
+  category: Others
+- name: India Cinema Hub
+  website: https://indiacinehub.gov.in
+  status: external_link
+  category: Others

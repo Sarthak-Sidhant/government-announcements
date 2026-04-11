@@ -1,0 +1,136 @@
+[
+  {
+    "source_page": "https://bokaro.nic.in/hi/notice_category/%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80/",
+    "data_type": "Key-Value Knowledge",
+    "content": {
+      "contacts": [],
+      "addresses": [],
+      "names": [],
+      "dates": []
+    },
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice/district-helpline-call-centre/",
+    "data_type": "Structured Table",
+    "content": [
+      "Title",
+      "Description",
+      "Start Date",
+      "End Date",
+      "File"
+    ],
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice/district-helpline-call-centre/",
+    "data_type": "Structured Table",
+    "content": [
+      "District Helpline/Call Centre",
+      "District Helpline/Call Centre",
+      "01/04/2020",
+      "31/07/2020",
+      "View (408 KB)"
+    ],
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice/district-helpline-call-centre/",
+    "data_type": "Key-Value Knowledge",
+    "content": {
+      "title": "District Helpline/Call Centre",
+      "description": "District Helpline/Call Centre",
+      "start_date": "01/04/2020",
+      "end_date": "31/07/2020",
+      "file": "View (408 KB)"
+    },
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "Title",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "Description",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "Start Date",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "End Date",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "File",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "Short term notice for expression of interest for operation of Urban Primary Health Centre Telidih, Urban Primary Health Centre Kailash Nagar and Mother Teresa Advanced Health Clinic Solagadih located in Chas area.",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "Civil Surgeon-cum-Chief Medical Officer, Bokaro.",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "23/12/2025",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "09/12/2026",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Structured Table",
+    "content": "View (383 KB)",
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/notice_category/tenders/",
+    "data_type": "Key-Value Knowledge",
+    "content": {
+      "contact_person": "Civil Surgeon-cum-Chief Medical Officer, Bokaro",
+      "location": "Bokaro",
+      "tender_title": "Short term notice for expression of interest for operation of Urban Primary Health Centre Telidih, Urban Primary Health Centre Kailash Nagar and Mother Teresa Advanced Health Clinic Solagadih located in Chas area.",
+      "start_date": "23/12/2025",
+      "end_date": "09/12/2026"
+    },
+    "asset_summary": null
+  },
+  {
+    "source_page": "https://bokaro.nic.in/contact-us/",
+    "data_type": "Key-Value Knowledge",
+    "content": {
+      "managing_body": "District Administration, Bokaro, Jharkhand",
+      "developed_by": "National Informatics Center, Bokaro",
+      "contact_email": "dc-bok@nic.in",
+      "office_name": "Deputy Commissioner office",
+      "address": "Bokaro Steel City, Jharkhand",
+      "pin_code": "827001",
+      "phone": "06542-249904",
+      "feedback_section": "Feedback section"
+    },
+    "asset_summary": null
+  }
+]

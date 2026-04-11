@@ -1,0 +1,31 @@
+name: Ministry of Petroleum and Natural Gas (MoPNG)
+website: https://mopng.gov.in
+contact:
+  address: Ministry of Petroleum & Natural Gas, Kartavya Bhawan - 03, Janpath Road,
+    New Delhi - 110001
+  phone: 011-24011101, 011-24011102
+  fax: ''
+  email: ''
+directory:
+- name: Shri Hardeep Singh Puri
+  designation: Minister
+  organization: Ministry of Petroleum and Natural Gas
+  contact: 'Ph: 24011101
+
+    Address: Room No.: 31109, Kartavya Bhawan - 03, Janpath Road, New Delhi - 110001'
+  email: min[dot]png[at]nic[dot]in
+- name: Shri Suresh Gopi
+  designation: Minister of State
+  organization: Ministry of Petroleum and Natural Gas
+  contact: 'Ph: 24011113
+
+    Address: Room No.: 31074, Kartavya Bhawan - 03, Janpath Road, New Delhi - 110001'
+  email: ''
+- name: Shri Neeraj Mittal
+  designation: Secretary
+  organization: Ministry of Petroleum and Natural Gas
+  contact: 'Ph: 24011201
+
+    Address: Room No.: 31104, Kartavya Bhawan - 03, Janpath Road, New Delhi - 110001'
+  email: sec[dot]png[at]nic[dot]in
+status: active

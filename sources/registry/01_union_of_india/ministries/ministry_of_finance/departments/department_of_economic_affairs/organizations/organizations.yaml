@@ -1,0 +1,55 @@
+parent_department: Department of Economic Affairs (DEA)
+organizations:
+- name: Indian Economic Service (IES)
+  website: https://www.ies.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Savings Institute (NSI)
+  website: https://www.nsiindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Sixteenth Finance Commission of India
+  website: https://fincomindia.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Insurance Regulatory and Development Authority (IRDA)
+  website: https://irdai.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Securities and Exchange Board of India (SEBI)
+  website: https://www.sebi.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: India Infrastructure Finance Company Limited (IIFCL)
+  website: https://iifcl.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Public Private Partnerships in India (PPP)
+  website: https://www.pppinindia.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Security Printing and Minting Corporation of India Limited (SPMCIL)
+  website: https://www.spmcil.com/en
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: G20 India Secretariat, New Delhi
+  website: https://dea.gov.in/g20india/g20-india
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Union Budget
+  website: https://www.indiabudget.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Webcast of Hon'ble Finance Minister's Presentation of Union Budget in the
+    Parliament
+  website: https://budgetlive.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Aid Accounts and Audit Division, New Delhi
+  website: https://caaa.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Asian Development Bank
+  website: https://eapdea.gov.in
+  status: external_link
+  category: Others

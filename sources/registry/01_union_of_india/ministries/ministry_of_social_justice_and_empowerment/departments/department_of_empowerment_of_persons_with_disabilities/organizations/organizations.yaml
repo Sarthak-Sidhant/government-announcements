@@ -1,0 +1,136 @@
+parent_department: Department of Empowerment of Persons with Disabilities (DEPWD)
+organizations:
+- name: Office of Chief Commissioner for Persons with Disabilities
+  website: https://ccpd.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Atal Bihari Vajpayee Training Centre For Disability Sports, Gwalior
+  website: https://cdsgwalior.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Gorakhpur
+  website: https://crcgorakhpur.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Ranchi
+  website: https://crcranchi.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Guwahati
+  website: https://crcguwahati.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Chhatarpur
+  website: https://crcchhatarpur.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Srinagar
+  website: https://crcsrinagar.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Sikkim
+  website: https://crcgangtok.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Madurai
+  website: https://crcmadurai.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Patna
+  website: https://crcpatna.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Ahmedabad
+  website: https://crcahmedabad.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: National Institute of Mental Health Rehabilitation, Sehore
+  website: https://nimhr.nic.in
+  status: external_link
+  category: Statutory / Autonomous Bodies
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities (CRC), Nagpur
+  website: https://crcnagpur.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental
+    Retardation and Multiple Disabilities, New Delhi
+  website: https://www.thenationaltrust.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Rehabilitation Council of India (RCI)
+  website: https://rehabcouncil.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Ali Yavar Jung National Institute for the Hearing Handicapped (AYJNIHH)
+  website: https://ayjnishd.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Sign Language Research and Training Centre (ISLRTC)
+  website: https://islrtc.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute for the Empowerment of Persons with Intellectual Disabilities
+  website: https://niepid.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute for the Orthopaedically Handicapped (NIOH), Kolkata
+  website: https://nild.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Pandit Deen Dayal Upadhyaya Institute for the Physically Handicapped (PDDUIPH)
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Swami Vivekanand National Institute of Rehabilitation Training and Research
+    (SVNIRTAR), Olatpur
+  website: https://svnirtar.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Handicapped Finance and Development Corporation (NHFDC)
+  website: https://www.ndfdc.nic.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD)
+  website: https://niepmd.tn.nic.in
+  status: external_link
+  category: Academies / Institutions
+- name: National Institute for the Visually Handicapped (NIVH), Dehradun
+  website: https://nivh.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Disability Education and Engagement Portal for Access to Knowledge
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Punarbhava, National Interactive Portal on Disability
+  website: https://www.punarbhava.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Unique Disability ID (UDID)
+  website: https://www.swavlambancard.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Composite Regional Centre for Persons with Disabilities, Bhopal
+  website: https://crcbhopal.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities, Davanagere
+  website: https://crcdvg.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Composite Regional Centre for Skill Development, Rehabilitation and Empowerment
+    of Persons with Disabilities, Nellore
+  website: https://crcnlr.nic.in
+  status: external_link
+  category: Regional / Field Offices

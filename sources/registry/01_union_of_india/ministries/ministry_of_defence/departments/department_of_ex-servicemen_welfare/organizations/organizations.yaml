@@ -1,0 +1,18 @@
+parent_department: Department of Ex-Servicemen Welfare (DESW)
+organizations:
+- name: Directorate General Resettlement (DGR), New Delhi
+  website: https://dgrindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Ex-Servicemen Contributory Health Scheme (ECHS), New Delhi
+  website: https://echs.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Kendriya Sainik Board Secretariat, New Delhi
+  website: https://online.ksb.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Kendriya Sainik Board Secretariat, New Delhi
+  website: https://ksb.gov.in
+  status: external_link
+  category: Statutory Bodies

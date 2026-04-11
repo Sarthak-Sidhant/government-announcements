@@ -1,0 +1,33 @@
+name: Ministry of Culture
+website: https://culture.gov.in
+contact:
+  address: Ministry of Culture, Room No.- 330A, C Wing, Third floor, Shastri Bhawan,
+    New Delhi -110001
+  phone: 011-23388804, 011-23388347
+  fax: ''
+  email: webmaster-culture[at]gov[dot]in
+directory:
+- name: Shri Gajendra Singh Shekhawat
+  designation: Minister
+  organization: Ministry of Culture
+  contact: 'Ph: 23386765, 23384173
+
+    Fax: 23385115
+
+    Address: Room No. 501,''C'' Wing, Shastri Bhawan, New Delhi-110001'
+  email: gsingh[dot]shekhawat[at]gov[dot]in
+- name: Rao Inderjit Singh
+  designation: Minister of State
+  organization: Ministry of Culture
+  contact: 'Ph: 21402909, 23096561
+
+    Address: Room No. 132, NITI Aayog, New Delhi-110001'
+  email: mos-culture[at]gov[dot]in
+- name: Shri Vivek Aggarwal
+  designation: Secretary
+  organization: Ministry of Culture
+  contact: 'Ph: 23386995
+
+    Address: Room No. 502-C , Shastri Bhawan, New Delhi-110001'
+  email: secy-culture[at]nic[dot]in
+status: active

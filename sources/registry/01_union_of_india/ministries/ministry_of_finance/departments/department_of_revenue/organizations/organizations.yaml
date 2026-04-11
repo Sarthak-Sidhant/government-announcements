@@ -1,0 +1,446 @@
+parent_department: Department of Revenue (DoR)
+organizations:
+- name: Central Board Of Indirect Taxes and Customs (CGST and CE), Delhi
+  website: https://gstdelhizone.gov.in/west/contact-west.php
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Board of Direct Taxes (CBDT)
+  website: https://incometaxindia.gov.in/pages/about-us/central-board-of-direct-taxation.aspx
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Board of indirect Taxes and Customs
+  website: https://www.cbic.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Bureau of Narcotics
+  website: https://www.cbn.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Economic Intelligence Bureau (CEIB)
+  website: https://ceib.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central Excise, Trichy
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Central Revenues Control Laboratory, CBEC
+  website: https://crcl.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Chief Controller of Factories
+  website: https://goaf.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Delhi Customs
+  website: https://delhicustoms.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Anti-profiteering, Central Board of Indirect Taxes
+    and Customs
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Goods and Services Tax Intelligence (DGGI, CBIC)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Human Resource Development
+  website: https://dghrdcbic.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Performance Management
+  website: https://dgpm.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Data Management (DDM, CBIC)
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Enforcement
+  website: https://www.enforcementdirectorate.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Legal Affairs
+  website: https://dlacbic.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Logistics, Customs and Central Excise
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Financial Intelligence Unit (FIU-IND)
+  website: https://fiuindia.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Goods and Services Tax and Central Excise (GST), Delhi Zone
+  website: https://gstdelhizone.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Anti-profiteering Authority (NAA)
+  website: https://www.naa.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Principal Chief Controller of Accounts, Central Board of Excise and Customs
+    (CCA - CBEC)
+  website: https://www.arpit.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Central GST and Central Excise Commissionerate, Daman
+  website: https://www.damancgst.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central GST and Central Excise Commissionerate, Patna
+  website: https://cexpatna.bih.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Goods and Services Tax Audit Lucknow
+  website: https://cgstauditlko.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Commissionerate of Central Excise and Customs, Vadodara - II
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Customs Commissionerate Preventive, Amritsar
+  website: https://amritsarcustoms.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Customs Preventive Commissionerate, Central Board of Excise and Customs, Vijayawada
+  website: https://apcustoms.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Customs and Central Excise Commissionerate, Jammu and Kashmir
+  website: https://ccejk.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Customs and Central Excise Commissionerate, Nagpur
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Customs, Central Excise and Service Tax Commissionerate, Indore
+  website: https://gstindore.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Customs, Central Excise and Service Tax Commissionorate, Tirupati
+  website: https://tirupaticentralexcise.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Dhanbad Commissionerate, Central Excise and Service Tax
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Goods and Service Tax Commissionerate (GST), Jabalpur
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Goods and Service Tax Commissionerate, Jabalpur
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Goods and Service Tax and Central Excise Commissionerate (GST), Mumbai Zone
+  website: https://gstmumbai.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Goods and Services Tax Commissionerate (GST), Delhi South
+  website: https://gstdelhizone.gov.in/south/index-south.php
+  status: external_link
+  category: Commissions/ Committees
+- name: Goods and Services Tax Commissionerate (GST), Mumbai East
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Income-tax Settlement Commission / Wealth-tax Settlement Commission
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Office of the Chief Commissioner, Customs, Central Excise and Service Tax,
+    Bhopal
+  website: https://ccobz.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Office of the Principal Commissioner of Customs, Mundra Port, Kachchh
+  website: https://mundracustoms.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Principal Chief Commissioner of Central Tax, Bengaluru Zone Karnataka
+  website: https://gstkarnataka.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Principal Commissioner Custom Central Excise and Central GST, Ujjain
+  website: https://cgstujjain.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Ranchi(II) Bokaro Commissionerate, Central Excise And Service Tax
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Settlement Commission, Customs, Central Excise and Service Tax
+  website: null
+  status: active_no_link
+  category: Commissions/ Committees
+- name: Appellate Tribunal for Forfeited Property (ATFP)
+  website: https://atfp.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Competent Authority (CA), Chennai
+  website: https://camumbai.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Kandla Customs
+  website: https://kandlacustoms.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Academy of Customs, Indirect Taxes and Narcotics (NACIN), Faridabad
+  website: https://nacin.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Excise, Service Tax and Customs, Cochin
+  website: https://cenexcisekochi.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Academy of Direct Taxes, Nagpur
+  website: https://nadt.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Authorised Economic Operator Programme, Indian Customs (AEO)
+  website: https://aeoindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: GST portal of Central Board of Indirect Taxes and Customs (CBIC)
+  website: https://cbic-gst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: ICEGATE-Indian Customs National Trade Portal
+  website: https://www.icegate.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Customs Electronic Data Interchange System
+  website: https://ices.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Mera Bill Mera Adhikaar
+  website: https://web.merabill.gst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: NSDL Database Management Limited (NDML)
+  website: https://www.ndml.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Online Refund Status for Taxpayers
+  website: https://www.onlineservices.nsdl.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Tax Information Exchange System, Delhi
+  website: https://tinxsys.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Tax Information Network (TIN)
+  website: https://www.protean-tinpan.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Invoice System
+  website: https://einvoice1.gst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Way Bill System-One Nation One e-Way Bill for movement of Goods throughout
+    the Country
+  website: https://ewaybillgst.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e-Yachika Portal
+  website: https://eyachikadelhicustoms.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Commissioner(Appeals), Goods and Service Tax (GST) Commissionerate, Chandigarh
+  website: https://www.cexchd1.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Ahmedabad Customs
+  website: https://ahmedabadcustoms.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Air Cargo Complex, Mumbai Customs
+  website: https://accmumbai.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Airport Special Cargo, Mumbai Customs Zone - III
+  website: https://airportspecialcargo.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Bengaluru Customs Zone
+  website: https://bangalorecustoms.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Central Board of Excise and Customs (CBEC), Bhavnagar
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Central Excise, Aurangabad
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Central Excise, Puducherry
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Central Excise, Chennai
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Central Excise and Customs, Commissionerate, Raipur
+  website: https://cexraipur.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Central Excise and Service Tax Commissionerate, Ludhiana
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Central Excise, Customs and Service Tax Commissionerate, Visakhapatnam I
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Central GST Commissionerate, Rajkot
+  website: https://cgstrajkot.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Chief Commissioner of Central GST and Customs, Visakhapatnam Zone
+  website: https://cgstap.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Commissioner (Audit), Central Excise and Service Tax, Jaipur
+  website: https://cexauditjaipur.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Commissioner Customs (Preventive), Lucknow
+  website: https://www.commissionercustomslucknow.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Commissioner of Customs (Preventive), Mumbai
+  website: https://ccpmumbai.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Commissionerate of Customs (Preventive), North Eastern Region, Shillong
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Jamnagar Customs
+  website: https://www.jamnagarcustoms.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Kolkata Customs
+  website: https://www.kolkatacustoms.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Mangalore Customs
+  website: null
+  status: active_no_link
+  category: Regional / Field Offices
+- name: Mumbai Customs Zone-1
+  website: https://www.mumbaicustomszone1.gov.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Pune Customs
+  website: https://www.punecustoms.nic.in
+  status: external_link
+  category: Regional / Field Offices
+- name: Central Excise, Shillong
+  website: https://cexstshillong.gov.in
+  status: external_link
+  category: Others
+- name: Central Excise Zone, Jaipur
+  website: null
+  status: active_no_link
+  category: Others
+- name: Central Excise,Customs and Service Tax, Bhubaneswar
+  website: https://centralexciseorissa.gov.in
+  status: external_link
+  category: Others
+- name: Central GST, Kozhikode
+  website: null
+  status: active_no_link
+  category: Others
+- name: Central GST And Central Excise Ahmedabad South
+  website: null
+  status: active_no_link
+  category: Others
+- name: Central Goods and Service Tax, Raipur
+  website: null
+  status: active_no_link
+  category: Others
+- name: Central Goods and Services Tax Zone (CGST), Kolkata
+  website: https://cgstkolkata.gov.in
+  status: external_link
+  category: Others
+- name: Chennai Customs Zone
+  website: https://chennaicustoms.gov.in
+  status: external_link
+  category: Others
+- name: Custom House (Cochin)
+  website: https://www.cochincustoms.gov.in
+  status: external_link
+  category: Others
+- name: Customs Brokers Licensing and Management System
+  website: https://cblms.gov.in
+  status: external_link
+  category: Others
+- name: Customs Commissionarate (Preventive), Rajasthan
+  website: https://rajasthancustoms.gov.in
+  status: external_link
+  category: Others
+- name: Customs Excise and Service Tax Appellate Tribunal (CESTAT)
+  website: https://cestat.gov.in
+  status: external_link
+  category: Others
+- name: Customs House, Visakhapatnam
+  website: https://vizagcustoms.gov.in
+  status: external_link
+  category: Others
+- name: Customs and Central Excise, Bhopal
+  website: https://ccobz.gov.in/posting.html
+  status: external_link
+  category: Others
+- name: Customs, Central Excise and Service Tax Zone, Lucknow
+  website: https://ccolkozone.gov.in
+  status: external_link
+  category: Others
+- name: Customs, Excise and Service Tax Appellate Tribunal (CESTAT), Hyderabad
+  website: https://arcestathyd.nic.in
+  status: external_link
+  category: Others
+- name: FINGate 2.0
+  website: https://www.fingate.gov.in
+  status: external_link
+  category: Others
+- name: Goods and Service Tax and Central Excise (GST), Kanpur
+  website: null
+  status: active_no_link
+  category: Others
+- name: Goods and Services Tax (GST)
+  website: https://www.gst.gov.in
+  status: external_link
+  category: Others
+- name: Goods and Services Tax (GST), Hyderabad Zone
+  website: https://cgsthyderabadzone.gov.in
+  status: external_link
+  category: Others
+- name: Goods and Services Tax Council (GST)
+  website: https://gstcouncil.gov.in
+  status: external_link
+  category: Others
+- name: Goods and Services Tax, Central Board of Excise and Customs (GST, CBEC)
+  website: https://cbec-gst.gov.in
+  status: external_link
+  category: Others
+- name: Income Tax Department, Rajasthan
+  website: https://incometaxrajasthan.gov.in
+  status: external_link
+  category: Others
+- name: Income Tax Department, Tamil Nadu and Pudhucherry
+  website: https://tnincometax.gov.in
+  status: external_link
+  category: Others
+- name: OLTAS - Challan Status Inquiry, Income Tax Department
+  website: https://tin.tin.nsdl.com/oltas
+  status: external_link
+  category: Others

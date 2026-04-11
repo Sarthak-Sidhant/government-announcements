@@ -1,0 +1,62 @@
+parent_ministry: Ministry of New and Renewable Energy (MNRE)
+organizations:
+- name: National Institute of Solar Energy
+  website: https://nise.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Institute of Wind Energy
+  website: https://niwe.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Sardar Swaran Singh National Institute of Bio Energy (SSSNIRE)
+  website: https://www.nibe.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Indian Renewable Energy Development Agency Limited
+  website: https://www.ireda.in/home
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Solar Energy Corporation of India Limited
+  website: https://www.seci.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: BIO-URJA Portal
+  website: https://biourja.mnre.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Biogas Application Portal
+  website: https://biogas.mnre.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: India Renewable Idea Exchange Portal (IRIX)
+  website: https://irix.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: International Solar Alliance (ISA)
+  website: https://isolaralliance.org
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Portal for Rooftop Solar
+  website: https://solarrooftop.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Surya Ghar Muft Bijli Yojana
+  website: https://pmsuryaghar.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Wind Energy Programme
+  website: https://ccdcwind.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Akshay Urja
+  website: https://akshayurja.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Human Resource Development
+  website: https://hrd.mnre.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Renewable Energy Certificate Registry of India
+  website: https://www.recregistryindia.nic.in
+  status: external_link
+  category: Divisions / Units / Wings

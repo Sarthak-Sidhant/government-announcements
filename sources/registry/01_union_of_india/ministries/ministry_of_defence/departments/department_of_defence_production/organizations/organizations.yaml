@@ -1,0 +1,139 @@
+parent_department: Department of Defence Production (DDP)
+organizations:
+- name: Defence Exhibition Organisation (DEO), New Delhi
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Defence Production IT Unit (DPIT), New Delhi
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Aeronautical Quality Assurance (DGAQA), New Delhi
+  website: https://dgaeroqa.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Quality Assurance (DGQA), Bangalore
+  website: https://www.dgqadefence.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Ordnance (Coordination and Services), Kolkata
+  website: https://ddpdoo.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Planning and Coordination, New Delhi
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: Directorate of Standardisation, New Delhi
+  website: https://ddpdos.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Make in India Defence Production, New Delhi
+  website: null
+  status: active_no_link
+  category: Attached / Subordinated Offices
+- name: National Academy of Defence Production (NADP), Nagpur
+  website: https://ddpdoo.gov.in/units/NADP
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Rifle Factory Ishapore, West Bengal
+  website: https://ddpdoo.gov.in/units/RFI
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: National Institute for Research and Development in Defence Shipbuilding (NIRDESH),
+    Chaliyam
+  website: null
+  status: active_no_link
+  category: Autonomous Bodies
+- name: Armoured Vehicles Nigam Limited (AVNL), Chennai
+  website: https://avnl.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bharat Earth Movers Limited (BEML), Bangalore
+  website: https://www.bemlindia.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Bharat Electronics Limited (BEL), Bangalore
+  website: https://bel-india.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Defence Offsets Management Wing (DOMW), New Delhi
+  website: https://domw.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Export Promotion Cell (EPC), New Delhi
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Garden Reach Ship Builders and Engineers Limited (GRSE), Kolkata
+  website: https://grse.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Gliders India Limited (GIL), Kanpur
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Goa Shipyard Limited
+  website: https://goashipyard.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Gun and Shell Factory, Cossipore
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Aeronautics Limited, Bangalore
+  website: https://www.hal-india.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Hindustan Shipyard Limited, Visakhapatnam
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: India Optel Limited (IOL), Dehradun
+  website: https://www.indiaoptel.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Indigenisation Division, New Delhi
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mazagon Dock Shipbuilders Limited, Mumbai
+  website: https://mazagondock.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Mishra Dhatu Nigam Limited (MIDHANI), Hyderabad
+  website: https://midhani-india.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Munitions India Limited (MIL), Pune
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: Srijan Defence Portal
+  website: https://srijandefence.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Troop Comforts Limited (TCL), Kanpur
+  website: https://www.troopcomfortslimited.co.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Yantra India Limited (YIL), Nagpur
+  website: null
+  status: active_no_link
+  category: PSUs / JVs / Companies / Societies
+- name: eProcurement System, Indian Ordnance Factories
+  website: null
+  status: active_no_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Defence Exports Promotion, New Delhi
+  website: https://www.defenceexim.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: Defence Investor Cell, New Delhi
+  website: https://defenceinvestorcell.gov.in
+  status: external_link
+  category: Divisions / Units / Wings
+- name: System for Advance Manufacturing Assessment and Rating
+  website: https://samar.gov.in
+  status: external_link
+  category: Others

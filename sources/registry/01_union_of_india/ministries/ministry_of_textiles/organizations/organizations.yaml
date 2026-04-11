@@ -1,0 +1,143 @@
+parent_ministry: Ministry of Textiles (MoT)
+organizations:
+- name: Office of Development Commissioner for Handicrafts
+  website: https://handicrafts.nic.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Office of Development Commissioner for Handlooms
+  website: https://handlooms.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Office of the Jute Commissioner
+  website: https://jutecomm.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Office of the Textile Commissioner
+  website: https://ipowertexindia.gov.in
+  status: external_link
+  category: Commissions/ Committees
+- name: Central Silk Board
+  website: https://csb.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Institute of Fashion Technology (NIFT), New Delhi
+  website: https://www.nift.ac.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Jute Board
+  website: https://www.jute.com
+  status: external_link
+  category: Statutory Bodies
+- name: Textiles Committee
+  website: https://textilescommittee.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Central Muga Eri Research and Training Institute (CMER and TI), Lahdoigarh
+  website: https://cmerti.res.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Central Wool Development Board
+  website: https://woolboard.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Handicrafts and Handlooms Museum-Crafts Museum
+  website: https://nationalcraftsmuseum.nic.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Sardar Vallabhbhai Patel International School of Textiles and Management,
+    Coimbatore
+  website: https://www.svpistm.ac.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Basic Tasar Silkworm Seed Organisation (BTSSO), Bilaspur
+  website: https://www.btsso.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Birds Jute and Exports Limited
+  website: https://birdsjute.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Cottage Industries Corporation of India Limited
+  website: https://www.cottageemporium.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Cotton Corporation of India Limited (CCI)
+  website: https://cotcorp.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Handicrafts and Handlooms Export Corporation Limited
+  website: https://www.hhecworld.com
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Jute Corporation of India Limited (JCI)
+  website: https://www.jutecorp.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Handloom Development Corporation Limited (NHDC)
+  website: https://www.nhdc.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Jute Manufactures Corporation Limited (NJMC)
+  website: https://njmc.org.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: National Textile Corporation Limited (NTC)
+  website: https://www.ntcltd.org
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Central Sericultural Research and Training Institute (CSRTI), Mysore
+  website: https://www.csrtimys.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Central Tasar Research and Training Institute, Ranchi
+  website: https://ctrti.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Bhartiya Vastra evam Shilpa Kosh
+  website: https://www.vastrashilpakosh.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: IndiaHandmade
+  website: https://www.indiahandmade.com
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Indian Handicrafts Portal
+  website: https://indian.handicrafts.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Jute Mark India Scheme
+  website: https://trace-textiles.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Technical Textile Mission
+  website: https://nttm.texmin.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Production Linked Incentive
+  website: https://pli.texmin.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Scheme for Capacity Building In Textile Sector (Samarth)
+  website: https://samarth-textiles.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Technotex 2023
+  website: https://www.technotexindia.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Apparel Export Promotion Council
+  website: https://www.aepcindia.com/node
+  status: external_link
+  category: Others
+- name: Cotton Textiles Export Promotion Council
+  website: https://www.texprocil.org
+  status: external_link
+  category: Others
+- name: Synthetic and Rayon Textiles Export Promotion Council (SRTEPC)
+  website: null
+  status: active_no_link
+  category: Others
+- name: Wool and Woollens Export Promotion Council (WWEPC)
+  website: https://wwepcindia.com
+  status: external_link
+  category: Others

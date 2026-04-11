@@ -10,6 +10,10 @@ reporting_to: "Revenue Department, Govt of Rajasthan"
 
 # === SCRAPING CONFIG ===
 url: "https://salumber.rajasthan.gov.in"
+scraper_type: "s3waas"
+status: "active"
+last_scraped: null
+priority: "medium"
 sections_to_watch:
   - title: "Notices/Announcements"
     url: "https://salumber.rajasthan.gov.in"

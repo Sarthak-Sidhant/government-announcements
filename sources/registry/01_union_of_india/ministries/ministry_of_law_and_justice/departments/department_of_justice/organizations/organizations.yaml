@@ -1,0 +1,50 @@
+parent_department: Department of Justice (DoJ)
+organizations:
+- name: Lokpal of India
+  website: https://lokpal.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Supreme Court Legal Services Committee
+  website: https://sclsc.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: National Judicial Academy India
+  website: https://www.nja.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: National Legal Services Authority (NALSA)
+  website: https://nalsa.gov.in
+  status: external_link
+  category: PSUs / JVs / Companies / Societies
+- name: Dashboard of Department of Justice
+  website: https://dashboard.doj.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: E-Court Fee Payment
+  website: https://pay.ecourts.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Notary Portal
+  website: https://notary.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Nyaya Vikas Portal
+  website: https://bhuvan-nyayavikas.nrsc.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Nyayshruti
+  website: https://www.nyayshruti.nic.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pro Bono Legal Services Programme and Nyaya Bandhu App
+  website: https://www.probono-doj.in/home/index
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Virtual Courts
+  website: https://vcourts.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Judicial Data Grid
+  website: https://njdg.ecourts.gov.in
+  status: external_link
+  category: Others

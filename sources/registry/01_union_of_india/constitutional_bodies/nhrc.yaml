@@ -1,0 +1,15 @@
+# === IDENTITY ===
+id: "union-const-nhrc"
+name: "National Human Rights Commission"
+type: "constitutional_body"
+jurisdiction_level: "national"
+
+# === HIERARCHY ===
+parent: "union_of_india"
+
+# === SCRAPING CONFIG ===
+url: "https://nhrc.nic.in"
+scraper_type: "unknown"
+status: "pending"
+last_scraped: null
+priority: "medium"

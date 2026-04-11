@@ -1,0 +1,14 @@
+parent_ministry: Ministry of Parliamentary Affairs (MPA)
+organizations:
+- name: National Youth Parliament Scheme (NYPS)
+  website: https://nyps.mpa.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National eVidhan Application, Digital Legislatures
+  website: https://neva.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Read The Preamble to the Constitution
+  website: https://readpreamble.nic.in
+  status: external_link
+  category: Others

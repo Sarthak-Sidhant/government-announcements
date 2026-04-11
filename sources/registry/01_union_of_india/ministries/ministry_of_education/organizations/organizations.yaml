@@ -1,0 +1,18 @@
+parent_ministry: Ministry of Education (MoE)
+organizations:
+- name: PM SHRI Kendriya Vidyalaya No.1 Tezpur, Assam
+  website: https://no1tezpur.kvs.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: PM SHRI School
+  website: https://pmshri.education.gov.in
+  status: external_link
+  category: Academies / Institutions
+- name: Indian Journal of Educational Technology (Journals of NCERT)
+  website: https://journals.ncert.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Manodarpan
+  website: https://manodarpan.education.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

@@ -1,0 +1,70 @@
+parent_ministry: Ministry of Labour and Employment (MoLE)
+organizations:
+- name: Chief Labour Commissioner (Central)
+  website: https://clc.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General Factory Advice Service and Labour Institutes (DGFASLI)
+  website: https://dgfasli.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Employment (DGE)
+  website: https://dge.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Directorate General of Mines Safety (DGMS)
+  website: https://www.dgms.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Labour Bureau
+  website: https://labourbureau.gov.in
+  status: external_link
+  category: Attached / Subordinated Offices
+- name: Employees Provident Fund Organisation (EPFO)
+  website: https://www.epfindia.gov.in
+  status: external_link
+  category: Statutory Bodies
+- name: Employees State Insurance Corporation (ESIC)
+  website: https://www.esic.nic.in
+  status: external_link
+  category: Statutory Bodies
+- name: Dattopant Thengadi National Board for Workers Education and Development
+  website: https://dtnbwed.cbwe.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: V. V. Giri National Labour Institute (VVGNLI)
+  website: https://vvgnli.gov.in
+  status: external_link
+  category: Autonomous Bodies
+- name: Platform for Effective Enforcement of No Child Labour (PENCIL)
+  website: https://pencil.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Pradhan Mantri Viksit Bharat Rozgar Yojana
+  website: https://pmvbry.epfindia.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Registration of Labour Laws at Shram Suvidha Portal
+  website: https://registration.shramsuvidha.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: SAMADHAN Portal
+  website: https://samadhan.labour.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Central Government Industrial Tribunal
+  website: https://cgit.labour.gov.in
+  status: external_link
+  category: Others
+- name: Indian Labour Archives (ILA)
+  website: https://indianlabourarchives.org
+  status: external_link
+  category: Others
+- name: National Career Service
+  website: https://www.ncs.gov.in
+  status: external_link
+  category: Others
+- name: Shram Suvidha
+  website: https://shramsuvidha.gov.in
+  status: external_link
+  category: Others

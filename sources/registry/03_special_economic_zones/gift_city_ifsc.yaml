@@ -1,0 +1,17 @@
+# === IDENTITY ===
+id: "sez-gift-city"
+name: "GIFT City IFSC"
+type: "special_economic_zone"
+jurisdiction_level: "sez"
+
+# === HIERARCHY ===
+parent_state: "gujarat"
+parent_district: "gandhinagar"
+governing_body: "Ministry of Commerce and Industry"
+
+# === SCRAPING CONFIG ===
+url: "https://www.giftgujarat.in"
+scraper_type: "custom"
+status: "pending"
+last_scraped: null
+priority: "high"

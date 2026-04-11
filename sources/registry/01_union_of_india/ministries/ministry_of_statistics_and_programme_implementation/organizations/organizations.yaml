@@ -1,0 +1,51 @@
+parent_ministry: Ministry of Statistics and Programme Implementation (MoSPI)
+organizations:
+- name: Indian Statistical Institute (ISI), Calcutta
+  website: https://www.isical.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Indian Statistical Institute (ISI), Delhi
+  website: https://www.isid.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Indian Statistical Institute (ISI), Bangalore
+  website: https://www.isibang.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Indian Statistical Institute (ISI), Tezpur
+  website: https://www.isine.ac.in
+  status: external_link
+  category: Academies / Institutions
+- name: Indian Statistical Institute (ISI), Chennai
+  website: https://www.isichennai.res.in
+  status: external_link
+  category: Academies / Institutions
+- name: Member of Parliament Local Area Development Scheme (MPLADS)
+  website: https://mplads.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Microdata Library
+  website: https://microdata.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Internship in Official Statistics (NIOS)
+  website: https://internship.mospi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: National Statistical Systems Training Academy (NSSTA)
+  website: https://nssta.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Project Assessment Infrastructure Monitoring and Analytics for Nation-Building
+    (PAIMANA)
+  website: https://ipm.mospi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: e - Sankhyiki Portal
+  website: https://esankhyiki.mospi.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Meridian Conference 2024
+  website: https://meridian2024.gov.in
+  status: external_link
+  category: Others

@@ -1,0 +1,10 @@
+parent_department: Department of Public Enterprises (DPE)
+organizations:
+- name: Public Enterprises (PE) Survey Reports
+  website: https://reports-pesurvey.dpe.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications
+- name: Public Enterprises Survey
+  website: https://pesurvey.dpe.gov.in
+  status: external_link
+  category: Schemes / Programmes / Missions / Applications

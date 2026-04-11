@@ -10,6 +10,10 @@ reporting_to: "Revenue Department, Govt of Assam"
 
 # === SCRAPING CONFIG ===
 url: "https://baksa.assam.gov.in"
+scraper_type: "s3waas"
+status: "active"
+last_scraped: null
+priority: "medium"
 sections_to_watch:
   - title: "Notices/Announcements"
     url: "https://baksa.assam.gov.in"
