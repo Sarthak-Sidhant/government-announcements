@@ -1,0 +1,188 @@
+parent_state: Chandigarh
+organizations:
+- name: Official Portal of Chandigarh Administration
+  website: https://chandigarh.gov.in
+  category: State Portal
+  status: external_link
+- name: Chandigarh Pollution Control Committee
+  website: https://chocmms.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Right to Service Commission (RTSC), Chandigarh
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: State Consumer Disputes Redressal Commission, Chandigarh
+  website: https://chdconsumercourt.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Directorate of Technical Education, Chandigarh
+  website: https://chdtechnicaleducation.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Centre for Research in Rural and Industrial Development (CRRID), Chandigarh
+  website: https://www.crrid.res.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chandigarh Industrial and Tourism Development Corporation (CITCO) - Luxury
+    Hotels in Chandigarh
+  website: https://citcochandigarh.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Chandigarh Transport Undertaking
+  website: https://chdctu.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Market Committee, Chandigarh
+  website: https://chdmktcommittee.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Zila Sainik Welfare Office, Chandigarh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: A. C. Joshi Library, Panjab University, Chandigarh
+  website: https://www.library.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centralized Online Admission Portal, Chandigarh
+  website: https://online.chdeducation.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Distance and Online Education, Panjab University, Chandigarh
+  website: https://cdoe.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Chandigarh College of Architecture
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Chandigarh College of Engineering and Technology (Degree Wing)
+  website: https://ccet.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Chandigarh College of Engineering and Technology (Diploma Wing)
+  website: https://www.ccetdiploma.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Economics, Panjab University, Chandigarh
+  website: https://economics.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Gandhian and Peace Studies, Panjab University, Chandigarh
+  website: https://gandhianstudies.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Geology, Panjab University, Chandigarh
+  website: https://geology.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Laws, Panjab University, Chandigarh
+  website: https://laws.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Goverment Polytechnic for Women, Chandigarh
+  website: https://gpwchd.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Education, Chandigarh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Medical College and Hospital, Chandigarh
+  website: https://gmch.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Rehabilitation Institute for Intellectual Disabilities (GRIID),
+    Chandigarh
+  website: https://www.griid.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Homeopathic Medical College and Hospital, Chandigarh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Joint Admission Committee, Chandigarh
+  website: https://jacchd.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Mathematics Department, Panjab University, Chandigarh
+  website: https://maths.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: P.U. Swami Sarvanand Giri Regional Centre, Panjab University, Chandigarh
+  website: https://purch.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Panjab University, Chandigarh
+  website: https://puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Post Graduate Government College For Girls Sector-42, Chandigarh
+  website: https://www.gcg42.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Post Graduate Government College for Girls, Sector 11, Chandigarh
+  website: https://gcg11.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Post Graduate Government College, Sector 11, Chandigarh
+  website: https://www.gc11.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Post Graduate Government College, Sector-46, Chandigarh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Punjab Engineering College (PEC), Chandigarh
+  website: https://pec.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Samagra Shiksha, Chandigarh
+  website: https://www.ssachd.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: School Management Information System (SMIS), Chandigarh
+  website: https://www.schooleducation.chd.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chandigarh Engineering and Architecture Counselling
+  website: https://chdenggadmissions.nic.in
+  category: Others
+  status: external_link
+- name: Divisional Library (South), Sector 34, Chandigarh
+  website: null
+  category: Others
+  status: external_link
+- name: Estate Office, Chandigarh
+  website: null
+  category: Others
+  status: external_link
+- name: Panjab University Examination Results, Chandigarh
+  website: https://results.puexam.in
+  category: Others
+  status: external_link
+- name: Society for Promotion of IT (SPIC), Chandigarh
+  website: null
+  category: Others
+  status: external_link
+- name: State National Service Scheme Cell, Chandigarh
+  website: null
+  category: Others
+  status: external_link
+- name: e-Awas - Accommodations Management System Administration, Chandigarh
+  website: https://eawas.chd.gov.in
+  category: Others
+  status: external_link
+- name: e-Gazette, Chandigarh
+  website: https://egazette.chd.gov.in
+  category: Others
+  status: external_link
+- name: e-Procurement Portal, Chandigarh
+  website: https://etenders.chd.nic.in
+  category: Others
+  status: external_link
+- name: e-Vigilance, Chandigarh
+  website: https://evigilance.chd.gov.in
+  category: Others
+  status: external_link

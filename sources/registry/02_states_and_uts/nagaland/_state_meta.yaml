@@ -1,9 +1,271 @@
-# === IDENTITY ===
-id: "state-nagaland"
-name: "Nagaland"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-nagaland
+name: Nagaland
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Chumoukedima
+    website: https://chumoukedima.nic.in
+    sub_districts:
+    - Chumukedima
+    - Dhansiripar
+    - Medziphema
+    blocks:
+    - Chumukedima
+    - Dhansiripar
+    - Medziphema
+  - name: Dimapur
+    website: https://dimapur.nic.in
+    sub_districts:
+    - Dimapur Sadar
+    blocks:
+    - East Dimapur
+    - West Dimapur
+  - name: Kiphire
+    website: https://kiphire.nic.in
+    sub_districts:
+    - Amahator
+    - Khongsa
+    - Kiphire Sadar
+    - Kiusam
+    - Longmatra
+    - Pungro
+    - Seyochung
+    - Sitimi
+    blocks:
+    - Khonsa
+    - Kiphire
+    - Longmatra
+    - Pungro
+    - Sitimi
+  - name: Kohima
+    website: https://kohima.nic.in
+    sub_districts:
+    - Botsa
+    - Chiephobozou
+    - Jakhama
+    - Kezocha
+    - Kohima Sadar
+    - Sechu-Zubza
+    blocks:
+    - Botsa
+    - Chiephobozou
+    - Jakhama
+    - Kohima
+    - Sechu Zubza
+  - name: Longleng
+    website: https://longleng.nic.in
+    sub_districts:
+    - Longleng
+    - Namsang
+    - Sakshi
+    - Tamlu
+    - Yongnyah
+    blocks:
+    - Longleng
+    - Sakshi
+    - Tamlu
+  - name: Meluri
+    website: null
+    sub_districts:
+    - Meluri
+    - Phokhungri
+    - Phor
+    - Weziho
+    blocks:
+    - Meluri
+    - Weziho
+  - name: Mokokchung
+    website: https://mokokchung.nic.in
+    sub_districts:
+    - Alongkima
+    - Changtongya
+    - Chuchuyimlang
+    - Kubolong
+    - Longchem
+    - Mangkolemba
+    - Merangmen
+    - Ongpangkong
+    - Ongpangkong (N)
+    - Tsurangkong
+    - Tuli
+    blocks:
+    - Changtongya
+    - Chuchuyimlang
+    - Kubolong
+    - Longchem
+    - Mangkolemba
+    - Ongpangkong(North)
+    - Ongpangkong(South)
+    - Tsurangkong
+    - Tuli
+  - name: Mon
+    website: https://mon.nic.in
+    sub_districts:
+    - Aboi
+    - Angjangyang
+    - Chen
+    - Hunta
+    - Longshen
+    - Mon Sadar
+    - Monyakshu
+    - Mopong
+    - Naginimora
+    - Phomching
+    - Shangnyu
+    - Tizit
+    - Tobu
+    - Wakching
+    blocks:
+    - Aboi
+    - Angjangyang
+    - Chen
+    - Mon
+    - Phomching
+    - Tizit
+    - Tobu
+    - Wakching
+  - name: Niuland
+    website: null
+    sub_districts:
+    - Aquqhnaqua
+    - Kuhoboto
+    - Nihokhu
+    - Niuland
+    blocks:
+    - Aghunaqa
+    - Kuhuboto
+    - Niuland
+  - name: Noklak
+    website: https://noklak.nic.in
+    sub_districts:
+    - Nokhu
+    - Noklak
+    - Panso
+    - Thonoknyu
+    blocks:
+    - Noklak
+    - Panso
+    - Thonoknyu
+  - name: Peren
+    website: https://peren-district.nic.in
+    sub_districts:
+    - Athibung
+    - Jalukie
+    - Kebai Khelma
+    - Nsong
+    - Pedi (Ngwalwa)
+    - Peren
+    - Tening
+    blocks:
+    - Athibung
+    - Jalukie
+    - Peren
+    - Tenning
+  - name: Phek
+    website: https://phek.nic.in
+    sub_districts:
+    - Chetheba
+    - Chizami
+    - Chozuba
+    - Khezhakeno
+    - Khuza
+    - Kikruma
+    - Pfutsero
+    - Phek Sadar
+    - Razieba
+    - Sakraba
+    - Sekruzu
+    - Zuketsa
+    blocks:
+    - Chetheba
+    - Chizami
+    - Kikruma
+    - Pfutsero
+    - Phek
+    - Sekruzu
+  - name: Shamator
+    website: https://shamator.nic.in
+    sub_districts:
+    - Chessore
+    - Mangko
+    - Shamator
+    - Sotokur
+    - Tsurungto
+    blocks:
+    - Chessore
+    - Shamator
+  - name: Tseminyu
+    website: https://tseminyu.nic.in
+    sub_districts:
+    - Chunlikha
+    - Tseminyu
+    - Tsogin
+    blocks:
+    - Chunlikha
+    - Tseminyu
+  - name: Tuensang
+    website: https://tuensang.nic.in
+    sub_districts:
+    - Chare
+    - Chingmei
+    - Longkhim
+    - Ngoungchung
+    - Noksen
+    - Sangsangnyu
+    - Tuensang Sadar
+    blocks:
+    - Chare
+    - Longkhim
+    - Noksen
+    - Sangsangyu
+  - name: Wokha
+    website: https://wokha.nic.in
+    sub_districts:
+    - Aitepyong
+    - Baghty
+    - Bhandari
+    - Changpang
+    - Chukitong
+    - Englan
+    - Lotsu
+    - Ralan
+    - Sanis
+    - Sungro
+    - Wokha Sadar
+    - Wozhuro
+    blocks:
+    - Bhandari
+    - Changpang
+    - Chukitong
+    - Ralan
+    - Sanis
+    - Wokha
+    - Wozhuro-Ralan
+  - name: Zunheboto
+    website: https://zunheboto.nic.in
+    sub_districts:
+    - Aghunato
+    - Akuhaito
+    - Akuluto
+    - Asuto
+    - Atoizu
+    - Ghathashi
+    - Pughoboto
+    - Saptiqa
+    - Satakha
+    - Satoi
+    - Suruhuto
+    - Tokiye
+    - V.K.
+    - Zunheboto Sadar
+    blocks:
+    - Akuhaito
+    - Akuluto
+    - Ghathashi
+    - Satakha
+    - Satoi
+    - Suruhoto
+    - Tokiye
+    - Zunheboto

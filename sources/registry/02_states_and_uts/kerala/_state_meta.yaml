@@ -1,9 +1,293 @@
-# === IDENTITY ===
-id: "state-kerala"
-name: "Kerala"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-kerala
+name: Kerala
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Alappuzha
+    website: https://alappuzha.nic.in
+    sub_districts:
+    - Ambalappuzha
+    - Chengannur
+    - Cherthala
+    - Karthikappally
+    - Kuttanad
+    - Mavelikkara
+    blocks:
+    - Ambalappuzha
+    - Aryad
+    - Bharanicavu
+    - Champakulam
+    - Chengannur
+    - Harippad
+    - Kanjikkuzhy
+    - Mavelikkara
+    - Muthukulam
+    - Pattanakkad
+    - Thycattussery
+    - Veliyanad
+  - name: Ernakulam
+    website: https://ernakulam.nic.in
+    sub_districts:
+    - Aluva
+    - Kanayannur
+    - Kochi
+    - Kothamangalam
+    - Kunnathunad
+    - Muvattupuzha
+    - Paravur
+    blocks:
+    - Alangad
+    - Angamali
+    - Edappally
+    - Koovappady
+    - Kothamangalam
+    - Mulanthuruthy
+    - Muvattupuzha
+    - Palluruthy
+    - Pampakuda
+    - Parakkadav
+    - Paravur
+    - Vadavucode
+    - Vazhakkulam
+    - Vypeen
+  - name: Idukki
+    website: https://idukki.nic.in
+    sub_districts:
+    - Devikulam
+    - Idukki
+    - Peerumade
+    - Thodupuzha
+    - Udumbanchola
+    blocks:
+    - Adimaly
+    - Azhutha
+    - Devikulam
+    - Elemdesam
+    - Idukki
+    - Kattappana
+    - Nedumkandom
+    - Thodupuzha
+  - name: Kannur
+    website: https://kannur.nic.in
+    sub_districts:
+    - Iritty
+    - Kannur
+    - Payyannur
+    - Taliparamba
+    - Thalassery
+    blocks:
+    - Edakkad
+    - Irikkur
+    - Iritty
+    - Kalliasseri
+    - Kannur
+    - Kuthuparamba
+    - Panoor
+    - Payyannur
+    - Peravoor
+    - Taliparamba
+    - Thalassery
+  - name: Kasaragod
+    website: https://kasargod.nic.in
+    sub_districts:
+    - Hosdurg
+    - Kasaragod
+    - Manjeswaram
+    - Vellarikkundu
+    blocks:
+    - Kanhangad
+    - Karadka
+    - Kasargod
+    - Manjeshwar
+    - Nileshwar
+    - Parappa
+  - name: Kollam
+    website: https://kollam.nic.in
+    sub_districts:
+    - Karunagappally
+    - Kollam
+    - Kottarakkara
+    - Kunnathur
+    - Pathanapuram
+    - Punalur
+    blocks:
+    - Anchal
+    - Chadayamangalam
+    - Chavara
+    - Chittumala
+    - Ithikkara
+    - Kottarakkara
+    - Mukhathala
+    - Oachira
+    - Pathanapuram
+    - Sasthamcottah
+    - Vettikkavala
+  - name: Kottayam
+    website: https://kottayam.nic.in
+    sub_districts:
+    - Changanassery
+    - Kanjirappally
+    - Kottayam
+    - Meenachil
+    - Vaikom
+    blocks:
+    - Erattupetta
+    - Ettumanoor
+    - Kaduthuruthy
+    - Kanjirappally
+    - Lalam
+    - Madappally
+    - Pallom
+    - Pampady
+    - Uzhavoor
+    - Vaikom
+    - Vazhoor
+  - name: Kozhikode
+    website: https://kozhikode.nic.in
+    sub_districts:
+    - Koyilandi
+    - Kozhikode
+    - Thamarassery
+    - Vatakara
+    blocks:
+    - Balusseri
+    - Chelannur
+    - Koduvally
+    - Kozhikode
+    - Kunnamangalam
+    - Kunnummal
+    - Melday
+    - Panthalayani
+    - Perambra
+    - Thodannur
+    - Thuneri
+    - Vadakara
+  - name: Malappuram
+    website: https://malappuram.nic.in
+    sub_districts:
+    - Ernad
+    - Kondotty
+    - Nilambur
+    - Perinthalmanna
+    - Ponnani
+    - Tirur
+    - Tirurangadi
+    blocks:
+    - Areakode
+    - Kalikavu
+    - Kondotty
+    - Kuttippuram
+    - Malappuram
+    - Mankada
+    - Nilambur
+    - Perinthalmanna
+    - Perumpadappu
+    - Ponnani
+    - Tanur
+    - Tirur
+    - Tirurangadi
+    - Vengara
+    - Wandoor
+  - name: Palakkad
+    website: https://palakkad.nic.in
+    sub_districts:
+    - Alathur
+    - Chittur
+    - Mannarkad
+    - Ottappalam
+    - Palakkad
+    - Pattambi
+    - Tribal Taluk Office Attappadi
+    blocks:
+    - Alathur
+    - Attappadi
+    - Chittur
+    - Kollengode
+    - Kuzhalmannam
+    - Malampuzha
+    - Mannarkad
+    - Nemmara
+    - Ottappalam
+    - Palakkad
+    - Pattambi
+    - Sreekrishnapuram
+    - Trithala
+  - name: Pathanamthitta
+    website: https://pathanamthitta.nic.in
+    sub_districts:
+    - Adoor
+    - Konni
+    - Kozhenchery
+    - Mallappally
+    - Ranni
+    - Thiruvalla
+    blocks:
+    - Elanthoor
+    - Koipuram
+    - Konni
+    - Mallappally
+    - Pandlam
+    - Parakode
+    - Pulikeezhu
+    - Ranni
+  - name: Thiruvananthapuram
+    website: https://trivandrum.nic.in
+    sub_districts:
+    - Chirayinkeezhu
+    - Kattakkada
+    - Nedumangad
+    - Neyyattinkara
+    - Thiruvananthapuram
+    - Varkala
+    blocks:
+    - Athiyannoor
+    - Chirayinkeezhu
+    - Kilimanoor
+    - Nedumangad
+    - Nemom
+    - Parassala
+    - Perumkadavila
+    - Pothencode
+    - Vamanapuram
+    - Varkala
+    - Vellanad
+  - name: Thrissur
+    website: https://thrissur.nic.in
+    sub_districts:
+    - Chalakkudy
+    - Chavakkad
+    - Kodungallur
+    - Kunnamkulam
+    - Mukundapuram
+    - Talappilly
+    - Thrissur
+    blocks:
+    - Anthikkad
+    - Chalakkudy
+    - Chavakkad
+    - Cherpu
+    - Chowannur
+    - Irinjalakkuda
+    - Kodakara
+    - Mala
+    - Mathilakam
+    - Mullassery
+    - Ollukkara
+    - Pazhayannur
+    - Puzhakkal
+    - Thalikkulam
+    - Vellangallur
+    - Wadakkanchery
+  - name: Wayanad
+    website: https://wayanad.gov.in
+    sub_districts:
+    - Mananthavady
+    - Sulthanbathery
+    - Vythiri
+    blocks:
+    - Kalpetta
+    - Mananthavady
+    - Panamaram
+    - Sulthan Bathery

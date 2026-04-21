@@ -1,9 +1,631 @@
-# === IDENTITY ===
-id: "state-jharkhand"
-name: "Jharkhand"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-jharkhand
+name: Jharkhand
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Bokaro
+    website: https://bokaro.nic.in
+    sub_districts:
+    - Bermo
+    - Chandankiyari
+    - Chandrapura
+    - Chas
+    - Gomia
+    - Jaridih
+    - Kasmar
+    - Nawadih
+    - Peterwar
+    blocks:
+    - Bermo
+    - Chandankiyari
+    - Chandrapura
+    - Chas
+    - Gomia
+    - Jaridih
+    - Kasmar
+    - Nawadih
+    - Peterwar
+  - name: Chatra
+    website: https://chatra.nic.in
+    sub_districts:
+    - Chatra
+    - Gidhaur
+    - Itkhori
+    - Kanha Chatti
+    - Kunda
+    - Lawalaung
+    - Mayur Hand
+    - Pathalgora
+    - Pratappur
+    - Shaligram Ram Narayanpur(Hunterganj)
+    - Simaria
+    - Tandwa
+    blocks:
+    - Chatra
+    - Giddhor
+    - Itkhori
+    - Kanhachatti
+    - Kunda
+    - Lawalong
+    - Mayurhand
+    - Pathalgada
+    - Pratappur
+    - Shaligram Ram Narayanpur Alias Hunterganj
+    - Simaria
+    - Tandwa
+  - name: Deoghar
+    website: https://deoghar.nic.in
+    sub_districts:
+    - Deoghar
+    - Devipur
+    - Karon
+    - Madhupur
+    - Margo Munda
+    - Mohanpur
+    - Palojori
+    - Sarath
+    - Sarwan
+    - Sona Rai Tharhi
+    blocks:
+    - Deoghar
+    - Devipur
+    - Karown
+    - Madhupur
+    - Margomunda
+    - Mohanpur
+    - Palojori
+    - Sarath
+    - Sarwan
+    - Sonaraithari
+  - name: Dhanbad
+    website: https://dhanbad.nic.in
+    sub_districts:
+    - Baghmara-Cum-Katras
+    - Baliapur
+    - Dhanbad-Cum-Kenduadih-Cum-Jagata
+    - Egarkund
+    - Gobindpur
+    - Jharia-Cum-Jorapokhar-Cum-Sindri
+    - Kariasol
+    - Nirsa-Cum-Chirkunda
+    - Purbi Tundi*
+    - Topchanchi
+    - Tundi
+    blocks:
+    - Baghmara
+    - Baliapur
+    - Dhanbad
+    - Egarkund
+    - Govindpur
+    - Kaliasol
+    - Nirsa
+    - Purvi Tundi
+    - Topchanchi
+    - Tundi
+  - name: Dumka
+    website: https://dumka.nic.in
+    sub_districts:
+    - Dumka
+    - Gopikandar
+    - Jama
+    - Jarmundi
+    - Kathikund
+    - Masalia
+    - Ramgarh
+    - Ranishwar
+    - Saraiyahat
+    - Shikaripara
+    blocks:
+    - Dumka
+    - Gopikander
+    - Jama
+    - Jarmundi
+    - Kathikund
+    - Masaliya
+    - Ramgarh
+    - Ranishwar
+    - Saraiyahat
+    - Sikaripara
+  - name: East Singhbum
+    website: https://jamshedpur.nic.in
+    sub_districts:
+    - Baharagora
+    - Boram
+    - Chakulia
+    - Dhalbhumgarh
+    - Dumaria
+    - Ghatshila
+    - Golmuri-Cum-Jugsalai
+    - Gurbandha
+    - Musabani
+    - Patamda
+    - Potka
+    blocks:
+    - Bahragora
+    - Boram
+    - Chakulia
+    - Dhalbhumgarh
+    - Dumaria
+    - Ghatshila
+    - Golmuri Cum Jugsalai
+    - Gurabanda
+    - Musabani
+    - Patamda
+    - Potka
+  - name: Garhwa
+    website: https://garhwa.nic.in
+    sub_districts:
+    - Bardiha
+    - Bargarh
+    - Bhandaria
+    - Bhawnathpur
+    - Bishunpura
+    - Chinia
+    - Danda
+    - Dandai
+    - Dhurki
+    - Garhwa
+    - Kandi
+    - Ketar*
+    - Kharaundhi
+    - Majhiaon
+    - Meral (Pipra Kalan)
+    - Nagaruntari
+    - Ramkanda
+    - Ramna
+    - Ranka
+    - Sagma
+    blocks:
+    - Bardiha
+    - Bargad
+    - Bhandaria
+    - Bhawnathpur
+    - Bishunpura
+    - Chinia
+    - Danda
+    - Dandai
+    - Dhurki
+    - Garhwa
+    - Kandi
+    - Ketar
+    - Kharaundhi
+    - Manjhiaon
+    - Meral
+    - Nagar Untari
+    - Ramkanda
+    - Ramna
+    - Ranka
+    - Sagma
+  - name: Giridih
+    website: https://giridih.nic.in
+    sub_districts:
+    - Bagodar
+    - Bengabad
+    - Birni
+    - Deori
+    - Dhanwar
+    - Dumri
+    - Gandey
+    - Gawan
+    - Giridih
+    - Jamua
+    - Pirtanr
+    - Suriya
+    - Tisri
+    blocks:
+    - Bagodar
+    - Bengabad
+    - Birni
+    - Deori
+    - Dhanwar
+    - Dumri
+    - Gandey
+    - Gawan
+    - Giridih
+    - Jamua
+    - Pirtand
+    - Suriya
+    - Tisri
+  - name: Godda
+    website: https://godda.nic.in
+    sub_districts:
+    - Bashant Rai*
+    - Boarijor
+    - Godda
+    - Mahagama
+    - Meherma
+    - Pathargama
+    - Poreyahat
+    - Sundarpahari
+    - Thakurgangti
+    blocks:
+    - Basantray
+    - Boarijor
+    - Godda
+    - Mahagama
+    - Meharma
+    - Pathargama
+    - Poraiyahat
+    - Sundarpahari
+    - Thakurgangti
+  - name: Gumla
+    website: https://gumla.nic.in
+    sub_districts:
+    - Albert Ekka(Jari)
+    - Basia
+    - Bharno
+    - Bishunpur
+    - Chainpur
+    - Dumri
+    - Ghaghra
+    - Gumla
+    - Kamdara
+    - Palkot
+    - Raidih
+    - Sisai
+    blocks:
+    - Albert Ekka
+    - Basia
+    - Bharno
+    - Bishunpur
+    - Chainpur
+    - Dumri
+    - Ghaghra
+    - Gumla
+    - Kamdara
+    - Palkot
+    - Raidih
+    - Sisai
+  - name: Hazaribagh
+    website: https://hazaribag.nic.in
+    sub_districts:
+    - Barhi
+    - Barkagaon
+    - Barkatha
+    - Bishungarh
+    - Chalkusa
+    - Chauparan
+    - Churchu
+    - Dadi
+    - Daru
+    - Hazaribag
+    - Ichak
+    - Katamdag
+    - Katkamsandi
+    - Keredari
+    - Padma
+    - Tati Jhariya
+    blocks:
+    - Barhi
+    - Barkagaon
+    - Barkatha
+    - Bishnugarh
+    - Chalkusha
+    - Chouparan
+    - Churchu
+    - Dadi
+    - Daru
+    - Ichak
+    - Katkamdag
+    - Katkamsandi
+    - Keredari
+    - Padma
+    - Sadar
+    - Tatijhariya
+  - name: Jamtara
+    website: https://jamtara.nic.in
+    sub_districts:
+    - Fatehpur
+    - Jamtara
+    - Karma Tanr Vidyasagar*
+    - Kundhit
+    - Nala
+    - Narayanpur
+    blocks:
+    - Fatehpur
+    - Jamtara
+    - Karmatanr Vidyasagar
+    - Kundhit
+    - Nala
+    - Narayanpur
+  - name: Khunti
+    website: https://khunti.nic.in
+    sub_districts:
+    - Erki(Tamar Ii)
+    - Karra
+    - Khunti
+    - Murhu
+    - Rania
+    - Torpa
+    blocks:
+    - Arki
+    - Karra
+    - Khunti
+    - Murhu
+    - Rania
+    - Torpa
+  - name: Koderma
+    website: https://koderma.nic.in
+    sub_districts:
+    - Chandwara
+    - Domchanch
+    - Jainagar
+    - Koderma
+    - Markacho
+    - Satgawan
+    blocks:
+    - Chandwara
+    - Domchanch
+    - Jainagar
+    - Koderma
+    - Markacho
+    - Satgawan
+  - name: Latehar
+    website: https://latehar.nic.in
+    sub_districts:
+    - Balumath
+    - Bariyatu
+    - Barwadih
+    - Chandwa
+    - Garu
+    - Herhanj
+    - Latehar
+    - Mahuadanr
+    - Manika
+    blocks:
+    - Balumath
+    - Bariyatu
+    - Barwadih
+    - Chandwa
+    - Garu
+    - Herhanj
+    - Latehar
+    - Mahuadanr
+    - Manika
+    - Saryu
+  - name: Lohardaga
+    website: https://lohardaga.nic.in
+    sub_districts:
+    - Bhandra
+    - Kairo
+    - Kisko
+    - Kuru
+    - Lohardaga
+    - Peshrar
+    - Senha
+    blocks:
+    - Bhandra
+    - Kairo
+    - Kisko
+    - Kuru
+    - Lohardaga
+    - Peshrar
+    - Senha
+  - name: Pakur
+    website: https://pakur.nic.in
+    sub_districts:
+    - Amrapara
+    - Hiranpur
+    - Litipara
+    - Maheshpur
+    - Pakaur
+    - Pakuria
+    blocks:
+    - Amrapara
+    - Hiranpur
+    - Littipara
+    - Maheshpur
+    - Pakur
+    - Pakuria
+  - name: Palamu
+    website: https://palamu.nic.in
+    sub_districts:
+    - Bishrampur
+    - Chainpur
+    - Chhatarpur
+    - Haidernagar
+    - Hariharganj
+    - Hussainabad
+    - Manatu
+    - Medininagar(Daltonganj)
+    - Mohammad Ganj
+    - Nawa Bazar
+    - Nawadiha Bazar/Nawadiha*
+    - Nilambar-Pitambarpur(Lesliganj)
+    - Padwa
+    - Pandu
+    - Panki
+    - Patan
+    - Pipra
+    - Ramgarh
+    - Satbarwa
+    - Tarhasi
+    - Untari Road
+    blocks:
+    - Bishrampur
+    - Chainpur
+    - Chhatarpur
+    - Haidernagar
+    - Hariharganj
+    - Hussainabad
+    - Lesliganj
+    - Manatu
+    - Medininagar
+    - Mohamadganj
+    - Nawa Bazar
+    - Nawdiha Bazar
+    - Padwa
+    - Pandu
+    - Panki
+    - Patan
+    - Pipra
+    - Ramgarh
+    - Satbarwa
+    - Tarhasi
+    - Untari Road
+  - name: Ramgarh
+    website: https://ramgarh.nic.in
+    sub_districts:
+    - Chitarpur
+    - Dulmi
+    - Gola
+    - Mandu
+    - Patratu
+    - Ramgarh
+    blocks:
+    - Chitarpur
+    - Dulmi
+    - Gola
+    - Mandu
+    - Patratu
+    - Ramgarh
+  - name: Ranchi
+    website: https://ranchi.nic.in
+    sub_districts:
+    - Angara
+    - Bero
+    - Bundu
+    - Burmu
+    - Chanho
+    - Itki
+    - Kanke
+    - Khelari
+    - Lapung
+    - Mandar
+    - Nagri
+    - Namkum
+    - Ormanjhi
+    - Rahe
+    - Ratu
+    - Silli
+    - Sonahatu
+    - Tamar I
+    blocks:
+    - Angara
+    - Bero
+    - Bundu
+    - Burmu
+    - Chanho
+    - Itki
+    - Kanke
+    - Khelari
+    - Lapung
+    - Mandar
+    - Nagri
+    - Namkum
+    - Ormanjhi
+    - Rahe
+    - Ratu
+    - Silli
+    - Sonahatu
+    - Tamar
+  - name: Sahebganj
+    website: https://sahibganj.nic.in
+    sub_districts:
+    - Barhait
+    - Barharwa
+    - Borio
+    - Mandro
+    - Pathna
+    - Rajmahal
+    - Sahibganj
+    - Taljhari
+    - Udhwa
+    blocks:
+    - Barhait
+    - Barharwa
+    - Borio
+    - Mandro
+    - Pathna
+    - Rajmahal
+    - Sahibganj
+    - Taljhari
+    - Udhwa
+  - name: Saraikela Kharsawan
+    website: https://seraikela.nic.in
+    sub_districts:
+    - Adityapur(Gamharia)
+    - Chandil
+    - Gobindpur(Rajnagar)
+    - Ichagarh
+    - Kharsawan
+    - Kuchai
+    - Kukru
+    - Nimdih
+    - Saraikela
+    blocks:
+    - Chandil
+    - Gamharia
+    - Ichagarh
+    - Kharsawan
+    - Kuchai
+    - Kukru
+    - Nimdih
+    - Rajnagar
+    - Seraikella
+  - name: Simdega
+    website: https://simdega.nic.in
+    sub_districts:
+    - Bano
+    - Bansjor
+    - Bolba
+    - Jaldega
+    - Kersai
+    - Kolebira
+    - Kurdeg
+    - Pakar Tanr
+    - Simdega
+    - Thethaitangar
+    blocks:
+    - Bano
+    - Bansjore
+    - Bolba
+    - Jaldega
+    - Kersai
+    - Kolebira
+    - Kurdeg
+    - Pakartanr
+    - Simdega
+    - Thethaitanger
+  - name: West Singhbhum
+    website: https://chaibasa.nic.in
+    sub_districts:
+    - Anandpur
+    - Bandgaon
+    - Chaibasa
+    - Chakradharpur
+    - Goilkera
+    - Gudri
+    - Hat Gamharia
+    - Jagannathpur
+    - Jhinkpani
+    - Khuntpani
+    - Kumardungi
+    - Majhgaon
+    - Manjhari
+    - Manoharpur
+    - Noamundi
+    - Sonua
+    - Tantnagar
+    - Tonto
+    blocks:
+    - Anandpur
+    - Bandgaon
+    - Chaibasa
+    - Chakradharpur
+    - Goelkera
+    - Gudri
+    - Hatgamharia
+    - Jagannathpur
+    - Jhinkpani
+    - Khuntpani
+    - Kumardungi
+    - Manjhari
+    - Manjhgaon
+    - Manoharpur
+    - Noamundi
+    - Sonua
+    - Tantnagar
+    - Tonto

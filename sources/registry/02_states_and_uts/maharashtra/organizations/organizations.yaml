@@ -1,0 +1,567 @@
+parent_state: Maharashtra
+organizations:
+- name: Official Portal of Maharashtra Government
+  website: https://www.maharashtra.gov.in
+  category: State Portal
+  status: external_link
+- name: Anti Corruption Bureau, Maharashtra
+  website: https://www.acbmaharashtra.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Joint Director Technical Education, Chhatrapati Sambhajinagar, Maharashtra
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Legal Metrology Organization, Maharashtra
+  website: https://legalmetrology.maharashtra.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Maharashtra State Police Wireless, Pune, Maharashtra
+  website: https://mahpolwireless.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Police Commissionerate, Chhatrapati Sambhajinagar, Maharashtra
+  website: https://aurangabadcitypolice.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Maharashtra Electricity Regulatory Commission, Maharashtra
+  website: https://www.merc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Maharashtra State Human Rights Commission
+  website: https://www.mshrc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Maharashtra State Information Commission, Maharashtra
+  website: https://sic.maharashtra.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Rajiv Gandhi Science & Technology Commission, Maharashtra
+  website: https://rgstc.maharashtra.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Kundal Academy of Development, Administration and Management (Forests), Maharashtra
+  website: https://www.kundalforestacademy.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Maharashtra Medical Council, Mumbai, Maharashtra
+  website: https://www.maharashtramedicalcouncil.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Maharashtra Police Academy, Nashik, Maharashtra
+  website: https://mpanashik.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Maharashtra Public Service Commission (MPSC), Maharashtra
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Maharashtra Remote Sensing Application Centre (MRSAC), Maharashtra
+  website: https://mrsac.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Marathwada Statutory Development Board, Aurangabad, Maharashtra
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Water and Land Management Institute (WALMI), Aurangabad, Maharashtra
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Charity Commissioner, Maharashtra
+  website: https://charity.maharashtra.gov.in/en-us
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissioner for Cooperation and Registrar, Cooperative Societies (CC and
+    RCS), Pune, Maharashtra
+  website: https://sahakarayukta.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Skill Development, Employment & Entrepreneurship, Maharashtra
+  website: https://rojgar.mahaswayam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Controller of Rationing & Director of Civil Supplies, Mumbai, Maharashtra
+  website: https://controllerofrationing-mumbai.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Director General, Geology and Mining, Nagpur, Maharashtra
+  website: https://mahadgm.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate General of Information and Public Relations, Maharashtra
+  website: https://dgipr.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Accounts and Treasuries, Maharashtra
+  website: https://mahakosh.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Ayurveda, Maharashtra
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics and Statistics, Maharashtra
+  website: https://mahades.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information Technology, Maharashtra
+  website: https://it.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Libraries, Maharashtra
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Local Fund Accounts Audit, Maharashtra
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education & Research, Mumbai
+  website: https://dmer.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Silk, Maharashtra
+  website: https://mahasilk.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of State Gazetteers, Maharashtra
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education, Maharashtra
+  website: https://dte.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Textiles, Maharashtra
+  website: https://dirtexmah.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Vocational Education and Training, Maharashtra
+  website: https://www.dvet.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Maharashtra Housing and Area Development Authority (MHADA), Maharashtra
+  website: https://www.mhada.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Maharashtra State Excise Duty, Maharashtra
+  website: https://stateexcise.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Maharashtra State Police, Maharashtra
+  website: https://www.mahapolice.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Maharashtra State Road Transport Corporation, Maharashtra
+  website: https://msrtc.maharashtra.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Tribal Development Commissionerate, Maharashtra
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: eVikas, Tribal Development Commissionarate, Maharashtra
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: City and Industrial Development Corporation of Maharashtra Limited (CIDCO),
+    Maharashtra
+  website: https://cidco.maharashtra.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Crime Investigation Department, Maharashtra
+  website: https://mahacid.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Directorate of Higher Education, Maharashtra
+  website: https://www.dhepune.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Distric Rural Development, Ahamednagar, Maharashtra
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Food and Drug Administration, Maharashtra
+  website: https://fda.maharashtra.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Forest Development Corporation of Maharashtra Limited (FDCM), Maharashtra
+  website: https://fdcm.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Government Receipt Accounting System (GRAS), Maharashtra
+  website: https://gras.mahakosh.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haffkine Bio-Pharmaceutical Corporation Limited, Maharashtra
+  website: https://www.vaccinehaffkine.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Agro Industries Development Corporation Ltd. (MAIDC), Maharashtra
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Airport Development Company Limited (MADC), Maharashtra
+  website: https://www.madcindia.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Centre For Entrepreneurship Development (MCED), Maharashtra
+  website: https://mced.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Coastal Zone Management Authority (MCZMA), Maharashtra
+  website: https://mczma.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Fire Services, Maharashtra
+  website: https://mahafireservice.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Information Technology Corporation Ltd. (MahaIT), Maharashtra
+  website: https://mahait.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Maritime Board, Maharashtra
+  website: https://mahammb.maharashtra.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Natural Gas Ltd. (MNGL), Maharashtra
+  website: https://www.mngl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Pollution Control Board (MPCB), Maharashtra
+  website: https://mpcb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Real Estate Regulatory Authority
+  website: https://maharera.maharashtra.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra Small Scale Industries Development Corporation Limited, Maharashtra
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra State AIDS Control Society (MSACS), Maharashtra
+  website: https://mahasacs.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra State Agricultural Marketing Board (MSAMB), Maharashtra
+  website: https://www.msamb.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra State Board of Technical Education (MSBTE), Mumbai, Maharashtra
+  website: https://msbte.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra State Board of Vocational Education Examination (MSBVEE), Maharashtra
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra State Electricity Transmission Co. Ltd., Maharashtra
+  website: https://mahatransco.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharashtra State Mining Corporation Limited (MSMC), Nagpur, Maharashtra
+  website: https://msmc.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Divisional Commissioner, Konkan, Maharashtra
+  website: https://divcomkonkan.in
+  category: Revenue Divisions
+  status: external_link
+- name: Maharashtra Energy Development Agency (MEDA), Maharashtra
+  website: https://www.mahaurja.maharashtra.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Maharashtra Small Scale Industries Development Corporation Ltd.
+  website: https://mssidc.maharashtra.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Maharashtra State Co-operative Sugar Factories Federation Limited, Maharashtra
+  website: null
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Maharashtra Urban Infrastructure Development Company Limited, Mumbai, Maharashtra
+  website: null
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Maharashtra Water Resources Regulatory Authority (MWRRA)
+  website: https://mwrra.maharashtra.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Mumbai Traffic Police, Maharshtra
+  website: https://trafficpolicemumbai.maharashtra.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Thane City Police, Maharashtra
+  website: https://thanepolice.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Atomic Energy Central School-1, Mumbai, Maharashtra
+  website: https://aecsmum1.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Biotechnology, Sindhu Mahavidyalaya, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: COEP Technological University, Pune, Maharashtra
+  website: https://www.coep.org.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Performing Arts, Pune, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. Babasaheb Ambedkar Technological University, Maharashtra
+  website: https://dbatu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr.Babasaheb Ambedkar Marathwada University, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Earth Sciences Department, IIT Bombay
+  website: https://www.geos.iitb.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Employees State Insurance Corporation, Esi Pgimsr And Model Hospital Cum O.d.c,
+    Andhari (e), Mumbai, Maharashtra
+  website: https://pgimsrmumbai.esic.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Goverment Polytechnic Collage, Solapur, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Engineering, Amravati, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Engineering, Chhatrapati Sambhajinagar, Maharashtra
+  website: https://geca.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Engineering, Karad, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Pharmacy, Amravati, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Medical College and Hospital Nagpur (MS), Maharashtra
+  website: https://gmcnagpur.org
+  category: Academies / Institutions
+  status: external_link
+- name: Government Ploytechnic, Karad, Maharashtra
+  website: https://www.gpk.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic for Distance Learning, Pune, Maharashtra
+  website: https://www.gpdlpune.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Ahmednagar, Maharashtra
+  website: https://gpnagar.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Amravati, Maharashtra
+  website: https://www.gpamravati.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Dharashiv, Maharashtra
+  website: https://www.gposmanabad.org
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Jalgaon, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Jalna, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Khamgaon, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Kolhapur, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Malvan, Maharashtra
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Mumbai, Maharashtra
+  website: https://gpmumbai.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: ARTHWAHINI - Management System for TreasuryNet, Maharashtra
+  website: https://arthwahini.mahakosh.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Aaple Sarkar DBT Portal (Direct Benefit Transfer), Maharashtra
+  website: https://mahadbt.maharashtra.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Electricity Ombudsman(Mumbai), Maharashtra
+  website: https://www.mercombudsman.org.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Farmer Scrutiny Portal, Maharashtra
+  website: https://agridbtworkflow.mahaonline.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: KOSHWAHINI - Information System Project, Maharashtra
+  website: https://koshwahini.mahakosh.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Konkan Post Lottery System, Maharashtra
+  website: https://postlottery1.mhada.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Maharashtra Apprenticeship Promotion Scheme (MAPS)
+  website: https://maps.dvet.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Maharashtra Emergency Response System
+  website: https://dial112.mahapolice.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Maharashtra Farmer Registry
+  website: https://mhfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Maharashtra State Eligibility Test (MH-SET) for Assistant Professor, Pune
+    University, Maharashtra
+  website: https://setexam.unipune.ac.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Maharashtra State Rural Livelihoods Mission, Maharashtra
+  website: https://www.umed.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mahavitran - Maharashtra State Electricity Distribution Company Limited, Maharashtra
+  website: https://wss.mahadiscom.in/wss/wss
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mukhya Mantri Gram Sadak Yojana (MMGSY), Maharashtra
+  website: https://woms.mahaonline.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: National Health Mission, Maharashtra
+  website: https://www.nrhm.maharashtra.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: State Common Entrance Test Cell, Maharashtra
+  website: https://cetcell.mahacet.org
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Vaidhmapan, Legal Metrology Department, Maharashtra
+  website: https://www.vaidhmapan.maharashtra.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Aadhaar enabled Public Distribution System (AePDS), Maharashtra
+  website: https://mahaepos.gov.in
+  category: Others
+  status: external_link
+- name: Aaple Sarkar, Maharashtra state Application for Grievances Information and
+    Collaboration, Maharashtra
+  website: https://aaplesarkar.maharashtra.gov.in
+  category: Others
+  status: external_link
+- name: Akola Police, Maharashtra
+  website: https://akolapolice.gov.in
+  category: Others
+  status: external_link
+- name: Amravati City Police, Maharashtra
+  website: https://amravaticitypolice.gov.in
+  category: Others
+  status: external_link
+- name: Amravati Rural Police, Maharashtra
+  website: https://amravatiruralpolice.gov.in
+  category: Others
+  status: external_link
+- name: Aurangabad Rural Police, Maharashtra
+  website: null
+  category: Others
+  status: external_link
+- name: Beed Police, Maharashtra
+  website: https://beedpolice.gov.in
+  category: Others
+  status: external_link
+- name: Budget Estimation, Allocation and Monitoring System (BEAMS), Maharashtra
+  website: https://beams.mahakosh.gov.in
+  category: Others
+  status: external_link
+- name: COVID-19 (Novel Corona Virus) Updates & Advisories, Maharashtra
+  website: https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus
+  category: Others
+  status: external_link
+- name: Central GST & Customs, Pune Zone, Maharashtra
+  website: https://punecgstcus.gov.in
+  category: Others
+  status: external_link
+- name: Centre of Excellence in Marathi Language Computing, Maharashtra
+  website: null
+  category: Others
+  status: external_link
+- name: Chandrapur Police, Maharashtra
+  website: https://chandrapurpolice.gov.in
+  category: Others
+  status: external_link
+- name: Chatrapati Shivaji Maharaj Memorial, Maharashtra
+  website: null
+  category: Others
+  status: external_link
+- name: Chief Conservator of Forest (Territorial), Amravati, Maharashtra
+  website: null
+  category: Others
+  status: external_link
+- name: Chief Minister Employment Generation Programme, Maharashtra
+  website: https://maha-cmegp.gov.in
+  category: Others
+  status: external_link
+- name: Civil Defence, Home Guards, Maharashtra
+  website: https://maharashtracdhg.gov.in
+  category: Others
+  status: external_link
+- name: Divisional Commissioner Office Amravati, Maharashtra
+  website: https://amravatidivision.gov.in
+  category: Others
+  status: external_link
+- name: ENVIS Centre, Maharashtra
+  website: https://mahenvis.nic.in
+  category: Others
+  status: external_link
+- name: Employment Guarantee Scheme, Planning Department, Maharashtra
+  website: https://mahaegs.maharashtra.gov.in/en
+  category: Others
+  status: external_link
+- name: Gadchiroli Police, Maharashtra
+  website: https://gadchirolipolice.gov.in
+  category: Others
+  status: external_link
+- name: Gondia Police, Maharashtra
+  website: https://gondiapolice.gov.in
+  category: Others
+  status: external_link
+- name: Grievances Redressal Portal, Maharashtra
+  website: https://grievances.maharashtra.gov.in
+  category: Others
+  status: external_link
+- name: Hingoli Police, Maharashtra
+  website: https://hingolipolice.gov.in
+  category: Others
+  status: external_link
+- name: Inspector General of Police, Amravati Range, Amravati, Maharashtra
+  website: null
+  category: Others
+  status: external_link
+- name: Integrated Child Development Services Scheme, Maharashtra
+  website: https://icds.gov.in
+  category: Others
+  status: external_link

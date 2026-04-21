@@ -1,9 +1,326 @@
-# === IDENTITY ===
-id: "state-himachal_pradesh"
-name: "Himachal Pradesh"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-himachal_pradesh
+name: Himachal Pradesh
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Bilaspur
+    website: https://hpbilaspur.nic.in
+    sub_districts:
+    - Bharari
+    - Bilaspur Sadar
+    - Ghumarwin
+    - Jhanduta
+    - Kalol
+    - Naina Devi
+    - Namhol
+    blocks:
+    - Bilaspur Sadar
+    - Ghumarwin
+    - Jhandutta
+    - Shree Naina Devi
+  - name: Chamba
+    website: https://hpchamba.nic.in
+    sub_districts:
+    - Bhalai
+    - Bharmour
+    - Bhattiyat
+    - Chamba
+    - Churah
+    - Dalhousie
+    - Dharwala
+    - Holi
+    - Kakira
+    - Pangi
+    - Pukhri
+    - Saach
+    - Saho
+    - Saluni
+    - Sihunta
+    - Telka
+    blocks:
+    - Bharmour
+    - Bhatiyat
+    - Chamba
+    - Mehla
+    - Pangi
+    - Salooni
+    - Tissa
+  - name: Hamirpur
+    website: https://hphamirpur.nic.in
+    sub_districts:
+    - Barsar
+    - Bhoranj
+    - Bhota
+    - Dhatwal
+    - Galore
+    - Hamirpur
+    - Jahu
+    - Kangoo
+    - Lambloo
+    - Nadaun
+    - Tauni Devi Bamson
+    - Tira Sujanpur
+    blocks:
+    - Bamsan
+    - Bhoranj
+    - Bijhari
+    - Hamirpur
+    - Nadaun
+    - Sujanpur Tira
+  - name: Kangra
+    website: https://hpkangra.nic.in
+    sub_districts:
+    - Alampur
+    - Baijnath
+    - Baroh
+    - Bharoli
+    - Bhawarna
+    - Chachian
+    - Chadiyar
+    - Dadasiba
+    - Dareeni
+    - Dehra Gopipur
+    - Dharmsala
+    - Dhira
+    - Fatehpur
+    - Gangath
+    - Harchakian
+    - Haripur
+    - Indora
+    - Jaisinghpur
+    - Jaswan
+    - Jawalamukhi
+    - Jawali
+    - Kangra
+    - Khundian
+    - Kotla
+    - Lagru
+    - Majheen
+    - Multhan
+    - Nagrota Bagwan
+    - Nagrota Surian
+    - Nurpur
+    blocks:
+    - Badoh
+    - Baijnath
+    - Bhawarna
+    - Dehra
+    - Dharamshala
+    - Fatehpur
+    - Indora
+    - Kangra
+    - Lambagaon
+    - Nagrota Bagwan
+    - Nagrota Surian
+    - Nurpur
+    - Palampur
+    - Panchrukhi
+    - Pragpur
+    - Rait
+    - Sulah
+    - Surani
+  - name: Kinnaur
+    website: https://hpkinnaur.nic.in
+    sub_districts:
+    - Hangrang
+    - Kalpa
+    - Morang
+    - Nichar
+    - Poo
+    - Sangla
+    - Tapri
+    blocks:
+    - Kalpa
+    - Nichar
+    - Pooh
+  - name: Kullu
+    website: https://hpkullu.nic.in
+    sub_districts:
+    - Ani
+    - Banjar
+    - Bhuntar
+    - Jari
+    - Kullu
+    - Manali
+    - Nirmand
+    - Nither
+    - Sainj
+    blocks:
+    - Anni
+    - Banjar
+    - Bhunter
+    - Kullu
+    - Naggar
+    - Nirmand
+  - name: Lahaul And Spiti
+    website: https://hplahaulspiti.nic.in
+    sub_districts:
+    - Lahul
+    - Spiti
+    - Udaipur
+    blocks:
+    - Lahaul
+    - Spiti
+  - name: Mandi
+    website: https://hpmandi.nic.in
+    sub_districts:
+    - Aut
+    - Bagachnogi
+    - Bagshad
+    - Baldwara
+    - Balh
+    - Bali Chowki
+    - Bhadrota
+    - Chachyot
+    - Chhatri
+    - Dehar
+    - Dhalwan
+    - Dharmpur
+    - Jogindarnagar
+    - Karsog
+    - Katoula
+    - Kotli
+    - Lad Bharol
+    - Makridi
+    - Mandap
+    - Mandi
+    - Nihri
+    - Padhar
+    - Pangna
+    - Rewalsar
+    - Sandhol
+    - Sarkaghat
+    - Sundarnagar
+    - Thachi
+    - Thunag
+    - Tihra
+    blocks:
+    - Balh
+    - Balichowki
+    - Chauntra
+    - Churag
+    - Dhanotu
+    - Dharmpur
+    - Drang
+    - Gohar
+    - Gopalpur
+    - Karsog
+    - Mandi Sadar
+    - Nihri
+    - Seraj
+    - Sundarnagar
+  - name: Shimla
+    website: https://hpshimla.nic.in
+    sub_districts:
+    - Chaupal
+    - Chirgaon
+    - Deha
+    - Dhami
+    - Dodra Kwar
+    - Jalog
+    - Jangla
+    - Jubbal
+    - Junga
+    - Kalbog
+    - Kotgarh
+    - Kotkhai
+    - Kumarsain
+    - Kupvi
+    - Nankhari
+    - Nerwa
+    - Rampur
+    - Rohru
+    - Sarahan
+    - Sarawati Nagar
+    - Shimla ( Rural )
+    - Shimla (Urban)
+    - Sunni
+    - Taklech
+    - Theog
+    - Tikar
+    blocks:
+    - Basantpur
+    - Chhohara
+    - Chopal
+    - Jubbal
+    - Kotkhai
+    - Kupvi
+    - Mashobra
+    - Nankhari
+    - Narkanda
+    - Rampur
+    - Rohru
+    - Theog
+    - Totu
+  - name: Sirmaur
+    website: https://hpsirmaur.nic.in
+    sub_districts:
+    - Dadahu
+    - Haripurdhar
+    - Kamrau
+    - Majra
+    - Nahan
+    - Narag
+    - Nohra
+    - Pachhad
+    - Pajhota
+    - Paonta Sahib
+    - Rajgarh
+    - Renuka
+    - Ronhat
+    - Shillai
+    blocks:
+    - Nahan
+    - Pachhad
+    - Paonta Sahib
+    - Rajgarh
+    - Sangrah
+    - Shillai
+    - Tilordhar
+  - name: Solan
+    website: https://hpsolan.nic.in
+    sub_districts:
+    - Arki
+    - Baddi
+    - Darlaghat
+    - Kandaghat
+    - Kasauli
+    - Krishangarh
+    - Kunihar
+    - Loharghat
+    - Mamlig
+    - Nalagarh
+    - Panjehra
+    - Parwanoo
+    - Ramshahr
+    - Solan
+    blocks:
+    - Dharampur
+    - Kandaghat
+    - Kunihar
+    - Nalagarh
+    - Patta
+    - Solan
+  - name: Una
+    website: https://hpuna.nic.in
+    sub_districts:
+    - Amb
+    - Bangana
+    - Bharwain
+    - Birhu Kalan
+    - Dulahar
+    - Gagret
+    - Ghanari
+    - Haroli
+    - Ispur
+    - Jol
+    - Mehatpur
+    - Una
+    blocks:
+    - Amb
+    - Bangana
+    - Gagret
+    - Haroli
+    - Una

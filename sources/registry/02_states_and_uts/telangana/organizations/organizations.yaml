@@ -1,0 +1,412 @@
+parent_state: Telangana
+organizations:
+- name: Official Portal of Telangana Government
+  website: https://telangana.gov.in
+  category: State Portal
+  status: external_link
+- name: Telangana State Sports School
+  website: https://tgss.telangana.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: "e-SahakaraSeva, \u200BTelangana"
+  website: https://esahakaraseva.telangana.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Chief Commissioner of Land Administration, Telangana
+  website: https://ccla.telangana.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissioner and Director of School Education, Telangana
+  website: https://schooledu.telangana.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Consumer Disputes Redressal Commission, Hyderabad, Telangana
+  website: https://scdrc.tg.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Information Commission, Telangana
+  website: https://tgic.telangana.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Mission for Elimination of Poverty in Municipal Areas, Telangana
+  website: https://tmepma.cgg.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Telangana Admission and Fee Regulatory Committee, Telangana
+  website: https://tafrc.telangana.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Telangana State Commission for Scheduled Castes and Scheduled Tribes, Telangana
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Telangana State Electricity Regulatory Commission (TSERC), Telangana
+  website: https://tserc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Telangana Vigilance Commission, Telangana
+  website: https://tvc.telangana.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Cyberabad Metropolitan Police, Telangana
+  website: https://www.cyberabadpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Cyberabad Traffic Police, Telangana
+  website: https://ctp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Hyderabad Citi Police, Telangana
+  website: https://www.hyderabadpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Hyderabad Traffic Police, Telangana
+  website: https://www.htp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Panchayat Raj & Rural Employment, Telangana
+  website: https://epanchayat.telangana.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Polytechnic Common Entrance Test (POLYCET)
+  website: https://polycet.sbtet.telangana.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajiv Aarogyasri Health Care Trust, Telangana
+  website: https://www.rajivaarogyasri.telangana.gov.in/ASRI2.0
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: SHE TEAM - Hyderabad City Police, Telangana
+  website: https://sheteamhydpolice.telangana.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Sports Authority of Telangana
+  website: https://satg.telangana.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Telangana State Council of Higher Education (TSCHE), Telangana
+  website: https://www.tsche.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Telangana State Council of Science & Technology (TSCOST), Telangana
+  website: https://tscost.telangana.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Telangana State Housing Corporation Limited (TSHCL), Telangana
+  website: https://tshousing.cgg.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Telangana State Police Academy, Telangana
+  website: https://tspa.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Telangana State Pollution Control Board (TSPCB), Telangana
+  website: https://tspcb.cgg.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Vidyut Ombudsman, Telangana
+  website: https://vidyutombudsman-tserc.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Commissioner and Director of Municipal Administration, Telangana
+  website: https://emunicipal.telangana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Collegiate Education, Telangana
+  website: https://ccets.cgg.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics and Statistics, Telangana
+  website: https://ecostat.telangana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Government Examinations, Telangana
+  website: https://bse.telangana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education, Telangana
+  website: https://dme.telangana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Treasuries and Accounts, Telangana
+  website: https://treasury.telangana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Drugs Control Administration, Telangana
+  website: https://dca.telangana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Rachakonda Police Commissionerate, Telangana
+  website: https://rachakondapolice.telangana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Siddipet Police Commissionerate, Telangana
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Housing Board, Telangana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Hyderabad Metropolitan Development Authority (HMDA), Telangana
+  website: https://www.hmda.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Hyderabad Metropolitan Water Supply & Sewerage Board (HMWSSB), Telangana
+  website: https://www.hyderabadwater.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Medicinal Plants Board, Telangana
+  website: https://tsmpb.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Northern Power Distribution Company of Telangana Limited, Telangana
+  website: https://tsnpdcl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Online Consent Management & Monitoring System, Telangana
+  website: https://tsocmms.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: State Board of Intermediate Education, Telangana
+  website: https://tsbie.cgg.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: State Board of Technical Education and Training, Telangana
+  website: https://www.sbtet.telangana.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Technology Services, Telangana
+  website: https://www.tsts.telangana.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana State Beverages Corporation Ltd., Telangana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana State Dairy Development Cooperative Federation Limited, Telangana
+  website: https://tsdairy.telangana.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana State Industrial Infrastructure Corporation Ltd. (TSIIC), Telangana
+  website: https://tsiic.telangana.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana State Power Generation Corporation Limited (TSGENCO), Telangana
+  website: https://tsgenco.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana State Renewable Energy Development Corporation Ltd., (TSREDCO),
+    Telangana
+  website: https://tgredco.telangana.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana State Tourism Development Corporation (TSDTC) Ltd., Telangana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana Vikalangula Co-operative Corporation, Telangana
+  website: https://tvcc.telangana.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Telangana State Minorities Finance Corporation, Telangana
+  website: https://tsmfc.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Central Detective Training Institute in Hyderabad
+  website: https://cdtihyd.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. B.R. Ambedkar Open University, Telangana
+  website: https://braou.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: International Institute of Information Technology, Hyderabad, Telangana
+  website: https://www.iiit.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Nizam's Institute of Medical Sciences, Hyderabad, Telangana
+  website: https://nims.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: P.V. Narsimha Rao Telangana Veterinary University, RajendraNagar, Hyderabad,
+    Telangana
+  website: https://tsvu.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Samagra Shiksha, Telangana
+  website: https://samagrashiksha.telangana.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: State Council of Educational Research and Training (SCERT), Telangana
+  website: https://scert.telangana.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Telangana State Institute of Rural Development (TSIRD), Telangana
+  website: https://tsird.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Telangana Tribal Welfare Residential Educational Institutions Society (Gurukulam),
+    Telangana
+  website: https://www.tgtwgurukulam.telangana.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Telangana University, Nizamabad, Telangana
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: The Gandhigram Rural Institute (Deemed to be University), Telangana
+  website: https://www.ruraluniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bhu Bharati Portal, Telangana
+  website: https://bhubharati.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: BuildNow - Building and Layout Approval System, Telangana
+  website: https://buildnow.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Clinical Establishments Registration & Regulation, Telangana
+  website: https://clinicalestablishments.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Commissionerate of Health and Family Welfare, National Health Mission, Telangana
+  website: https://chfw.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Cyberabad Police Permission Management System
+  website: https://cybpms.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Integrated Financial Management and Information System (IFMIS), Telangana
+  website: https://ifmis.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Integrated Land Records Management System, Telangana
+  website: https://dharani.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Paddy Procurement System, Telangana
+  website: https://pps.telangana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Telangana District Courts RTI Portal
+  website: https://dcrti.tshc.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Telangana Farmer Registry
+  website: https://tlfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Telangana Senior Citizens Maintenance Cases Monitoring System (TSCMMS)
+  website: https://tgseniorcitizens.cgg.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Telangana State Engineering, Agriculture & Medical Common Entrance Test-B
+    (TGEAPCET-B), Telangana
+  website: https://tgeapcetb.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: AYUSH Drugs Licensing System, Telangana
+  website: https://ayushdls.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Aasara - Soceity for Elimination of Rural Poverty, Telangana
+  website: https://www.aasara.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Benefit Disbursement Portal (MGNREGA & SSP), Telangana
+  website: null
+  category: Others
+  status: external_link
+- name: COVID-19 Advisories & Updates, Telangana
+  website: null
+  category: Others
+  status: external_link
+- name: District Education Office (DEO), Bhadradri Kothagudem, Telangana
+  website: null
+  category: Others
+  status: external_link
+- name: Employees and Journalists Health Scheme, Telangana
+  website: https://www.ehf.telangana.gov.in
+  category: Others
+  status: external_link
+- name: "Environment Protection Training and Research Institute, \u200BTelangana"
+  website: https://eptri.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Film Development Corporation Limited, Telangana
+  website: null
+  category: Others
+  status: external_link
+- name: Foods, Telangana
+  website: null
+  category: Others
+  status: external_link
+- name: Government Orders Issue Register, Telangana
+  website: https://goir.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Hyderabad Metro Rail Limited, Telangana
+  website: https://hmrl.co.in
+  category: Others
+  status: external_link
+- name: Jeevandan - Cadaver Transplantation Programme, Telangana
+  website: https://jeevandan.gov.in
+  category: Others
+  status: external_link
+- name: MCH Kit Welfare Program, Telangana
+  website: https://kcrkit.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Medical Services Infrastructure Development Corporation, Telangana
+  website: https://tgmsidc.telangana.gov.in
+  category: Others
+  status: external_link
+- name: MeeSeva Portal (Service to Citizens), Telangana
+  website: https://ts.meeseva.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Mission Bhagiratha, Telangana
+  website: https://missionbhagiratha.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Mission Kakatiya, Telangana
+  website: https://missionkakatiya.cgg.gov.in
+  category: Others
+  status: external_link
+- name: Musi River Front Development Corporation Ltd., Telangana
+  website: https://musi.telangana.gov.in
+  category: Others
+  status: external_link
+- name: National Food Security Cards, Telangana
+  website: https://epds.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Online Beneficiary Management and Monitoring System - OBMMS, Telangana
+  website: https://tsobmms.cgg.gov.in
+  category: Others
+  status: external_link
+- name: Online Drugs Licensing System, Telangana
+  website: https://odls.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Prajavani - Centralized Public Grievance Redress and Monitoring System, Telangana
+  website: https://cpgrams.ts.nic.in
+  category: Others
+  status: external_link
+- name: RYTHU BANDHU (Agriculture Investment Support Scheme), RYTHU BIMA (Farmer's
+    Insurance), Telangana
+  website: https://rythubandhu.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Rashtriya Krishi Vikas Yojana - (RKVY), Telangana
+  website: https://horticulturedept.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Social, Tribal, BC, Minority and Residential Educational Institutions Societies,
+    Telangana
+  website: https://societyleague.telangana.gov.in
+  category: Others
+  status: external_link

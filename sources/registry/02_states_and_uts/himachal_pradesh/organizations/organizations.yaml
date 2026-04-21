@@ -1,0 +1,377 @@
+parent_state: Himachal Pradesh
+organizations:
+- name: Official Portal of Himachal Pradesh Government
+  website: https://himachal.gov.in
+  category: State Portal
+  status: external_link
+- name: Real Estate Regulatory Authority, Himachal Pradesh
+  website: https://hprera.nic.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Agriculture Produce Procurement Portal, Himachal Pradesh
+  website: https://hpappp.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Agrisnet, Himachal Pradesh
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Commission for Protection of Child Rights, Himachal Pradesh
+  website: https://hpcpcr.hp.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: H.P. Electricity Regulatory Commission (HPERC), Himachal Pradesh
+  website: https://www.hperc.org
+  category: Commissions/ Committees
+  status: external_link
+- name: Himachal Pradesh Private Educational Institutions Regulatory Commission, Himachal
+    Pradesh
+  website: https://hp.gov.in/hpperc
+  category: Commissions/ Committees
+  status: external_link
+- name: State Commission for Backward Classes, Himachal Pradesh
+  website: https://hp.gov.in/hpsbc
+  category: Commissions/ Committees
+  status: external_link
+- name: State Consumer Disputes Redressal Commission, Himachal Pradesh
+  website: https://hpconsumercommission.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Food Commission, Himachal Pradesh
+  website: https://hpfoodcommission.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Information Commission, Himachal Pradesh
+  website: https://hp.gov.in/sic
+  category: Commissions/ Committees
+  status: external_link
+- name: Government College Dharamshala, Himachal Pradesh
+  website: https://gcdharamshala.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Government College Shillai, Himachal Pradesh
+  website: https://gcshillai.highalteducation.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Government College Solan, Himachal Pradesh
+  website: https://www.gcsolan.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: H.P. Government Energy Development Agency (HIMURJA), Himachal Pradesh
+  website: https://himurja.hp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Himachal Pradesh Technical University, Himachal Pradesh
+  website: https://www.himtu.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Jawaharlal Nehru Government Engineering College, Himachal Pradesh
+  website: https://www.jngec.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Lal Bahadur Shastri Government Degree College, Saraswati Nagar, Himachal Pradesh
+  website: https://www.lbsgcsnagar.edu.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajiv Gandhi Government Engineering College (RGGEC), Kangra, Himachal Prades
+  website: https://rggec.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: State Disaster Management Authority, Himachal Pradesh
+  website: https://hpsdma.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: State Forensic Science Laboratory, Himachal Pradesh
+  website: https://himachal.nic.in/index.php?lang=1&dpt_id=174
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: State Vigilance & Anti Corruption Bureau, Himachal Pradesh
+  website: https://hpsvacb.hp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Department of Fire Services, Himachal Pradesh
+  website: https://himachal.nic.in/fireservices
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Health Safety and Regulation, Himachal Pradesh
+  website: https://dhsr.hp.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education & Research, Himachal Pradesh
+  website: https://www.hp.gov.in/hpdmer
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Home Guards Department, Himachal Pradesh
+  website: https://himachal.nic.in/index.php?lang=1&dpt_id=172
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Energy, Himachal Pradesh
+  website: https://doehimachal.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: District Rural Development Agency (DRDA), Chamba, Himachal Pradesh
+  website: https://drdachamba.org
+  category: Boards / Undertakings
+  status: external_link
+- name: District Rural Development Agency (DRDA), Shimla, Himachal Pradesh
+  website: https://drdashimla.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: H.P. State Pollution Control Board, Himachal Pradesh
+  website: https://hppcb.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Backward Classes Finance & Development Corporation (HBCFDC), Himachal
+    Pradesh
+  website: https://himachalservices.nic.in/hbcfdc
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh Building and Other Construction Workers Welfare Board, Himachal
+    Pradesh
+  website: https://bocw.hp.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh Infrastructure Development Board, Himachal Pradesh
+  website: https://himachalservices.nic.in/hpidb
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh Khadi & Village Industries Board, Himachal Pradesh
+  website: https://khadi.hp.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh Road & Infrastructure Development Corporation Ltd., Himachal
+    Pradesh
+  website: https://himachalservices.nic.in/hpridc
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh Scheduled Castes and Scheduled Tribes Development Corporation,
+    Himachal Pradesh
+  website: https://himachalservices.nic.in/hpscstdc
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh State Agriculture Marketing Board (HPSAMB), Himachal Pradesh
+  website: https://hpsamb.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh State Biodiversity Board, Himachal Pradesh
+  website: https://hpbiodiversity.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Pradesh State Electricity Board Limited (HPSEBL), Himachal Pradesh
+  website: https://www.hpseb.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Housing and Urban Development Authority (HIMUDA), Himachal Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: The H.P. State Cooperative Wool Procurement and Marketing Federation Ltd (H.P
+    WOOLFED), Shimla, Himachal Pradesh
+  website: https://himachal.nic.in/woolfed
+  category: Boards / Undertakings
+  status: external_link
+- name: Himachal Backward Classes Finance and Development Corporation, Himachal Pradesh
+  website: https://himachal.nic.in/hbcfdc
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Himachal Pradesh General Industries Corporation Ltd. (HPGIC), Himachal Pradesh
+  website: https://www.hpgic.co.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Himachal Pradesh Horticulture Produce Marketing and Processing Corporation
+    Ltd. (HPMC), Himachal Pradesh
+  website: https://hpmc.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Himachal Pradesh Road & Infrastructure Development Corporation Ltd., Himachal
+    Pradesh
+  website: https://himachal.nic.in/hpridc
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Himachal Pradesh State Co-operative Marketing & Consumers Federation Ltd.,
+    Himachal Pradesh
+  website: https://www.himfed.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Himachal Road Transport Corporation (HRTC), Himachal Pradesh
+  website: https://www.hrtchp.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Baddi University of Emerging Sciences & Technology, Himachal Pradesh
+  website: https://www.baddiuniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: CSK Himachal Pradesh Agricultural University, Palampur, Himachal Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Dr YS Parmar University of Horticulture & Forestry, Nauni-Solan, Himachal
+    Pradesh
+  website: https://www.yspuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: G. B. Pant Memorial Govt. College, Himachal Pradesh
+  website: https://gbpmgcrampur.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic for Women, Kandaghat, Himachal Pradesh
+  website: https://gpcwkandaghat.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Himachal Pradesh Board of School Education, Dharamshala, Himachal Pradesh
+  website: https://hpbose.org
+  category: Academies / Institutions
+  status: external_link
+- name: Himachal Pradesh Panchayati Raj Training Institute, Mashobra (Craigneno),
+    Shimla, Himachal Pradesh
+  website: https://hpprtim.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Himachal Pradesh Takniki Shiksha Board, Dharamshala, Himachal Pradesh
+  website: https://www.hptechboard.com
+  category: Academies / Institutions
+  status: external_link
+- name: Himachal Pradesh University, Himachal Pradesh
+  website: https://www.hpuniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Indira Gandhi Medical College, Shimla, Himachal Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Management Studies, Shimla, Himachal Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Krishi Vishwavidyalay, Himachal Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: UGC - Human Resource Development Centre (HRDC), Himachal Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Agriculture Produce Procurement Portal, Himachal Pradesh
+  website: https://hpappp.hp.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Himachal Pradesh Farmer Registry
+  website: https://hpfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Rohtang Pass Permit, Manali
+  website: https://rohtangpermits.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Himachal Pradesh
+  website: https://himachal.mygov.in
+  contact:
+    address: Office of CEO, MyGov, 3rd Floor, Department of Information Technology,
+      Government of Himachal Pradesh, IT Bhawan, Mehli, Shimla - 171013 India
+    phone: 0177-2628915
+    fax: ''
+    email: connect[at]himachal[dot]mygov[dot]nic[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Camp Potters Hill Shimla, Himachal Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: District Court Shimla, Himachal Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: District Rural Development Agency (DRDA), Hamirpur, Himachal Pradesh
+  website: https://drdahamirpurhp.nic.in
+  category: Others
+  status: external_link
+- name: 'EIACP PC-Hub: Himachal Pradesh Status of Environment and Related Issues,
+    Himachal Pradesh'
+  website: https://hpenvis.nic.in
+  category: Others
+  status: external_link
+- name: Food Corporation of India, Himachal Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Forms Repository, Himachal Pradesh
+  website: https://himachalforms.nic.in
+  category: Others
+  status: external_link
+- name: HP Aquaculture, Fishing and Marketing Society, Himachal Pradesh, India
+  website: https://himachal.nic.in/index.php?lang=1&dpt_id=228
+  category: Others
+  status: external_link
+- name: HP Crop Diversification Promotion Project, Himachal Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: HP State Council of Educational Research and Training, Himachal Pradesh
+  website: https://himachalservices.nic.in/scert
+  category: Others
+  status: external_link
+- name: Himachal Online Seva, Himachal Pradesh
+  website: https://edistrict.hp.gov.in
+  category: Others
+  status: external_link
+- name: Himachal Pradesh Council for Science, Technology & Environment, Himachal Pradesh
+  website: https://himcoste.hp.gov.in
+  category: Others
+  status: external_link
+- name: Himachal Pradesh State Co-operative Bank Ltd. (hpscb), Himachal Pradesh
+  website: https://www.hpscb.com
+  category: Others
+  status: external_link
+- name: IFMIS - Government Receipts Accounting System
+  website: https://himkosh.hp.nic.in
+  category: Others
+  status: external_link
+- name: Online House Allotment Management System, Himachal Pradesh
+  website: https://himkosh.hp.nic.in/halomis
+  category: Others
+  status: external_link
+- name: Public Service Commission, Himachal Pradesh
+  website: https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login
+  category: Others
+  status: external_link
+- name: Single Window Clearance System, Himachal Pradesh
+  website: https://emerginghimachal.hp.gov.in
+  category: Others
+  status: external_link
+- name: State Child Protection Society, Directorate of Women and Child Development,
+    Himachal Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Swachh Bharat Mission - Gramin, Himachal Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: e-Granthalaya - A Digital Agenda for Library Automaion and Networking, Himachal
+    Pradesh
+  website: https://himachalservices.nic.in/hplib
+  category: Others
+  status: external_link
+- name: e-Sameeksha, Himachal Pradesh
+  website: https://esameeksha.hp.nic.in
+  category: Others
+  status: external_link
+- name: eGazette Rajpatra, Himachal Pradesh
+  website: https://rajpatrahimachal.nic.in
+  category: Others
+  status: external_link
+- name: ePASS - Electronic Payment & Application System of Scholarships, Himachal
+    Pradesh
+  website: https://hpepass.cgg.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Himachal Pradesh
+  website: https://hptenders.gov.in
+  category: Others
+  status: external_link

@@ -1,0 +1,32 @@
+parent_state: Dadra and Nagar Haveli and Daman and Diu
+organizations:
+- name: Official Portal UT of Dadra and Nagar Haveli and Daman and Diu
+  website: https://ddd.gov.in
+  category: State Portal
+  status: external_link
+- name: Dr Babasaheb Bhimrao Ambedkar Government Polytechnic, UT of Dadra and Nagar
+    Haveli-Silvassa
+  website: https://drbbagpks.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: DNH and DD Power Corporation Ltd., UT of Dadra & Nagar Haveli - Silvassa
+  website: https://www.dnhddpcl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Directorate Medical and Health Service, UT of Dadra & Nagar Haveli
+  website: https://vbch.dnh.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Beach Games 2024, DIU , UT of Dadra and Nagar Haveli and Daman and Diu
+  website: null
+  category: Others
+  status: external_link
+- name: Government Contact Information, UT of Dadra and Nagar Haveli and Daman and
+    Diu
+  website: null
+  category: Others
+  status: external_link
+- name: e-Procurement System, UT of Dadra and Nagar Haveli and Daman and Diu
+  website: https://dnhtenders.gov.in
+  category: Others
+  status: external_link

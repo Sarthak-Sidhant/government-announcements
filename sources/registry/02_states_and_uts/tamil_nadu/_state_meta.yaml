@@ -1,9 +1,565 @@
-# === IDENTITY ===
-id: "state-tamil_nadu"
-name: "Tamil Nadu"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-tamil_nadu
+name: Tamil Nadu
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Ariyalur
+    website: https://ariyalur.nic.in
+    sub_districts:
+    - Andimadam
+    - Ariyalur
+    - Sendurai
+    - Udayarpalayam
+    blocks:
+    - Andimadam
+    - Ariyalur
+    - Jayamkondam
+    - Sendurai
+    - T. Palur
+    - Thirumanur
+  - name: Chengalpattu
+    website: https://chengalpattu.nic.in
+    sub_districts:
+    - Chengalpattu
+    - Cheyyur
+    - Maduranthakam
+    - Pallavaram
+    - Tambaram
+    - Tirukalukundram
+    - Tiruporur
+    - Vandalur
+    blocks:
+    - Acharapakkam
+    - Chithamur
+    - Kattankolathur
+    - Lathur
+    - Madurantakam
+    - St.Thomas Mount
+    - Thiruporur
+    - Tirukkalukunram
+  - name: Chennai
+    website: https://chennai.nic.in
+    sub_districts:
+    - Alandur
+    - Ambattur
+    - Aminjikarai
+    - Ayanavaram
+    - Egmore
+    - Guindy
+    - Kolathur
+    - Maduravoyal
+    - Mambalam
+    - Mathavaram
+    - Mylapore
+    - Perambur
+    - Purasawalkam
+    - Sholinganallur
+    - Tiruvottiyur
+    - Tondiarpet
+    - Velachery
+    blocks: []
+  - name: Coimbatore
+    website: https://coimbatore.nic.in
+    sub_districts:
+    - Anaimalai
+    - Annur
+    - Coimbatore North
+    - Coimbatore South
+    - Kinathukadavu
+    - Madukkari
+    - Mettupalayam
+    - Perur
+    - Pollachi
+    - Sulur
+    - Valparai
+    blocks:
+    - Anamalai
+    - Annur
+    - Karamadai
+    - Kinathukadavu
+    - Madukkarai
+    - Periyanayakkanpalayam
+    - Pollachi North
+    - Pollachi South
+    - Sarcarsamakulam
+    - Sultanpet
+    - Sulur
+    - Thondamuthur
+  - name: Cuddalore
+    website: https://cuddalore.nic.in
+    sub_districts:
+    - Bhuvanagiri
+    - Chidambaram
+    - Cuddalore
+    - Kattumannarkoil
+    - Kurinjipadi
+    - Panruti
+    - Srimushnam
+    - Tittakudi
+    - Veppur
+    - Virudhachalam
+    blocks:
+    - Annagramam
+    - Cuddalore
+    - Kammapuram
+    - Kattumannarkoil
+    - Keerapalayam
+    - Komaratchi
+    - Kurinjipadi
+    - Mangalur
+    - Melbhuvanagiri
+    - Nallur
+    - Panruti
+    - Parangipettai
+    - Srimushnam
+    - Vriddhachalam
+  - name: Dharmapuri
+    website: https://dharmapuri.nic.in
+    sub_districts:
+    - Dharmapuri
+    - Harur
+    - Karimangalam
+    - Nallampalli
+    - Palakkodu
+    - Pappireddipatti
+    - Pennagaram
+    blocks:
+    - Dharmapuri
+    - Eriyur
+    - Harur
+    - Kadathur
+    - Karimangalam
+    - Morappur
+    - Nallampalli
+    - Palakkodu
+    - Pappireddipatty
+    - Pennagaram
+  - name: Dindigul
+    website: https://dindigul.nic.in
+    sub_districts:
+    - Athoor
+    - Dindiguleast
+    - Dindigulwest
+    - Gujiliamparai
+    - Kodaikanal
+    - Natham
+    - Nilakkottai
+    - Oddanchatram
+    - Palani
+    - Vedasandur
+    blocks:
+    - Athoor
+    - Dindigul
+    - Guziliamparai
+    - Kodaikanal
+    - Nattam
+    - Nilakottai
+    - Oddanchatram
+    - Palani
+    - Reddiyarchatiram
+    - Shanarpatti
+    - Thoppampatti
+    - Vadamadurai
+    - Vattalkundu
+    - Vedasandur
+  - name: Erode
+    website: https://erode.nic.in
+    sub_districts:
+    - Anthiyur
+    - Bhavani
+    - Erode
+    - Gobichettipalayam
+    - Kodumudi
+    - Modakkurichi
+    - Nambiyur
+    - Perundurai
+    - Sathyamangalam
+    - Thalavadi
+    blocks:
+    - Ammapet
+    - Andiyur
+    - Bhavani
+    - Bhavanisagar
+    - Chennimalai
+    - Erode
+    - Gopichettipalaiyam
+    - Kodumudi
+    - Modakurichi
+    - Nambiyur
+    - Perundurai
+    - Satyamangalam
+    - Talavadi
+    - Thoockanaickenpalaiyam
+  - name: Kallakurichi
+    website: https://kallakurichi.nic.in
+    sub_districts:
+    - Chinnasalem
+    - Kallakkurichi
+    - Kalvarayan Hills
+    - Sankarapuram
+    - Tirukkoyilur
+    - Ulundurpettai
+    - Vanapuram
+    blocks:
+    - Chinnasalem
+    - Kallakkurichi
+    - Kalrayanhills
+    - Rishivandiam
+    - Sankarapuram
+    - Thiagadurgam
+    - Tirukkoyilur
+    - Tirunavalur
+    - Ulundurpet
+  - name: Kancheepuram
+    website: https://kancheepuram.nic.in
+    sub_districts:
+    - Kancheepuram
+    - Kundrathur
+    - Sriperumbudur
+    - Uthiramerur
+    - Walajabad
+    blocks:
+    - Kanchipuram
+    - Kunnattur
+    - Sriperumbudur
+    - Uttiramerur
+    - Walajabad
+  - name: Kanniyakumari
+    website: https://kanniyakumari.nic.in
+    sub_districts:
+    - Agastheeswaram
+    - Kalkulam
+    - Killiyoor
+    - Thiruvattar
+    - Thovala
+    - Vilavancode
+    blocks:
+    - Agastiswaram
+    - Killiyoor
+    - Kurunthancode
+    - Melpuram
+    - Munchira
+    - Rajakkamangalam
+    - Thackalai
+    - Thiruvattar
+    - Thovala
+  - name: Karur
+    website: https://karur.nic.in
+    sub_districts:
+    - Aravakurichi
+    - Kadavur
+    - Karur
+    - Krishnarayapuram
+    - Kulithalai
+    - Manmangalam
+    - Pugalur
+    blocks:
+    - Aravakurichi
+    - K.Paramathy
+    - Kadavur
+    - Karur
+    - Krishnarayapuram
+    - Kulittalai
+    - Thanthoni
+    - Thogaimalai
+  - name: Krishnagiri
+    website: https://krishnagiri.nic.in
+    sub_districts:
+    - Anchetty
+    - Bargur
+    - Denkanikottai
+    - Hosur
+    - Krishnagiri
+    - Pochampalli
+    - Shoolagiri
+    - Uthangarai
+    blocks:
+    - Bargur
+    - Hosur
+    - Kaveripattinam
+    - Kelamangalam
+    - Krishnagiri
+    - Mathur
+    - Shoolagiri
+    - Thally
+    - Uthangarai
+    - Veppanapalli
+  - name: Madurai
+    website: https://madurai.nic.in
+    sub_districts:
+    - Kalligudi
+    - Madurai East
+    - Madurai North
+    - Madurai South
+    - Madurai West
+    - Melur
+    - Peraiyur
+    - Thirumangalam
+    - Thirupparankundram
+    - Usilampatti
+    - Vadipatti
+    blocks:
+    - Alanganallur
+    - Chellampatti
+    - Kallikudi
+    - Kottampatti
+    - Madurai East
+    - Madurai West
+    - Melur
+    - Sedapatti
+    - T.Kallupatti
+    - Tirumangalam
+    - Tirupparangunram
+    - Usilampatti
+    - Vadipatti
+  - name: Mayiladuthurai
+    website: https://mayiladuthurai.nic.in
+    sub_districts:
+    - Kuthalam
+    - Mayiladuthurai
+    - Sirkali
+    - Tharangambadi
+    blocks:
+    - Kollidam
+    - Kuttalam
+    - Mayiladuthurai
+    - Sembanar Koil
+    - Sirkazhi
+  - name: Nagapattinam
+    website: https://www.nagapattinam.nic.in
+    sub_districts:
+    - Kilvelur
+    - Nagapattinam
+    - Thirukkuvalai
+    - Vedaranyam
+    blocks:
+    - Keelaiyur
+    - Kilvelur
+    - Nagappattinam
+    - Thalanayar
+    - Thirumarugal
+    - Vedaranyam
+  - name: Namakkal
+    website: https://namakkal.nic.in
+    sub_districts:
+    - Kolli Hills
+    - Kumarapalayam
+    - Mohanur
+    - Namakkal
+    - Paramathi-Velur
+    - Rasipuram
+    - Sendamangalam
+    - Tiruchengode
+    blocks:
+    - Elacipalayam
+    - Erumapatty
+    - Kabilamalai
+    - Kolli Hills
+    - Mallasamudram
+    - Mohanur
+    - Namagiripet
+    - Namakkal
+    - Pallipalayam
+    - Paramathy
+    - Puduchatram
+    - Rasipuram
+    - Sendamangalam
+    - Tiruchengodu
+    - Vennandur
+  - name: Perambalur
+    website: https://perambalur.nic.in
+    sub_districts:
+    - Alathur
+    - Kunnam
+    - Perambalur
+    - Veppanthattai
+    blocks:
+    - Alathur
+    - Perambalur
+    - Veppanthattai
+    - Veppur
+  - name: Pudukkottai
+    website: https://pudukkottai.nic.in
+    sub_districts:
+    - Alangudi
+    - Aranthangi
+    - Avudayarkoil
+    - Gandarvakkottai
+    - Iluppur
+    - Karambakudi
+    - Kulathur
+    - Manamelkudi
+    - Ponnamaravathi
+    - Pudukkottai
+    - Thirumayam
+    - Viralimalai
+    blocks:
+    - Annavasal
+    - Arantangi
+    - Arimalam
+    - Avadaiyarkovil
+    - Gandaravakottai
+    - Karambakudi
+    - Kunnandarkoil
+    - Manalmelkudi
+    - Ponnamaravati
+    - Pudukkottai
+    - Thiruvarankulam
+    - Tirumayam
+    - Viralimalai
+  - name: Ramanathapuram
+    website: https://ramanathapuram.nic.in
+    sub_districts:
+    - Kadaladi
+    - Kamuthi
+    - Kilakarai
+    - Mudukulathur
+    - Paramakudi
+    - Rajasingamangalam
+    - Ramanathapuram
+    - Rameswaram
+    - Tiruvadanai
+    blocks:
+    - Bogalur
+    - Kadaladi
+    - Kamudi
+    - Mandapam
+    - Mudukulathur
+    - Nainarkoil
+    - Paramakkudi
+    - Rajasingamangalam
+    - Ramanathapuram
+    - Tiruppullani
+    - Tiruvadanai
+  - name: Ranipet
+    website: null
+    sub_districts:
+    - Arakonam
+    - Arcot
+    - Kalavai
+    - Nemili
+    - Sholinghur
+    - Wallajah
+    blocks:
+    - Arakkonam
+    - Arcot
+    - Kaveripakkam
+    - Nemili
+    - Sholinghur
+    - Timiri
+    - Walajapet
+  - name: Salem
+    website: https://salem.nic.in
+    sub_districts:
+    - Attur
+    - Edappadi
+    - Gangavalli
+    - Kadayampatti
+    - Mettur
+    - Omalur
+    - Pethanaickanpalayam
+    - Salem
+    - Salem South
+    - Salem West
+    - Sankari
+    - Thalaivasal
+    - Vazhapadi
+    - Yercaud
+    blocks:
+    - Attur
+    - Ayodhiyapattinam
+    - Gangavalli
+    - Idappadi
+    - Kadaiyampatty
+    - Kolathur
+    - Konganapuram
+    - Macdonalds Choultry
+    - Mecheri
+    - Nangavalli
+    - Omalur
+    - Panamarathupatti
+    - Peddanaickenpalayam
+    - Salem
+    - Sankari
+    - Talavasal
+    - Taramangalam
+    - Valapady
+    - Veerapandi
+    - Yercaud
+  - name: Sivaganga
+    website: https://sivaganga.nic.in
+    sub_districts:
+    - Devakottai
+    - Ilayangudi
+    - Kalaiyarkoil
+    - Karaikkudi
+    - Manamadurai
+    - Singampunari
+    - Sivaganga
+    - Thiruppathur
+    - Thiruppuvanam
+    blocks:
+    - Devakottai
+    - Ilayankudi
+    - Kalaiyarkoil
+    - Kallal
+    - Kannankudi
+    - Manamadurai
+    - S. Pudur
+    - Sakkottai
+    - Singampunari
+    - Sivaganga
+    - Tiruppathur
+    - Tiruppuvanam
+  - name: Tenkasi
+    website: https://tenkasi.nic.in
+    sub_districts:
+    - Alangulam
+    - Kadayanallur
+    - Sankarankoil
+    - Shenkottai
+    - Sivagiri
+    - Tenkasi
+    - Tiruvengadam
+    - Veerakeralamputhur
+    blocks:
+    - Alangulam
+    - Kadaiyanallur
+    - Kadayam
+    - Keelapavoor
+    - Kuruvikulam
+    - Melaneelithanallur
+    - Sankarankovil
+    - Shencottah
+    - Tenkasi
+    - Vasudevanallur
+  - name: Thanjavur
+    website: https://thanjavur.nic.in
+    sub_districts:
+    - Budalur
+    - Kumbakonam
+    - Orathanadu
+    - Papanasam
+    - Pattukkottai
+    - Peravurani
+    - Thanjavur
+    - Thiruvaiyaru
+    - Thiruvidaimarudur
+    - Thiruvonam
+    blocks:
+    - Ammapettai
+    - Budalur
+    - Kumbakonam
+    - Madukkur
+    - Orattanadu
+    - Papanasam
+    - Pattukkottai
+    - Peravurani
+    - Sethubhavachatram
+    - Thanjavur
+    - Thiruppanandal
+    - Thiruvaiyaru
+    - Thiruvonam
+    - Tiruvidaimarudur

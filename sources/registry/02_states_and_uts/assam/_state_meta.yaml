@@ -1,9 +1,392 @@
-# === IDENTITY ===
-id: "state-assam"
-name: "Assam"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-assam
+name: Assam
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Bajali
+    website: https://bajali.assam.gov.in
+    sub_districts:
+    - Bajali (Pt)
+    - Sarupeta (Pt)
+    blocks:
+    - Bajali
+    - Bhabanipur
+  - name: Baksa
+    website: https://baksa.assam.gov.in
+    sub_districts:
+    - Baganpara (Pt)
+    - Barama Pt
+    - Baska
+    - Jalah (Pt)
+    blocks:
+    - Barama
+    - Baska
+    - Dhamdhama
+    - Jalah
+  - name: Barpeta
+    website: https://barpeta.assam.gov.in
+    sub_districts:
+    - Baghbor
+    - Barnagar (Pt)
+    - Barpeta
+    - Chenga
+    - Kalgachia
+    - Sarthebari
+    blocks:
+    - Chakchaka
+    - Chenga
+    - Ghilajhari-Rupsi
+    - Gobardhana
+    - Gomaphulbari
+    - Kalgachia
+    - Mandia
+    - Pakabetbari
+    - Sarukhetri
+  - name: Biswanath
+    website: https://biswanath.gov.in
+    sub_districts:
+    - Biswanath
+    - Gohpur
+    - Helem
+    - Na-Duar
+    blocks:
+    - Baghmara
+    - Behali
+    - Biswanath
+    - Chaiduar
+    - Pub Chaiduar
+    - Sakomatha
+  - name: Bongaigaon
+    website: https://bongaigaon.gov.in
+    sub_districts:
+    - Boitamari
+    - Bongaigaon (Pt)
+    - Dangtal Revenue Circle
+    - Manikpur
+    - Srijangram
+    blocks:
+    - Bidyapur
+    - Boitamari
+    - Srijangram
+    - Tapattary
+  - name: Cachar
+    website: https://cachar.gov.in
+    sub_districts:
+    - Katigora
+    - Lakhipur
+    - Silchar
+    - Sonai
+    - Udarbond
+    blocks:
+    - Banskandi
+    - Barjalenga
+    - Binnakandi
+    - Borkhola
+    - Dholai Narsingpur
+    - Kalain
+    - Katigorah
+    - Lakhipur
+    - Palonghat
+    - Rajabazar
+    - Rongpur
+    - Silchar
+    - Sonai
+    - Tapang
+    - Udharbond
+  - name: Charaideo
+    website: https://charaideo.gov.in
+    sub_districts:
+    - Mahmora
+    - Sapekhati
+    - Sonari
+    blocks:
+    - Lakuwa
+    - Mahmara
+    - Sapekhati
+    - Sonari
+  - name: Chirang
+    website: https://chirang.assam.gov.in
+    sub_districts:
+    - Bengtol
+    - Bijni (Pt)
+    - Sidli (Pt)
+    blocks:
+    - Borobazar
+    - Manikpur
+    - Manikpur Part
+    - Sidli-Chirang
+  - name: Darrang
+    website: https://darrang.gov.in
+    sub_districts:
+    - Dalgaon (Pt)
+    - Mangaldoi (Pt)
+    - Pathorighat (Pt)
+    - Pub Mangaldai
+    - Sipajhar
+    blocks:
+    - Bechimari
+    - Dalgaon-Sialmari
+    - Kalaigaon
+    - Khoirabari
+    - Pachim-Mangaldai
+    - Pub-Mangaldai
+    - Sipajhar
+  - name: Dhemaji
+    website: https://dhemaji.gov.in
+    sub_districts:
+    - Dhemaji
+    - Gogamukh
+    - Jonai
+    - Sissibargaon
+    blocks:
+    - Bordoloni
+    - Dhemaji
+    - Machkhowa
+    - Murkongselek
+    - Simen-Sissitangani
+    - Sissiborgaon
+  - name: Dhubri
+    website: https://dhubri.gov.in
+    sub_districts:
+    - Agamoni
+    - Athani
+    - Bilasipara Pt
+    - Chapar Pt
+    - Dhubri
+    - Gauripur
+    - Golakganj Pt
+    - South Salmara Pt
+    blocks:
+    - Agomani
+    - Athani
+    - Balajan
+    - Birshing-Jarua
+    - Dharamasala
+    - Naskara Jamadarhat
+    - Nayeralga
+  - name: Dibrugarh
+    website: https://dibrugarh.assam.gov.in
+    sub_districts:
+    - Chabua
+    - Dibrugarh East
+    - Dibrugarh West
+    - Moran
+    - Naharkatiya
+    - Tengakhat
+    - Tingkhong
+    blocks:
+    - Barbaruah
+    - Chabua
+    - Khowang
+    - Lahoal
+    - Naharkatia
+    - Tengakhat
+    - Tingkhong
+  - name: Dima Hasao
+    website: https://dimahasao.assam.gov.in
+    sub_districts:
+    - Haflong
+    blocks:
+    - Diyang Valley
+    - Diyungbra
+    - Harangajao
+    - Jatinga Valley
+    - New Sangbar
+  - name: Goalpara
+    website: https://goalpara.assam.gov.in
+    sub_districts:
+    - Balijana
+    - Dudhnai
+    - Lakhipur
+    - Matia
+    - Rangjuli
+    blocks:
+    - Balijana
+    - Dudhnoi
+    - Jaleswar
+    - Kamakhyabari
+    - Lakhipur
+    - Paikan
+    - Rongjuli
+    - Sri Suryagiri
+  - name: Golaghat
+    website: https://golaghat.gov.in
+    sub_districts:
+    - Bokakhat
+    - Dergaon
+    - Golaghat
+    - Khumtai
+    - Morangi
+    - Sarupathar
+    blocks:
+    - Dergaon North
+    - Dergaon South
+    - Golaghat Central
+    - Golaghat East
+    - Golaghat South
+    - Golaghat West
+    - Gomariguri
+    - Morongi
+  - name: Hailakandi
+    website: https://hailakandi.assam.gov.in
+    sub_districts:
+    - Algapur
+    - Hailakandi
+    - Katlichara
+    - Lala
+    blocks:
+    - Algapur
+    - Hailakandi
+    - Katlicherra
+    - Lala
+    - South Hailakandi
+  - name: Hojai
+    website: https://hojai.assam.gov.in
+    sub_districts:
+    - Doboka
+    - Hojai
+    - Lanka
+    blocks:
+    - Binakandi
+    - Dhalpukhuri
+    - Jugijan
+    - Lumding
+    - Udali
+  - name: Jorhat
+    website: https://jorhat.assam.gov.in
+    sub_districts:
+    - Jorhat East
+    - Jorhat West
+    - Mariani
+    - Teok
+    - Titabor
+    blocks:
+    - East Teok
+    - Jorhat Central
+    - Jorhat East
+    - Kaliapani
+    - North West Jorhat
+    - Titabor
+  - name: Kamrup
+    website: https://kamrup.assam.gov.in
+    sub_districts:
+    - Boko
+    - Chamaria
+    - Chhaygaon
+    - Goroimari
+    - Hajo
+    - Kamalpur
+    - Koya
+    - Nagarbera
+    - North Guwahati
+    - Palasbari
+    - Rangia
+    blocks:
+    - Bezera
+    - Bihdia -Jajikona
+    - Boko
+    - Bongaon
+    - Chamaria
+    - Chayani Rani
+    - Chhaygaon Maa Chandika
+    - Goroimari
+    - Hajo
+    - Kamalpur
+    - Rampur
+    - Rangia
+    - Rani
+    - Sualkuchi
+  - name: Kamrup Metro
+    website: https://kamrupmetro.assam.gov.in
+    sub_districts:
+    - Azara
+    - Chandrapur
+    - Dispur
+    - Guwahati
+    - Sonapur
+    blocks:
+    - Chandrapur
+    - Dimoria
+    - Ramcharani
+  - name: Karbi Anglong
+    website: https://karbianglong.gov.in
+    sub_districts:
+    - Diphu
+    - Phuloni
+    - Silonijan
+    blocks:
+    - Bokajan
+    - Howraghat
+    - Langsomepi
+    - Lumbajong
+    - Nilip
+    - Rongmongwe
+    - Samelangso
+  - name: Kokrajhar
+    website: https://kokrajhar.assam.gov.in
+    sub_districts:
+    - Bagribari (Pt)
+    - Bhowraguri
+    - Dotoma
+    - Gossaigaon (Pt)
+    - Kokrajhar
+    blocks:
+    - Bilashipara-Btc
+    - Bilasipara
+    - Chapar Salkocha
+    - Chapor-Salkocha-Btc
+    - Debitola-Btc
+    - Dotma
+    - Golakganj
+    - Golakganj-Btc
+    - Gossaigaon
+    - Hatidhura
+    - Kachugaon
+    - Kokrajhar
+    - Mahamaya-Btc
+    - Rupshi-Btc
+  - name: Lakhimpur
+    website: https://lakhimpur.nic.in
+    sub_districts:
+    - Bihpuria
+    - Dhakuakhana (Pt-I)
+    - Kadam
+    - Naobaicha
+    - Narayanpur
+    - North Lakhimpur
+    - Subansiri (Pt-I)
+    blocks:
+    - Bihpuria
+    - Boginadi
+    - Dhakuakhana
+    - Ghilamara
+    - Karunabari
+    - Lakhimpur
+    - Narayanpur
+    - Nowboicha
+    - Ranganodi
+  - name: Majuli
+    website: https://majuli.gov.in
+    sub_districts:
+    - Majuli
+    - Ujani Majuli Circle
+    blocks:
+    - Majuli
+    - Ujani Majuli
+  - name: Marigaon
+    website: https://morigaon.gov.in
+    sub_districts:
+    - Bhuragaon
+    - Laharighat
+    - Marigaon
+    - Mayong
+    - Mikirbheta
+    blocks:
+    - Bhuragaon
+    - Bhurbandha
+    - Dolongghat (Part)
+    - Kapili
+    - Laharighat
+    - Mayang

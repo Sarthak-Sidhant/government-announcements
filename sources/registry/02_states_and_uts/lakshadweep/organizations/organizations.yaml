@@ -1,0 +1,54 @@
+parent_state: Lakshadweep
+organizations:
+- name: Official Portal of Lakshadweep Government
+  website: https://lakshadweep.gov.in
+  category: State Portal
+  status: external_link
+- name: Lakshadweep Disaster Management Authority (LDMA), Lakshadweep
+  website: https://ldma.utl.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: District Institute of Education and Training (DIET), Kavaratti, Lakshadweep
+  website: https://diet.utl.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Online Seat Allotment, Department of Education, Lakshadweep
+  website: https://ecounselling.utl.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Lakshadweep Information Technology Services Society (LITSS), Lakshadweep
+  website: https://litss.utl.gov.in
+  category: Others
+  status: external_link
+- name: Lakshadweep Tourism, Society for Promotion of Nature Tourism and Sports, Lakshadweep
+  website: https://samudram.utl.gov.in
+  category: Others
+  status: external_link
+- name: Land Records Management System, Lakshadweep
+  website: https://land.utl.gov.in
+  category: Others
+  status: external_link
+- name: Mid Day Meal Scheme, Lakshadweep
+  website: https://mdmlakshadweep.utl.gov.in
+  category: Others
+  status: external_link
+- name: National Health Mission (NHM), Lakshadweep
+  website: https://nhm.utl.gov.in
+  category: Others
+  status: external_link
+- name: Public Distribution System Portal, Lakshadweep
+  website: https://pds.utl.gov.in
+  category: Others
+  status: external_link
+- name: Web Based Ship Ticket Advance Reservation (WEBSTAR), Lakshadweep
+  website: https://lakport.utl.gov.in
+  category: Others
+  status: external_link
+- name: ePermit - Online Entry Permit System, Lakshadweep
+  website: https://epermit.utl.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Lakshadweep
+  website: https://tendersutl.gov.in
+  category: Others
+  status: external_link

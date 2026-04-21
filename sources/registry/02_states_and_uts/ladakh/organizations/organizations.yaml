@@ -1,0 +1,54 @@
+parent_state: Ladakh
+organizations:
+- name: Official Portal of Ladakh Government
+  website: https://ladakh.gov.in
+  category: State Portal
+  status: external_link
+- name: The Ladakh Gazette, Ladakh
+  website: https://egazette.ladakh.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: eProcurement System, Ladakh
+  website: https://tenders.ladakh.gov.in/nicgep/app
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Directorate of School Education, Ladakh
+  website: https://schoolerp.ladakh.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: REWA - LT. Governor Student Support, Scholarship, Ladakh
+  website: https://socialwelfare.ladakh.gov.in/rewa
+  category: Academies / Institutions
+  status: external_link
+- name: University of Ladakh
+  website: https://uol.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Domicile Certificate Issuance Portal, Ladakh
+  website: https://domicile.ladakh.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Ladakh
+  website: https://ladakh.mygov.in
+  contact:
+    address: Department of Information Technology, Civil Secretariat Leh, Ladakh -
+      194101
+    phone: 01982-259305
+    fax: ''
+    email: abdulmajid[dot]77[at]jk[dot]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Ladakh Heli Services, Ladakh
+  website: https://heliservice.ladakh.gov.in
+  category: Others
+  status: external_link
+- name: Property Return System, Ladakh
+  website: https://ehrmsladakh.in
+  category: Others
+  status: external_link

@@ -1,9 +1,1259 @@
-# === IDENTITY ===
-id: "state-andhra_pradesh"
-name: "Andhra Pradesh"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-andhra_pradesh
+name: Andhra Pradesh
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Alluri Sitharama Raju
+    website: https://allurisitharamaraju.ap.gov.in
+    sub_districts:
+    - Ananthagiri
+    - Araku Valley
+    - Chinthapalli
+    - Dumbriguda
+    - G.Madugula
+    - Gudem Kotha Veedhi
+    - Hukumpeta
+    - Koyyuru
+    - Munchingi Puttu
+    - Paderu
+    - Peda Bayalu
+    blocks:
+    - Ananthagiri
+    - Araku Valley
+    - Chintapalle
+    - Dumbriguda
+    - G.Madugula
+    - Gudem Kotha Veedhi
+    - Hukumpeta
+    - Koyyuru
+    - Munchingi Puttu
+    - Paderu
+    - Peda Bayalu
+  - name: Anakapalli
+    website: https://anakapalli.ap.gov.in
+    sub_districts:
+    - Anakapalli
+    - Atchuthapuram
+    - Butchayyapeta
+    - Cheedikada
+    - Chodavaram
+    - Devarapalli
+    - Golugonda
+    - K.Kotapadu
+    - Kasimkota
+    - Kotauratla
+    - Madugula
+    - Makavarapalem
+    - Munagapaka
+    - Nakkapalli
+    - Narsipatnam
+    - Nathavaram
+    - Paravada
+    - Payakaraopeta
+    - Rambilli
+    - Ravikamatham
+    - Rolugunta
+    - S.Rayavaram
+    - Sabbavaram
+    - Yelamanchili
+    blocks:
+    - Achutapuram
+    - Anakapalle
+    - Butchayyapeta
+    - Cheedikada
+    - Chodavaram
+    - Devarapalle
+    - Golugonda
+    - K.Kotapadu
+    - Kasimkota
+    - Kotauratla
+    - Madugula
+    - Makavarapalem
+    - Munagapaka
+    - Nakkapalle
+    - Narsipatnam
+    - Nathavaram
+    - Paravada
+    - Payakaraopeta
+    - Rambilli
+    - Ravikamatham
+    - Rolugunta
+    - S.Rayavaram
+    - Sabbavaram
+    - Yelamanchili
+  - name: Ananthapuramu
+    website: https://ananthapuramu.ap.gov.in
+    sub_districts:
+    - Anantapur Rural
+    - Anantapur Urban
+    - Atmakur
+    - Beluguppa
+    - Bommanahal
+    - Brahmasamudram
+    - Bukkaraya Samudram
+    - D.Hirehal
+    - Garladinne
+    - Gooty
+    - Gummagatta
+    - Guntakal
+    - Kalyanadurg
+    - Kambadur
+    - Kanekal
+    - Kudair
+    - Kundurpi
+    - Narpala
+    - Pamidi
+    - Peddapappur
+    - Peddavaduguru
+    - Putlur
+    - Rapthadu
+    - Rayadurg
+    - Settur
+    - Singanamala
+    - Tadipatri
+    - Uravakonda
+    - Vajrakarur
+    - Vidapanakal
+    blocks:
+    - Anantapur
+    - Atmakur
+    - Beluguppa
+    - Bommanahal
+    - Brahmasamudram
+    - Bukkarayasamudram
+    - D.Hirehal
+    - Garladinne
+    - Gooty
+    - Gummagatta
+    - Guntakal
+    - Kalyandrug
+    - Kambadur
+    - Kanekal
+    - Kudair
+    - Kundurpi
+    - Narpala
+    - Pamidi
+    - Peddapappur
+    - Peddavadugur
+    - Putlur
+    - Raptadu
+    - Rayadurg
+    - Settur
+    - Singanamala
+    - Tadipatri
+    - Uravakonda
+    - Vajrakarur
+    - Vidapanakal
+    - Yadiki
+  - name: Annamayya
+    website: https://annamayya.ap.gov.in
+    sub_districts:
+    - Beerongi Kothakota
+    - Chinnamandem
+    - Chowdepalle
+    - Galiveedu
+    - Gurramkonda
+    - Kalakada
+    - Kalikiri
+    - Kambhamvaripalle
+    - Kurabalakota
+    - Lakkireddipalli
+    - Madanapalle
+    - Mulakalacheruvu
+    - Nimmanapalle
+    - Pedda Thippasamudram
+    - Peddamandyam
+    - Pileru
+    - Punganuru
+    - Ramapuram
+    - Ramasamudram
+    - Rayachoti
+    - Sambepalle
+    - Sodam
+    - Somala
+    - Thamballapalle
+    - Valmikipuram
+    blocks:
+    - B.Kothakota
+    - Chinnamandem
+    - Chowdepalle
+    - Galiveedu
+    - Gurramkonda
+    - Kalakada
+    - Kalikiri
+    - Kambhamvaripalle
+    - Kurabalakota
+    - Lakkireddipalle
+    - Madanapalle
+    - Mulakalacheruvu
+    - Nimmanapalle
+    - Peddamandyam
+    - Peddathippasamudram
+    - Piler
+    - Punganur
+    - Ramapuram
+    - Ramasamudram
+    - Rayachoty
+    - Sambepalle
+    - Sodam
+    - Somala
+    - Thamballapalle
+    - Valmikipuram
+  - name: Bapatla
+    website: https://bapatla.ap.gov.in
+    sub_districts:
+    - Amarthalur
+    - Bapatla
+    - Bhattiprolu
+    - Cherukupalli
+    - Chinaganjam
+    - Chirala
+    - Inkollu
+    - Karamchedu
+    - Karlapalem
+    - Kolluru
+    - Martur
+    - Nagaram
+    - Nizampatnam
+    - Parchur
+    - Pittalavanipalem
+    - Repalle
+    - Tsunduru
+    - Vemuru
+    - Vetapalem
+    - Yeddana Pudi
+    blocks:
+    - Amruthalur
+    - Bapatla
+    - Bhattiprolu
+    - Cherukupalle
+    - Chinaganjam
+    - Chirala
+    - Inkollu
+    - Karamchedu
+    - Karlapalem
+    - Kollur
+    - Martur
+    - Nagaram
+    - Nizampatnam
+    - Parchur
+    - Pittalavanipalem
+    - Repalle
+    - Tsundur
+    - Vemuru
+    - Vetapalem
+    - Yddana Pudi
+  - name: Chittoor
+    website: https://chittoor.ap.gov.in
+    sub_districts:
+    - Baireddipalle
+    - Bangarupalem
+    - Chittoor Rural
+    - Chittoor Urban
+    - Gangadhara Nellore
+    - Gangavaram
+    - Gudipala
+    - Gudupalle
+    - Irala
+    - Karvetinagar
+    - Kuppam
+    - Nagari
+    - Nindra
+    - Palamaner
+    - Palasamudram
+    - Peddapanjani
+    - Penumur
+    - Pulicherla
+    - Puthalapattu
+    - Ramakuppam
+    - Rompicherla
+    - Santhipuram
+    - Srirangarajapuram
+    - Thavanampalle
+    - Vedurukuppam
+    - Venkatagirikota
+    - Vijayapuram
+    - Yadamarri
+    blocks:
+    - Baireddipalle
+    - Bangarupalem
+    - Chittoor
+    - Gangadhara Nellore
+    - Gangavaram
+    - Gudipala
+    - Gudupalle
+    - Irala
+    - Karvetinagar
+    - Kuppam
+    - Nagari
+    - Nindra
+    - Palamaner
+    - Palasamudram
+    - Peddapanjani
+    - Penumuru
+    - Pulicherla H/O Reddivaripalle
+    - Puthalapattu
+    - Ramakuppam
+    - Rompicherla
+    - Santhipuram Ho Arimuthanapalle
+    - Srirangarajapuram
+    - Thavanampalle
+    - Vedurukuppam
+    - Venkatagirikota
+    - Vijayapuram
+    - Yadamari
+  - name: Dr. B.R. Ambedkar Konaseema
+    website: https://konaseema.ap.gov.in
+    sub_districts:
+    - Ainavilli
+    - Alamuru
+    - Allavaram
+    - Amalapuram
+    - Ambajipeta
+    - Atreyapuram
+    - I. Polavaram
+    - K Gangavaram
+    - Katrenikona
+    - Kothapeta
+    - Malikipuram
+    - Mamidikuduru
+    - Mummidivaram
+    - P.Gannavaram
+    - Ramachandrapuram
+    - Ravulapalem
+    - Razole
+    - Sakhinetipalli
+    - Uppalaguptam
+    blocks:
+    - Ainavilli
+    - Alamuru
+    - Allavaram
+    - Amalapuram
+    - Ambajipeta
+    - Atreyapuram
+    - I. Polavaram
+    - Katrenikona
+    - Kothapeta
+    - Malikipuram
+    - Mamidikuduru
+    - Mummidivaram
+    - P.Gannavaram
+    - Pamarru
+    - Ramachandrapuram
+    - Ravulapalem
+    - Razole
+    - Sakhinetipalle
+    - Uppalaguptam
+  - name: East Godavari
+    website: https://eastgodavari.ap.gov.in
+    sub_districts:
+    - Anaparthi
+    - Biccavolu
+    - Chagallu
+    - Devarapalle
+    - Gokavaram
+    - Gopalapuram
+    - Kadiam
+    - Kapileswarapuram
+    - Korukonda
+    - Kovvur
+    - Mandapeta
+    - Nallajerla
+    - Nidadavole
+    - Peravali
+    - Rajamahendravaram Rural
+    - Rajamahendravaram Urban
+    - Rajanagaram
+    - Rangampeta
+    - Rayavaram
+    - Seethanagaram
+    - Tallapudi
+    - Undrajavaram
+    blocks:
+    - Anaparthy
+    - Biccavolu
+    - Chagallu
+    - Devarapalle
+    - Gokavaram
+    - Gopalapuram
+    - Kadiam
+    - Kapileswarapuram
+    - Korukonda
+    - Kovvur
+    - Mandapeta
+    - Nallajerla
+    - Nidadavole
+    - Peravali
+    - Rajahmundry Rural
+    - Rajahmundry Urban
+    - Rajanagaram
+    - Rangampeta
+    - Rayavaram
+    - Seethanagaram
+    - Thallapudi
+    - Undrajavaram
+  - name: Eluru
+    website: https://eluru.ap.gov.in
+    sub_districts:
+    - Agiripalli
+    - Bheemadole
+    - Buttayagudem
+    - Chatrai
+    - Chintalapudi
+    - Denduluru
+    - Dwarakatirumala
+    - Eluru Rural
+    - Eluru Urban
+    - Jangareddigudem
+    - Jeelugu Milli
+    - Kaikaluru
+    - Kalidindi
+    - Kamavarapukota
+    - Koyyalagudem
+    - Kukunoor
+    - Lingapalem
+    - Mandavalli
+    - Mudinepalle
+    - Musunuru
+    - Nidamarru
+    - Nuzividu
+    - Pedapadu
+    - Pedavegi
+    - Polavaram
+    - T.Narasapuram
+    - Unguturu
+    - Velairpadu
+    blocks:
+    - Agiripalli
+    - Bhimadole
+    - Buttayagudem
+    - Chatrai
+    - Chintalapudi
+    - Denduluru
+    - Dwarakatirumala
+    - Eluru
+    - Jangareddigudem
+    - Jeelugumilli
+    - Kaikalur
+    - Kalidindi
+    - Kamavarapukota
+    - Koyyalagudem
+    - Kukkunur
+    - Lingapalem
+    - Mandavalli
+    - Mudinepalle
+    - Musunuru
+    - Nidamarru
+    - Nuzvid
+    - Pedapadu
+    - Pedavegi
+    - Polavaram
+    - T.Narasapuram
+    - Unguturu
+    - Velairpad
+  - name: Guntur
+    website: https://guntur.ap.gov.in
+    sub_districts:
+    - Chebrolu
+    - Duggirala
+    - Guntur East
+    - Guntur West
+    - Kakumanu
+    - Kollipara
+    - Mangalagiri
+    - Medikonduru
+    - Pedakakani
+    - Pedanandipadu
+    - Phirangipuram
+    - Ponnur
+    - Prathipadu
+    - Tadepalli
+    - Tadikonda
+    - Tenali
+    - Thulluru
+    - Vatticherukuru
+    blocks:
+    - Chebrole
+    - Duggirala
+    - Guntur
+    - Kakumanu
+    - Kollipara
+    - Mangalagiri
+    - Medikonduru
+    - Pedakakani
+    - Pedanandipadu
+    - Phirangipuram
+    - Ponnur
+    - Prathipadu
+    - Tadepalle
+    - Tadikonda
+    - Tenali
+    - Thullur
+    - Vatticherukuru
+  - name: Kakinada
+    website: https://kakinada.ap.gov.in
+    sub_districts:
+    - Gandepalli
+    - Gollaprolu
+    - Jaggampeta
+    - Kajuluru
+    - Kakinada (Rural)
+    - Kakinada (Urban)
+    - Karapa
+    - Kirlampudi
+    - Kotananduru
+    - Pedapudi
+    - Peddapuram
+    - Pithapuram
+    - Prathipadu
+    - Rowthulapudi
+    - Samalkota
+    - Sankhavaram
+    - Tallarevu
+    - Thondangi
+    - Tuni
+    - U.Kothapalli
+    - Yeleswaram
+    blocks:
+    - Gandepalle
+    - Gollaprolu
+    - Jaggampeta
+    - Kajuluru
+    - Kakinada Rural
+    - Kakinada Urban
+    - Karapa
+    - Kirlampudi
+    - Kotananduru
+    - Pedapudi
+    - Peddapuram
+    - Pithapuram
+    - Prathipadu
+    - Routhulapudi
+    - Samalkota
+    - Sankhavaram
+    - Thallarevu
+    - Thondangi
+    - Tuni
+    - U.Kothapalle
+    - Yeleswaram
+  - name: Krishna
+    website: https://krishna.ap.gov.in
+    sub_districts:
+    - Avanigadda
+    - Bantumilli
+    - Bapulapadu
+    - Challapalli
+    - Gannavaram
+    - Ghantasala
+    - Gudivada
+    - Gudlavalleru
+    - Guduru
+    - Kankipadu
+    - Koduru
+    - Kruthivennu
+    - Machilipatnam North
+    - Machilipatnam South
+    - Mopidevi
+    - Movva
+    - Nagayalanka
+    - Nandivada
+    - Pamarru
+    - Pamidimukkala
+    - Pedana
+    - Pedaparupudi
+    - Penamaluru
+    - Thotlavalluru
+    - Unguturu
+    - Vuyyuru
+    blocks:
+    - Avanigadda
+    - Bantumilli
+    - Bapulapadu
+    - Challapalli
+    - Gannavaram
+    - Ghantasala
+    - Gudivada
+    - Gudlavalleru
+    - Guduru
+    - Kankipadu
+    - Koduru
+    - Kruttivennu
+    - Machilipatnam
+    - Mopidevi
+    - Movva
+    - Nagayalanka
+    - Nandivada
+    - Pamarru
+    - Pamidimukkala
+    - Pedana
+    - Pedaparupudi
+    - Penamaluru
+    - Thotlavalluru
+    - Unguturu
+    - Vuyyuru
+  - name: Kurnool
+    website: https://kurnool.ap.gov.in
+    sub_districts:
+    - Adoni
+    - Adoni-2
+    - Alur
+    - Aspari
+    - C.Belagal
+    - Chippagiri
+    - Devanakonda
+    - Gonegandla
+    - Gudur
+    - Halaharvi
+    - Holagunda
+    - Kallur
+    - Kodumur
+    - Kosigi
+    - Kowthalam
+    - Krishnagiri
+    - Kurnool Rural
+    - Kurnool Urban
+    - Maddikera (East)
+    - Mantralayam
+    - Nandavaram
+    - Orvakal
+    - Pattikonda
+    - Pedda Kadubur
+    - Tuggali
+    - Veldurthy
+    - Yemmiganur
+    blocks:
+    - Adoni
+    - Alur
+    - Aspari
+    - C.Belagal
+    - Chippagiri
+    - Devanakonda
+    - Gonegandla
+    - Gudur
+    - Halaharvi
+    - Holagunda
+    - Kallur
+    - Kodumur
+    - Kosigi
+    - Kowthalam
+    - Krishnagiri
+    - Kurnool
+    - Maddikera (East)
+    - Mantralayam
+    - Nandavaram
+    - Orvakal
+    - Pattikonda
+    - Peddakadabur
+    - Tuggali
+    - Veldurthi
+    - Yemmiganur
+  - name: Markapuram
+    website: null
+    sub_districts:
+    - Ardhaveedu
+    - Bestavaripeta
+    - Chandra Sekhara Puram
+    - Cumbum
+    - Dornala
+    - Giddalur
+    - Hanumanthuni Padu
+    - Kanigiri
+    - Komarolu
+    - Konakanamitla
+    - Markapuram
+    - Pamur
+    - Pedacherlo Palle
+    - Peddaaraveedu
+    - Podili
+    - Pullalacheruvu
+    - Racherla
+    - Tarlupadu
+    - Tripuranthakam
+    - Veligandla
+    - Yerragondapalem
+    blocks:
+    - Ardhaveedu
+    - Bestavaripeta
+    - Chandra Sekhara Puram
+    - Cumbum
+    - Dornala
+    - Giddaluru
+    - Hanumanthuni Padu
+    - Kanigiri
+    - Komarolu
+    - Konakanamittla
+    - Markapur
+    - Pamur
+    - Peda Araveedu
+    - Pedacherlo Palle
+    - Podili
+    - Pullalacheruvu
+    - Racherla
+    - Tarlupadu
+    - Tripuranthakam
+    - Veligandla
+    - Yerragondapalem
+  - name: Nandyal
+    website: https://nandyal.ap.gov.in
+    sub_districts:
+    - Allagadda
+    - Atmakur
+    - Banaganapalli
+    - Bandi Atmakur
+    - Bethamcherla
+    - Chagalamarri
+    - Dhone
+    - Dornipadu
+    - Gadivemula
+    - Gospadu
+    - Jupadu Bunglow
+    - Koilakuntla
+    - Kolimigundla
+    - Kothapalle
+    - Mahanandi
+    - Midthur
+    - Nandikotkur
+    - Nandyal Rural
+    - Nandyal Urban
+    - Owk
+    - Pagidyala
+    - Pamulapadu
+    - Panyam
+    - Peapully
+    - Rudravaram
+    - Sanjamala
+    - Sirvel
+    - Srisailam
+    - Uyyalawada
+    - Velugodu
+    blocks:
+    - Allagadda
+    - Atmakur
+    - Banaganapalle
+    - Bandi Atmakur
+    - Bethamcherla
+    - Chagalamarri
+    - Dhone Alias Dronachalam
+    - Dornipadu
+    - Gadivemula
+    - Gospadu
+    - Jupadu Bungalow
+    - Koilakuntla
+    - Kolimigundla
+    - Kothapalle
+    - Mahanandi
+    - Midthur
+    - Nandikotkur
+    - Nandyal
+    - Owk
+    - Pagidyala
+    - Pamulapadu
+    - Panyam
+    - Peapully
+    - Rudravaram
+    - Sanjamala
+    - Sirivel
+    - Srisailam
+    - Uyyalawada
+    - Velugodu
+  - name: Ntr
+    website: https://ntr.ap.gov.in
+    sub_districts:
+    - Atlapragada Konduru
+    - Chandarlapadu
+    - Gaddamanugu Konduru
+    - Gampalagudem
+    - Ibrahimpatnam
+    - Jaggaiahpeta
+    - Kanchikacherla
+    - Mylavaram
+    - Nandigama
+    - Penuganchiprolu
+    - Reddigudem
+    - Tiruvuru
+    - Vatsavai
+    - Veerullapadu
+    - Vijayawada (Rural)
+    - Vijayawada Central
+    - Vijayawada East
+    - Vijayawada North
+    - Vijayawada West
+    - Vissannapeta
+    blocks:
+    - A.Konduru
+    - Chandarlapadu
+    - G.Konduru
+    - Gampalagudem
+    - Ibrahimpatnam
+    - Jaggayyapeta
+    - Kanchikacherla
+    - Mylavaram
+    - Nandigama
+    - Penuganchiprolu
+    - Reddigudem
+    - Tiruvuru
+    - Vatsavai
+    - Veerullapadu
+    - Vijayawada Rural
+    - Vijayawada Urban
+    - Vissannapet
+  - name: Palnadu
+    website: https://palnadu.ap.gov.in
+    sub_districts:
+    - Amaravathi
+    - Atchampet
+    - Bellamkonda
+    - Bollapalli
+    - Chilakaluripet H/O.Purushotha Patnam
+    - Dachepalli
+    - Durgi
+    - Edlapadu
+    - Gurajala
+    - Ipuru
+    - Karempudi
+    - Krosuru
+    - Machavaram
+    - Macherla
+    - Muppalla
+    - Nadendla
+    - Narasaraopet
+    - Nekarikallu
+    - Nuzendla
+    - Pedakurapadu
+    - Piduguralla
+    - Rajupalem
+    - Rentachintala
+    - Rompicharla
+    - Sattenapalli
+    - Savalyapuram H/O Kanamarlapudi
+    - Veldurthy
+    - Vinukonda
+    blocks:
+    - Amaravathi
+    - Atchempet
+    - Bellamkonda
+    - Bollapalle
+    - Chilakaluripet
+    - Dachepalle
+    - Durgi
+    - Edlapadu
+    - Gurazala
+    - Ipur
+    - Karempudi
+    - Krosuru
+    - Machavaram
+    - Macherla
+    - Muppalla
+    - Nadendla
+    - Narasaraopeta
+    - Nekarikallu
+    - Nuzendla
+    - Pedakurapadu
+    - Piduguralla
+    - Rajupalem
+    - Rentachintala
+    - Rompicherla
+    - Sattenapalle
+    - Savalyapuram
+    - Veldurthy
+    - Vinukonda
+  - name: Parvathipuram Manyam
+    website: https://parvathipurammanyam.ap.gov.in
+    sub_districts:
+    - Balijipeta
+    - Bhamini
+    - Garugubilli
+    - Gummalakshmipuram
+    - Jiyyammavalasa
+    - Komarada
+    - Kurupam
+    - Makkuva
+    - Pachipenta
+    - Palakonda
+    - Parvathipuram
+    - Salur
+    - Seethampeta
+    - Seethanagaram
+    - Veeraghattam
+    blocks:
+    - Balijipeta
+    - Bhamini
+    - Garugubilli
+    - Gummalakshmipuram
+    - Jiyyammavalasa
+    - Komarada
+    - Kurupam
+    - Makkuva
+    - Pachipenta
+    - Palakonda
+    - Parvathipuram
+    - Salur
+    - Seethampeta
+    - Seethanagaram
+    - Veeraghattam
+  - name: Polavaram
+    website: null
+    sub_districts:
+    - Addateegala
+    - Chinturu
+    - Devipatnam
+    - Gangavaram
+    - Gurthedu
+    - Kunavaram
+    - Maredumilli
+    - Rajavommangi
+    - Rampachodavaram
+    - Vararamachandrapuram
+    - Y. Ramavaram
+    - Yetapaka
+    blocks:
+    - Addateegala
+    - Chintoor
+    - Devipatnam
+    - Gangavaram
+    - Kunavaram
+    - Maredumilli
+    - Nellipaka
+    - Rajavommangi
+    - Rampachodavaram
+    - Vararamachandrapuram
+    - Y. Ramavaram
+  - name: Prakasam
+    website: https://prakasam.ap.gov.in
+    sub_districts:
+    - Addanki
+    - Ballikurava
+    - Chimakurthy
+    - Darsi
+    - Donakonda
+    - Gudluru
+    - J.Pangulur
+    - Kandukuru
+    - Kondapi
+    - Korisapadu
+    - Kotha Patnam
+    - Kurichedu
+    - Lingasamudram
+    - Maddipadu
+    - Marripudi
+    - Mundlamuru
+    - Naguluppala Padu
+    - Ongole Rural
+    - Ongole Urban
+    - Ponnaluru
+    - Santhamaguluru
+    - Santhanuthala Padu
+    - Singarayakonda
+    - Tangutur
+    - Thallur
+    - Ulavapadu
+    - Voletivaripalem
+    - Zarugumalli
+    blocks:
+    - Addanki
+    - Ballikurava
+    - Chimakurthi
+    - Darsi
+    - Donakonda
+    - Gudluru
+    - Janakavaram Ponguluru
+    - Kandukur
+    - Kondapi
+    - Korisapadu
+    - Kotha Patnam
+    - Kurichedu
+    - Lingasamudram
+    - Maddipadu
+    - Marripudi
+    - Mundlamuru
+    - Naguluppala Padu
+    - Ongole
+    - Ponnaluru
+    - Santhamaguluru
+    - Santhanuthala Padu
+    - Singarayakonda
+    - Tallur
+    - Tangutur
+    - Ulavapadu
+    - Voletivari Palem
+    - Zarugumilli
+  - name: Sri Potti Sriramulu Nellore
+    website: https://spsnellore.ap.gov.in
+    sub_districts:
+    - Allur
+    - Ananthasagaram
+    - Anumasamudrampeta
+    - Atmakur
+    - Bogole
+    - Buchireddipalem
+    - Chejerla
+    - Chillakur
+    - Dagadarthi
+    - Duttalur
+    - Gudur
+    - Indukurpet
+    - Jaladanki
+    - Kaligiri
+    - Kaluvoya
+    - Kavali
+    - Kodavalur
+    - Kondapuram
+    - Kota
+    - Kovur
+    - Manubolu
+    - Marripadu
+    - Muthukur
+    - Nellore Rural
+    - Nellore Urban
+    - Podalakur
+    - Rapur
+    - Sangam
+    - Seetharamapuram
+    - Sydapuram
+    blocks:
+    - Allur
+    - Ananthasagaram
+    - Anumasamudrampeta
+    - Atmakur
+    - Bogole
+    - Butchireddipalem
+    - Chejerla
+    - Chillakur
+    - Dagadarthi
+    - Duttalur
+    - Gudur
+    - Indukurpet
+    - Jaladanki
+    - Kaligiri
+    - Kaluvoya
+    - Kavali
+    - Kodavalur
+    - Kondapuram
+    - Kota
+    - Kovur
+    - Manubolu
+    - Marripadu
+    - Muthukur
+    - Nellore Rural
+    - Podalakur
+    - Rapur
+    - Sangam
+    - Seetharamapuram
+    - Sydapuram
+    - Thotapalligudur
+  - name: Sri Sathya Sai
+    website: https://srisathyasai.ap.gov.in
+    sub_districts:
+    - Agali
+    - Amadagur
+    - Amarapuram
+    - Bathalapalli
+    - Bukkapatnam
+    - Chennekothapalli
+    - Chilamathur
+    - Dharmavaram
+    - Gandlapenta
+    - Gorantla
+    - Gudibanda
+    - Hindupur
+    - Kadiri
+    - Kanaganipalli
+    - Kothacheruvu
+    - Lepakshi
+    - Madakasira
+    - Mudigubba
+    - Nallachervu
+    - Nallamada
+    - Nambulapulakunta
+    - Obuladevaracheruvu
+    - Parigi
+    - Penukonda
+    - Puttaparthy
+    - Ramagiri
+    - Roddam
+    - Rolla
+    - Somandepalli
+    - Tadimarri
+    blocks:
+    - Agali
+    - Amadagur
+    - Amarapuram
+    - Bathalapalle
+    - Bukkapatnam
+    - Chennekothapalle
+    - Chilamathur
+    - Dharmavaram
+    - Gandlapenta
+    - Gorantla
+    - Gudibanda
+    - Hindupur
+    - Kadiri
+    - Kanaganapalle
+    - Kothacheruvu
+    - Lepakshi
+    - Madakasira
+    - Mudigubba
+    - Nallacheruvu
+    - Nallamada
+    - Nambulapulikunta
+    - Obuladevarecheruvu
+    - Parigi
+    - Penukonda
+    - Puttaparthi
+    - Ramagiri
+    - Roddam
+    - Rolla
+    - Somandepalle
+    - Tadimarri
+  - name: Srikakulam
+    website: https://srikakulam.ap.gov.in
+    sub_districts:
+    - Amadalavalasa
+    - Burja
+    - Etcherla
+    - Ganguvarisigadam
+    - Gara
+    - Hiramandalam
+    - Ichchapuram
+    - Jalumuru
+    - Kanchili
+    - Kaviti
+    - Kotabommali
+    - Kothuru
+    - Laveru
+    - Laxminarasupeta
+    - Mandasa
+    - Meliaputti
+    - Nandigam
+    - Narasannapeta
+    - Palasa
+    - Pathapatnam
+    - Polaki
+    - Ponduru
+    - Ranastalam
+    - Santhabommali
+    - Saravakota
+    - Sarubujjili
+    - Sompeta
+    - Srikakulam
+    - Tekkali
+    - Vajrapukotturu
+    blocks:
+    - Amadalavalasa
+    - Burja
+    - Etcherla
+    - Ganguvarisigadam
+    - Gara
+    - Hiramandalam
+    - Ichapuram
+    - Jalumuru
+    - Kanchili
+    - Kaviti
+    - Kotabommili
+    - Kotturu
+    - L.N Peta
+    - Laveru
+    - Mandasa
+    - Meliaputti
+    - Nandigam
+    - Narasannapeta
+    - Palasa
+    - Pathapatnam
+    - Polaki
+    - Ponduru
+    - Ranastalam
+    - Santhabommali
+    - Saravakota
+    - Sarubujjili
+    - Sompeta
+    - Srikakulam
+    - Tekkali
+    - Vajrapukotturu
+  - name: Tirupati
+    website: https://tirupati.ap.gov.in
+    sub_districts:
+    - Balayapalli
+    - Buchinaidu Kandriga
+    - Chandragiri
+    - Chinnagottigallu
+    - Chittamur
+    - Chitvel
+    - Dakkili
+    - Doravarisatram
+    - Kodur
+    - Kumara Venkata Bhupala Puram
+    - Nagalapuram
+    - Naidupet
+    - Narayanavanam
+    - Obulavaripalle
+    - Ozili
+    - Pakala
+    - Pellakur
+    - Penagalur
+    - Pichatur
+    - Pullampeta
+    - Puttur
+    - Ramachandrapuram
+    - Renigunta
+    - Satyavedu
+    - Srikalahasti
+    - Sullurpeta
+    - Tada
+    - Thottambedu
+    - Tirupati (Rural)
+    - Tirupati (Urban)
+    blocks:
+    - Balayapalle
+    - Buchinadidu Khandriga
+    - Chandragiri
+    - Chinnagottigallu
+    - Chittamur
+    - Chitvel
+    - Dakkili
+    - Doravarisatram
+    - K.V.B.Puram
+    - Kodur
+    - Nagalapuram
+    - Naidupeta
+    - Narayanavanam
+    - Obulavaripalle
+    - Ozili
+    - Pakala
+    - Pellakur
+    - Penagalur
+    - Pitchatur
+    - Pullampeta
+    - Puttur
+    - Ramachandrapuram
+    - Renigunta
+    - Satyavedu
+    - Srikalahasti
+    - Sullurpeta
+    - Tada
+    - Thottambedu
+    - Tirupati (Rural)
+    - Vadamalapeta
+  - name: Visakhapatnam
+    website: https://visakhapatnam.ap.gov.in
+    sub_districts:
+    - Anandapuram
+    - Bheemunipatnam
+    - Gajuwaka
+    - Gopalapatnam
+    - Maharanipeta
+    - Mulagada
+    - Padmanabham
+    - Pedagantyada
+    - Pendurthi
+    - Seethammadhara
+    - Visakhapatnam (Rural)
+    blocks:
+    - Anandapuram
+    - Bheemunipatnam
+    - Gajuwaka
+    - Padmanabham
+    - Pedagantyada
+    - Pendurthi
+    - Visakhapatnam(Rural)

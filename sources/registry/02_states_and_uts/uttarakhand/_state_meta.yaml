@@ -1,9 +1,283 @@
-# === IDENTITY ===
-id: "state-uttarakhand"
-name: "Uttarakhand"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-uttarakhand
+name: Uttarakhand
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Almora
+    website: https://almora.nic.in
+    sub_districts:
+    - Almora
+    - Bagwalipokhar
+    - Bhanoli
+    - Bhikiasain
+    - Chaukhutiya
+    - Dhaulchhina
+    - Dhyari
+    - Dwarahat
+    - Jainti
+    - Jalali
+    - Lamgada
+    - Machhor
+    - Ranikhet
+    - Someshwar
+    - Sult
+    - Syalde
+    blocks:
+    - Bhaisiya Chhana
+    - Bhikiyasain
+    - Chaukhutiya
+    - Dhauladevi
+    - Dwarahat
+    - Hawalbag
+    - Lamgara
+    - Sult
+    - Syaldey
+    - Takula
+    - Tarikhet
+  - name: Bageshwar
+    website: https://bageshwar.nic.in
+    sub_districts:
+    - Bageshwar
+    - Dugnakuri
+    - Garud
+    - Kafligair
+    - Kanda
+    - Kapkot
+    - Shama
+    blocks:
+    - Bageshwar
+    - Garur
+    - Kapkote
+  - name: Chamoli
+    website: https://chamoli.gov.in
+    sub_districts:
+    - Adibadri
+    - Chamoli
+    - Dewal
+    - Gairsain
+    - Ghaat
+    - Jilasu
+    - Joshimath
+    - Karnaprayag
+    - Nandprayag
+    - Narayanbagar
+    - Pokhari
+    - Tharali
+    blocks:
+    - Dasholi
+    - Dewal
+    - Gairsain
+    - Ghat
+    - Joshimath
+    - Karnaprayag
+    - Narayanbagar
+    - Pokhari
+    - Tharali
+  - name: Champawat
+    website: https://champawat.nic.in
+    sub_districts:
+    - Barakot
+    - Champawat
+    - Lohaghat
+    - Manch
+    - Pati
+    - Poornagiri
+    - Pulla Gumdesh
+    blocks:
+    - Barakot
+    - Champawat
+    - Lohaghat
+    - Pati
+  - name: Dehradun
+    website: https://dehradun.nic.in
+    sub_districts:
+    - Chakrata
+    - Dehradun
+    - Doiwala
+    - Kalsi
+    - Mussoorie
+    - Rishikesh
+    - Tyuni
+    - Vikas Nagar
+    blocks:
+    - Chakrata
+    - Doiwala
+    - Kalsi
+    - Raipur
+    - Sahaspur
+    - Vikasnagar
+  - name: Haridwar
+    website: https://haridwar.nic.in
+    sub_districts:
+    - Bhagwanpur
+    - Hardwar
+    - Laksar
+    - Laldhang
+    - Narsan
+    - Roorkee
+    blocks:
+    - Bahadrabad
+    - Bhagwanpur
+    - Khanpur
+    - Laksar
+    - Narsan
+    - Roorkee
+  - name: Nainital
+    website: https://nainital.nic.in
+    sub_districts:
+    - Betalghat
+    - Dhari
+    - Haldwani
+    - Kaladhungi
+    - Kosya Kutauli
+    - Lalkuan
+    - Nainital
+    - Okhalkanda
+    - Ramgarh
+    - Ramnagar
+    blocks:
+    - Betalghat
+    - Bhimtal
+    - Dhari
+    - Haldwani
+    - Kotabag
+    - Okhalkanda
+    - Ramgarh
+    - Ramnagar
+  - name: Pauri Garhwal
+    website: https://pauri.nic.in
+    sub_districts:
+    - Bironkhal
+    - Chakisain
+    - Chaubatta Khal
+    - Dhoomakot
+    - Jakhanikhal
+    - Kotdwara
+    - Lansdowne
+    - Pauri
+    - Rikhanikhal
+    - Satpuli
+    - Srinagar
+    - Thailisain
+    - Yamkeshwar
+    blocks:
+    - Bironkhal
+    - Duggada
+    - Dwarikhal
+    - Ekeshwar
+    - Kaljikhal
+    - Khirsu
+    - Kot
+    - Nainidanda
+    - Pabau
+    - Pauri
+    - Pokhra
+    - Rikhnikhal
+    - Thalisain
+    - Yamkeshwar
+    - Zahrikhal
+  - name: Pithoragarh
+    website: https://pithoragarh.nic.in
+    sub_districts:
+    - Bangapani
+    - Berinag
+    - Devalthal
+    - Dharchula
+    - Didihat
+    - Ganai Gangoli
+    - Gangolihat
+    - Kanalichhina
+    - Munsiari
+    - Pankhu
+    - Pithoragarh
+    - Tejam
+    - Thal
+    blocks:
+    - Berinag
+    - Dharchula
+    - Didihat
+    - Gangolihat
+    - Kanalichina
+    - Munakot
+    - Munsyari
+    - Pithoragarh
+  - name: Rudraprayag
+    website: https://rudraprayag.gov.in
+    sub_districts:
+    - Basukedar
+    - Jakholi*
+    - Rudraprayag
+    - Ukhimath
+    blocks:
+    - Augustmuni
+    - Jakholi
+    - Ukhimath
+  - name: Tehri Garhwal
+    website: https://tehri.nic.in
+    sub_districts:
+    - Balganga
+    - Devprayag
+    - Dhanaulti
+    - Gaja
+    - Ghansali
+    - Jakhani Dhar
+    - Kandisaur
+    - Kirtinagar
+    - Madannegi
+    - Nainbag
+    - Narendra Nagar
+    - Pawkidevi
+    - Pratapnagar
+    - Tehri
+    blocks:
+    - Bhilangna
+    - Chamba
+    - Deoprayag
+    - Jakhnidhar
+    - Jaunpur
+    - Kirtinagar
+    - Narendra Nagar
+    - Pratapnagar
+    - Thauldhar
+  - name: Udham Singh Nagar
+    website: https://usnagar.nic.in
+    sub_districts:
+    - Bajpur
+    - Gadarpur
+    - Jaspur
+    - Kashipur
+    - Khatima
+    - Kichha
+    - Nanakmatta
+    - Rudrapur
+    - Sitarganj
+    blocks:
+    - Bajpur
+    - Gadarpur
+    - Jaspur
+    - Kashipur
+    - Khatima
+    - Rudrapur
+    - Sitarganj
+  - name: Uttarkashi
+    website: https://uttarkashi.nic.in
+    sub_districts:
+    - Barnigad
+    - Bhatwari
+    - Chinyali Saur
+    - Dhauntari
+    - Dunda
+    - Joshiyara
+    - Mori
+    - Puraula
+    - Rajgarhi
+    - Sankari
+    blocks:
+    - Bhatwari
+    - Chinyalisaur
+    - Dunda
+    - Mori
+    - Naugaon
+    - Purola

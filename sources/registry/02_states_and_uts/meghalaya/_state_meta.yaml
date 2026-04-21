@@ -1,9 +1,167 @@
-# === IDENTITY ===
-id: "state-meghalaya"
-name: "Meghalaya"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-meghalaya
+name: Meghalaya
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: East Garo Hills
+    website: https://eastgarohills.gov.in
+    sub_districts:
+    - Dambo Rongjeng
+    - Samanda
+    - Songsak
+    blocks:
+    - Dambo Rongjeng
+    - Samanda
+    - Songsak
+  - name: East Jaintia Hills
+    website: https://eastjaintiahills.gov.in
+    sub_districts:
+    - Lumshnong
+    - Saipung
+    - Wapung
+    blocks:
+    - Lumshnong
+    - Saipung
+    - Wapung
+  - name: East Khasi Hills
+    website: https://eastkhasihills.gov.in
+    sub_districts:
+    - Khatarshnong Laitkroh
+    - Mawkynrew
+    - Mawlai
+    - Mawpat
+    - Mawphlang
+    - Mawryngkneng
+    - Mawsynram
+    - Mylliem
+    - Pynursla
+    - Shella Bholaganj
+    - Sohiong
+    blocks:
+    - Khadarshnong-Laitkroh
+    - Mawkynrew
+    - Mawlai
+    - Mawpat
+    - Mawphlang
+    - Mawryngkneng
+    - Mawsynram
+    - Mylliem
+    - Pynursla
+    - Shella Bholaganj
+    - Sohiong
+  - name: Eastern West Khasi Hills
+    website: null
+    sub_districts:
+    - Mairang
+    - Mawthadraishan
+    blocks:
+    - Mairang
+    - Mawthadraishan
+  - name: North Garo Hills
+    website: https://northgarohills.gov.in
+    sub_districts:
+    - Adokgre
+    - Bajengdoba
+    - Kharkutta
+    - Resubelpara
+    blocks:
+    - Adokgre
+    - Bajengdoba
+    - Kharkutta
+    - Resubelpara
+  - name: Ri Bhoi
+    website: https://ribhoi.gov.in
+    sub_districts:
+    - Bhoirymbong
+    - Jirang
+    - Mawhati
+    - Umling
+    - Umsning
+    blocks:
+    - Bhoirymbong
+    - Jirang
+    - Mawhati
+    - Umling
+    - Umsning
+  - name: South Garo Hills
+    website: https://southgarohills.gov.in
+    sub_districts:
+    - Baghmara
+    - Chokpot
+    - Gasuapara
+    - Rongara
+    - Siju
+    blocks:
+    - Baghmara
+    - Chokpot
+    - Gasuapara
+    - Rongara
+    - Siju
+  - name: South West Garo Hills
+    website: https://southwestgarohills.gov.in
+    sub_districts:
+    - Betasing
+    - Purakhasia
+    - Rerapara
+    - Zikzak
+    blocks:
+    - Betasing
+    - Purakhasia
+    - Rerapara
+    - Zikzak
+  - name: South West Khasi Hills
+    website: https://southwestkhasihills.gov.in
+    sub_districts:
+    - Mawkyrwat
+    - Ranikor
+    blocks:
+    - Mawkyrwat
+    - Ranikor
+  - name: West Garo Hills
+    website: https://westgarohills.gov.in
+    sub_districts:
+    - Batabari
+    - Dadenggiri
+    - Dalu
+    - Demdema
+    - Gambegre
+    - Rongram
+    - Selsella
+    - Tikrikilla
+    blocks:
+    - Batabari
+    - Dadenggiri
+    - Dalu
+    - Demdema
+    - Gambegre
+    - Rongram
+    - Salsella
+    - Tikrikilla
+  - name: West Jaintia Hills
+    website: https://westjaintiahills.gov.in
+    sub_districts:
+    - Amlarem
+    - Laskein
+    - Namdong
+    - Thadlaskein
+    blocks:
+    - Amlarem
+    - Laskein
+    - Namdong
+    - Thadlaskein
+  - name: West Khasi Hills
+    website: https://westkhasihills.gov.in
+    sub_districts:
+    - Mawshynrut
+    - Nongstoin
+    - Rambrai
+    - Ri Muliang
+    - Shallang
+    blocks:
+    - Mawshynrut
+    - Nongstoin
+    - Rambrai
+    - Ri-Muliang
+    - Shallang

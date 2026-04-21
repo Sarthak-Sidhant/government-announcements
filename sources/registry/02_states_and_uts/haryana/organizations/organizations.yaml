@@ -1,0 +1,392 @@
+parent_state: Haryana
+organizations:
+- name: Official Portal of Haryana Government
+  website: https://haryana.gov.in
+  category: State Portal
+  status: external_link
+- name: Chief Secretary Office, Haryana
+  website: https://csharyana.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Hospital Management Information System e-Upchaar, Haryana
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: State Crime Record Bureau, Haryana
+  website: https://scrb.haryanapolice.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Haryana Electricity Regulatory Commission, Haryana
+  website: https://herc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Haryana Right To Service Commission, Haryana
+  website: https://haryana-rtsc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Human Rights Commission Network, Haryana
+  website: https://hhrc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: SAMARPAN, A Unique Volunteer Programme, Haryana
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: State Information commission (SIC), Haryana
+  website: https://cicharyana.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Gurugram Metropolitan Development Authority
+  website: https://www.gmda.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: HAFED - Haryana State Cooperative Supply & Marketing Federation Limited, Haryana
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Haryana Institute of Rural Development (HIRD), Nilokheri, Haryana
+  website: https://www.hirdnilokheri.com
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Haryana Real Estate Regulatory Authority (HRERA), Haryana
+  website: https://haryanarera.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Haryana State Seed Certification Agency (HSSCA), Haryana
+  website: https://hssca.org.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: India Reserve Battalion (IRB), Bhondsi, Gurugram, Haryana
+  website: https://igirb.haryanapolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Institute of Hotel Management, Faridabad, Haryana
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Intelligent System for Depot Management, Transport Department, Haryana
+  website: https://hrtransport.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Parivar Pehchan Patra Yojna, Haryana
+  website: https://meraparivar.haryana.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Police Training College (PTC), Sunaria, Rohtak, Haryana
+  website: https://ptcsunaria.haryanapolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Co-operation Department, Haryana
+  website: https://rcsharyana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Department of Architecture, Haryana
+  website: https://architecturehry.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of AYUSH, Haryana
+  website: https://ayushharyana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Archaeology & Museums, Haryana
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information, Public Relations & Languages, Haryana
+  website: https://www.prharyana.gov.in/en
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education & Research, Haryana
+  website: https://dmer.haryana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Skill Development & Industrial Training, Haryana
+  website: https://itiharyana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Supplies and Disposals, Haryana
+  website: https://dsndharyana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Welfare of Schedule Castes & Backward Classes, Haryana
+  website: https://haryanascbc.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorates of Science and Technology, Haryana
+  website: https://dstharyana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Divisional Commissioner Hisar, Haryana
+  website: https://commhsr.haryana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Haryana Staff Selection Commission, Haryana
+  website: https://onetimeregn.haryana.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Jamabandi, Land Records, Haryana
+  website: https://jamabandi.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Board of School Education Haryana
+  website: https://bseh.org.in/home
+  category: Boards / Undertakings
+  status: external_link
+- name: Climate Change Cell, Haryana
+  website: https://hrccc.harenvironment.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Dakshin Haryana Bijli Vitran Nigam (DHBVN), Haryana
+  website: https://www.dhbvn.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Agro Industries Corporation Limited, Panchkula, Haryana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Forest Development Corporation, Haryana
+  website: https://hfdc.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Land Reclamation and Development Corporation, Haryana
+  website: https://hlrdc.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Power Generation Corporation Limited, Haryana
+  website: https://www.hpgcl.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Shehri Vikas Pradhikaran, Haryana
+  website: https://hsvphry.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Space Applications Centre (HARSAC), Hisar, Haryana
+  website: https://www.harsac.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Biodiversity Board, Haryana
+  website: https://sbb.haryanaforest.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Board of Technical Education, Haryana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Disaster Management Authority, Haryana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Electronics Development Corporation Limited (HARTRON), Haryana
+  website: https://hartron.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Industrial & Infrastructure Development Corporation Ltd. (HSIIDC),
+    Haryana
+  website: https://hsiidc.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Pollution Control Board, Haryana
+  website: https://www.hspcb.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Technical Education Society (HSTES), Haryana
+  website: https://www.hstes.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana State Technical Education Society, Haryana
+  website: https://techadmissionshry.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Vidyut Prasaran Nigam Limited (HVPN), Haryana
+  website: https://hvpn.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Women Development Corporation Ltd., Haryana
+  website: https://www.hwdcl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Housing Board, Haryana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Meri Fasal, Mera Byora, Haryana
+  website: https://fasal.haryana.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Mewat Development Agency, Haryana
+  website: https://mda.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Result Board of School Education Haryana
+  website: https://bsehresult.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Shivalik Development Agency (SDA), Ambala, Haryana
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Shri Mata Mansa Devi Shrine Board (SMMDSB), Panchkula, Haryana
+  website: https://www.mansadevi.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Haryana Traffic Police, Haryana
+  website: https://traffic.haryanapolice.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Bhagat Phool Singh Mahila Vishwavidyalaya, Haryana
+  website: https://bpsmv.digitaluniversity.ac
+  category: Academies / Institutions
+  status: external_link
+- name: CCS Haryana Agricultural University, Hisar, Haryana
+  website: https://admissions.hau.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Guru Jambheshwar University of Science & Technology, Hisar, Haryana
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Haryana School Shiksha Pariyojna Parishad (HSSP), Haryana
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Kurukshetra University, Haryana
+  website: https://www.kuk.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Maharshi Dayanand University, Rohtak, Haryana
+  website: https://mdu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Pandit Bhagwat Dayal Sharma University of Health Sciences, Rohtak, Haryana
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Swarna Jayanti Environment Training Institute, Haryana
+  website: https://sjeti.haryana.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: EIACP Hub Haryana
+  website: https://envis.haryana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Haryana Farmer Registry
+  website: https://hrfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Haryana Mines and Geology Information System
+  website: https://mis.minesharyana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MHARI Sadak Haryana
+  website: https://mharisadak.haryana.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Medico Legal Report and Post Mortem Reporting System, Haryana
+  website: https://medleaprhry.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Drug Inventory and Supply Chain Management System, Haryana
+  website: https://dpmuhry.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: 1st India Reserve Battalion, Bhondsi, Gurugram, Haryana
+  website: https://1stbnirb.haryanapolice.gov.in
+  category: Others
+  status: external_link
+- name: 2nd India Reserve Battalion, Bhondsi, Gurugram, Haryana
+  website: https://2ndirb.haryanapolice.gov.in
+  category: Others
+  status: external_link
+- name: 3rd Battalion, Haryana Armed Police Hisar, Haryana
+  website: https://hap3rdbn.haryanapolice.gov.in
+  category: Others
+  status: external_link
+- name: Aadhaar enabled Public Distribution System &#40;AePDS&#41;, Haryana
+  website: https://epos.haryanafood.gov.in
+  category: Others
+  status: external_link
+- name: Adarsh Gram Yojana, Haryana
+  website: https://harspagy.gov.in
+  category: Others
+  status: external_link
+- name: Antyodaya SARAL Portal, Haryana
+  website: https://saralharyana.gov.in
+  category: Others
+  status: external_link
+- name: Auto Appeal System, Haryana
+  website: https://aas.saralharyana.nic.in
+  category: Others
+  status: external_link
+- name: CM Grievances Redressal & Monitoring System, Haryana
+  website: https://cmharyanacell.nic.in
+  category: Others
+  status: external_link
+- name: Charkhi Dadri Police, Haryana
+  website: https://charkhidadri.haryanapolice.gov.in
+  category: Others
+  status: external_link
+- name: Direct Benefit Transfer (DBT), Haryana
+  website: https://dbtharyana.gov.in
+  category: Others
+  status: external_link
+- name: Directorate of Employment, Haryana
+  website: https://hrex.gov.in
+  category: Others
+  status: external_link
+- name: Employees State Insurance Healthcare under Ministry of Labour & Employment,
+    Haryana
+  website: https://hryesi.gov.in
+  category: Others
+  status: external_link
+- name: GIS Haryana
+  website: null
+  category: Others
+  status: external_link
+- name: Gram Drashan, Haryana
+  website: https://gramdarshan.haryana.gov.in
+  category: Others
+  status: external_link
+- name: Haryana Fights COVID-19, Haryana
+  website: https://haraadesh.nic.in
+  category: Others
+  status: external_link
+- name: Haryana Gau Seva Aayog, Haryana
+  website: https://hargauseva.gov.in
+  category: Others
+  status: external_link
+- name: Haryana Kaushal Rozgar Nigam, Haryana
+  website: https://hkrnl.itiharyana.gov.in
+  category: Others
+  status: external_link
+- name: Haryana Marriage Registration, Haryana
+  website: https://shaadi.edisha.gov.in
+  category: Others
+  status: external_link
+- name: Haryana Overseas Job Portal, Haryana
+  website: null
+  category: Others
+  status: external_link
+- name: Haryana Police Academy, Haryana
+  website: https://hpa.haryanapolice.gov.in
+  category: Others
+  status: external_link
+- name: Haryana Police, Haryana
+  website: https://haryanapolice.gov.in
+  category: Others
+  status: external_link
+- name: Haryana Prisons, Panchkula, Haryana
+  website: https://haryanaprisons.gov.in
+  category: Others
+  status: external_link
+- name: Haryana Seed Portal, Haryana
+  website: https://uttambeej.haryana.gov.in
+  category: Others
+  status: external_link
+- name: Haryana State Law Commission, Haryana
+  website: https://hslc.gov.in
+  category: Others
+  status: external_link
+- name: Haryana State Technical Education Society, Panchkula (HSTES), Haryana
+  website: https://onlinetesthry.gov.in
+  category: Others
+  status: external_link

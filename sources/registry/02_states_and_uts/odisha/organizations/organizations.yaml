@@ -1,0 +1,519 @@
+parent_state: Odisha
+organizations:
+- name: Official Portal of Odisha Government
+  website: https://odisha.gov.in
+  category: State Portal
+  status: external_link
+- name: Biju Patnaik State Police Academy, Odisha
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Office of the Chief Resident Commissioner - New Delhi, Odisha
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Public Health Engineering Organisation (PHEO), Odisha
+  website: https://www.pheoodisha.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Welfare and Cess Commissioner, Bhubaneswar, Odisha
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: e-MSME Seva, Odisha
+  website: https://odishamsme.nic.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Odisha Electricity Regulatory Commission (OERC), Odisha
+  website: https://www.orierc.org
+  category: Commissions/ Committees
+  status: external_link
+- name: Odisha Human Rights Commission, Odisha
+  website: https://ohrc.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Odisha Information Commission, Odisha
+  website: https://orissasoochanacommission.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Odisha Sub-ordinate Staff Selection Commission (OSSSC), Odisha
+  website: https://www.osssc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Orissa Veterinary Council, Odisha
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: State Commission for Women, Odisha
+  website: https://oscw.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Gopabandhu Ayurveda Mahavidyalaya, Odisha
+  website: https://gampuri.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Odia Virtual Academy (OVA), Bhubaneswar, Odisha
+  website: https://ova.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Odisha Skill Development Authority, Odisha
+  website: https://www.skillodisha.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Odisha Space Application Center (ORSAC), Odisha
+  website: https://orsacgeoict.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: SCB Dental College and Hospital, Cuttack, Odisha
+  website: https://scbdental.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: AGRISNET - Directorate of Agriculture & Food Production, Odisha
+  website: https://agrisnetodisha.ori.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of CT and GST, Odisha
+  website: https://odishatax.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics & Statistics, Odisha
+  website: https://desorissa.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Employment, Odisha
+  website: https://empmission.odisha.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Export Promotion & Marketing, Odisha
+  website: https://depmodisha.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Factories and Boilers, Odisha
+  website: https://dfb.odisha.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Fisheries, Odisha
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Handicrafts, Odisha
+  website: https://crafts.odisha.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Horticulture (Bhubaneswar)
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education & Training (DMET), Odisha
+  website: https://dmetodisha.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Printing, Stationery & Publication, Odisha
+  website: https://ogpress.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Soil Conservation and Watershed Development, Odisha
+  website: https://www.soilodisha.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of TE & SCERT, Odisha
+  website: https://scertodisha.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education & Training, Odisha
+  website: https://dtetodisha.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Integrated Financial Management System, Odisha
+  website: https://www.odishatreasury.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Labour Directorate, Odisha
+  website: https://labdirodisha.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Local Fund Audit, Odisha
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Odisha Fire Service, Home Guards & Civil Defence, Odisha
+  website: https://odishafshgscd.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: The Registrar of Cooperative Societies, Odisha
+  website: https://rcsodisha.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Vigilance Directorate, Odisha
+  website: https://odishavigilance.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Appellate Authorities, Bhubaneswar, Odisha
+  website: https://orienvappellateauthority.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Baba Akhandalamani Temple, Aradi Dham, Bhadrak, Odisha
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Bhubaneswar Development Authority, Odisha
+  website: https://www.bda.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Secondary Education, Odisha
+  website: https://bseodisha.ac.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chilika Development Authority (CDA), Odisha
+  website: https://www.chilika.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Cuttack Development Authority, Odisha
+  website: https://www.cdacuttack.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: GRIDCO Limited, Odisha
+  website: https://gridco.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Industrial Promotion & Investment Corporation of Odisha Limited, Odisha
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Inspector General of Registration Revenue & Disaster Management Department,
+    Odisha
+  website: https://www.igrodisha.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Maa TaraTarini Development Board, Odisha
+  website: https://taratarini.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Co-operative Housing Corporation (OCHC) Ltd., Odisha
+  website: https://www.housingcorporation.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Construction Corporation Limited, Bhubaneswar, Odisha
+  website: https://odishaconstruction.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Forest Development Corporation Ltd., Bhubaneswar, Odisha
+  website: https://www.odishafdc.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Industrial Infrastructure Development Corporation, Odisha
+  website: https://www.idco.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Maritime Academy, Odisha
+  website: https://www.odishamaritime.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Mining Corporation Limited (OMC), Odisha
+  website: https://omcltd.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha One Unified Citizen Portal, Odisha
+  website: https://www.odishaonline.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Power Generation Corporation Ltd., Odisha
+  website: https://www.opgc.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Power Transmission Corporation Limited (OPTCL), Bhubaneswar, Odisha
+  website: https://www.optcl.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha Renewable Energy Development Agency (OREDA), Odisha
+  website: https://oredaodisha.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha State Agricultural Marketing Board, Bhubaneswar, Odisha
+  website: https://osamb.odisha.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha State Civil Supplies Corporation Ltd., Odisha
+  website: https://oscsc.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha State Disaster Management Authority (OSDMA), Odisha
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha State Financial Corporation (OSFC), Odisha
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Odisha State Housing Board, Bhubaneswar, Odisha
+  website: https://oshb.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Revenue Divisional Commissioner (Central Division), Cuttack, Odisha
+  website: https://rdccdcuttack.nic.in
+  category: Revenue Divisions
+  status: external_link
+- name: Grid Corporation of Odisha Limited (GRIDCO), Odisha
+  website: https://greenenergyinvest.odisha.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Odisha Bamboo Development Agency, Odisha
+  website: null
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Odisha State Beverages Corporation Limited (OSBCL), Odisha
+  website: https://osbc.co.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Police Commissionerate, Bhubaneswar-Cuttack, Odisha
+  website: https://bhubaneswarcuttackpolice.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Berhampur University, Odisha
+  website: https://www.buodisha.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bhadrak Autonomous College, Odisha
+  website: https://bhadrakcollege.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bigyan Academy, Odisha
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Biju Patnaik University of Technology (BPUT), Odisha
+  website: https://www.bput.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Environmental Studies, Odisha
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Directorate of Distance and Continuing Education, Utkal University, Odisha
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Fakir Mohan Autonomous College, Odisha
+  website: https://fmcollege.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Fakir Mohan University, Odisha
+  website: https://fmuniversity.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gopabandhu Academy of Administration, Odisha
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Autonomous College, Rourkela, Odisha
+  website: https://www.gacrkl.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Govt. Women's College, Sambalpur, Odisha
+  website: https://gwcsbp.in
+  category: Academies / Institutions
+  status: external_link
+- name: Harekrushna Mahatab State Library, Odisha
+  website: https://hkmsl.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Indira Gandhi Institute of Technology, Sarang, Odisha
+  website: https://igitsarang.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Industrial Training Institute (ITI), Puri, Odisha
+  website: https://itipuri.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Mathematics and Applications, Bhubaneswar, Odisha
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Maharaja Sriram Chandra Bhanja Deo University (MSCB University), Odisha
+  website: https://orissareforms.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Maharaja Sriram Chandra Bhanja Deo University, Odisha
+  website: https://www.nou.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Municipal College, Rourkela, Odisha
+  website: https://www.municipalcollegerkl.com
+  category: Academies / Institutions
+  status: external_link
+- name: Nabakrushna Choudhury Centre for Development Studies (ICSSR), Odisha
+  website: https://ncds.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Odisha Computer Application Centre (OCAC), Odisha
+  website: https://www.ocac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Odisha Joint Entrance Examination (OJEE), Odisha
+  website: https://ojee.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Odisha School of Mining Engineering, Keonjhar, Odisha
+  website: https://osme.co.in
+  category: Academies / Institutions
+  status: external_link
+- name: Odisha University of Agriculture and Technology (OUAT), Odisha
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Odisha University of Technology and Research, Odisha
+  website: https://www.cet.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Rajendra College (Autonomous), Balangir, Odisha
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Anganwadi Engagement Portal, Odisha
+  website: https://engagement-awc.odisha.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Crime Against Women & Children Wing, Odisha
+  website: https://cawach.odisha.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Disaster Assistance Monitoring & Payment System (DAMPS)
+  website: https://dampsodisha.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Inspection Bungalow Booking, Odisha
+  website: https://eibworks.odisha.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Krushak Odisha Portal
+  website: https://krushak.odisha.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: National Health Mission (NHM), Odisha
+  website: https://nhmodisha.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: National Rural Health Mission, Odisha
+  website: null
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Odisha Farmer Registry
+  website: https://odfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: PAReSHRAM Portal, Odisha
+  website: https://pareshram-labour.odisha.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: SUBHADRA Yojana, Odisha
+  website: https://subhadra.odisha.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Commerce Portal of Government Publications, Odisha
+  website: null
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Licensing system, Odisha
+  website: https://odishaagrilicense.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Angul District Police, Odisha
+  website: https://angulpolice.nic.in
+  category: Others
+  status: external_link
+- name: Bhubaneswar Smart City Limited, Odisha
+  website: https://www.smartcitybhubaneswar.gov.in
+  category: Others
+  status: external_link
+- name: Bhulekh - Land Records Web Portal of Odisha
+  website: https://bhulekh.ori.nic.in
+  category: Others
+  status: external_link
+- name: Biju Swasthya Kalyan Yojana, Odisha
+  website: https://bsky.odisha.gov.in
+  category: Others
+  status: external_link
+- name: COVID-19 Odisha State Portal, Odisha
+  website: https://covid19.odisha.gov.in
+  category: Others
+  status: external_link
+- name: Cabinet Decisions, Odisha
+  website: null
+  category: Others
+  status: external_link
+- name: Centre for Modernizing Government Initiative, Odisha
+  website: https://www.cmgi.org.in
+  category: Others
+  status: external_link
+- name: Crime and Criminal Tracking Network and Systems (CCTNS), Odisha
+  website: https://citizenportal-op.gov.in
+  category: Others
+  status: external_link
+- name: DBT Input Odisha (Need Based), Odisha
+  website: https://dbtinputodisha.nic.in
+  category: Others
+  status: external_link
+- name: Department of General Administration and Public Grievance, Odisha
+  website: https://janasunani.odisha.gov.in
+  category: Others
+  status: external_link
+- name: ECO-Retreat Destinations, Odisha
+  website: null
+  category: Others
+  status: external_link
+- name: ENVIS Centre of Odisha's State of Environment, Odisha
+  website: https://orienvis.nic.in
+  category: Others
+  status: external_link
+- name: GA Estate, Conversion, Mutation and Mortgage Permission (NOC), Odisha
+  website: https://gaestate.in
+  category: Others
+  status: external_link
+- name: GO CARE - CSR Administration and Responsive Engagement, Odisha
+  website: https://csr.odisha.gov.in
+  category: Others
+  status: external_link
+- name: Government Contact Information, Odisha
+  website: null
+  category: Others
+  status: external_link
+- name: Government Directory of Odisha
+  website: null
+  category: Others
+  status: external_link
+- name: Human Resources Management System, Odisha
+  website: https://hrmsorissa.gov.in
+  category: Others
+  status: external_link
+- name: Industrial water Consumption & Revenue Collection Monitoring, Odisha
+  website: https://industrialwaterod.nic.in
+  category: Others
+  status: external_link
+- name: Invest in Odisha
+  website: https://investodisha.gov.in
+  category: Others
+  status: external_link
+- name: Litigation Management System, Odisha
+  website: null
+  category: Others
+  status: external_link
+- name: Odisha Agro Industries Corporation Limited, Odisha
+  website: https://odishaagro.nic.in
+  category: Others
+  status: external_link
+- name: Odisha Central Audit Management Portal (OCAMP), Odisha
+  website: https://ocamp.gov.in
+  category: Others
+  status: external_link
+- name: Odisha Community Tank Development & Management Society, Odisha
+  website: https://octdms.in
+  category: Others
+  status: external_link
+- name: Odisha Examination Results, Odisha
+  website: https://orissaresults.nic.in
+  category: Others
+  status: external_link
+- name: Odisha Judicial Academy (OJA)
+  website: https://oja.odisha.gov.in
+  category: Others
+  status: external_link

@@ -1,0 +1,448 @@
+parent_state: Rajasthan
+organizations:
+- name: Official Portal of Rajasthan Government
+  website: https://www.rajasthan.gov.in
+  category: State Portal
+  status: external_link
+- name: Anti Corruption Bureau, Rajasthan
+  website: https://home.rajasthan.gov.in/acb
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Rajasthan Single Sign On (One Digital Identity for all Applications), Rajasthan
+  website: https://sso.rajasthan.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Central Goods & Services Tax, Jaipur Zone, Rajasthan
+  website: https://cgstjaipur.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Rajasthan Information Commission, Rajasthan
+  website: https://ric.rajasthan.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Rajasthan State Consumer Disputes Redressal Commission, Rajasthan
+  website: https://rscdrc.food.rajasthan.gov.in/content/rajasthanfoodportal/en/home/rsfcsc.html
+  category: Commissions/ Committees
+  status: external_link
+- name: Rajasthan State Human Rights Commission, Rajasthan
+  website: https://rshrc.rajasthan.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Water Sector, Rajasthan
+  website: https://cad.rajasthan.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Atomic Power Station / Project, Rajasthan
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Centre For Electronic Governance , Rajasthan
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Jaipur Development Authority, Rajasthan
+  website: https://jda.rajasthan.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Jawahar Kala Kendra, Rajasthan
+  website: https://jkk.artandculture.rajasthan.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajasthan Cooperative Dairy Federation (RCDF), Rajasthan
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajasthan Real Estate Regulatory Authority, Rajasthan
+  website: https://rera.rajasthan.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Ayurved, Rajasthan
+  website: https://ayurved.rajasthan.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Horticulture, Rajasthan
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Petroleum, Rajasthan
+  website: https://petroleum.rajasthan.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Watershed Development & Soil Conservation, Rajasthan
+  website: https://water.rajasthan.gov.in/wdsc/#/home/dptHome
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Price Statistics of Rajasthan
+  website: https://psr.rajasthan.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Agricultural Marketing Board, Rajasthan
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Secondary Education, Rajasthan
+  website: https://rajeduboard.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Technical Education, Rajasthan
+  website: https://techedu.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Energy-RRVPN, Rajasthan
+  website: https://energy.rajasthan.gov.in/rrvpn
+  category: Boards / Undertakings
+  status: external_link
+- name: Indira Gandhi Panchayati Raj and Gramin Vikas sansthan, Rajasthan
+  website: https://igprgvs.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Industries Sector, Rajasthan
+  website: https://industries.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Integrated Financial Pension Management System, Rajasthan
+  website: https://pension.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Jaipur DISCOM - Jaipur Vidyut Vitran Nigam Limited, Rajasthan
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Jaipur Metro Rail Corporation Limited (JMRC), Rajasthan
+  website: https://transport.rajasthan.gov.in/jmrc
+  category: Boards / Undertakings
+  status: external_link
+- name: PDCOR Limited - A Project Development Company, Rajasthan
+  website: https://www.pdcor.com
+  category: Boards / Undertakings
+  status: external_link
+- name: RajCOMP Info Services Limited, Rajasthan
+  website: https://risl.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan Finance Corporation (RFC), Rajasthan
+  website: https://rfc.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan Medical Services Corporation Limited, Rajasthan
+  website: https://rmsc.health.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan Staff Selection Board, Jaipur, Rajasthan
+  website: https://rsmssb.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State AIDS Control Society (RSACS), Rajasthan
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Biodiversity Board (RSBB), Rajasthan
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Ganganagar Sugar Mills Limited (RSGSM), Rajasthan
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Industrial Development and Investment Corporation (RIICO),
+    Rajasthan
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Mines and Minerals Limited, Rajasthan
+  website: https://www.rsmm.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Pollution Control Board (RSPCB), Rajasthan
+  website: https://environment.rajasthan.gov.in/content/environment/en/rajasthan-state-pollution-control-board.html
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Road Development and Construction Corporation Limited, Rajasthan
+  website: https://roads.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Warehousing Corporation (RSWC), Rajasthan
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan Tax Board, Rajasthan
+  website: https://taxboard.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan Tourism Development Corporation Ltd. (RTDC), Rajasthan
+  website: https://rtdc.tourism.rajasthan.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Revenue Board, Rajasthan
+  website: https://landrevenue.rajasthan.gov.in/content/landrevenuenew/en.html
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajasthan State Gas Limited (RSGL), Rajasthan
+  website: https://rsgl.rajasthan.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: College of Technology and Engineering, Maharana Pratap University of Agriculture
+    and Technology Udaipur, Rajasthan
+  website: https://www.ctae.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Engineering College Ajmer, Rajasthan
+  website: https://www.ecajmer.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Engineering College Bikaner, Rajasthan
+  website: https://www.ecb.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic College, Kota, Rajasthan
+  website: https://gpck.rajasthan.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gyan Sankalp, Rajasthan
+  website: https://gyansankalp.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: HCMRIPA - Rajasthan State Institute of Public Administration, Rajasthan
+  website: https://hcmripa.rajasthan.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Integrated Shala Darpan, Rajasthan
+  website: https://rajshaladarpan.nic.in/SD3/Home/Public2/Default.aspx
+  category: Academies / Institutions
+  status: external_link
+- name: Jagannath University, Rajasthan
+  website: https://www.jagannathuniversity.org
+  category: Academies / Institutions
+  status: external_link
+- name: Jaipur National University, Rajasthan
+  website: https://www.jnujaipur.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Maharana Pratap University of Agriculture and Technology, Udaipur, Rajasthan
+  website: https://www.mpuat.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Maharshi Dayanand Saraswati University, Ajmer, Rajasthan
+  website: https://www.mdsuajmer.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Maulana Abul Kalam Azad Arabic Persian Research Institute, Rajasthan
+  website: https://maapritonk.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Mohanlal Sukhadia University, Rajasthan
+  website: https://mlsu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Nims University, Jaipur, Rajasthan
+  website: https://www.nimsuniversity.org
+  category: Academies / Institutions
+  status: external_link
+- name: Rajas than Police Academy, Rajasthan
+  website: https://rpa.rajasthan.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Rajasthan Technical University (RTU), Kota, Rajasthan
+  website: https://www.rtu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Rajasthan University of Health Sciences, Jaipur, Rajasthan
+  website: https://www.ruhsraj.org
+  category: Academies / Institutions
+  status: external_link
+- name: Rajasthan University of Veterinary and Animal Sciences, Bikaner, Rajasthan
+  website: https://www.rajuvas.org
+  category: Academies / Institutions
+  status: external_link
+- name: Samagra Shiksha Abhiyan (RCScE), Rajasthan
+  website: https://rajsmsa.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Singhania University, Jhunjhunu, Rajasthan
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Health and Family Welfare, Jaipur, Rajasthan
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Hotel Management, Rajasthan
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: University of Rajasthan, Jaipur, Rajasthan
+  website: https://www.uniraj.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Vardhaman Mahaveer Open University (VMOU), Kota
+  website: https://www.vmou.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Integrated Financial Management System, Rajasthan
+  website: https://ifms.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Jan Soochna Portal, Rajasthan
+  website: https://jansoochna.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Labour Department Management System (LDMS), Rajasthan
+  website: https://ldms.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Pregnancy, Child Tracking & Health Services Management System (PCTS), Rajasthan
+  website: https://pctsrajmedical.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Pushkar Fair, Rajasthan
+  website: https://pushkarmela.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Raj Nivesh Portal, Rajasthan
+  website: https://rajnivesh.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Rajasthan Civil Registration System
+  website: https://pehchan.raj.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Rajasthan Farmer Registry
+  website: https://rjfr.agristack.gov.in/farmer-registry-rj/#
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Rajasthan Farmer Registry Camps Portal
+  website: https://rjfrc.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Rajasthan Recruitment Portal
+  website: https://recruitment.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Rising Rajasthan Global Investment Summit, Rajasthan
+  website: https://rising.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Social Justice Management System (SJMS), Rajasthan
+  website: https://sjmsnew.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Work Accounts Management System (WAM), Rajasthan
+  website: https://wam.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: iStart Rajasthan
+  website: https://istart.rajasthan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Rajasthan
+  website: https://rajasthan.mygov.in
+  contact:
+    address: Department of Information Technology & Communication (DoIT&C) IT Building,
+      Yojana Bhawan, Tilak Marg, C-Scheme, Jaipur-302005
+    phone: ''
+    fax: ''
+    email: chhabrasuneel[at]rajasthan[dot]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: BPL Census (Rural), Rajasthan
+  website: null
+  category: Others
+  status: external_link
+- name: Budget, Rajasthan
+  website: https://finance.rajasthan.gov.in/website/StateBudgetAll.aspx
+  category: Others
+  status: external_link
+- name: COVID-19 Information & Advisories, Rajasthan
+  website: null
+  category: Others
+  status: external_link
+- name: Election Buddy, Rajasthan
+  website: null
+  category: Others
+  status: external_link
+- name: GRP Ajmer Police, Rajasthan
+  website: https://grpajmerpolice.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Gopalan-Dairy (RCDF), Rajasthan
+  website: https://sarasmilkfed.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Jaipur Special Economic Zone, Rajasthan
+  website: null
+  category: Others
+  status: external_link
+- name: RPG (Redressal of Public Grievances), Rajasthan
+  website: https://rpg.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: RajHealth - Solution for Health Resource Management, Rajasthan
+  website: https://rajhealth.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Rajasthan Grameen Aajeevika Vikas Parishad, Rajasthan
+  website: https://rgavp.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Rajasthan Knowledge Corporation Limited, Rajasthan
+  website: https://www.rkcl.in
+  category: Others
+  status: external_link
+- name: Rajdharaa - Global Information System, Rajasthan
+  website: https://gis.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Right To Information (RTI), Rajasthan
+  website: https://rti.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Sampark-Grievances Redressal System, Rajasthan
+  website: https://sampark.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Sanstha Aadhaar, Rajasthan
+  website: https://br.raj.nic.in
+  category: Others
+  status: external_link
+- name: Single Window Clearance System (Industries), Rajasthan
+  website: https://swcs.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: Social Security Pension, Rajasthan
+  website: https://ssp.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: State Public Procurement Portal, Rajasthan
+  website: https://sppp.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: The Rajasthan State Co-Operative Bank, Rajasthan
+  website: https://www.rscb.org.in
+  category: Others
+  status: external_link
+- name: UID - Aadhaar Portal, Rajasthan
+  website: https://aadhaar.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: e-Mitra Online Citizen Services Portal, Rajasthan
+  website: https://emitra.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: e-Panjiyan, Property Registration and Land Records Integration, Rajasthan
+  website: https://epanjiyan.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Rajasthan
+  website: https://eproc.rajasthan.gov.in
+  category: Others
+  status: external_link
+- name: eRTI Portal (High Court & District Judiciary), Rajasthan
+  website: https://hcraj.nic.in/erti
+  category: Others
+  status: external_link

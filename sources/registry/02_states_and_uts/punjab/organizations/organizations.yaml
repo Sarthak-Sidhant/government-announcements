@@ -1,0 +1,439 @@
+parent_state: Punjab
+organizations:
+- name: Official Portal of Punjab Government
+  website: https://punjab.gov.in
+  category: State Portal
+  status: external_link
+- name: Punjab State Electricity Regulatory Commission (PSERC), Punjab
+  website: https://pserc.punjab.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Punjab State Human Rights Commission (PSHRC), Punjab
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Right to Service Commission, Punjab
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: State Information Commission, (SIC), Punjab
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: e-Awas Accommodation Management System, Punjab
+  website: https://eawas.punjab.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Amritsar Police, Punjab
+  website: https://amritsarcity.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Amritsar Rural Police, Punjab
+  website: https://amritsarrural.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Barnala Police, Punjab
+  website: https://barnala.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Batala Police, Punjab
+  website: https://batala.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Bathinda Development Authority (BDA), Bathinda, Punjab
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Bathinda Police, Punjab
+  website: https://bathinda.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Fatehgarh Sahib Police, Punjab
+  website: https://fatehgarhsahib.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Fazilka Police, Punjab
+  website: https://fazilka.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Hoshiarpur Police, Punjab
+  website: https://hoshiarpur.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kapurthala Police, Punjab
+  website: https://kapurthalapolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Khanna Police, Punjab
+  website: https://khanna.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Ludhiana City Police, Punjab
+  website: https://ludhianacity.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Moga Police, Punjab
+  website: https://moga.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Online Examination, Punjab Police
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Police Commissionerate Jalandhar, Punjab
+  website: https://jalandharcity.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Public Grievances Division, Punjab Police, Punjab
+  website: https://pgd.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Punjab Institute of Liver & Biliary Sciences
+  website: https://pilbs.punjab.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Punjab Police Housing Corporation Limited, Punjab
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Punjab Remote Sensing Centre (PRSC), Ludhiana, Punjab
+  website: https://prsc.punjab.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Punjab Water Supply & Sewerage Board
+  website: https://pwssb.punjab.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rupnagar Police, Punjab
+  website: https://rupnagar.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Sangrur Police, Punjab
+  website: https://sangrur.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Shahid Bhagat Singh Nagar Police, Punjab
+  website: https://sbsnagar.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Sri Muktsar Sahib Police, Punjab
+  website: https://srimuktsarsahib.punjabpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: State Armed Police, Punjab
+  website: https://armedpolice.punjab.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Environment and Climate Change, Punjab
+  website: https://decc.punjab.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information & Public Relation, Punjab
+  website: https://ipr.punjab.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information and Public Relations, Punjab
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Lotteries, Punjab
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Public Enterprises and Disinvestment, Punjab
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Social Security, Punjab
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Statistics, Punjab
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Punjab State Human Rights Commission
+  website: https://www.pshrc.net
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Vigilance Bureau, Punjab
+  website: https://vigilancebureau.punjab.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Amritsar Development Authority (ADA), Punjab
+  website: https://www.adaamritsar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Ayurvedic and Unani Systems of Medicine, Punjab
+  website: https://ayboard.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Greater Mohali Area Development Authority (GMADA), Mohali, Punjab
+  website: https://www.gmada.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Pepsu Road Transport Corporation, Patiala, Punjab
+  website: https://www.pepsurtc.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Agro Industries Corporation Limited (PAIC), Punjab
+  website: https://punjabagro.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Backward Classes Land Development and Finance Corporation (Backfinco),
+    Punjab
+  website: https://backfinco.punjab.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Biotechnology Incubator (PBTI), Punjab
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Information and Communication Technology Corporation Limited (Punjab
+    Infotech), Punjab
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Pollution Control Board (PPCB), Punjab
+  website: https://ppcb.punjab.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Roads and Bridges Development Board (PRBDB), Punjab
+  website: https://prbdb.punjab.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Scheduled Castes Land Development & Finance Corporation, Punjab
+  website: https://pbscfc.punjab.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab School Education Board, Punjab
+  website: https://www.pseb.ac.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Agricultural Marketing Board (Punjab Mandi Board, PSAMB), Punjab
+  website: https://emandikaran-pb.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Board of Technical Education and Industrial Training (PSBTE &
+    IT), Chandigarh, Punjab
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Civil Supplies Corporation Limited, Chandigarh, Punjab
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Forest Development Corporation Limited, Punjab
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Load Dispatch Centre (SLDC), Punjab
+  website: https://www.punjabsldc.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Power Corporation Limited (PSPCL), Punjab
+  website: https://www.pspcl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Seed Certification Authority, Punjab
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab State Transmission Corporation Limited (PSTCL), Punjab
+  website: https://www.pstcl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Punjab Urban Planning and Development Authority (PUDA), Punjab
+  website: https://www.puda.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Real Estate Regulatory Authority, Punjab
+  website: https://rera.punjab.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Mera Ghar Mere Naam, Punjab
+  website: https://abadirecords.punjab.gov.in
+  category: Revenue Divisions
+  status: external_link
+- name: Mission Chardi Kala, Punjab
+  website: https://rangla.punjab.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Punjab Municipal Infrastructure Development Company (PMIDC), Punjab
+  website: https://pmidc.punjab.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Baba Farid University of Health Sciences, Faridkot, Punjab
+  website: https://bfuhs.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr B.R. Ambedkar State Institute of Medical Sciences, Punjab
+  website: https://aimsmohali.punjab.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic College, Bathinda, Punjab
+  website: https://gpcbathinda.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic College, Ferozepur, Punjab
+  website: https://www.gpcfzr.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Amritsar, Punjab
+  website: https://gpcgasr.in
+  category: Academies / Institutions
+  status: external_link
+- name: Guru Angad Dev Veterinary and Animal Sciences University (GADVASU), Ludhiana
+    Punjab
+  website: https://www.gadvasu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Guru Nanak Dev University, Amritsar, Punjab
+  website: https://www.gndu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: I. K. Gujral Punjab Technical University, Jalandhar, Punjab
+  website: https://ptu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Hotel Management Catering Technology and Applied Nutrition, Bathinda,
+    Punjab
+  website: https://www.ihmbti.com
+  category: Academies / Institutions
+  status: external_link
+- name: Mahatma Gandhi State Institute of Public Administration (MGSIPAP), Punjab
+  website: https://mgsipa.punjab.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Online Admission Facilitation Portal, Punjab
+  website: https://admission.punjab.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Punjab Agricultural University (PAU), Punjab
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Punjab State Council for Science and Technology, Punjab
+  website: https://pscst.punjab.gov.in/en
+  category: Academies / Institutions
+  status: external_link
+- name: Punjab University, P.U. Swami Sarvanand Giri Regional Centre, Punjab
+  website: https://ssgpurch.puchd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Punjabi University, Patiala, Punjab
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: S.R.S Govt. Polytechnic College, Ludhiana, Punjab
+  website: https://www.gpcgldh.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Connect Punjab
+  website: https://connect.punjab.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: E-Municipal Naksha, Punjab
+  website: https://enaksha.lgpunjab.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: FastTrack Punjab Portal
+  website: https://fasttrack.punjab.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Pensioner Sewa Portal, Punjab
+  website: https://pensionersewa.punjab.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Phulkari Web Portal
+  website: https://phulkari.punjab.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Punjab Ghar Ghar Rozgar & Karobar Mission, Punjab
+  website: https://www.pgrkam.com
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Punjab Skill Development Mission, Punjab
+  website: https://psdmhq.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Revenue Court Management System, Punjab
+  website: https://rcms.punjab.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Mapan, Legal Metrology Department, Punjab
+  website: https://www.emapan.punjab.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chief Electoral Officer, Punjab
+  website: https://www.ceopunjab.gov.in
+  category: Others
+  status: external_link
+- name: Court Cases Monitoring System, Punjab
+  website: https://ccmspb.punjab.gov.in
+  category: Others
+  status: external_link
+- name: Integrated Human Resource Management System, Punjab
+  website: https://hrms.punjab.gov.in
+  category: Others
+  status: external_link
+- name: Mohendra Chaudhry Zoological Park, Chhatbir, Punjab
+  website: null
+  category: Others
+  status: external_link
+- name: Mukh Mantri Punjab Cancer Raahat Kosh (MMPCRK), Punjab
+  website: https://mmpcrk.gov.in
+  category: Others
+  status: external_link
+- name: National Generic Document Registration System, Punjab
+  website: null
+  category: Others
+  status: external_link
+- name: Next Gen Integrated Financial Management System - IFMS, Punjab
+  website: https://ifms.punjab.gov.in
+  category: Others
+  status: external_link
+- name: Punjab Cooperatives, Punjab
+  website: null
+  category: Others
+  status: external_link
+- name: Punjab Energy Development Agencies (PEDA), Punjab
+  website: https://www.peda.gov.in
+  category: Others
+  status: external_link
+- name: Punjab Land Records Society (PLRS), Punjab
+  website: https://www.plrs.org.in
+  category: Others
+  status: external_link
+- name: Punjab Medical Council, Punjab
+  website: https://punjabmedicalcouncil.in
+  category: Others
+  status: external_link
+- name: Punjab Nurses Registration Council, Punjab
+  website: https://www.pnrconline.in
+  category: Others
+  status: external_link
+- name: Punjab Prisons, Punjab
+  website: https://prisons.punjab.gov.in
+  category: Others
+  status: external_link
+- name: Pushpa Gujral Science City, Punjab
+  website: null
+  category: Others
+  status: external_link
+- name: e-District Sewa, Punjab
+  website: null
+  category: Others
+  status: external_link
+- name: eProcurement System, Punjab
+  website: https://eproc.punjab.gov.in
+  category: Others
+  status: external_link
+- name: ePunjabSchool (Management Information System - MIS), Punjab
+  website: https://www.epunjabschool.gov.in
+  category: Others
+  status: external_link
+- name: eServices, Punjab
+  website: https://eservices.punjab.gov.in
+  category: Others
+  status: external_link

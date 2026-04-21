@@ -1,0 +1,527 @@
+parent_state: Andhra Pradesh
+organizations:
+- name: Official Portal of Andhra Pradesh Government
+  website: https://www.ap.gov.in
+  category: State Portal
+  status: external_link
+- name: Chief Commissioner of Land Administration (CCLA), Andhra Pradesh
+  website: https://ccla.ap.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Southern Power Distribution Company of AP Ltd. (APSPDCL), Andhra Pradesh
+  website: https://www.apspdcl.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Andhra Pradesh Differently abled & Senior Citizens Assistance Corporation
+    (APDASCAC)
+  website: https://www.apdascac.ap.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Andhra Pradesh Electricity Regulatory Commission
+  website: https://aperc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Andhra Pradesh Information Commission
+  website: https://sic.ap.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Andhra Pradesh State Consumer Dispute Redressal Commission
+  website: https://scdrc.ap.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Andhra Pradesh vigilance commission
+  website: https://apvc.ap.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissionerate of Health & Family Welfare, Andhra Pradesh
+  website: https://cfw.ap.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Andhra Pradesh Human Resource Development Institute (APHRDI)
+  website: https://www.aphrdi.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Andhra Pradesh Livestock Development Agency (APLDA)
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Andhra Pradesh Police
+  website: https://citizen.appolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Andhra Pradesh Real Estate Regulatory Authority (APRERA)
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Andhra Pradesh Space Applications Centre (APSAC)
+  website: https://apsac.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Andhra Pradesh Special Police (APSP)
+  website: https://apsp.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Andhra Pradesh State Institute of Panchayat Raj & Rural Development (APSIRD),
+    Andhra Pradesh
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Anti Corruption Bureau, Andhra Pradesh
+  website: https://acb.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Central Goods and Service Tax (CGST), Guntur, Andhra Pradesh
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Centre for Economic and Social Studies, Andhra Pradesh
+  website: https://cess.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Chittoor District Police, Andhra Pradesh
+  website: https://chittoorpolice.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Dr. Marri Channa Reddy Human Resource Development Institute of Telangana,
+    Andhra Pradesh
+  website: https://www.mcrhrdi.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: International Centre for Alternative Dispute Resolution
+  website: https://icadr.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Prakasam District Police, Andhra Pradesh
+  website: https://prakasampolice.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Telugu Akademi, Andhra Pradesh
+  website: https://teluguakademi.telangana.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Vidyut Ombudsman, Andhra Pradesh
+  website: https://vidyutombudsman.ap.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Visakhapatnam City Police, Andhra Pradesh
+  website: https://vizagcitypolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Andhra Pradesh Maritime Board
+  website: https://ports.ap.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Chief Commissioner of Land Administration, Andhra Pradesh
+  website: https://ccla.ap.gov.in/CCLA/Index.aspx
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissioner of Rehabilitation and Resettlement, Andhra Pradesh
+  website: https://aprr.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Collegiate Education, Andhra Pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education, Andhra Pradesh
+  website: https://dme.ap.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Town and Country Planning, Andhra Pradesh
+  website: https://portal.apdpms.ap.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Drugs Control Administration, Andhra Pradesh
+  website: https://apdca.ap.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: PHMED - Public Health and Municipal Engineering Department , Andhra pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Public Private Partnerships (PPP), Telangana, Andhra Pradesh
+  website: https://ppptg.cgg.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Regional Directorate of Skill Development & Entrepreneurship, Andhra Pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Sri Venkateswara University, Directorate of Distance Education, Tirupati,
+    Andhra Pradesh
+  website: https://www.svudde.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Tirupati CGST Commissionerate, Andhra Pradesh
+  website: https://cgsttirupati.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Andhra Pradesh Biodiversity Board, Andhra Pradesh
+  website: https://apsbb.e-pragati.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Board of Intermediate Education
+  website: https://bie.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Building and Other Construction Workers Welfare Board (APBOCWWB)
+  website: https://apbocwwb.ap.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Dairy Development Cooperative Federaion Limited (APDDCF), Andhra
+    Pradesh
+  website: https://apddcf.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Economic Development Board
+  website: https://apedb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Forest Development Corporation Limited (APFDC)
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Handicrafts Development Corporation Limited
+  website: https://www.lepakshihandicrafts.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Industrial Infrastructure Corporation
+  website: https://apiic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Maritime Board (APMB)
+  website: https://apmaritime.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Medical Services and Infrastructure Development Corporation
+    (APMSIDC)
+  website: https://msidc.ap.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Mineral Development Corporation Limited
+  website: https://apmdc.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Power Generation Corporation Limited (APGENCO), Andhra Pradesh
+  website: https://apgenco.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Road Development Corporation (APRDC)
+  website: https://aprdc.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Christian (Minorities) Finance Corporation
+  website: https://christianminorities.ap.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Civil Supplies Corporation
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Disaster Management Authority (APSDMA)
+  website: https://apsdma.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Financial Corporation (APSFC), Andhra Pradesh
+  website: https://esfc.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Institute of Panchayat Raj & Rural Development (APSIRD),
+    Andhra Pradesh
+  website: https://apsirdpr.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Level Police Recruitment Board
+  website: https://slprb.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Road Transport Corporation (APSRTC)
+  website: https://www.apsrtc.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh State Seeds Development Corporation Limited
+  website: https://apseeds.ap.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Technology Services (APTS), Andhra Pradesh
+  website: https://apts.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Tourism Authority
+  website: https://aptourism.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Intermediate Education, Andhra Pradesh
+  website: https://bieap.apcfss.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Centre for Good Governance, Andhra Pradesh
+  website: https://www.cgg.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Andhra Pradesh Gas Infrastructure Corporation (APGIC), Andhra Pradesh
+  website: https://www.apgic.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Andhra Pradesh State Beverages Corporation Limited
+  website: https://apsbcltd.ap.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Andhra Pradesh State Minorities Finance Corporation Limited
+  website: https://apsmfc.ap.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Real Time Governance Society, Andhra Pradesh
+  website: https://rtgs.ap.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Acharya N. G. Ranga Agricultural University, Andhra Pradesh
+  website: https://angrau.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Acharya Nagarjuna University, Andhra Pradesh
+  website: https://www.nagarjunauniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Acharya Nagarjuna University, Centre for Distance Education, Andhra Pradesh
+  website: https://anucde.info
+  category: Academies / Institutions
+  status: external_link
+- name: Andhra Pradesh Nurses ,Midwives ,Auxiliary Nurse-Midwives & Health Visitors
+    Council
+  website: https://nmcouncil.ap.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Andhra University
+  website: https://www.andhrauniversity.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: College of Defence Management
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. Y.S.R Horticultural University, Andhra Pradesh
+  website: https://drysrhu.ap.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dravidian University, Kuppam, Andhra Pradesh
+  website: https://www.dravidianuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Institute for Development and Research in Banking Technology (IDRBT), Andhra
+    Pradesh
+  website: https://www.idrbt.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Insurance and Risk Management (IIRM), Andhra Pradesh
+  website: https://www.theiirm.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Jawaharlal Nehru Technological University Hyderabad (JNTUH), Andhra Pradesh
+  website: https://www.jntuh.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Kakatiya University, Andhra Pradesh
+  website: https://www.kakatiya.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: NALSAR University of Law, Andhra Pradesh
+  website: https://nalsar.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: National Institute of Technology (NIT), Andhra Pradesh
+  website: https://nitandhra.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Potti Sreeramulu Telugu University, Andhra Pradesh
+  website: https://teluguuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: School of Distance Learning and Continuing Education, Kakatiya Univesity,
+    Andhra Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Sri Venkateswara Institute Of Medical Sciences, Andhra Pradesh
+  website: https://svimstpt.ap.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Sri Venkateswara University, Tirupati, Andhra Pradesh
+  website: https://www.svuniversity.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Sri Venkateswara Veterinary University, Tirupati, Andhra Pradesh
+  website: https://svvu.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: UGC-Human Resources Development Centre, Andhra University, Andhra Pradesh
+  website: https://auasc.org
+  category: Academies / Institutions
+  status: external_link
+- name: Vikrama Simhapuri University, Nellore, Andhra Pradesh
+  website: https://vsu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Yogi Vemana University, Andhra Pradesh
+  website: https://yvu.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: AI Assistant, Andhra Pradesh
+  website: https://search.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Andhra Pradesh Agentspace Portal
+  website: https://dept.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Andhra Pradesh Farmer Registry
+  website: https://apfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Andhra Pradesh State Energy Conservation Mission
+  website: https://www.apsecm.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Beneficiary Management, Andhra Pradesh
+  website: https://gsws-nbm.ap.gov.in/NBM/Home/Main
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: BhuNaksha, Andhra Pradesh
+  website: https://bhunaksha.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Citizen Services Online Portal, Andhra Pradesh
+  website: https://vswsonline.ap.gov.in/#/home
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: D-Krishi - Aadhaar Enabled Seed Distribution System of Andhra Pradesh
+  website: https://eseed.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Integrated AYUSH Web Portal, Andhra Pradesh
+  website: https://online.ayush.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Paddy Procurement System, Andhra Pradesh
+  website: https://www.paddyprocurement.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Public Grievance Redressal System (PGRS), Andhra Pradesh
+  website: https://pgrs.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Tirumala Tirupati Devasthanams, Andhra Pradesh
+  website: https://ttdevasthanams.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Zero Poverty-P4 Initiative
+  website: https://zeropovertyp4.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: eCabinet, Andhra Pradesh
+  website: https://ecabinet.ap.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: AP Centre for Financial Systems & Services (APCFSS), Andhra Pradesh
+  website: https://apcfss.in
+  category: Others
+  status: external_link
+- name: Aadhaar enabled Public Distribution System - AePDS, Andhra Pradesh
+  website: https://aepos.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Capital Region Development Authority (APCRDA), Vijayawada
+  website: https://crda.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Medical Council
+  website: https://apmc.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Nurses, Midwives, Auxiliary Nurse-Midwives and health Visitors
+    Council
+  website: https://hmis.ap.nic.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Pharmacy Council
+  website: https://appharmacycouncil.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Social Welfare Residential Educational Institutions Society
+  website: https://swreis.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh State AIDS Control Society
+  website: https://apsacs.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Temples Portal
+  website: https://www.aptemples.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Township and Infrastructure Development Corporation (APTIDCO)
+  website: https://aptidco.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Trade Promotion Corporation
+  website: https://www.apexports.ap.gov.in
+  category: Others
+  status: external_link
+- name: Andhra Pradesh Water Resources Information & Management System
+  website: https://apwrims.ap.gov.in
+  category: Others
+  status: external_link
+- name: CORE Dashboard - CM Office Real-Time Executive Dashboard
+  website: https://core.ap.gov.in/CMDashBoard/Index.aspx
+  category: Others
+  status: external_link
+- name: Child Labour Tracking System, Andhra Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Citizen Services Online Portal, Andhra Pradesh
+  website: https://onlineap.meeseva.gov.in/CitizenPortal/UserInterface/Citizen/Home.aspx
+  category: Others
+  status: external_link
+- name: Community Managed Micro Insurance, Andhra Pradesh
+  website: https://aaby.ap.gov.in
+  category: Others
+  status: external_link
+- name: Cyclone Warning Centre, Visakhapatnam, Andhra Pradesh
+  website: https://mausam.imd.gov.in/visakhapatnam
+  category: Others
+  status: external_link
+- name: Dr. YSR Aarogyasri Health Care Trust, Andhra Pradesh
+  website: https://www.ysraarogyasri.ap.gov.in
+  category: Others
+  status: external_link
+- name: Employees Provident Fund Organisation, Andhra Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Employment Generation and Marketing Mission (EGMM), Telangana, Andhra Pradesh
+  website: https://tsegmm.cgg.gov.in
+  category: Others
+  status: external_link
+- name: GURUKULAM - Andhra Pradesh Tribal Welfare Residential Educational Institutions
+    Society, Andhra Pradesh
+  website: https://aptwgurukulam.ap.gov.in
+  category: Others
+  status: external_link
+- name: Golkonda Handicrafts by Telangana State Handicrafts Development Corporation
+    Ltd., Andhra Pradesh
+  website: https://golkondacrafts.telangana.gov.in
+  category: Others
+  status: external_link
+- name: Government Order Issue Register, Secretariat, Andhra Pradesh
+  website: https://goir.ap.gov.in
+  category: Others
+  status: external_link
+- name: Infrastructure Corporation of Andhra Pradesh Ltd. (INCAP), Andhra Pradesh
+  website: https://www.incap.co.in
+  category: Others
+  status: external_link
+- name: JanmaBhoomi, Andhra Pradesh
+  website: https://jnanabhumi.ap.gov.in
+  category: Others
+  status: external_link

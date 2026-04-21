@@ -1,0 +1,424 @@
+parent_state: Uttarakhand
+organizations:
+- name: Official Portal of Uttarakhand Government
+  website: https://uk.gov.in
+  category: State Portal
+  status: external_link
+- name: State Consumer Disputes Redressal Comission, Uttarakhand
+  website: https://scdrc.uk.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Planning Commission, Uttrakhand
+  website: https://spc.uk.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttarakhand Electricity Regulatory Commission, Uttarakhand
+  website: https://uerc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttarakhand Right to Service Commission, Uttarakhand
+  website: https://urtsc.uk.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttarakhand State Human Rights Commission
+  website: https://www.ukhrc.org
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttarakhand Subordinate Service Selection Commission, Uttarakhand
+  website: https://sssc.uk.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya Chinyalisaur, Uttarkashi, Uttarakhand
+  website: https://rgnv-utt.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya Gangolihat, Pithoragarh, Uttarakhand
+  website: https://rgnv-pit.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya Lohaghat, Champawat, Uttarakhand
+  website: https://rgnv-chp.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya Santudhar, Pauri Garhwal, Uttarakhand
+  website: https://rgnv-pau.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Almora, Uttarakhand
+  website: https://rgnv-alm.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Bahuli, Bageshwar, Uttarakhand
+  website: https://rgnv-bag.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Dehradun, Uttarakhand
+  website: https://rgnv-deh.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Haridwar, Uttarakhand
+  website: https://rgnv-hdr.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Jajal, Tehri Garhwal, Uttarakhand
+  website: https://rgnv-teh.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Nainital, Uttarakhand
+  website: https://rgnv-ntl.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Rudraprayag, Uttarakhand
+  website: https://rgnv-rud.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Navodaya Vidyalaya, Udham Singh Nagar, Uttarakhand
+  website: https://rgnv-usn.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Rajeev Gandhi Novodaya Vidayalaya, Gairsain, Chamoli, Uttarakhand
+  website: https://rgnv-cha.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Uttarakhand Ayurved University, Uttarakhand
+  website: https://www.uau.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Uttarakhand Waqf Board, Dehradun, Uttarakhand
+  website: https://uttarakhandwaqfboard.uk.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Uttaranchal Forest Development Corporation (UAFDC), Uttarakhand
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: e-Greencard And Tripcard, Uttrakhand
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Audit, Uttarakhand
+  website: https://uttarakhandaudit.uk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics and Statistics, Uttarakhand
+  website: https://des.uk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Industries, Uttarakhand
+  website: https://doi.uk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Soldier Welfare and Rehabilitation Board, Uttarakhand
+  website: https://sainikkalyanuk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education Srinagar Garhwal, Uttarakhand
+  website: https://www.ukdte.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Treasuries, Pension & Entitlements, Uttarakhand
+  website: https://ekosh.uk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of industries, Uttarakhand
+  website: https://www.doiuk.org
+  category: Directorates / Commissionerates
+  status: external_link
+- name: National Cadet Corps Directorate, Uttarakhand
+  website: https://nccdte.uk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Urban Development Directorate, Uttarakhand
+  website: https://udd.uk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Watershed Management Directorate, Uttarakhand
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Bhagirathi River Valley Development Authority, Uttarakhand
+  website: https://brvda.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Biodiversity Board, Uttarakhand
+  website: https://sbb.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Dr. Raghunandan Singh Tolia Uttarakhand Academy of Administration, Nainital,
+    Uttarakhand
+  website: https://uaoa.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Garhwal Mandal Vikas Nigam Limited (GMVNL), Uttarakhand
+  website: https://gmvnonline.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Geology and Mining Unit, Directorate of Industries, Uttarakhand
+  website: https://dgm.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kumaon Mandal Vikas Nigam Ltd., Uttarakhand
+  website: https://www.kmvn.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Pey Jal Nigam Uttarakhand, Dehradun, Uttarakhand
+  website: https://peyjal.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Power Transmission Corporation of Uttarakhand Limited (PTCUL), Uttarakhand
+  website: https://www.ptcul.org
+  category: Boards / Undertakings
+  status: external_link
+- name: State Council of Educational Research & Training, Uttarakhand
+  website: https://scert.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: State Institute of Educational Management and Training (SIEMAT), Uttarakhand
+  website: https://siemat.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Agricultural Produce Marketing Board (UKAMB), Uttarakhand
+  website: https://www.ukapmb.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Bamboo and Fiber Development Board, Dehradun, Uttarakhand
+  website: https://www.ubfdb.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Board of School Education, Uttarakhand
+  website: https://ubse.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Board of Technical Education, Roorkee, Uttarakhand
+  website: https://ubter.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Disaster Recovery Initiative, Uttarakhand
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Livestock Development Board (ULDB), Uttarakhand
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Medical Council
+  website: https://ukmedicalcouncil.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Power Corporation Limited (UPCL), Uttarakhand
+  website: https://www.upcl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Seeds and Tarai Development Corporation Ltd., Uttarakhand
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Tea Development Board, Almora, Uttarakhand
+  website: https://utdb.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttarakhand Transport Corporation (UTC), Uttarakhand
+  website: https://utc.uk.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bipin Tripathi Kumaon Institue of Technology, Uttarakhand
+  website: https://kecua.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: College of Technology, Pantnagar, Uttarakhand
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Doon University, Dehradun
+  website: https://doonuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Kashipur, Udham Singh Nagar, Uttarakhand
+  website: https://gpkashipur.in
+  category: Academies / Institutions
+  status: external_link
+- name: Govind Ballabh Pant University of Agriculture & Technology, Uttarakhand
+  website: https://gbpuat.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Kumaon Engineering College, Uttarakhand
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Kumaun University, Uttarakhand
+  website: https://www.kunainital.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Rashtriya Madhyamik Shiksha Abhiyan (RMSA), Uttarakhand
+  website: https://rmsa.uk.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Samagra Shiksha, Uttrakhand
+  website: https://ssa.uk.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: "UPES \u2013 University of Tomorrow, Uttrakhand"
+  website: https://www.upes.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Uttarakhand Institute of Rural Development & Panchayati Raj (UIRDPR), Uttarakhand
+  website: https://uirdpr.in
+  category: Academies / Institutions
+  status: external_link
+- name: Uttarakhand Open University, Nainital, Uttarakhand
+  website: https://uou.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Uttarakhand Sanskrit University, Haridwar, Uttarakhand
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Veer Chandra Singh Garhwali Government Institute of Medical Science and Research,
+    Srinagar, Pauri Garhwal, Uttarakhand
+  website: https://vcsgsrinagar.org
+  category: Academies / Institutions
+  status: external_link
+- name: Veer Chandra Singh Garwali Uttarakhand University of Horticulture & Forestry,
+    Bharsar, Pauri Garhwal, Uttarakhand
+  website: https://www.uuhf.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Veer Madho Singh Bhandari Uttarakhand Technical University, Dehradun, Uttarakhand
+  website: https://uktech.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Digital Uttarakhand Service Portal, Uttarakhand
+  website: https://digital.uk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: National Health Mission, Uttarakhand
+  website: https://nhm.uk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Uttarakhand Renewable Energy Development Agency Online (UREDA), Uttarakhand
+  website: https://uredaonline.uk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Uttarakhand State Rural Livelihoods Mission, Uttarakhand
+  website: https://usrlm.uk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: eSwasthya Dham, Uttarakhand
+  website: https://eswasthyadham.uk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Uttarakhand
+  website: https://uttarakhand.mygov.in
+  contact:
+    address: Information Technology Development Agency (ITDA) Department of Information
+      Science & Technology, (Government of Uttarakhand) Plot No. 07, IT Bhawan, IT
+      Park
+    phone: '9634618179'
+    fax: ''
+    email: itda[dot]uk1[at]gmail[dot]com
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Almora Urban Co-operative Bank Ltd., Uttarakhand
+  website: https://www.almoraurbanbank.com
+  category: Others
+  status: external_link
+- name: At a Glance, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: BHULEKH - Land Records Computerization, Uttrakhand
+  website: https://bhulekh.uk.gov.in
+  category: Others
+  status: external_link
+- name: Char Dham Yatra Registration And Hemkund Sahib Registration, Uttarakhand
+  website: https://registrationandtouristcare.uk.gov.in
+  category: Others
+  status: external_link
+- name: Chief Development Office, Dehradun, Uttarakhand
+  website: https://cdodoon.gov.in
+  category: Others
+  status: external_link
+- name: Committee of Experts, Laws Regulating Personal Civil Matters & Uniform Civil
+    Code, Uttarakhand
+  website: https://ucc.uk.gov.in
+  category: Others
+  status: external_link
+- name: Dev Bhoomi - Uttarakhand Land Records, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: Directorate of Industries, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: EIACP Programme Centre - Wildlife and Protected Areas Management, Dehradun,
+    Uttarakhand
+  website: https://wiienvis.nic.in
+  category: Others
+  status: external_link
+- name: Garhwal Division, Uttarakhand
+  website: https://garhwal.uk.gov.in
+  category: Others
+  status: external_link
+- name: Gazette Information System, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: Heliservices to Kedarnath Ji Dham, Uttarakhand
+  website: https://heliservices.uk.gov.in
+  category: Others
+  status: external_link
+- name: Integrated Recruitment Portal, Uttarakhand
+  website: https://irp.uk.gov.in
+  category: Others
+  status: external_link
+- name: Kumaon Division, Uttarkhand
+  website: https://kumaon.gov.in
+  category: Others
+  status: external_link
+- name: Maps of Uttaranchal Parliamentry Constituencies, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: Official Roorkee Website, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: Online Citizen Services Portal, Uttrakhand
+  website: https://policecitizenportal.uk.gov.in
+  category: Others
+  status: external_link
+- name: Pranvayu - Oxygen Management System, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: Raj Bhawan, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: Rajaji Tiger Reserve, Uttarakhand
+  website: https://rajajitigerreserve.uk.gov.in/Index.aspx
+  category: Others
+  status: external_link
+- name: Register as COVID-19 Volunteer, Uttarakhand
+  website: null
+  category: Others
+  status: external_link
+- name: Sahyog - A Portal to Support Development Through CSR, Uttarakhand
+  website: https://csr.uk.gov.in
+  category: Others
+  status: external_link
+- name: School Education Portal, Uttarakhand
+  website: https://educationportal.uk.gov.in
+  category: Others
+  status: external_link
+- name: Shri Badarinath Kedarnath Temple Committee, Uttarakhand
+  website: https://badrinath-kedarnath.gov.in
+  category: Others
+  status: external_link

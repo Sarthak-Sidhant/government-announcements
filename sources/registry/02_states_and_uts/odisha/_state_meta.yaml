@@ -1,9 +1,629 @@
-# === IDENTITY ===
-id: "state-odisha"
-name: "Odisha"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-odisha
+name: Odisha
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Angul
+    website: https://angul.odisha.gov.in
+    sub_districts:
+    - Angul
+    - Athmallik
+    - Banarpal
+    - Chhendipada
+    - Kaniha
+    - Kishorenagar
+    - Pallahara
+    - Talcher
+    blocks:
+    - Anugul
+    - Athmallik
+    - Banarpal
+    - Chhendipada
+    - Kaniha
+    - Kishorenagar
+    - Palalahada
+    - Talacher
+  - name: Balangir
+    website: https://balangir.odisha.gov.in
+    sub_districts:
+    - Agalpur
+    - Balangir
+    - Bangomunda
+    - Belpara
+    - Deogaon
+    - Kantabanji
+    - Khaprakhol
+    - Loisinga
+    - Muribahal
+    - Patnagarh
+    - Puintala
+    - Saintala
+    - Titlagarh
+    - Tusura
+    blocks:
+    - Agalpur
+    - Balangir
+    - Bangomunda
+    - Belpara
+    - Deogaon
+    - Gudvella
+    - Khaprakhol
+    - Loisinga
+    - Muribahal
+    - Patnagarh
+    - Puintala
+    - Saintala
+    - Titlagarh
+    - Turekela
+  - name: Balasore
+    website: https://balasore.odisha.gov.in
+    sub_districts:
+    - Bahanaga
+    - Balasore
+    - Baliapal
+    - Basta
+    - Bhograi
+    - Jaleswar
+    - Khaira
+    - Nilagiri
+    - Oupada
+    - Remuna
+    - Simulia
+    - Soro
+    blocks:
+    - Bahanaga
+    - Baleshwar
+    - Baliapal
+    - Basta
+    - Bhograi
+    - Jaleswar
+    - Khaira
+    - Nilgiri
+    - Oupada
+    - Remuna
+    - Simulia
+    - Soro
+  - name: Bargarh
+    website: https://bargarh.odisha.gov.in
+    sub_districts:
+    - Ambabhona
+    - Attabira
+    - Bargarh
+    - Barpali
+    - Bhatli
+    - Bheden
+    - Bijepur
+    - Gaisilet
+    - Jharbandh
+    - Padampur
+    - Paikmal
+    - Sohela
+    blocks:
+    - Ambabhona
+    - Attabira
+    - Bargarh
+    - Barpali
+    - Bhatli
+    - Bheden
+    - Bijepur
+    - Gaisilet
+    - Jharbandh
+    - Padampur
+    - Paikmal
+    - Sohella
+  - name: Bhadrak
+    website: https://bhadrak.odisha.gov.in
+    sub_districts:
+    - Basudevpur
+    - Bhadrak
+    - Bhandari Pokhari
+    - Bonth
+    - Chandbali
+    - Dhamnagar
+    - Tihidi
+    blocks:
+    - Basudevpur
+    - Bhadrak
+    - Bhandaripokhari
+    - Bonth
+    - Chandabali
+    - Dhamanagar
+    - Tihidi
+  - name: Boudh
+    website: https://boudh.odisha.gov.in
+    sub_districts:
+    - Boudh
+    - Harabhanga
+    - Kantamal
+    blocks:
+    - Boudh
+    - Harabhanga
+    - Kantamal
+  - name: Cuttack
+    website: https://cuttack.odisha.gov.in
+    sub_districts:
+    - Athgarh
+    - Banki
+    - Baramba
+    - Barang
+    - Cuttack
+    - Dompada
+    - Kantapada
+    - Kishannagar
+    - Mahanga
+    - Narsinghpur
+    - Niali
+    - Nischintakoili
+    - Salipur
+    - Tangi-Choudwar
+    - Tigiria
+    blocks:
+    - Athagad
+    - Badamba
+    - Banki
+    - Banki- Dampara
+    - Baranga
+    - Cuttacksadar
+    - Kantapada
+    - Mahanga
+    - Narasinghpur
+    - Niali
+    - Nischinta Koili
+    - Salepur
+    - Tangi Choudwar
+    - Tigiria
+  - name: Deogarh
+    website: https://deogarh.odisha.gov.in
+    sub_districts:
+    - Barkot
+    - Debagarh
+    - Reamal
+    blocks:
+    - Barkote
+    - Reamal
+    - Tileibani
+  - name: Dhenkanal
+    website: https://dhenkanal.odisha.gov.in
+    sub_districts:
+    - Bhuban
+    - Dhenkanal Sadar
+    - Gandia
+    - Hindol
+    - Kamakshyanagar
+    - Kankadahad
+    - Odapada
+    - Parajang
+    blocks:
+    - Bhuban
+    - Dhenkanal Sadar
+    - Gondia
+    - Hindol
+    - Kamakhyanagar
+    - Kankada Had
+    - Odapada
+    - Parjang
+  - name: Gajapati
+    website: https://gajapati.odisha.gov.in
+    sub_districts:
+    - Gumma
+    - Kasinagar
+    - Mohana
+    - Nuagad
+    - Paralakhemundi
+    - R.Udayagiri
+    - Rayagada
+    blocks:
+    - Gosani
+    - Gumma
+    - Kasinagar
+    - Mohana
+    - Nuagada
+    - R.Udayagiri
+    - Rayagada
+  - name: Ganjam
+    website: https://ganjam.odisha.gov.in
+    sub_districts:
+    - Asika
+    - Bellaguntha
+    - Berhampur
+    - Buguda
+    - Chhatrapur
+    - Chikiti
+    - Dharakote
+    - Digapahandi
+    - Ganjam
+    - Ghumusar
+    - Hinjili
+    - Jagannath Prasad
+    - Kabisuryanagar
+    - Kanisi
+    - Khallikote
+    - Kodala
+    - Kukudakhandi
+    - Patrapur
+    - Polasara
+    - Purushottampur
+    - Sanakhemundi
+    - Sheragada
+    - Surada
+    blocks:
+    - Aska
+    - Beguniapada
+    - Bellaguntha
+    - Bhanjanagar
+    - Buguda
+    - Chatrapur
+    - Chikiti
+    - Dharakote
+    - Digapahandi
+    - Ganjam
+    - Hinjilicut
+    - Jagannathprasad
+    - Kabisuryanagar
+    - Khallikote
+    - Kukudakhandi
+    - Patrapur
+    - Polosara
+    - Purushottampur
+    - Rangeilunda
+    - Sanakhemundi
+    - Sheragada
+    - Surada
+  - name: Jagatsinghapur
+    website: https://jagatsinghpur.odisha.gov.in
+    sub_districts:
+    - Balikuda
+    - Biridi
+    - Ersama
+    - Jagatsinghapur
+    - Kujang
+    - Naugaon
+    - Raghunathapur
+    - Tirtol
+    blocks:
+    - Balikuda
+    - Biridi
+    - Erasama
+    - Jagatsinghpur
+    - Kujang
+    - Naugaon
+    - Raghunathpur
+    - Tirtol
+  - name: Jajpur
+    website: https://jajpur.odisha.gov.in
+    sub_districts:
+    - Bari
+    - Binjharpur
+    - Dangadi
+    - Darpan
+    - Dasarathpur
+    - Dharmasala
+    - Jajpur
+    - Rasulpur
+    - Sukinda
+    - Vyasanagar
+    blocks:
+    - Badchana
+    - Bari
+    - Binjharpur
+    - Dahrmasala
+    - Danagadi
+    - Dasarathapur
+    - Jajpur
+    - Korei
+    - Rasulpur
+    - Sukinda
+  - name: Jharsuguda
+    website: https://jharsuguda.odisha.gov.in
+    sub_districts:
+    - Jharsuguda
+    - Kirmira
+    - Kolabira
+    - Laikera
+    - Lakhanpur
+    blocks:
+    - Jharsuguda
+    - Kirmira
+    - Kolabira
+    - Laikera
+    - Lakhanpur
+  - name: Kalahandi
+    website: https://kalahandi.odisha.gov.in
+    sub_districts:
+    - Dharamgarh
+    - Golamunda
+    - Jayapatna
+    - Junagarh
+    - Kalahandi
+    - Kalampur
+    - Karlamunda
+    - Kesinga
+    - Kokasara
+    - Lanjigarh
+    - Madanpur Rampur
+    - Narala
+    - Thuamul Rampur
+    blocks:
+    - Bhawanipatna
+    - Dharamagarh
+    - Golamunda
+    - Jayapatna
+    - Junagarh
+    - Kalampur
+    - Karlamunda
+    - Kesinga
+    - Kokasara
+    - Lanjigarh
+    - Madanpur Rampur
+    - Narala
+    - Thuamul Ram Pur
+  - name: Kandhamal
+    website: https://kandhamal.odisha.gov.in
+    sub_districts:
+    - Baliguda
+    - Chakapada
+    - Daringbadi
+    - G.Udayagiri
+    - K. Nuagaon
+    - Kandhamal
+    - Khajuripada
+    - Kotagarh
+    - Phiringia
+    - Raikia
+    - Tikabali
+    - Tumudibandha
+    blocks:
+    - Baliguda
+    - Chakapad
+    - Daringibadi
+    - G.Udayagiri
+    - K.Nuagan
+    - Khajuripada
+    - Kotagarh
+    - Phiringia
+    - Phulbani
+    - Raikia
+    - Tikabali
+    - Tumudibandh
+  - name: Kendrapara
+    website: https://kendrapara.odisha.gov.in
+    sub_districts:
+    - Aali
+    - Derabish
+    - Garadpur
+    - Kendrapara
+    - Mahakalapada
+    - Marsaghai
+    - Pattamundai
+    - Rajkanika
+    - Rajnagar
+    blocks:
+    - Aul
+    - Derabish
+    - Garadapur
+    - Kendrapada
+    - Mahakalapada
+    - Marsaghai
+    - Pattamundai
+    - Rajkanika
+    - Rajnagar
+  - name: Keonjhar
+    website: https://kendujhar.odisha.gov.in
+    sub_districts:
+    - Anandapur
+    - Banspal
+    - Barbil
+    - Champua
+    - Ghasipura
+    - Ghatgaon
+    - Harichandanpur
+    - Hatadihi
+    - Jhumpura
+    - Keonjhar
+    - Patana
+    - Saharapada
+    - Telkoi
+    blocks:
+    - Anandapur
+    - Bansapal
+    - Champua
+    - Ghasipura
+    - Ghatgaon
+    - Harichadanpur
+    - Hatadihi
+    - Jhumpura
+    - Joda
+    - Kendujhar Sadar
+    - Patana
+    - Saharapada
+    - Telkoi
+  - name: Khordha
+    website: https://khordha.odisha.gov.in
+    sub_districts:
+    - Balianta
+    - Balipatna
+    - Banapur
+    - Begunia
+    - Bhubaneswar
+    - Bolagad
+    - Chilika
+    - Jatani
+    - Khordha
+    - Tangi
+    blocks:
+    - Balianta
+    - Balipatna
+    - Banapur
+    - Begunia
+    - Bhubaneswar
+    - Bolagarh
+    - Chilika
+    - Jatni
+    - Khordha
+    - Tangi
+  - name: Koraput
+    website: https://koraput.odisha.gov.in
+    sub_districts:
+    - Bandhugaon
+    - Boipariguda
+    - Boriguma
+    - Dasamantapur
+    - Jeypore
+    - Koraput
+    - Kotpad
+    - Kundura
+    - Lakshmipur
+    - Machh Kund
+    - Nandapur
+    - Narayanpatana
+    - Pottangi
+    - Similiguda
+    blocks:
+    - Bandhugaon
+    - Boipariguda
+    - Borigumma
+    - Dasamantapur
+    - Jeypore
+    - Koraput
+    - Kotpad
+    - Kundura
+    - Lamtaput
+    - Laxmipur
+    - Nandapur
+    - Narayan Patana
+    - Pottangi
+    - Semiliguda
+  - name: Malkangiri
+    website: https://malkangiri.odisha.gov.in
+    sub_districts:
+    - Chitrakonda
+    - Kalimela
+    - Khairput
+    - Kudumuluguma
+    - Malkangiri
+    - Mathili
+    - Motu
+    blocks:
+    - Chitrakonda
+    - Kalimela
+    - Khairaput
+    - Korukonda
+    - Malkangiri
+    - Mathili
+    - Podia
+  - name: Mayurbhanj
+    website: https://mayurbhanj.odisha.gov.in
+    sub_districts:
+    - Badasahi
+    - Bahalda
+    - Bangiriposi
+    - Baripada
+    - Betnoti
+    - Bijatala
+    - Bisoi
+    - Gopabandhunagar
+    - Jamda
+    - Jashipur
+    - Kaptipada
+    - Karanjia
+    - Khunta
+    - Kuliana
+    - Kusumi
+    - Morada
+    - Rairangpur
+    - Raruan
+    - Rasgobindpur
+    - Saraskana
+    - Shamakhunta
+    - Sukruli
+    - Suliapada
+    - Thakurmunda
+    - Tiring
+    - Udala
+    blocks:
+    - Badasahi
+    - Bahalda
+    - Bangriposi
+    - Baripada
+    - Betnoti
+    - Bijatala
+    - Bisoi
+    - Gopabandhunagar
+    - Jamda
+    - Joshipur
+    - Kaptipada
+    - Karanjia
+    - Khunta
+    - Kuliana
+    - Kusumi
+    - Morada
+    - Rairangpur
+    - Raruan
+    - Rasgovindpur
+    - Samakhunta
+    - Saraskana
+    - Sukruli
+    - Suliapada
+    - Thakurmunda
+    - Tiring
+    - Udala
+  - name: Nabarangpur
+    website: https://nabarangpur.odisha.gov.in
+    sub_districts:
+    - Chandahandi
+    - Dabugan
+    - Jharigan
+    - Kodinga
+    - Nabarangapur P.S
+    - Nandahandi
+    - Paparahandi
+    - Raighar
+    - Tentulikhunti
+    - Umarkote
+    blocks:
+    - Chandahandi
+    - Dabugam
+    - Jharigam
+    - Kosagumuda
+    - Nabarangpur
+    - Nandahandi
+    - Papadahandi
+    - Raighar
+    - Tentulikhunti
+    - Umerkote
+  - name: Nayagarh
+    website: https://nayagarh.odisha.gov.in
+    sub_districts:
+    - Bhapur
+    - Dasapalla
+    - Gania
+    - Khandapada
+    - Nayagarh
+    - Nuagaon
+    - Odagaon
+    - Ranapur
+    blocks:
+    - Bhapur
+    - Dasapalla
+    - Gania
+    - Khandapara
+    - Nayagarh
+    - Nuagaon
+    - Odagaon
+    - Ranapur
+  - name: Nuapada
+    website: https://nuapada.odisha.gov.in
+    sub_districts:
+    - Boden
+    - Khariar
+    - Komna
+    - Nuapada
+    - Sinapali
+    blocks:
+    - Boden
+    - Khariar
+    - Komna
+    - Nuapada
+    - Sinapali

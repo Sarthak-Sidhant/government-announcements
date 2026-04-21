@@ -1,0 +1,396 @@
+parent_state: Delhi
+organizations:
+- name: Official Portal of Delhi Government
+  website: https://delhi.gov.in
+  category: State Portal
+  status: external_link
+- name: Delhi Traffic Police
+  website: https://traffic.delhipolice.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Delhi Commission for Protection of Child Rights (DCPCR)
+  website: https://dcpcr.delhi.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Delhi Commission for Safai Karamcharis
+  website: https://dcsk.delhi.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Delhi Commission for Women
+  website: https://dcw.delhi.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Delhi Electricity Regulatory Commission
+  website: https://www.derc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Delhi Minorities Commission
+  website: https://dmc.delhi.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Delhi State Consumer Disputes Redressal Commission
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Dust Pollution Control Self Assessment, Delhi Pollution Control Committee
+    (DPCC)
+  website: https://dustcontroldpcc.delhi.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Public Grievances Commission, Delhi
+  website: https://pgc.delhi.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Delhi Co-operative Housing Finance Corporation Ltd.
+  website: https://www.dchfcdelhi.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Delhi Mediation Centre
+  website: https://dhcmediation.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Delhi Metro Rail Corporation Limited
+  website: https://www.delhimetrorail.com
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Institute of Human Behaviour and Allied Sciences (IHBAS), Delhi
+  website: https://ihbas.delhi.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Institute of Liver and Biliary Sciences, Delhi
+  website: https://www.ilbs.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate General of Health Services, Delhi
+  website: https://dgehs.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of AYUSH, Delhi
+  website: https://ayush.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Agricultural Marketing, Delhi
+  website: https://damb.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Employment, Delhi
+  website: https://onlineemploymentportal.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Higher Education, Delhi
+  website: https://higheredn.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information & Publicity, Delhi
+  website: https://publicity.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Prosecution, Delhi
+  website: https://prosecution.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Small Savings, Delhi
+  website: https://ss.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Training and Technical Education, Delhi
+  website: https://tte.delhi.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Delhi Agricultural Marketing Board
+  website: https://delagrimarket.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Building and Other Construction Workers Welfare Board
+  website: https://bocw.delhi.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Development Authority (DDA)
+  website: https://dda.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Khadi and Village Industries Board
+  website: https://dkvib.delhi.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Labour Welfare Board
+  website: https://dlwb.delhi.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Pollution Control Committee (DPCC)
+  website: https://www.dpcc.delhigovt.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi State Civil Supplies Corporation Limited (DSCSC)
+  website: https://dscsc.delhi.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi State Industrial and Infrastructure Development Corporation Limited
+    (DSIIDC)
+  website: https://www.dsiidc.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Subordinate Services Selection Board
+  website: https://dsssb.delhi.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Tourism
+  website: https://www.delhitourism.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Transco Limited (DTL)
+  website: https://www.dtl.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Transport Corporation (DTC)
+  website: https://dtc.delhi.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi Urban Shelter Improvement Board (DUSIB)
+  website: https://delhishelterboard.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Shahjahanabad Redevelopment Corporation (SRDC), Delhi
+  website: https://srdc.delhi.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: State Load Despatch Center (SLDC), Delhi
+  website: https://www.delhisldc.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Delhi State AIDS Control Society
+  website: https://dsacs.delhi.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Delhi eGovernance Society (DeGS)
+  website: https://degs.delhi.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Indraprastha Power Generation Co. Ltd., Delhi
+  website: https://www.ipgcl-ppcl.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Police Complaints Authority (PCA), Delhi
+  website: https://pca.delhi.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Registrar Cooperative Society, Delhi
+  website: https://rcs.delhi.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Sahitya Kala Parishad, Delhi
+  website: https://sahityakalaparishad.delhi.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: A & U Tibbia College & Hospital, Delhi
+  website: https://autch.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Acharya Narendra Dev College, Delhi
+  website: https://andcollege.du.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ambedkar Institute of Advanced Communication Technologies & Research, Delhi
+  website: https://ait.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bachelor of Education Program, Delhi
+  website: https://bed.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ch. Brahm Prakash Government Engineering College, Delhi
+  website: https://cbpgec.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ch. Brahm Prakash Industrial Training Institute, Jaffarpur, Delhi
+  website: https://itijaffarpur.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: College of Art, Delhi
+  website: https://colart.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Bhola Nath Nagar, Shahdara, Delhi
+  website: https://dbnn.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Darya Ganj, New Delhi
+  website: https://ddg.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Ghumanhera, New Delhi
+  website: https://dgmh.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Karkardooma, Delhi
+  website: https://dkkd.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Keshav Puram, New Delhi
+  website: https://dkp.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Moti Bagh, New Delhi
+  website: https://dmb.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Pitampura, Delhi
+  website: https://dpp.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, R K Puram, New Delhi
+  website: https://drkp.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: DIET, Rajinder Nagar, New Delhi
+  website: https://drn.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Delhi Sanskrit Academy, Delhi
+  website: https://sanskritacademy.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Delhi Skill & Enterprenuership University
+  website: https://dseu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Delhi University Library System (DULS)
+  website: https://crl.du.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Distance & Continuing Education
+  website: https://sol.du.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Sociology, Delhi School of Economics
+  website: https://sociology.du.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. B. R. Ambedkar University, Delhi
+  website: https://aud.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. B. R. Sur Homeopathic Medical College, Hospital and Research Centre, Delhi
+  website: https://shmch.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. H.J. Bhabha ITI Khichripur, Mayur Vihar, Delhi
+  website: https://hjbhabhaiti.delhi.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Faculty of Medical Sciences, University of Delhi
+  website: https://www.fmsc.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: DTC Conventional & e-Bus Pass, Delhi
+  website: https://dtcpass.delhi.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Delhi Police Senior Citizen Portal
+  website: https://seniorcitizen.delhipolice.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Police Clearance Certificate (PCC), Delhi
+  website: https://pcccvr.delhipolice.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Aruna Asaf Ali Government Hospital, Delhi
+  website: https://aaagh.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Babu Jagjivan Ram Memorial Hospital, Delhi
+  website: https://bjrmh.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Bhagwan Mahavir Hospital, Delhi
+  website: https://bmh.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Burari Hospital, Delhi
+  website: https://burari.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Central Jail, Delhi
+  website: https://tiharprisons.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Centralised Accident and Trauma Services, Delhi
+  website: https://cats.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Chacha Nehru Bal Chikitsalaya, Delhi
+  website: https://cnbc.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Chaudhary Brahm Prakash Ayurved Charak Sansthan, Delhi
+  website: https://cbpacs.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Deen Dayal Upadhyay Hospital, Delhi
+  website: https://dduh.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Deep Chand Bandhu Hospital, Delhi
+  website: https://dcbh.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Consumer's Co-operative Wholesale Store Ltd.
+  website: https://dccws.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Cooperative Tribunal
+  website: https://dct.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Disaster Management Authority
+  website: https://ddma.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Dispute Resolution Society (Regd.)
+  website: https://ddrs.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Financial Corporation
+  website: https://dfc.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Kalyan Samiti
+  website: https://dks.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Parks and Gardens Society
+  website: https://dpgs.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Pharmacy Council
+  website: https://pharmacy.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Delhi Police Licensing
+  website: https://licensing.delhipolice.gov.in
+  category: Others
+  status: external_link
+- name: Delhi SC/ST/OBC/Min. & Handicapped Finance & Development Corp. Ltd.
+  website: https://dsfdc.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Dr. Baba Shahab Ambedkar Hospital, Delhi
+  website: https://bsah.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Dr. Hedgewar Aarogya Sansthan, Delhi
+  website: https://dhas.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Dr. N. C Joshi Memorial Hospital, Delhi
+  website: https://ncjmh.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Energy Efficiency and Renewable Energy Management Centre
+  website: https://eerem.delhi.gov.in
+  category: Others
+  status: external_link
+- name: Equal Opportunity Cell, University of Delhi
+  website: https://eoc.du.ac.in
+  category: Others
+  status: external_link

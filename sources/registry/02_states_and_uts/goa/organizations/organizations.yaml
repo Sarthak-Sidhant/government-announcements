@@ -1,0 +1,234 @@
+parent_state: Goa
+organizations:
+- name: Official Portal of Goa Government
+  website: https://www.goa.gov.in
+  category: State Portal
+  status: external_link
+- name: Goa State Museum, Goa
+  website: https://goamuseum.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Real Estate Regulatory Authority, Goa
+  website: https://rera.goa.gov.in/reraApp
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Department of Sainik Welfare, Goa
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Fire and Emergency Services, Goa
+  website: https://www.dfes.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Food and Drugs Administration, Goa
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Health Services (DHS), Goa
+  website: https://dhsgoa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Higher Education, Goa
+  website: https://dhe.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Industries, Trade and Commerce, Goa
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Mines and Geology, Goa
+  website: https://dmg.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Official Language, Goa
+  website: https://dol.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Panchayats, Goa
+  website: https://panchayatsgoa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Settlement & Land Records, Goa
+  website: https://dslr.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Small Savings and Lotteries, Goa
+  website: https://statelotteries.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Sports and Youth Affairs, Goa
+  website: https://dsya.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education, Goa
+  website: https://dte.goa.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: EDC Limited, Goa
+  website: https://www.edc-goa.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa Board of Secondary and Higher Secondary Education, Goa
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa Electronics Limited (GEL), Goa
+  website: https://goaelectronics.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa Housing Board
+  website: https://ghb.goa.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa State Council of Science and Technology
+  website: https://gscst.goa.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa State Infrastructure Development Corporation Limited (GSIDL), Goa
+  website: https://www.gsidcltd.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa State Pollution Control Board, Goa
+  website: https://goaspcb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa State Urban Development Agency, Goa
+  website: https://www.gsuda.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Goa Tourism Development Corporation (GTDC), Goa
+  website: https://goa-tourism.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Info Tech Corporation of Goa Limited (ITG), Goa
+  website: https://infotech.goa.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: The Goa State Co-operative Bank Limited, Goa
+  website: https://gscbgoa.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Cacora Government Industrial Training Institute, Goa
+  website: https://iticacora.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Canacona Government Industrial Training Institute, Goa
+  website: https://iticanacona.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Goa College of Architecture, Goa
+  website: https://gcarch.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Goa College of Pharmacy, Goa
+  website: https://gcp.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Goa Dental College & Hospital, Goa
+  website: https://gdch.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Goa University, Goa
+  website: https://www.unigoa.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Bicholim, Goa
+  website: https://gpb.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Curchorem, Goa
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Inspectorate of Factories & Boilers, Goa
+  website: https://ifbgoa.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Psychiatry & Human Behaviour (IPHB), Goa
+  website: https://iphb.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Margao Government Industrial Training Institute, Goa
+  website: https://itimargao.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Panaji Government Industrial Training Institute, Goa
+  website: https://itipanaji.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Pernem Government Industrial Training Institute, Goa
+  website: https://itipernem.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Sarva Shiksha Abhiyan (SSA), Goa
+  website: https://gssa.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Sattari Government Industrial Training Institute, Goa
+  website: https://itisattari.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Vasco Government Industrial Training Institute, Goa
+  website: https://itivasco.goa.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: MyGov Goa
+  website: https://goa.mygov.in
+  contact:
+    address: "Director- Dept. of Information Technology 2nd Floor IT Hub, Altinho,\
+      \ Panaji, Goa \u2013 403001"
+    phone: ''
+    fax: ''
+    email: goa[dot]mygov[at]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Bicholim Government Industrial Training Institute, Goa
+  website: https://itibicholim.goa.gov.in
+  category: Others
+  status: external_link
+- name: COVID-19 Information & Updates, Goa
+  website: https://www.goa.gov.in/covid-19
+  category: Others
+  status: external_link
+- name: Directorate of Health Services, National Health Mission, Goa
+  website: https://nhm.goa.gov.in
+  category: Others
+  status: external_link
+- name: District Mineral Foundation, Goa
+  website: https://dmf.goa.gov.in
+  category: Others
+  status: external_link
+- name: Goa Budget, Department of Finance, Goa
+  website: https://goabudget.gov.in
+  category: Others
+  status: external_link
+- name: Goa Online Services, Goa
+  website: https://goaonline.gov.in
+  category: Others
+  status: external_link
+- name: Intelligent Traffic Management System, Goa
+  website: https://itmschallan.parivahan.gov.in
+  category: Others
+  status: external_link
+- name: Krishnadas Shama, Goa State Central Library, Panaji, Goa
+  website: https://centrallibrary.goa.gov.in
+  category: Others
+  status: external_link
+- name: Online Citizen Services Portal, Goa
+  website: https://services.goaonline.gov.in
+  category: Others
+  status: external_link
+- name: Online Registration of Marriage, Goa
+  website: https://reg.goa.gov.in
+  category: Others
+  status: external_link
+- name: Right to Information (RTI), Goa
+  website: https://rti.goa.gov.in
+  category: Others
+  status: external_link

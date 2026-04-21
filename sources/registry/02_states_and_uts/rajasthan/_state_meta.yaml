@@ -1,9 +1,612 @@
-# === IDENTITY ===
-id: "state-rajasthan"
-name: "Rajasthan"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-rajasthan
+name: Rajasthan
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Ajmer
+    website: https://ajmer.rajasthan.gov.in
+    sub_districts:
+    - Ajmer
+    - Arain
+    - Bhinay
+    - Kekri
+    - Kishangarh
+    - Nasirabad
+    - Peesangan
+    - Pushkar
+    - Roopangarh
+    - Sarwar
+    - Sawar
+    - Tantoti
+    blocks:
+    - Ajmer Rural
+    - Arain
+    - Bhinay
+    - Kekri
+    - Kishangarh Silora
+    - Pisangan
+    - Sarwar
+    - Sawar
+    - Srinagar
+  - name: Alwar
+    website: https://alwar.rajasthan.gov.in
+    sub_districts:
+    - Alwar
+    - Govindgarh
+    - Kathumar
+    - Lachhmangarh
+    - Malakhera
+    - Nauganwa
+    - Pratapgarh
+    - Rajgarh
+    - Ramgarh
+    - Reni
+    - Tehla
+    - Thanagazi
+    blocks:
+    - Govindgarh
+    - Kathumar
+    - Laxmangarh
+    - Malkheda
+    - Rajgarh
+    - Ramgarh
+    - Reni
+    - Thanagazi
+    - Umren
+  - name: Balotra
+    website: https://balotra.rajasthan.gov.in
+    sub_districts:
+    - Dhorimanna
+    - Gida
+    - Gudha Malani
+    - Kalyanpur
+    - Pachpadra
+    - Patodi
+    - Samdari
+    - Sindhari
+    - Siwana
+    blocks:
+    - Baltora
+    - Dhorimanna
+    - Gira
+    - Gudhamalani
+    - Kalyanpur
+    - Patodi
+    - Samdari
+    - Sindhari
+    - Siwana
+  - name: Banswara
+    website: https://banswara.rajasthan.gov.in
+    sub_districts:
+    - Abapura
+    - Anandpuri
+    - Arthuna
+    - Bagidora
+    - Banswara
+    - Chhoti Sarwan
+    - Gangadtalai
+    - Ganora
+    - Garhi
+    - Ghatol
+    - Kushalgarh
+    - Sajjangarh
+    blocks:
+    - Anandpuri
+    - Arthuna
+    - Bagidora
+    - Banswara
+    - Chhoti Sarwa
+    - Chhoti Sarwan
+    - Gangar Talai
+    - Ganoda
+    - Garhi
+    - Ghatol
+    - Kushalgarh
+    - Sajjangarh
+    - Talwara
+  - name: Baran
+    website: https://baran.rajasthan.gov.in
+    sub_districts:
+    - Anta
+    - Atru
+    - Baran
+    - Chhabra
+    - Chhipabarod
+    - Kishanganj
+    - Mangrol
+    - Shahbad
+    blocks:
+    - Anta
+    - Atru
+    - Baran (Full)
+    - Chhabra
+    - Chhipabarod
+    - Kishanganj
+    - Mangrol
+    - Shahbad
+  - name: Barmer
+    website: https://barmer.rajasthan.gov.in
+    sub_districts:
+    - Barmer
+    - Barmer Gramin
+    - Batadoo
+    - Baytoo
+    - Chohtan
+    - Dhanau
+    - Gadraroad
+    - Nokhra
+    - Ramsar
+    - Sedwa
+    - Sheo
+    blocks:
+    - Aadel
+    - Barmer
+    - Barmer Rural
+    - Baytoo
+    - Chohtan
+    - Dhanau
+    - Fagliya
+    - Gadra Road
+    - Panyla Kla
+    - Ramsar
+    - Sedwa
+    - Sheo
+  - name: Beawar
+    website: https://beawar.rajasthan.gov.in
+    sub_districts:
+    - Badnor
+    - Beawar
+    - Jaitaran
+    - Masuda
+    - Raipur
+    - Tatgarh
+    - Vijainagar
+    blocks:
+    - Jaitaran
+    - Jawaja
+    - Masooda
+    - Raipur
+  - name: Bharatpur
+    website: https://bharatpur.rajasthan.gov.in
+    sub_districts:
+    - Bayana
+    - Bharatpur
+    - Bhusawar
+    - Nadbai
+    - Rudawal
+    - Rupbas
+    - Uchchain
+    - Weir
+    blocks:
+    - Bayana
+    - Bhusawar
+    - Nadbai
+    - Rupbas
+    - Sewar
+    - Uchain
+    - Weir
+  - name: Bhilwara
+    website: https://bhilwara.rajasthan.gov.in
+    sub_districts:
+    - Antali
+    - Asind
+    - Banera
+    - Bhilwara
+    - Bijoliya
+    - Hameergarh
+    - Hurda
+    - Jahazpur
+    - Kachhola
+    - Karera
+    - Kotri
+    - Mandal
+    - Mandalgarh
+    - Phooliya Kalan
+    - Raipur
+    - Sahara
+    - Shahpura
+    blocks:
+    - Asind
+    - Badnor
+    - Banera
+    - Bijoliya
+    - Hurda
+    - Jahazpur
+    - Kareda
+    - Kotri
+    - Mandal
+    - Mandalgarh
+    - Raipur
+    - Sahara
+    - Shahpura
+    - Suwana
+  - name: Bikaner
+    website: https://bikaner.rajasthan.gov.in
+    sub_districts:
+    - Bajju
+    - Bikaner
+    - Chhatargarh
+    - Hadan
+    - Jasrasar
+    - Khajuwala
+    - Kolayat
+    - Lunkaransar
+    - Nokha
+    - Poogal
+    - Sridungargarh
+    blocks:
+    - Bajju Khalsa
+    - Bikaner
+    - Hadan
+    - Khajuwala
+    - Kolayat
+    - Lunkaransar
+    - Nokha
+    - Panchoo
+    - Poogal
+    - Sri Dungargarh
+  - name: Bundi
+    website: https://bundi.rajasthan.gov.in
+    sub_districts:
+    - Bundi
+    - Hindoli
+    - Indragarh
+    - Keshoraipatan
+    - Nainwa
+    - Raithal
+    - Talera
+    blocks:
+    - Bundi
+    - Hindoli
+    - Keshoraipatan
+    - Nainwa
+    - Talera
+  - name: Chittorgarh
+    website: https://chittorgarh.rajasthan.gov.in
+    sub_districts:
+    - Bari Sadri
+    - Bassi
+    - Begun
+    - Bhadesar
+    - Bhupalsagar
+    - Chittorgarh
+    - Dungla
+    - Gangrar
+    - Kapasan
+    - Nimbahera
+    - Rashmi
+    - Rawatbhata
+    blocks:
+    - Bari Sadri
+    - Begun
+    - Bhadesar
+    - Bhainsrorgarh
+    - Bhopalsagar
+    - Chittorgarh
+    - Dungla
+    - Gangrar
+    - Kapasan
+    - Nimbahera
+    - Rashmi
+  - name: Churu
+    website: https://churu.rajasthan.gov.in
+    sub_districts:
+    - Bhanipura
+    - Bidasar
+    - Churu
+    - Rajaldesar
+    - Rajgarh
+    - Ratangarh
+    - Sardarshahar
+    - Sidhmukh
+    - Sujangarh
+    - Taranagar
+    blocks:
+    - Bidasar
+    - Churu
+    - Rajgarh
+    - Ratangarh
+    - Sardarshahar
+    - Sidhmukh
+    - Sujangarh
+    - Taranagar
+  - name: Dausa
+    website: https://dausa.rajasthan.gov.in
+    sub_districts:
+    - Bahrawanda
+    - Baijupara
+    - Bandikui
+    - Baswa
+    - Bhandarej
+    - Dausa
+    - Kundal
+    - Lalsot
+    - Lawan
+    - Mahwa
+    - Mandawar
+    - Nangal Rajawatan
+    - Nirjharna
+    - Paparda
+    - Rahuwas
+    - Ramgarh Pachwara
+    - Sainthal
+    - Sikrai
+    blocks:
+    - Baijupada
+    - Bandikui
+    - Baswa
+    - Dausa
+    - Lalsot
+    - Lawan
+    - Mahwa
+    - Mandaawar
+    - Nangal Rajawatan
+    - Ramgarh Pachwara
+    - Sikandara
+    - Sikrai
+  - name: Deeg
+    website: https://deeg.rajasthan.gov.in
+    sub_districts:
+    - Deeg
+    - Janoothar
+    - Jurhara
+    - Kaman
+    - Kumher
+    - Nagar
+    - Pahari
+    - Rarah
+    - Sikri
+    blocks:
+    - Deeg
+    - Kaman
+    - Kumher
+    - Nagar Pahari
+    - Pahari
+  - name: Dholpur
+    website: https://dholpur.rajasthan.gov.in
+    sub_districts:
+    - Bari
+    - Basai Nawab
+    - Baseri
+    - Dholpur
+    - Maniya
+    - Rajakhera
+    - Sarmathura
+    - Sepau
+    blocks:
+    - Bari
+    - Baseri
+    - Dhaulpur
+    - Rajakhera
+    - Saipau
+    - Sarmathura
+  - name: Didwana-Kuchaman
+    website: null
+    sub_districts:
+    - Chhoti Khatoo
+    - Didwana
+    - Kuchaman City
+    - Ladnu
+    - Makrana
+    - Maulasar
+    - Nawa
+    - Parbatsar
+    blocks:
+    - Didwana
+    - Kuchaman
+    - Ladnu
+    - Makrana
+    - Molasar
+    - Nawa
+    - Parbatsar
+  - name: Dungarpur
+    website: https://dungarpur.rajasthan.gov.in
+    sub_districts:
+    - Aspur
+    - Bichhiwara
+    - Chikhali
+    - Dovda
+    - Dungarpur
+    - Galiyakot
+    - Gamri Ahara
+    - Jhonthripal
+    - Obri
+    - Paldewal
+    - Sabla
+    - Sagwara
+    - Simalwara
+    blocks:
+    - Aspur
+    - Bichiwara
+    - Chikhali
+    - Dovada
+    - Dungarpur
+    - Galiyakoat
+    - Gamdi Ahara
+    - Jothari
+    - Paldeval
+    - Sabla
+    - Sagwara
+    - Simalwara
+  - name: Ganganagar
+    website: https://sriganganagar.rajasthan.gov.in
+    sub_districts:
+    - Anupgarh
+    - Gajsinghpur
+    - Ganganagar
+    - Gharsana
+    - Karanpur
+    - Padampur
+    - Raisinghnagar
+    - Rawla
+    - Sadulshahar
+    - Suratgarh
+    - Vijainagar
+    blocks:
+    - Anupgarh
+    - Ganganagar
+    - Gharsana
+    - Karanpur
+    - Padampur
+    - Raisinghnagar
+    - Sadulshahar
+    - Suratgarh
+    - Vijainagar
+  - name: Hanumangarh
+    website: https://hanumangarh.rajasthan.gov.in
+    sub_districts:
+    - Bhadra
+    - Hanumangarh
+    - Nohar
+    - Pallu
+    - Pilibanga
+    - Rawatsar
+    - Sangaria
+    - Tibbi
+    blocks:
+    - Bhadra
+    - Hanumangarh
+    - Nohar
+    - Pilibanga
+    - Rawatsar
+    - Sangaria
+    - Tibbi
+  - name: Jaipur
+    website: https://jaipur.rajasthan.gov.in
+    sub_districts:
+    - Amber
+    - Andhi
+    - Bassi
+    - Chaksu
+    - Chomu
+    - Dudu
+    - Jaipur
+    - Jalsu
+    - Jamwaramgarh
+    - Jobner
+    - Kalwar
+    - Kishangarh Renwal
+    - Kotkhawda
+    - Madhorajpura
+    - Mauzamabad
+    - Phagi
+    - Phulera (Hq.Sambhar)
+    - Rampura Dabri
+    - Sanganer
+    - Shahpura
+    - Toonga
+    blocks:
+    - Amber
+    - Andhi
+    - Bassi
+    - Chaksu
+    - Dudu
+    - Govindgarh
+    - Jalsu
+    - Jamwa Ramgarh
+    - Jhotwara
+    - Jobner
+    - Kishangarh Renwal
+    - Kotkhawda
+    - Madhorajpura
+    - Mauzamabad
+    - Phagi
+    - Sambhar
+    - Sanganer
+    - Shahpura
+    - Tunga
+  - name: Jaisalmer
+    website: https://jaisalmer.rajasthan.gov.in
+    sub_districts:
+    - Bhaniyana
+    - Fatehgarh
+    - Jaisalmer
+    - Phalsoond
+    - Pokaran
+    - Ramgarh
+    - Sam
+    blocks:
+    - Bhaniyana
+    - Fatehgarh
+    - Jaisalmer
+    - Mohangarh
+    - Nachana
+    - Sam
+    - Sankra
+  - name: Jalore
+    website: https://jalore.rajasthan.gov.in
+    sub_districts:
+    - Ahore
+    - Bagora
+    - Bhadrajun
+    - Bhinmal
+    - Chitalwana
+    - Jalore
+    - Jaswantpura
+    - Raniwara
+    - Sanchore
+    - Sayla
+    blocks:
+    - Ahore
+    - Bagoda
+    - Bhinmal
+    - Chitalwana
+    - Jalore
+    - Jaswantpura
+    - Raniwara
+    - Sanchore
+    - Sarnau
+    - Sayla
+  - name: Jhalawar
+    website: https://jhalawar.rajasthan.gov.in
+    sub_districts:
+    - Aklera
+    - Asnawar
+    - Bakani
+    - Dag
+    - Gangdhar
+    - Jhalrapatan
+    - Khanpur
+    - Manohar Thana
+    - Pachpahar
+    - Pirawa
+    - Raipur
+    - Sunel
+    blocks:
+    - Aklera
+    - Bakani
+    - Bhawani Mandi
+    - Dag
+    - Jhalrapatan
+    - Khanpur
+    - Manoharthana
+    - Pirawa (Sunel)
+  - name: Jhunjhunu
+    website: https://jhunjhunu.rajasthan.gov.in
+    sub_districts:
+    - Bissau
+    - Buhana
+    - Chirawa
+    - Gudhagorji
+    - Jhunjhunu
+    - Khetri
+    - Malsisar
+    - Mandawa
+    - Nawalgarh
+    - Pilani
+    - Surajgarh
+    - Udaipurwati
+    blocks:
+    - Alsisar
+    - Buhana
+    - Chirawa
+    - Jhunjhunu
+    - Khetri
+    - Mandawa
+    - Nawalgarh
+    - Pilani
+    - Singhana
+    - Surajgarh
+    - Udaipurwati

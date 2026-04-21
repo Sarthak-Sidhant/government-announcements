@@ -1,9 +1,790 @@
-# === IDENTITY ===
-id: "state-west_bengal"
-name: "West Bengal"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-west_bengal
+name: West Bengal
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Alipurduar
+    website: https://alipurduar.gov.in
+    sub_districts:
+    - Alipurduar - I
+    - Alipurduar - II
+    - Falakata
+    - Kalchini
+    - Kumargram
+    - Madarihat
+    blocks:
+    - Alipurduar-I
+    - Alipurduar-Ii
+    - Falakata
+    - Kalchini
+    - Kumargram
+    - Madarihat
+  - name: Bankura
+    website: https://bankura.gov.in
+    sub_districts:
+    - Bankura - I
+    - Bankura - II
+    - Barjora
+    - Chhatna
+    - Gangajalghati
+    - Hirbandh
+    - Indpur
+    - Indus
+    - Jaypur
+    - Khatra
+    - Kotulpur
+    - Mejhia
+    - Onda
+    - Patrasayer
+    - Raipur
+    - Ranibandh
+    - Saltora
+    - Sarenga
+    - Simlapal
+    - Sonamukhi
+    - Taldangra
+    - Vishnupur
+    blocks:
+    - Bankura-I
+    - Bankura-Ii
+    - Barjora
+    - Chhatna
+    - Gangajal Ghati
+    - Hirbandh
+    - Indpur
+    - Indus
+    - Jaypur
+    - Khatra-I
+    - Kotulpur
+    - Mejhia
+    - Onda
+    - Patrasayer
+    - Raipur-I
+    - Ranibundh
+    - Saltora
+    - Sarenga
+    - Simlapal
+    - Sonamukhi
+    - Taldangra
+    - Vishnupur
+  - name: Birbhum
+    website: https://birbhum.gov.in
+    sub_districts:
+    - Bolpur Sriniketan
+    - Dubrajpur
+    - Illambazar
+    - Khoyrasol
+    - Labpur
+    - Mayureswar - I
+    - Mayureswar - II
+    - Mohammad Bazar
+    - Murarai - I
+    - Murarai - II
+    - Nalhati - I
+    - Nalhati - II
+    - Nanoor
+    - Rajnagar
+    - Rampurhat - I
+    - Rampurhat - II
+    - Sainthia
+    - Suri - I
+    - Suri - II
+    blocks:
+    - Bolpur-Sriniketan
+    - Dubrajpur
+    - Illambazar
+    - Khoyrasol
+    - Labpur
+    - Mayureswar-I
+    - Mayureswar-Ii
+    - Mohammad Bazar
+    - Murarai-I
+    - Murarai-Ii
+    - Nalhati-I
+    - Nalhati-Ii
+    - Nanoor
+    - Rajnagar
+    - Rampurhat-I
+    - Rampurhat-Ii
+    - Sainthia
+    - Suri-I
+    - Suri-Ii
+  - name: Cooch Behar
+    website: https://coochbehar.gov.in
+    sub_districts:
+    - Cooch Behar - I
+    - Cooch Behar - II
+    - Dinhata - I
+    - Dinhata - II
+    - Haldibari
+    - Mathabhanga - I
+    - Mathabhanga-II
+    - Mekliganj
+    - Sitai
+    - Sitalkuchi
+    - Tufanganj - I
+    - Tufanganj - II
+    blocks:
+    - Cooch Behar II
+    - Coochbehar I
+    - Dinhata-I
+    - Dinhata-Ii
+    - Haldibari
+    - Mathabhanga II
+    - Mathabhanga-I
+    - Mekliganj
+    - Sitai
+    - Sitalkuchi
+    - Tufanganj-I
+    - Tufanganj-Ii
+  - name: Dakshin Dinajpur
+    website: https://ddinajpur.nic.in
+    sub_districts:
+    - Balurghat
+    - Bansihari
+    - Gangarampur
+    - Harirampur
+    - Hilli
+    - Kumarganj
+    - Kushmundi
+    - Tapan
+    blocks:
+    - Balurghat
+    - Bansihari
+    - Gangarampur
+    - Harirampur
+    - Hili
+    - Kumarganj
+    - Kushmandi
+    - Tapan
+  - name: Darjeeling
+    website: https://darjeeling.gov.in
+    sub_districts:
+    - Darjeeling Pulbazar
+    - Jorebunglow Sukiapokhri
+    - Kharibari
+    - Kurseong
+    - Matigara
+    - Mirik
+    - Naxalbari
+    - Phansidewa
+    - Rangli Rangliot
+    blocks:
+    - Darjeeling-Pulbazar
+    - Jore Bunglow-Sukiapokhri
+    - Kharibari
+    - Kurseong
+    - Matigara
+    - Mirik
+    - Naxal Bari
+    - Phansidewa
+    - Rangli Rangliot
+  - name: Hooghly
+    website: https://hooghly.nic.in
+    sub_districts:
+    - Arambag
+    - Balagarh
+    - Chanditala - I
+    - Chanditala - II
+    - Chinsurah - Magra
+    - Dhaniakhali
+    - Goghat - I
+    - Goghat - II
+    - Haripal
+    - Jangipara
+    - Khanakul - I
+    - Khanakul - II
+    - Pandua
+    - Polba - Dadpur
+    - Pursura
+    - Serampur Uttarpara
+    - Singur
+    - Tarakeswar
+    blocks:
+    - Arambagh
+    - Balagarh
+    - Chanditala-I
+    - Chanditala-Ii
+    - Chinsurah-Magrah
+    - Dhaniakhali
+    - Goghat-I
+    - Goghat-Ii
+    - Haripal
+    - Jangipara
+    - Khanakul-I
+    - Khanakul-Ii
+    - Pandua
+    - Polba-Dadpur
+    - Pursurah
+    - Singur
+    - Sirampur-Uttarpara
+    - Tarakeswar
+  - name: Howrah
+    website: https://howrah.gov.in
+    sub_districts:
+    - Amta - I
+    - Amta - II
+    - Bagnan - I
+    - Bagnan - II
+    - Bally Jagachha
+    - Domjur
+    - Jagatballavpur
+    - Panchla
+    - Sankrail
+    - Shyampur - I
+    - Shyampur - II
+    - Udaynarayanpur
+    - Uluberia - I
+    - Uluberia - II
+    blocks:
+    - Amta-I
+    - Amta-Ii
+    - Bagnan-I
+    - Bagnan-Ii
+    - Bally-Jagacha
+    - Domjur
+    - Jagatballavpur
+    - Panchla
+    - Sankrail
+    - Shyampur-I
+    - Shyampur-Ii
+    - Udaynarayanpur
+    - Uluberia-I
+    - Uluberia-Ii
+  - name: Jalpaiguri
+    website: https://jalpaiguri.gov.in
+    sub_districts:
+    - Banarhat
+    - Dhupguri
+    - Jalpaiguri
+    - Kranti
+    - Mal
+    - Matiali
+    - Maynaguri
+    - Nagrakata
+    - Rajganj
+    blocks:
+    - Banarhat
+    - Dhupguri
+    - Jalpaiguri
+    - Kranti
+    - Mal
+    - Matiali
+    - Maynaguri
+    - Nagrakata
+    - Rajganj
+  - name: Jhargram
+    website: https://jhargram.gov.in
+    sub_districts:
+    - Binpur - I
+    - Binpur - II
+    - Gopiballavpur - I
+    - Gopiballavpur - II
+    - Jamboni
+    - Jhargram
+    - Nayagram
+    - Sankrail
+    blocks:
+    - Binpur-I
+    - Binpur-Ii
+    - Gopiballav Pur -Ii
+    - Gopiballavpur-I
+    - Jambani
+    - Jhargram
+    - Nayagram
+    - Sankrail
+  - name: Kalimpong
+    website: https://kalimpong.gov.in
+    sub_districts:
+    - Gorubathan
+    - Kalimpong -I
+    - Lava
+    - Lavaold
+    - Pedong
+    blocks:
+    - Gorubathan
+    - Kalimpong-I
+    - Lava
+    - Pedong
+  - name: Kolkata
+    website: null
+    sub_districts: []
+    blocks: []
+  - name: Malda
+    website: https://malda.gov.in
+    sub_districts:
+    - Bamangola
+    - Chanchal - I
+    - Chanchal - II
+    - English Bazar
+    - Gazole
+    - Habibpur
+    - Harischandrapur - I
+    - Harischandrapur - II
+    - Kaliachak - I
+    - Kaliachak - II
+    - Kaliachak - III
+    - Maldah (Old)
+    - Manikchak
+    - Ratua - I
+    - Ratua - II
+    blocks:
+    - Bamongola
+    - Chanchal-I
+    - Chanchal-Ii
+    - English Bazar
+    - Gazole
+    - Habibpur
+    - Harishchandrapur-I
+    - Harishchandrapur-Ii
+    - Kaliachak-I
+    - Kaliachak-Ii
+    - Kaliachak-Iii
+    - Manikchak
+    - Old Malda
+    - Ratua-I
+    - Ratua-Ii
+  - name: Murshidabad
+    website: https://murshidabad.gov.in
+    sub_districts:
+    - Beldanga - I
+    - Beldanga - II
+    - Berhampore
+    - Bhagawangola - I
+    - Bhagawangola - II
+    - Bharatpur - I
+    - Bharatpur - II
+    - Burwan
+    - Domkal
+    - Farakka
+    - Hariharpara
+    - Jalangi
+    - Kandi
+    - Khargram
+    - Lalgola
+    - Murshidabad Jiaganj
+    - Nabagram
+    - Nawda
+    - Raghunathganj - I
+    - Raghunathganj - II
+    - Raninagar - I
+    - Raninagar - II
+    - Sagardighi
+    - Samserganj
+    - Suti - I
+    - Suti - II
+    blocks:
+    - Beldanga-I
+    - Beldanga-Ii
+    - Berhampore
+    - Bhagabangola-Ii
+    - Bhagawangola-I
+    - Bharatpur-I
+    - Bharatpur-Ii
+    - Burwan
+    - Domkal
+    - Farakka
+    - Hariharpara
+    - Jalangi
+    - Kandi
+    - Khargram
+    - Lalgola
+    - Murshidabad-Jiagunj
+    - Nabagram
+    - Nawda
+    - Raghunathganj-I
+    - Raghunathganj-Ii
+    - Raninagar-I
+    - Raninagar-Ii
+    - Sagardighi
+    - Shamsherganj
+    - Suti-I
+    - Suti-Ii
+  - name: Nadia
+    website: https://nadia.gov.in
+    sub_districts:
+    - Chakdah
+    - Chapra
+    - Hanskhali
+    - Haringhata
+    - Kaliganj
+    - Kalyani
+    - Karimpur - I
+    - Karimpur - II
+    - Krishnaganj
+    - Krishnagar - I
+    - Krishnagar - II
+    - Nabadwip
+    - Nakashipara
+    - Ranaghat - I
+    - Ranaghat - II
+    - Santipur
+    - Tehatta - I
+    - Tehatta - II
+    blocks:
+    - Chakdah
+    - Chapra
+    - Hanskhali
+    - Haringhata
+    - Kaliganj
+    - Kalyani
+    - Karimpur-1
+    - Karimpur-Ii
+    - Krishnaganj
+    - Krishnagar-I
+    - Krishnagar-Ii
+    - Nabadwip
+    - Nakashipara
+    - Ranaghat-I
+    - Ranaghat-Ii
+    - Santipur
+    - Tehatta-I
+    - Tehatta-Ii
+  - name: North 24 Parganas
+    website: https://north24parganas.gov.in
+    sub_districts:
+    - Amdanga
+    - Baduria
+    - Bagda
+    - Barasat - I
+    - Barasat - II
+    - Barrackpur - I
+    - Barrackpur - II
+    - Basirhat - I
+    - Basirhat - II
+    - Bongaon
+    - Deganga
+    - Gaighata
+    - Habra - I
+    - Habra - II
+    - Haroa
+    - Hasnabad
+    - Hingalganj
+    - Minakhan
+    - Rajarhat
+    - Sandeshkhali - I
+    - Sandeshkhali - II
+    - Swarupnagar
+    blocks:
+    - Amdanga
+    - Baduria
+    - Bagda
+    - Barasat-I
+    - Barasat-Ii
+    - Barrackpur-I
+    - Barrackpur-Ii
+    - Basirhat-I
+    - Basirhat-Ii
+    - Bongaon
+    - Deganga
+    - Gaighata
+    - Habra-I
+    - Habra-Ii
+    - Haroa
+    - Hasnabad
+    - Hingalganj
+    - Minakhan
+    - Rajarhat
+    - Sandeshkhali-I
+    - Sandeshkhali-Ii
+    - Swarupnagar
+  - name: Paschim Bardhaman
+    website: https://paschimbardhaman.gov.in
+    sub_districts:
+    - Andal
+    - Barabani
+    - Durgapur Faridpur
+    - Jamuria
+    - Kanksa
+    - Pandabeswar
+    - Raniganj
+    - Salanpur
+    blocks:
+    - Barabani
+    - Faridpur - Durgapur
+    - Jamuria
+    - Kanksa
+    - Ondal
+    - Pandabeswar
+    - Raniganj
+    - Salanpur
+  - name: Paschim Medinipur
+    website: https://paschimmedinipur.gov.in
+    sub_districts:
+    - Chandrakona - I
+    - Chandrakona - II
+    - Dantan - I
+    - Dantan - II
+    - Daspur - I
+    - Daspur - II
+    - Debra
+    - Garbeta - I
+    - Garbeta - II
+    - Garbeta - III
+    - Ghatal
+    - Keshiary
+    - Keshpur
+    - Kharagpur - I
+    - Kharagpur - II
+    - Midnapore
+    - Mohanpur
+    - Narayangarh
+    - Pingla
+    - Sabang
+    - Salbani
+    blocks:
+    - Chandrakona-I
+    - Chandrakona-Ii
+    - Dantan-I
+    - Dantan-Ii
+    - Daspur-I
+    - Daspur-Ii
+    - Debra
+    - Garbeta-I
+    - Garbeta-Ii
+    - Garbeta-Iii
+    - Ghatal
+    - Keshiary
+    - Keshpur
+    - Kharagpur-I
+    - Kharagpur-Ii
+    - Midnapore
+    - Mohanpur
+    - Narayangarh
+    - Pingla
+    - Sabang
+    - Salbani
+  - name: Purba Bardhaman
+    website: https://purbabardhaman.nic.in
+    sub_districts:
+    - Ausgram - I
+    - Ausgram - II
+    - Bhatar
+    - Burdwan - I
+    - Burdwan - II
+    - Galsi - I
+    - Galsi - II
+    - Jamalpur
+    - Kalna - I
+    - Kalna - II
+    - Katwa - I
+    - Katwa - II
+    - Ketugram - I
+    - Ketugram - II
+    - Khandaghosh
+    - Mangolkote
+    - Manteswar
+    - Memari - I
+    - Memari - II
+    - Purbasthali - I
+    - Purbasthali - II
+    - Raina - I
+    - Raina - II
+    blocks:
+    - Ausgram-I
+    - Ausgram-Ii
+    - Bhatar
+    - Burdwan-I
+    - Burdwan-Ii
+    - Galsi -I
+    - Galsi-Ii
+    - Jamal Pur
+    - Kalna II
+    - Kalna-I
+    - Katwa-I
+    - Katwa-Ii
+    - Ketugram-Ii
+    - Ketugram_I
+    - Khandaghosh
+    - Mangolkote
+    - Manteswar
+    - Memari-1
+    - Memari-Ii
+    - Purbasthali-I
+    - Purbasthali-Ii
+    - Raina-I
+    - Raina-Ii
+  - name: Purba Medinipur
+    website: https://purbamedinipur.gov.in
+    sub_districts:
+    - Bhagawanpur - I
+    - Bhagawanpur - II
+    - Chandipur
+    - Contai - I
+    - Contai - III
+    - Deshopran
+    - Egra - I
+    - Egra - II
+    - Haldia
+    - Khejuri - I
+    - Khejuri - II
+    - Kolaghat
+    - Mahisadal
+    - Moyna
+    - Nanda Kumar
+    - Nandigram - I
+    - Nandigram - II
+    - Panskura
+    - Potashpur - I
+    - Potashpur - II
+    - Ramnagar - I
+    - Ramnagar - II
+    - Sahid Matangini
+    - Sutahata
+    - Tamluk
+    blocks:
+    - Bhagawanpur-I
+    - Bhagawanpur-Ii
+    - Chandipur
+    - Contai-I
+    - Contai-Iii
+    - Deshapran
+    - Egra-I
+    - Egra-Ii
+    - Haldia
+    - Khejuri-I
+    - Khejuri-Ii
+    - Kolaghat
+    - Mahishadal
+    - Moyna
+    - Nandakumar
+    - Nandigram-I
+    - Nandigram-Ii
+    - Panskura-I
+    - Patashpur-I
+    - Patashpur-Ii
+    - Ramnagar-I
+    - Ramnagar-Ii
+    - Shahid Matangini
+    - Sutahata
+    - Tamluk
+  - name: Purulia
+    website: https://purulia.gov.in
+    sub_districts:
+    - Arsha
+    - Bagmundi
+    - Balarampur
+    - Barabazar
+    - Bundwan
+    - Hura
+    - Jaipur
+    - Jhalda - I
+    - Jhalda - II
+    - Kashipur
+    - Manbazar - I
+    - Manbazar - II
+    - Neturia
+    - Para
+    - Puncha
+    - Purulia - I
+    - Purulia - II
+    - Raghunathpur - I
+    - Raghunathpur - II
+    - Santuri
+    blocks:
+    - Arsha
+    - Bagmundi
+    - Balarampur
+    - Barabazar
+    - Bundwan
+    - Hura
+    - Jaipur
+    - Jhalda-I
+    - Jhalda-Ii
+    - Kashipur
+    - Manbazar-I
+    - Manbazar-Ii
+    - Neturia
+    - Para
+    - Puncha
+    - Purulia-I
+    - Purulia-Ii
+    - Raghunath Pur-I
+    - Raghunathpur-Ii
+    - Santuri
+  - name: South 24 Parganas
+    website: https://s24pgs.gov.in
+    sub_districts:
+    - Baruipur
+    - Basanti
+    - Bhangar - I
+    - Bhangar - II
+    - Bishnupur - I
+    - Bishnupur - II
+    - Budge Budge - I
+    - Budge Budge - II
+    - Canning - I
+    - Canning - II
+    - Diamond Harbour - I
+    - Diamond Harbour - II
+    - Falta
+    - Gosaba
+    - Jaynagar - I
+    - Jaynagar - II
+    - Kakdwip
+    - Kulpi
+    - Kultali
+    - Magrahat - I
+    - Magrahat - II
+    - Mandirbazar
+    - Mathurapur - I
+    - Mathurapur - II
+    - Namkhana
+    - Patharpratima
+    - Sagar
+    - Sonarpur
+    - Thakurpukur Mahestola
+    blocks:
+    - Baruipur
+    - Basanti
+    - Bhangar-I
+    - Bhangar-Ii
+    - Bishnupur-I
+    - Bishnupur-Ii
+    - Budge Budge-I
+    - Budge Budge-Ii
+    - Canning-I
+    - Canning-Ii
+    - Diamond Harbour-I
+    - Diamond Harbour-Ii
+    - Falta
+    - Gosaba
+    - Jaynagar-I
+    - Jaynagar-Ii
+    - Kak Dwip
+    - Kulpi
+    - Kultali
+    - Magra Hat-I
+    - Magra Hat-Ii
+    - Mandirbazar
+    - Mathurapur I
+    - Mathurapur-Ii
+    - Namkhana
+    - Pathar Pratima
+    - Sagar
+    - Sonarpur
+    - Thakurpukur Mahestola
+  - name: Uttar Dinajpur
+    website: https://uttardinajpur.gov.in
+    sub_districts:
+    - Chopra
+    - Goalpokher - I
+    - Goalpokher - II
+    - Hemtabad
+    - Islampur
+    - Itahar
+    - Kaliaganj
+    - Karandighi
+    - Raiganj
+    blocks:
+    - Chopra
+    - Goalpokhar II
+    - Goalpokhar-I
+    - Hemtabad
+    - Islampur
+    - Itahar
+    - Kaliaganj
+    - Karandighi
+    - Raiganj

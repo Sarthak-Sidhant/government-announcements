@@ -1,9 +1,510 @@
-# === IDENTITY ===
-id: "state-gujarat"
-name: "Gujarat"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-gujarat
+name: Gujarat
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Ahmedabad
+    website: https://ahmedabad.nic.in
+    sub_districts:
+    - Asarva
+    - Bavla
+    - Daskroi
+    - Detroj-Rampura
+    - Dhandhuka
+    - Dholera
+    - Dholka
+    - Ghatlodiya
+    - Mandal
+    - Maninagar
+    - Sabarmati
+    - Sanand
+    - Vatva
+    - Vejalpur
+    - Viramgam
+    blocks:
+    - Ahmadabad City
+    - Bavla
+    - Daskroi
+    - Detroj Rampura
+    - Dhandhuka
+    - Dholera
+    - Dholka
+    - Mandal
+    - Sanand
+    - Viramgam
+  - name: Amreli
+    website: https://amreli.nic.in
+    sub_districts:
+    - Amreli
+    - Amreli-City
+    - Babra
+    - Bagasara
+    - Dhari
+    - Jafrabad
+    - Khambha
+    - Kunkavav Vadia
+    - Lathi
+    - Lilia
+    - Rajula
+    - Savar Kundla
+    blocks:
+    - Amreli
+    - Babra
+    - Bagasara
+    - Dhari
+    - Jafrabad
+    - Khambha
+    - Kunkavav -Vadia
+    - Lathi
+    - Lilia
+    - Rajula
+    - Saverkundla
+  - name: Anand
+    website: https://anand.nic.in
+    sub_districts:
+    - Anand City
+    - Anand Rural
+    - Anklav
+    - Borsad
+    - Khambhat
+    - Petlad
+    - Sojitra
+    - Tarapur
+    - Umreth
+    blocks:
+    - Anand
+    - Anklav
+    - Borsad
+    - Khambhat
+    - Petlad
+    - Sojitra
+    - Tarapur
+    - Umreth
+  - name: Arvalli
+    website: https://arvalli.nic.in
+    sub_districts:
+    - Bayad
+    - Bhiloda
+    - Dhansura
+    - Malpur
+    - Meghraj
+    - Modasa
+    - Sathamba
+    - Shamlaji
+    blocks:
+    - Bayad
+    - Bhiloda
+    - Dhansura
+    - Malpur
+    - Meghraj
+    - Modasa
+    - Sathamba
+    - Shamlaji
+  - name: Banas Kantha
+    website: https://banaskantha.nic.in
+    sub_districts:
+    - Amirgadh
+    - Danta
+    - Dantiwada
+    - Deesa
+    - Deesa City
+    - Dhanera
+    - Hadad
+    - Kankrej
+    - Ogad
+    - Palanpur
+    - Palanpur City
+    - Vadgam
+    blocks:
+    - Amirgadh
+    - Danta
+    - Dantivada
+    - Deesa
+    - Dhanera
+    - Hadad
+    - Kankrej
+    - Ogad
+    - Palanpur
+    - Vadgam
+  - name: Bharuch
+    website: https://bharuch.nic.in
+    sub_districts:
+    - Amod
+    - Anklesvar
+    - Bharuch
+    - Hansot
+    - Jambusar
+    - Jhagadia
+    - Netrang
+    - Vagra
+    - Valia
+    blocks:
+    - Amod
+    - Anklesvar
+    - Bharuch
+    - Hansot
+    - Jambusar
+    - Jhagadia
+    - Netrang
+    - Vagra
+    - Valia
+  - name: Bhavnagar
+    website: https://bhavnagar.nic.in
+    sub_districts:
+    - Bhavnagar
+    - Bhavnagar City
+    - Gariadhar
+    - Ghogha
+    - Jesar
+    - Mahuva
+    - Palitana
+    - Sihor
+    - Talaja
+    - Umrala
+    - Vallabhipur
+    blocks:
+    - Bhavnagar
+    - Gariadhar
+    - Ghogha
+    - Jesar
+    - Mahuva
+    - Palitana
+    - Sihor
+    - Talaja
+    - Umrala
+    - Vallabhipur
+  - name: Botad
+    website: https://botad.nic.in
+    sub_districts:
+    - Barwala
+    - Botad
+    - Botad City
+    - Gadhada
+    - Ranpur
+    blocks:
+    - Barvala
+    - Botad
+    - Gadhada
+    - Ranpur
+  - name: Chhotaudepur
+    website: https://chhotaudepur.nic.in
+    sub_districts:
+    - Bodeli
+    - Chhota Udaipur
+    - Jetpur Pavi
+    - Kadval
+    - Kavant
+    - Nasvadi
+    - Sankheda
+    blocks:
+    - Bodeli
+    - Chhota Udepur
+    - Jetpur Pavi
+    - Kadval
+    - Kawant
+    - Naswadi
+    - Sankheda
+  - name: Dahod
+    website: https://dahod.gujarat.gov.in
+    sub_districts:
+    - Devgadbaria
+    - Dhanpur
+    - Dohad
+    - Fatepura
+    - Garbada
+    - Govindguru Limdi
+    - Jhalod
+    - Limkheda
+    - Sanjeli
+    - Singvad
+    - Sukhsar
+    blocks:
+    - Dahod
+    - Devgad Bariya
+    - Dhanpur
+    - Fatepura
+    - Garbada
+    - Govind Guru Limdi
+    - Jhalod
+    - Limkheda
+    - Sanjeli
+    - Singvad
+    - Sukhsar
+  - name: Dangs
+    website: https://dangs.nic.in
+    sub_districts:
+    - Ahwa
+    - Subir
+    - Waghai
+    blocks:
+    - Ahwa
+    - Subir
+    - Waghai
+  - name: Devbhumi Dwarka
+    website: https://devbhumidwarka.nic.in
+    sub_districts:
+    - Bhanvad
+    - Kalyanpur
+    - Khambhalia
+    - Okhamandal
+    blocks:
+    - Bhanvad
+    - Kalyanpur
+    - Khambhalia
+    - Okhamandal
+  - name: Gandhinagar
+    website: https://gandhinagar.nic.in
+    sub_districts:
+    - Dehgam
+    - Gandhinagar
+    - Kalol City
+    - Kalol Gandhinagar
+    - Mansa
+    blocks:
+    - Dehgam
+    - Gandhinagar
+    - Kalol
+    - Mansa
+  - name: Gir Somnath
+    website: https://girsomnath.gujarat.gov.in
+    sub_districts:
+    - Gir Gadhda
+    - Kodinar
+    - Patan-Veraval
+    - Sutrapada
+    - Talala
+    - Una
+    - Veraval City
+    blocks:
+    - Girgadhda
+    - Kodinar
+    - Patan Veraval
+    - Sutrapada
+    - Talala
+    - Una
+  - name: Jamnagar
+    website: https://jamnagar.nic.in
+    sub_districts:
+    - Dhrol
+    - Jamjodhpur
+    - Jamnagar City
+    - Jamnagar Rural
+    - Jodiya
+    - Kalavad
+    - Lalpur
+    blocks:
+    - Dhrol
+    - Jamjodhpur
+    - Jamnagar
+    - Jodiya
+    - Kalavad
+    - Lalpur
+  - name: Junagadh
+    website: https://junagadh.nic.in
+    sub_districts:
+    - Bhesan
+    - Junagadh
+    - Junagadh City
+    - Keshod
+    - Malia Hatina
+    - Manavadar
+    - Mangrol
+    - Mendarda
+    - Vanthali
+    - Visavadar
+    blocks:
+    - Bhesan
+    - Junagadh
+    - Keshod
+    - Malia
+    - Manavadar
+    - Mangrol
+    - Mendarda
+    - Vanthali
+    - Visavadar
+  - name: Kachchh
+    website: https://kachchh.nic.in
+    sub_districts:
+    - Abdasa
+    - Anjar
+    - Bhachau
+    - Bhuj
+    - Gandhidham
+    - Lakhpat
+    - Mandvi
+    - Mundra
+    - Nakhatrana
+    - Rapar
+    blocks:
+    - Abdasa
+    - Anjar
+    - Bhachau
+    - Bhuj
+    - Gandhidham
+    - Lakhpat
+    - Mandvi
+    - Mundra
+    - Nakhatrana
+    - Rapar
+  - name: Kheda
+    website: https://kheda.nic.in
+    sub_districts:
+    - Fagvel
+    - Galteshwar
+    - Kapadvanj
+    - Kathlal
+    - Kheda
+    - Mahudha
+    - Matar
+    - Mehmedabad
+    - Nadiad
+    - Nadiad City
+    - Thasra
+    - Vaso
+    blocks:
+    - Fagvel
+    - Galteshwar
+    - Kapadvanj
+    - Kathlal
+    - Kheda
+    - Mahudha
+    - Matar
+    - Mehmedabad
+    - Nadiad
+    - Thasra
+    - Vaso
+  - name: Mahesana
+    website: https://mahesana.nic.in
+    sub_districts:
+    - Becharaji
+    - Jotana
+    - Kadi
+    - Kheralu
+    - Mahesana
+    - Mahesana City
+    - Satlasana
+    - Unjha
+    - Vadnagar
+    - Vijapur
+    - Visnagar
+    blocks:
+    - Bechraji
+    - Jotana
+    - Kadi
+    - Kheralu
+    - Mahesana
+    - Satlasna
+    - Unjha
+    - Vadnagar
+    - Vijapur
+    - Visnagar
+  - name: Mahisagar
+    website: https://mahisagar.gujarat.gov.in
+    sub_districts:
+    - Balasinor
+    - Godhar
+    - Kadana
+    - Khanpur
+    - Kothmba
+    - Lunawada
+    - Santrampur
+    - Virpur
+    blocks:
+    - Balasinor
+    - Godhar
+    - Kadana
+    - Khanpur
+    - Kothmba
+    - Lunawada
+    - Santrampur
+    - Virpur
+  - name: Morbi
+    website: https://morbi.gujarat.gov.in
+    sub_districts:
+    - Halvad
+    - Maliya
+    - Morbi City
+    - Morvi
+    - Tankara
+    - Wankaner
+    blocks:
+    - Halvad
+    - Maliya
+    - Morvi
+    - Tankara
+    - Wankaner
+  - name: Narmada
+    website: https://narmada.nic.in
+    sub_districts:
+    - Chikada
+    - Dediapada
+    - Garudeshwar
+    - Nandod
+    - Sagbara
+    - Tilakwada
+    blocks:
+    - Chikda
+    - Dediyapada
+    - Garudeshwar
+    - Nandod
+    - Sagbara
+    - Tilakwada
+  - name: Navsari
+    website: https://navsari.nic.in
+    sub_districts:
+    - Bansda
+    - Chikhli
+    - Gandevi
+    - Jalalpore
+    - Khergam
+    - Navsari
+    blocks:
+    - Chikhali
+    - Gandevi
+    - Jalalpore
+    - Khergam
+    - Navsari
+    - Vansda
+  - name: Panch Mahals
+    website: https://panchmahals.nic.in
+    sub_districts:
+    - Ghoghamba
+    - Godhra
+    - Halol
+    - Jambughoda
+    - Kalol
+    - Morwa (Hadaf)
+    - Shehera
+    blocks:
+    - Ghoghamba
+    - Godhra
+    - Halol
+    - Jambughoda
+    - Kalol
+    - Morvahadaf
+    - Shehera
+  - name: Patan
+    website: https://patan.nic.in
+    sub_districts:
+    - Chanasma
+    - Harij
+    - Patan
+    - Patan City
+    - Radhanpur
+    - Sami
+    - Santalpur
+    - Saraswati
+    - Shankheshvar
+    - Sidhpur
+    blocks:
+    - Chanasma
+    - Harij
+    - Patan
+    - Radhanpur
+    - Sami
+    - Sankheshwar
+    - Santalpur
+    - Saraswati
+    - Sidhpur

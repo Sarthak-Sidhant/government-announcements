@@ -1,9 +1,206 @@
-# === IDENTITY ===
-id: "state-manipur"
-name: "Manipur"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-manipur
+name: Manipur
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Bishnupur
+    website: https://bishnupur.nic.in
+    sub_districts:
+    - Bishnupur
+    - Moirang
+    - Nambol
+    blocks:
+    - Bishnupur
+    - Moirang
+    - Nambol
+  - name: Chandel
+    website: https://chandel.nic.in
+    sub_districts:
+    - Chakpikarong
+    - Chandel
+    - Khengjoy
+    blocks:
+    - Chakpikarong
+    - Chandel
+    - Khangbarol
+    - Khengjoy
+  - name: Churachandpur
+    website: https://churachandpur.nic.in
+    sub_districts:
+    - Churachandpur
+    - Henglep
+    - Kangvai
+    - Mualnuam
+    - Saikot
+    - Samulamlan
+    - Sangaikot
+    - Singngat
+    - Suangdoh
+    - Tuibong
+    blocks:
+    - Henglep
+    - Kangvai
+    - Lamka
+    - Lamka South
+    - Lanva
+    - Mualnuam
+    - Saikot
+    - Samulamlan
+    - Sangaikot
+    - Singngat
+    - Suangdoh
+    - Tuibong
+  - name: Imphal East
+    website: https://imphaleast.nic.in
+    sub_districts:
+    - Keirao Bitra
+    - Porompat
+    - Sawombung
+    blocks:
+    - Heingang CD Block
+    - Keirao CD Block
+    - Kshetrigao CD Block
+    - Sawombung CD Block
+  - name: Imphal West
+    website: https://imphalwest.nic.in
+    sub_districts:
+    - Lamphelpat
+    - Lamsang
+    - Patsoi
+    - Wangoi
+    blocks:
+    - Haorangsabal
+    - Hiyangthang
+    - Patsoi
+    - Wangoi
+  - name: Jiribam
+    website: null
+    sub_districts:
+    - Borobekra
+    - Jiribam
+    blocks:
+    - Borobekra CD Block
+    - Jiribam C D Block
+  - name: Kakching
+    website: https://kakching.nic.in
+    sub_districts:
+    - Kakching
+    - Waikhong
+    blocks:
+    - Kakching
+    - Langmeidong
+  - name: Kamjong
+    website: https://kamjong.nic.in
+    sub_districts:
+    - Kamjong
+    - Kasom Khullen
+    - Phungyar
+    - Sahamphung
+    blocks:
+    - Kamjong
+    - Kasom Khullen
+    - Phungyar
+    - Sahamphung Td Block
+  - name: Kangpokpi
+    website: https://kangpokpi.nic.in
+    sub_districts:
+    - Bungte Chiru
+    - Champhai
+    - Island
+    - Kangchup Geljang
+    - Kangpokpi
+    - Lhungtin
+    - Saikul
+    - Saitu-Gamphazol
+    - T Vaichong
+    blocks:
+    - Bungte Chiru
+    - Champhai
+    - Island
+    - Kangchup Geljang
+    - Kangpokpi
+    - Lhungtin
+    - Saikul
+    - Saitu Gamphazol
+    - T Vaichong
+  - name: Noney
+    website: null
+    sub_districts:
+    - Haochong
+    - Khoupum
+    - Longmai
+    - Nungba
+    blocks:
+    - Haochong
+    - Khoupum
+    - Longmai
+    - Nungba
+  - name: Pherzawl
+    website: https://pherzawl.nic.in
+    sub_districts:
+    - Thanlon
+    - Tipaimukh
+    - Vangai Range
+    blocks:
+    - Thanlon
+    - Tipaimukh
+    - Vangai Range
+  - name: Senapati
+    website: https://senapati.nic.in
+    sub_districts:
+    - Chilivai Phaibung
+    - Paomata
+    - Purul
+    - Song Song
+    - Tadubi
+    - Willong
+    blocks:
+    - Paomata
+    - Phaibung Khullen
+    - Purul
+    - Song Song
+    - Tadubi
+    - Willong
+  - name: Tamenglong
+    website: https://tamenglong.nic.in
+    sub_districts:
+    - Tamenglong
+    - Tamenglong North
+    - Tamenglong West
+    blocks:
+    - Tamei
+    - Tamenglong
+    - Tousem
+  - name: Tengnoupal
+    website: https://tengnoupal.nic.in
+    sub_districts:
+    - Machi
+    - Moreh
+    - Tengnoupal
+    blocks:
+    - Machi
+    - Moreh
+    - Tengnoupal
+  - name: Thoubal
+    website: https://thoubal.nic.in
+    sub_districts:
+    - Lilong
+    - Thoubal
+    blocks:
+    - Lilong CD Block
+    - Thoubal
+    - Wangjing CD Block
+  - name: Ukhrul
+    website: https://ukhrul.nic.in
+    sub_districts:
+    - Chingai
+    - Jessami
+    - LM
+    - Ukhrul
+    blocks:
+    - Chingai
+    - Jessami Td
+    - Lungchong Meiphai
+    - Ukhrul

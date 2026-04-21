@@ -1,0 +1,74 @@
+parent_state: Sikkim
+organizations:
+- name: Official Portal of Sikkim Government
+  website: https://sikkim.gov.in
+  category: State Portal
+  status: external_link
+- name: Sikkim State Human Rights Commission (SSHRC), Gangtok, Sikkim
+  website: https://sshrc.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Sikkim Vigilance Police, Sikkim
+  website: https://sikkim-vigilance.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Commercial Taxes Division, Sikkim
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Handicrafts and Handloom, Sikkim
+  website: https://sikkimcrafts.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Sikkim State Disaster Management Authority (SSDMA), Sikkim
+  website: https://www.ssdma.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Advanced Technical Training Centre (ATTC), Sikkim
+  website: https://www.attc.skmpoly.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Board of Open Schooling and Skill Education (BOSSE), Sikkim
+  website: https://www.bosse.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Computers and Communication Technology (CCCT), Sikkim
+  website: https://www.ccct.skmpoly.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training, Gangtok, Sikkim
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Sikkim
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Land Stability Reporting, Sikkim
+  website: https://stabilityreport.sikkim.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Budget, Sikkim
+  website: null
+  category: Others
+  status: external_link
+- name: Gazettes, Sikkim
+  website: https://www.sikkim.gov.in/mygovernment/gazettes
+  category: Others
+  status: external_link
+- name: Member of Parliament Local Area Development Scheme (MPLADS), Sikkim
+  website: null
+  category: Others
+  status: external_link
+- name: Open Government Data Portal, Sikkim
+  website: https://sikkim.data.gov.in
+  category: Others
+  status: external_link
+- name: Sikkim State Council of Science and Technology, Sikkim
+  website: https://bioinformaticssikkim.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Sikkim
+  website: https://sikkimtender.gov.in
+  category: Others
+  status: external_link

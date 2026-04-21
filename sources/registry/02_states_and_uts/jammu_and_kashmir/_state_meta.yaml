@@ -1,9 +1,580 @@
-# === IDENTITY ===
-id: "state-jammu_and_kashmir"
-name: "Jammu And Kashmir"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-jammu_and_kashmir
+name: Jammu And Kashmir
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Anantnag
+    website: https://anantnag.nic.in
+    sub_districts:
+    - Anantnag
+    - Anantnag East (Mattan)
+    - Bijbehara
+    - Dooru
+    - Kokernag
+    - Larnoo
+    - Pahalgam
+    - Qazigund
+    - Sallar
+    - Shahbad Bala
+    - Shangus
+    - Srigufwara
+    blocks:
+    - Achabal
+    - Anantnag
+    - Bijibehara
+    - Breng
+    - Chathergul
+    - Dachnipora
+    - Hiller Shahabad
+    - Khoveripora
+    - Larnoo
+    - Pahalgam
+    - Qazigund (Partly)
+    - Sagam
+    - Shahabad
+    - Shangus
+    - Verinag
+    - Vessu
+  - name: Bandipora
+    website: https://bandipore.nic.in
+    sub_districts:
+    - Ajas
+    - Aloosa
+    - Bandipora
+    - Gurez
+    - Hajin
+    - Sonawari
+    - Tulail
+    blocks:
+    - Aloosa
+    - Arin
+    - Baktoor
+    - Bandipora
+    - Bonkoot
+    - Ganstan
+    - Gurez
+    - Hajin
+    - Naidkhay
+    - Nowgam
+    - Sumbal
+    - Tulail
+  - name: Baramulla
+    website: https://baramulla.nic.in
+    sub_districts:
+    - Baramulla
+    - Boniyar
+    - Dangarpora
+    - Dongiwacha
+    - Kawarhama
+    - Khoie
+    - Kreeri
+    - Kunzer
+    - Narwav
+    - Pattan
+    - Rafiabad
+    - Singhpora
+    - Sopore
+    - Tangmarg
+    - Uri
+    - Wagoora
+    - Watergam
+    - Zaingeer
+    blocks:
+    - Baramulla
+    - Bijhama
+    - Boniyar
+    - Chandil Wangam
+    - Hardaboora
+    - Kandi Rafiabad
+    - Khaipora
+    - Kunzer
+    - Lalpora
+    - Nadihal
+    - Narwah
+    - Noorkah
+    - Paranpeela
+    - Pattan
+    - Rafiabad
+    - Rohama
+    - Sangrama
+    - Sherabad Khore
+    - Singhpora
+    - Sopore
+    - Tangmarag
+    - Tujjar Sharief
+    - Uri
+    - Wagoora
+    - Wailoo
+    - Zaingeer
+  - name: Budgam
+    website: https://budgam.nic.in
+    sub_districts:
+    - Beerwah
+    - Bk Pora
+    - Budgam
+    - Chadoora
+    - Charar- E- Shrief
+    - Khag
+    - Khansahib
+    - Magam
+    - Narbal
+    blocks:
+    - B.K.Pora
+    - Badgam
+    - Beerwah
+    - Chadoora
+    - Charisharief
+    - Khag
+    - Khan-Sahib
+    - Nagam
+    - Narbal
+    - Pakherpora
+    - Parnewa
+    - Rathsun
+    - S K Pora
+    - Soibugh
+    - Sukhnag Hard Panzoo
+    - Surasyar
+    - Waterhail
+  - name: Doda
+    website: https://doda.nic.in
+    sub_districts:
+    - Assar
+    - Bhaderwah
+    - Bhagwa
+    - Bhalessa (Gandoh)
+    - Bhalla
+    - Bharath Bagla
+    - Bhella
+    - Chilly Pingal
+    - Chiralla
+    - Doda
+    - Gundna
+    - Kahara
+    - Kashtigarh
+    - Marmat
+    - Mohalla
+    - Phigsoo
+    - Thathri
+    blocks:
+    - Assar
+    - Bhaderwah
+    - Bhagwah
+    - Bhalessa(Gandoh)
+    - Bhalla
+    - Changa
+    - Chilli Pingal
+    - Chiralla
+    - Dali Udhyanpur
+    - Doda
+    - Gundana
+    - Jakyas
+    - Kahara
+    - Kastigarh
+    - Khellani
+    - Marmat
+    - Thathri
+  - name: Ganderbal
+    website: https://ganderbal.nic.in
+    sub_districts:
+    - Ganderbal
+    - Gund
+    - Kangan
+    - Lar
+    - Tullamulla Khirbhawani
+    - Wakoora
+    blocks:
+    - Ganderbal
+    - Gund
+    - Kangan
+    - Lar
+    - Safapora
+    - Sherpathri
+    - Wakoora
+  - name: Jammu
+    website: https://jammu.nic.in
+    sub_districts:
+    - Akhnoor
+    - Arnia
+    - Bahu
+    - Bhalwal
+    - Bishnah
+    - Chowki Choura
+    - Dansal
+    - Jammu
+    - Jammu North
+    - Jammu South
+    - Jammu West
+    - Jourian
+    - Kharah Balli
+    - Khour
+    - Maira Mandrian
+    - Mandal
+    - Marh
+    - Nagrota
+    - Pargwal
+    - R. S. Pura
+    - Suchetgarh
+    blocks:
+    - Akhnoor
+    - Arnia
+    - Bhalwal
+    - Bhalwal Brahmana
+    - Bishnah
+    - Chowki Choura
+    - Dansal
+    - Kharah Balli
+    - Khour
+    - Maira Mandrian
+    - Mandal Phallain
+    - Marh
+    - Mathwar
+    - Miran Sahib
+    - Nagrota
+    - Pragwal
+    - R.S.Pura
+    - Samwan
+    - Satwari
+    - Suchetgarh
+  - name: Kathua
+    website: https://kathua.nic.in
+    sub_districts:
+    - Bani
+    - Basohli
+    - Billawar
+    - Dinga Amb
+    - Hiranagar
+    - Kathua
+    - Lohai Malhar
+    - Mahanpur
+    - Marheen
+    - Nagri Parole
+    - Ramkote
+    blocks:
+    - Baggan
+    - Bani
+    - Barnoti
+    - Basohli
+    - Bhoond
+    - Billawar
+    - Dhar Mahanpur
+    - Dinga Amb
+    - Duggain
+    - Duggan
+    - Hiranagar
+    - Kathua
+    - Keerian Gangyal
+    - Lohai-Malhar
+    - Mahanpur
+    - Mandli
+    - Marheen
+    - Nagri
+    - Nagrota Gujroo
+  - name: Kishtwar
+    website: https://kishtwar.nic.in
+    sub_districts:
+    - Atholi (Paddar)
+    - Bunjwah
+    - Chhatroo
+    - Dachhan
+    - Drabshala
+    - Kishtwar
+    - Machail
+    - Marwah
+    - Mugal Maidan
+    - Nagseni
+    - Warwan
+    blocks:
+    - Bunjwah
+    - Dachhan
+    - Drabshalla
+    - Inderwal
+    - Kishtwar
+    - Marwah
+    - Mughalmaidan
+    - Nagseni
+    - Padder
+    - Palmar
+    - Thakraie
+    - Trigam
+    - Warwan
+  - name: Kulgam
+    website: https://kulgam.nic.in
+    sub_districts:
+    - D H Pora
+    - Devsar
+    - Frisal
+    - Kulgam
+    - Pahloo
+    - Qoimoh
+    - Yaripora
+    blocks:
+    - Behibag
+    - D K Marg
+    - D.H. Pora
+    - Devsar
+    - Frisal
+    - Kulgam
+    - Kund
+    - Manzgam
+    - Pahloo
+    - Pombay
+    - Qaimoh
+  - name: Kupwara
+    website: https://kupwara.nic.in
+    sub_districts:
+    - Dragmulla
+    - Handwara
+    - Karnah
+    - Keran
+    - Kralpora
+    - Kupwara
+    - Lalpora
+    - Langate
+    - Lolab (Sogam)
+    - Machil
+    - Qalamabad
+    - Qaziabad (Kralgund)
+    - Ramhal (Tarathpora)
+    - Trehgam
+    - Villgam
+    - Zachaldara
+    blocks:
+    - Drugmulla
+    - Handwara
+    - Hayhama
+    - Kalarooch
+    - Keran
+    - Kralpora
+    - Kupwara
+    - Langate
+    - Machil
+    - Magam
+    - Mawar Kalamabad
+    - Meliyal
+    - Nutnoosa
+    - Qadirabad
+    - Qaziabad Supernagama
+    - Rajwar
+    - Ramhal
+    - Reddi Chowkibal
+    - Sogam
+    - Tangdar
+    - Tarathpora
+    - Teetwal
+    - Trehgam
+    - Wavoora
+  - name: Poonch
+    website: https://poonch.nic.in
+    sub_districts:
+    - Balakote
+    - Haveli
+    - Mandi
+    - Mankote
+    - Mendhar
+    - Surankote
+    blocks:
+    - Balakote
+    - Bufliaz
+    - Lassana
+    - Loran
+    - Mandi
+    - Mankote
+    - Mendhar
+    - Nangali Sahib Sain Baba
+    - Poonch
+    - Sathra
+    - Surankote
+  - name: Pulwama
+    website: https://pulwama.gov.in
+    sub_districts:
+    - Aripal
+    - Awantipora
+    - Kakapora
+    - Pampore
+    - Pulwama
+    - Rajpora
+    - Shahoora (Litter)
+    - Tral
+    blocks:
+    - Aripal
+    - Awantipora
+    - Dadsara
+    - Ichegoza
+    - Kakapora
+    - Litter
+    - Newa
+    - Pampore
+    - Pulwama
+    - Shadimarg
+    - Tral
+  - name: Rajouri
+    website: https://rajouri.nic.in
+    sub_districts:
+    - Beri Pattan
+    - Darhal
+    - Kalakote
+    - Khawas
+    - Koteranka
+    - Laroka
+    - Manjakote
+    - Nowshera
+    - Qila Darhal
+    - Rajouri
+    - Siot
+    - Sunderbani
+    - Taryath
+    - Thana Mandi
+    blocks:
+    - Budhal
+    - Budhal New
+    - Darhal
+    - Dhangri
+    - Doongi
+    - Kalakote
+    - Khawas
+    - Lamberi
+    - Manjakote
+    - Moughla
+    - Nowshera
+    - Panjgrian
+    - Planger
+    - Qila Darhal
+    - Rajouri
+    - Seri
+    - Siot
+    - Sunderbani
+    - Thana Mandi
+  - name: Ramban
+    website: https://ramban.gov.in
+    sub_districts:
+    - Banihal
+    - Batote
+    - Gool
+    - Khari
+    - Pogal Paristan
+    - Rajgarh
+    - Ramban
+    - Ramsoo
+    blocks:
+    - Banihal
+    - Batote
+    - Gandhri
+    - Gool
+    - Gundi Dharam
+    - Khari
+    - Rajgarh
+    - Ramban
+    - Ramsoo
+    - Sangaldan
+    - Ukhral
+  - name: Reasi
+    website: https://reasi.nic.in
+    sub_districts:
+    - Arnas
+    - Bhomag
+    - Chassana
+    - Katra
+    - Mahore
+    - Pouni
+    - Reasi
+    - Thakrakote
+    - Thuroo
+    blocks:
+    - Arnas
+    - Bamagh
+    - Chassana
+    - Gulab Garh
+    - Jig Bagli
+    - Katra
+    - Mahore
+    - Panthal
+    - Pouni
+    - Reasi
+    - Thakrakote
+    - Thuroo
+  - name: Samba
+    website: https://samba.gov.in
+    sub_districts:
+    - Bari Brahamana
+    - Ghagwal
+    - Rajpura
+    - Ramgarh
+    - Samba
+    - Vijaypur
+    blocks:
+    - Bari Brahmana
+    - Ghagwal
+    - Nud
+    - Purmandal
+    - Rajpura
+    - Ramgarh
+    - Samba
+    - Sumb
+    - Vijaypur
+  - name: Shopian
+    website: https://shopian.nic.in
+    sub_districts:
+    - Barbugh Imam Sahib
+    - Chitragam
+    - Harmain
+    - Keegam
+    - Keller
+    - Shopian
+    - Zainapora
+    blocks:
+    - Chitragam
+    - Harman
+    - Imamsahib
+    - Kanji Ullar
+    - Kaprin
+    - Keller
+    - Ramnagri
+    - Shopian
+    - Zainpora
+  - name: Srinagar
+    website: https://srinagar.nic.in
+    sub_districts:
+    - Channapora/Natipora
+    - Eidgah
+    - Khanyar
+    - Pantha Chowk
+    - Srinagar Central
+    - Srinagar North
+    - Srinagar South
+    blocks:
+    - Harwan Rural Area Dara
+    - Khanmoh
+    - Qamarwari
+    - Srinagar
+  - name: Udhampur
+    website: https://udhampur.nic.in
+    sub_districts:
+    - Basantgarh
+    - Chenani
+    - Latti
+    - Majalta
+    - Moungri
+    - Panchari
+    - Ramnagar
+    - Udhampur
+    blocks:
+    - Chanunta Dalsar
+    - Chenani
+    - Dudu
+    - Ghordi
+    - Jaganoo
+    - Khoon
+    - Kulwanta
+    - Latti
+    - Majalta
+    - Moungri
+    - Narsoo
+    - Panchari
+    - Parli Dhar
+    - Ramnagar
+    - Sewna
+    - Tikri
+    - Udhampur

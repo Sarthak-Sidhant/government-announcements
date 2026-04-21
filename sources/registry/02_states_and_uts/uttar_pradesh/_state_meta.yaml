@@ -1,9 +1,516 @@
-# === IDENTITY ===
-id: "state-uttar_pradesh"
-name: "Uttar Pradesh"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-uttar_pradesh
+name: Uttar Pradesh
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Agra
+    website: https://agra.nic.in
+    sub_districts:
+    - Agra
+    - Bah
+    - Etmadpur
+    - Fatehabad
+    - Kheragarh
+    - Kiraoli
+    blocks:
+    - Achhnera
+    - Akola
+    - Bah
+    - Barauli Ahir
+    - Bichpuri
+    - Etmadpur
+    - Fatehabad
+    - Fatehpur Sikri
+    - Jagner
+    - Jaitpur Kalan
+    - Khandauli
+    - Kheragarh
+    - Pinahat
+    - Saiyan
+    - Shamsabad
+  - name: Aligarh
+    website: https://aligarh.nic.in
+    sub_districts:
+    - Atrauli
+    - Gabhana
+    - Iglas
+    - Khair
+    - Koil
+    blocks:
+    - Akrabad
+    - Atrauli
+    - Bijauli
+    - Chandaus
+    - Dhanipur
+    - Gangiri
+    - Gonda
+    - Iglas
+    - Jawan Sikanderpur
+    - Khair
+    - Lodha
+    - Tappal
+  - name: Ambedkar Nagar
+    website: https://ambedkarnagar.nic.in
+    sub_districts:
+    - Akbarpur
+    - Allapur
+    - Bhiti
+    - Jalalpur
+    - Tanda
+    blocks:
+    - Akbarpur
+    - Baskhari
+    - Bhiti
+    - Bhiyawan
+    - Jahangir Ganj
+    - Jalal Pur
+    - Katehari
+    - Ram Nagar
+    - Tanda
+  - name: Amethi
+    website: https://amethi.nic.in
+    sub_districts:
+    - Amethi
+    - Gauriganj
+    - Musafirkhana
+    - Tiloi
+    blocks:
+    - Amethi
+    - Bahadurpur
+    - Bhadar
+    - Bhetua
+    - Gauriganj
+    - Jagdishpur
+    - Jamo
+    - Musafir Khana
+    - Sangrampur
+    - Shahgarh
+    - Shukul Bazar
+    - Singhpur
+    - Tiloi
+  - name: Amroha
+    website: https://amroha.nic.in
+    sub_districts:
+    - Amroha
+    - Dhanaura
+    - Hasanpur
+    - Naugawan Sadat
+    blocks:
+    - Amroha
+    - Dhanaura
+    - Gajraula
+    - Gangeshwari
+    - Hasanpur
+    - Joya
+  - name: Auraiya
+    website: https://auraiya.nic.in
+    sub_districts:
+    - Ajitmal
+    - Auraiya
+    - Bidhuna
+    blocks:
+    - Achchalda
+    - Ajitmal
+    - Auraiya
+    - Bhagyanagar
+    - Bidhuna
+    - Erwa Katra
+    - Sahar
+  - name: Ayodhya
+    website: https://ayodhya.nic.in
+    sub_districts:
+    - Bikapur
+    - Faizabad
+    - Milkipur
+    - Rudauli
+    - Sohawal
+    blocks:
+    - Amaniganj
+    - Bikapur
+    - Hariyangatanganj
+    - Masodha
+    - Mawai
+    - Maya Bazar
+    - Milkipur
+    - Pura Bazar
+    - Rudauli
+    - Sohawal
+    - Tarun
+  - name: Azamgarh
+    website: https://azamgarh.nic.in
+    sub_districts:
+    - Azamgarh
+    - Burhanpur
+    - Lalganj
+    - Martinganjon
+    - Mehnagar
+    - Nizamabad
+    - Phulpur
+    - Sagri
+    blocks:
+    - Ahiraula
+    - Atraulia
+    - Azmatgarh
+    - Bilariyaganj
+    - Haraiya
+    - Jahanaganj
+    - Koilsa
+    - Lalganj
+    - Mahrajganj
+    - Martinganj
+    - Mehnagar
+    - Mirzapur
+    - Mohammadpur
+    - Palhana
+    - Palhani
+    - Pawai
+    - Phulpur
+    - Rani Ki Sarai
+    - Sathiyaon
+    - Tahbarpur
+    - Tarwa
+    - Thekma
+  - name: Baghpat
+    website: https://bagpat.nic.in
+    sub_districts:
+    - Baghpat
+    - Baraut
+    - Khekada
+    blocks:
+    - Baghpat
+    - Baraut
+    - Binauli
+    - Chhaprauli
+    - Khekra
+    - Pilana
+  - name: Bahraich
+    website: https://bahraich.nic.in
+    sub_districts:
+    - Bahraich
+    - Kaiserganj
+    - Mahasi
+    - Mihinpurwa Motipur
+    - Nanpara
+    - Payagpur
+    blocks:
+    - Balaha
+    - Chitaura
+    - Huzoorpur
+    - Jarwal
+    - Kaisarganj
+    - Mahasi
+    - Mihinpurwa
+    - Nawabganj
+    - Payagpur
+    - Phakharpur
+    - Risia
+    - Shivpur
+    - Tejwapur
+    - Visheshwarganj
+  - name: Ballia
+    website: https://ballia.nic.in
+    sub_districts:
+    - Bairia
+    - Ballia
+    - Bansdih
+    - Belthara Road
+    - Rasra
+    - Sikanderpur
+    blocks:
+    - Bairia
+    - Bansdih
+    - Belhari
+    - Beruarbari
+    - Chilkahar
+    - Dubhar
+    - Garwar
+    - Hanumanganj
+    - Maniar
+    - Murlichhapra
+    - Nagra
+    - Navanagar
+    - Pandah
+    - Rasra
+    - Reoti
+    - Siar
+    - Sohanv
+  - name: Balrampur
+    website: https://balrampur.nic.in
+    sub_districts:
+    - Balrampur
+    - Tulsipur
+    - Utraula
+    blocks:
+    - Balrampur
+    - Gaindas Bujurg
+    - Gaisri
+    - Harriya Satgharwa
+    - Pachpedwa
+    - Rehera Bazaar
+    - Shriduttganj
+    - Tulsipur
+    - Utraula
+  - name: Banda
+    website: https://banda.nic.in
+    sub_districts:
+    - Atarra
+    - Baberu
+    - Banda
+    - Naraini
+    - Pailani
+    blocks:
+    - Baberu
+    - Badokhar Khurd
+    - Bisanda
+    - Jaspura
+    - Kamasin
+    - Mahuva
+    - Naraini
+    - Tindwari
+  - name: Bara Banki
+    website: https://barabanki.nic.in
+    sub_districts:
+    - Fatehpur
+    - Haidergarh
+    - Nawabganj
+    - Ramnagar
+    - Ramsanehighat
+    - Sirauli Gauspur
+    blocks:
+    - Bani Kodar
+    - Banki
+    - Dariyabad
+    - Dewa
+    - Fatehpur
+    - Haidargarh
+    - Harakh
+    - Masauli
+    - Nindaura
+    - Puredalai
+    - Ramnagar
+    - Sidhaur
+    - Sirauli Gauspur
+    - Suratganj
+    - Trivediganj
+  - name: Bareilly
+    website: https://bareilly.nic.in
+    sub_districts:
+    - Aonla
+    - Baheri
+    - Bareilly
+    - Faridpur
+    - Meerganj
+    - Nawabganj
+    blocks:
+    - Aalampur Jafarabad
+    - Baheri
+    - Bhadpura
+    - Bhojipura
+    - Bhuta
+    - Bithiri Chainpur
+    - Damkhauda
+    - Faridpur
+    - Fatehganj West
+    - Kyara
+    - Majhgawan
+    - Mirganj
+    - Nawabganj
+    - Ramnagar
+    - Shergarh
+  - name: Basti
+    website: https://basti.nic.in
+    sub_districts:
+    - Basti
+    - Bhanpur
+    - Harraiya
+    - Rudhauli
+    blocks:
+    - Bahadurpur
+    - Bankati
+    - Basti
+    - Dubauliya
+    - Gaur
+    - Harraiya
+    - Kaptanganj
+    - Kudaraha
+    - Paras Rampur
+    - Ramnagar
+    - Rudauli
+    - Saltaua Gopal Pur
+    - Sau Ghat
+    - Vikram Jot
+  - name: Bhadohi
+    website: https://bhadohi.nic.in
+    sub_districts:
+    - Aurai
+    - Bhadohi
+    - Gyanpur
+    blocks:
+    - Abhauli
+    - Aurai
+    - Bhadohi
+    - Deegh
+    - Gyanpur
+    - Suriyavan
+  - name: Bijnor
+    website: https://bijnor.nic.in
+    sub_districts:
+    - Bijnor
+    - Chandpur
+    - Dhampur
+    - Nagina
+    - Najibabad
+    blocks:
+    - Afzalgarh
+    - Budhanpur Seohara
+    - Dhampur
+    - Haldaur(Khari Jhalu)
+    - Jalilpur
+    - Kiratpur
+    - Kotwali
+    - Mohammedpur Deomal
+    - Najibabad
+    - Nehtaur
+    - Noorpur
+  - name: Budaun
+    website: https://budaun.nic.in
+    sub_districts:
+    - Bilsi
+    - Bisauli
+    - Budaun
+    - Dataganj
+    - Sahaswan
+    blocks:
+    - Ambiapur
+    - Asafpur
+    - Bisauli
+    - Dahgavan
+    - Dataganj
+    - Islamnagar
+    - Jagat
+    - Mion
+    - Qadar Chowk
+    - Sahaswan
+    - Salarpur
+    - Samrer
+    - Ujhani
+    - Usawan
+    - Wazirganj
+  - name: Bulandshahr
+    website: https://bulandshahar.nic.in
+    sub_districts:
+    - Anupshahr
+    - Bulandshahr
+    - Debai
+    - Khurja
+    - Shikarpur
+    - Siana
+    - Sikandrabad
+    blocks:
+    - Agauta
+    - Anupshahr
+    - Araniya
+    - Bhawan Bahadur Nagar
+    - Bulandshahr
+    - Danpur
+    - Dibai
+    - Gulaothi
+    - Jahangirabad
+    - Khurja
+    - Lakhaothi
+    - Pahasu
+    - Shikarpur
+    - Sikandrabad
+    - Syana
+    - Unchagaon
+  - name: Chandauli
+    website: https://chandauli.nic.in
+    sub_districts:
+    - Chakia
+    - Chandauli
+    - Naugarh
+    - Pandit Deendayal Upadhyay Nagar
+    - Sakaldiha
+    blocks:
+    - Berahani
+    - Chahniya
+    - Chakiya
+    - Chandauli
+    - Dhanapur
+    - Naugarh
+    - Niyamatabad
+    - Sahabganj
+    - Sakaldiha
+  - name: Chitrakoot
+    website: https://chitrakoot.nic.in
+    sub_districts:
+    - Karwi
+    - Manikpur
+    - Mau
+    - Rajapur
+    blocks:
+    - Karwi
+    - Manikpur
+    - Mau
+    - Pahari
+    - Ramnagar
+  - name: Deoria
+    website: https://deoria.nic.in
+    sub_districts:
+    - Barhaj
+    - Bhatpar Rani
+    - Deoria
+    - Rudrapur
+    - Salempur
+    blocks:
+    - Baitalpur
+    - Bankata
+    - Barhaj
+    - Bhagalpur
+    - Bhaluani
+    - Bhatni
+    - Bhatpar Rani
+    - Deoria Sadar
+    - Desai Deoria
+    - Gauri Bazar
+    - Lar
+    - Pathar Dewa
+    - Rampur Karkhana
+    - Rudrapur
+    - Salempur
+    - Tarkalua
+  - name: Etah
+    website: https://etah.nic.in
+    sub_districts:
+    - Aliganj
+    - Etah
+    - Jalesar
+    blocks:
+    - Aliganj
+    - Awagarh
+    - Jaithara
+    - Jalesar
+    - Marehra
+    - Nidhauli Kalan
+    - Sakit
+    - Shitalpur
+  - name: Etawah
+    website: https://etawah.nic.in
+    sub_districts:
+    - Bharthana
+    - Chakarnagar
+    - Etawah
+    - Jaswantnagar
+    - Saifai
+    - Takha
+    blocks:
+    - Barhpura
+    - Basrehar
+    - Bharthana
+    - Chakarnagar
+    - Jaswantnagar
+    - Mahewa
+    - Sefai
+    - Takha

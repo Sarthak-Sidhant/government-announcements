@@ -1,0 +1,636 @@
+parent_state: Gujarat
+organizations:
+- name: Official Portal of Gujarat Government
+  website: https://gujaratindia.gov.in
+  category: State Portal
+  status: external_link
+- name: Commissionerate of Technical Education, Gujarat
+  website: https://dte.gujarat.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Planning Division, General Administration Department, Gujarat
+  website: https://planning.gujarat.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Admission Committee for Professional Diploma Courses (ACPDC), Gujarat
+  website: https://gujdiploma.admissions.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Chief Commissioner - CGST & C.Ex, Vadodara Zone, Gujarat
+  website: https://cgstvadodarazone.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissioner of Transport, Gujarat
+  website: https://cot.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissionerate of Higher Education, Gujarat
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissionerate of Rural Development, Gujarat
+  website: https://ruraldev.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Consumer Disputes Redressal Commission, Gujarat
+  website: https://cdrc.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Fee Regulatory Committee (FRC) Technical, Ahmedabad, Gujarat
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Gujarat Coastal Zone Management Authority
+  website: https://gczma.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Gujarat Ecology Commission (GEC), Gujarat
+  website: https://gec.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Gujarat Electricity Regulatory Commission, Gujarat
+  website: https://www.gercin.org
+  category: Commissions/ Committees
+  status: external_link
+- name: Gujarat Information Commission, Gujarat
+  website: https://gic.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Gujarat State Haj Committee, Gujarat
+  website: https://haj.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Gujarat State Human Rights Commission
+  website: https://gshrc.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Police Commissioners Office, Ahmedabad, Gujarat
+  website: https://www.cpahmedabad.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Police Commissioners Office, Rajkot, Gujarat
+  website: https://www.cprajkot.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Police Commissioners Office, Surat, Gujarat
+  website: https://www.cpsurat.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Police Commissioners Office, Vadodara, Gujarat
+  website: https://www.cpvadodara.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Revenue Inspection Commissioner, Gujarat
+  website: https://revenueinspection.gujarat.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Agricultural Technology Management Agency (ATMA) Directorate and SAMETI, Gujarat
+  website: https://atma.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Ahmedabad District Police Office, Gujarat
+  website: https://spahmedabad.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Amreli District Police Office, Gujarat
+  website: https://www.spamreli.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Banaskantha District Police Office, Gujarat
+  website: https://spbanaskantha.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gujarat Ecological Education and Research (GEER) Foundation, Gujarat
+  website: https://geerfoundation.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gujarat Infrastructure Development Board (GIDB), Gujarat
+  website: https://www.gidb.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gujarat Real Estate Regulatory Authority, Gujarat
+  website: https://gujrera.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gujarat Sahitya Academy, Gujarat
+  website: https://sahityaacademy.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gujarat State Financial Corporation, Gujarat
+  website: https://gsfc.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gujarat State Legal Services Authority
+  website: https://gujarat.nalsa.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Notified Area Authority, Vapi, Gujarat
+  website: https://naavapi.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Sabarkantha District Police Office, Gujarat
+  website: https://spsabarkantha.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Surat District Police Office
+  website: https://spsurat.gujarat.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Anti Corruption Bureau, Gujarat
+  website: https://www.acb.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Central GST & Central Excise Commissionerate, Vadodara-I, Gujarat
+  website: https://cgstvdr1.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Central GST, Appeal Commissionerate, Ahmedabad, Gujarat
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissioner of Cottage & Rural Industries, Gujarat
+  website: https://cottage.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissioner of Fisheries, Gujarat
+  website: https://www.cof.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissioner of Municipalities Administration, Urban Development & Urban Housing
+    Department, Gujarat
+  website: https://communi.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Labour, Labour, Skill Development & Employment Department,
+    Gujarat
+  website: https://www.col.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Schools, Gujarat
+  website: https://cos.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Tribal Development, Gujarat
+  website: https://comm-tribal.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Director General of Police (DGP), Gujarat
+  website: https://www.police.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate Of Government Printing & Stationery
+  website: https://dgps.gujarat.gov.in/en/home
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Accounts and Treasuries, Gujarat
+  website: https://dat.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Agriculture, Gujarat
+  website: https://dag.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Animal Husbandry, Gujarat
+  website: https://doah.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Boilers, Gujarat
+  website: https://boiler.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Civil Aviation, Gujarat
+  website: https://cad.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics and Statistics, Gujarat
+  website: https://gujecostat.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Employment & Training, Gujarat
+  website: https://employment.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Employment and Training (DET), Gujarat
+  website: https://talimrojgar.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Food and Civil Supplies, Gujarat
+  website: https://www.dcs-dof.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Industrial Safety and Health, Gujarat
+  website: https://dish.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Pension and Provident Fund, Gujarat
+  website: https://dppf.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Petroleum (DoP), Gujarat
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: District Mineral Foundations (DMFs)
+  website: https://dmf.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Industries Commissionerate, Gujarat
+  website: https://ic.gujarat.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Chief Electrical Inspectorate and Collector Electricity Duty, Energy and Petrochemicals
+    Department, Gujarat
+  website: https://ceiced.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Civil Hospital, Amdavad, Gujarat
+  website: https://civilhospitalahd.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Commissioner of Geology and Mining, Gujarat
+  website: https://cgm.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Controller Legal Metrology and Director Consumer Affairs, Gujarat
+  website: https://lmdca.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Dakshin Gujarat Vij Company Limited (DGVCL), Gujarat
+  website: https://www.dgvcl.com
+  category: Boards / Undertakings
+  status: external_link
+- name: District Rural Development Agency (DRDA), Surat, Gujarat
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: 'EIACP Centre On: Cleaner Production/Clean Technology, Gujarat'
+  website: https://gcpcenvis.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Electronics and Quality Development Centre (EQDC), Gujarat
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Gauseva and Gauchar Vikas Board, Gujarat
+  website: https://gauseva.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Guj Info Petro Limited (GIPL), Gujarat
+  website: https://www.gipl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Alkalies and Chemicals Limited (GACL), Gujarat
+  website: https://www.gacl.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Building & Other Construction Worker's Welfare Board
+  website: https://enirmanbocw.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Energy Development Agency (GEDA), Gujarat
+  website: https://geda.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Energy Transmission Corporation Limited (GETCO), Gujarat
+  website: https://getco.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Fisheries Central Co-operative Association Limited (GFCCA), Gujarat
+  website: https://gfcca.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Green Revolution Company Limited, Gujarat
+  website: https://www.ggrc.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Housing Board, Gujarat
+  website: https://gujarathousingboard.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Industrial Investment Corporation Limited (GIIC), Gujarat
+  website: https://giic.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Industries Power Company Limited (GIPCL), Gujarat
+  website: https://www.gipcl.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Labour Welfare Board (Shramyogi Kalyan Bhavan)
+  website: https://glwb.gujarat.gov.in/index.htm
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Livestock Development Board (GLDB), Gujarat
+  website: https://gldb.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Maritime Board (GMB), Gujarat
+  website: https://www.gmbports.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Medical Services Corporation Limited (GMSCL), Gujarat
+  website: https://gmscl.gujarat.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Metro Rail Corporation (GMRC) Limited, Gujarat
+  website: https://www.gujaratmetrorail.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Gujarat Mineral Development Corporation Limited, Gujarat
+  website: https://www.gmdcltd.com
+  category: Boards / Undertakings
+  status: external_link
+- name: iORA - Integrated Online Revenue Applications, Revenue Department, Gujarat
+  website: https://iora.gujarat.gov.in
+  category: Revenue Divisions
+  status: external_link
+- name: Gujarat Agro Industries Corporation, Gujarat
+  website: https://gaic.gujarat.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Gujarat Co - operative Milk Marketing Federation Limited (AMUL), Gujarat
+  website: https://amul.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Gujarat Informatics Limited (GIL), Gujarat
+  website: https://gil.gujarat.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Gujarat Narmada Valley Fertilizers & Chemicals Limited, Gujarat
+  website: https://www.gnfc.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Admission and eCounselling Services, Gujarat
+  website: https://gujacpc.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Anand Agricultural University, Gujarat
+  website: https://www.aau.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bhakta Kavi Narsinh Maheta University, Gujarat
+  website: https://www.bknmu.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Center for Environmental Planning and Technology (CEPT), Gujarat
+  website: https://cept.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Charotar University of Science and Technology (CHARUSAT), Gujarat
+  website: https://www.charusat.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Childrens University, Gandhinagar, Gujarat
+  website: https://www.cugujarat.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Deendayal Institute of Survey and Revenue Administration, Gujarat
+  website: https://deendayalinstitute.gujarat.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Microbiology and Biotechnology Centre, Gujarat
+  website: https://www.msubiotech.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar,
+    Gujarat
+  website: https://www.daiict.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training, Santrampur, Gujarat
+  website: https://www.dietsantrampur.org/index1.html
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. Babasaheb Ambedkar Open University, Ahmedabad, Gujarat
+  website: https://www.baou.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ganpat University, Gujarat
+  website: https://www.ganpatuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Dental College & hospital, Ahmedabad, Gujarat
+  website: https://www.gdchahmd.org
+  category: Academies / Institutions
+  status: external_link
+- name: Government Engineering College, Gandhinagar, Gujarat
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Engineering College, Modasa, Gandhinagar, Gujarat
+  website: https://www.gecmodasa.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Medical College, Bhavnagar, Gujarat
+  website: https://gmcbhavnagar.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Medical College, Surat, Gujarat
+  website: https://gmcsurat.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Ahmedabad, Gujarat
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Green Energy Training Research Institute (GETRI), Gujarat
+  website: https://getri.org
+  category: Academies / Institutions
+  status: external_link
+- name: Gujarat Arts and Commerce College (Evening), Ahmedabad, Gujarat
+  website: https://gacc.org.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gujarat Biotechnology University
+  website: https://gbu.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gujarat Council of Educational Research and Training, Gandhinagar, Gujarat
+  website: https://gcert.gujarat.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gujarat National Law University, Gujarat
+  website: https://www.gnlu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gujarat Natural Farming Science University
+  website: https://goau.gujarat.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gujarat Technological University, Gujarat
+  website: https://www.gtu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: ArogyaSathi Portal, Gujarat
+  website: https://arogyasathi.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Automation of Administration of Registration, Valuation & Indexing (GARVI),
+    Gujarat
+  website: https://garvi.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Gujarat Farmer Registry
+  website: https://gjfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Gujarat Skill Development Mission
+  website: https://skills.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Gujarat State Biotechnology Mission (GSBTM), Gujarat
+  website: https://btm.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Gujarat State Electronics Mission
+  website: https://gsem.gujarat.gov.in/Index
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Gujarat State Scholarship Portal
+  website: https://gssp.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Gujarat Urban Development Mission (GUDM)
+  website: https://gudm.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mari Yojana, Gujarat
+  website: https://mariyojana.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Job Application System (OJAS), Gujarat
+  website: https://ojas.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Registrar of the Co-operative Portal, Gujarat
+  website: https://ecooperative.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Right of Way (RoW), Gujarat
+  website: https://row.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Sanman Portal, Gujarat
+  website: https://sanman.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Xtended Licensing, Laboratory & Legal Node (XLN), Gujarat
+  website: https://xln.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-SamajKalyan Portal, Gujarat
+  website: https://esamajkalyan.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Sarkar, Gujarat
+  website: https://esarkar.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: eNagar Portal, Gujarat
+  website: https://enagar.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: iKhedut Portal, Gujarat
+  website: https://ikhedut.gujarat.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: (n)Code Solutions (A Division of GNFC Limited), Ahmedabad, Gujarat
+  website: https://www.ncode.in
+  category: Others
+  status: external_link
+- name: Administrative Reforms and Training Division, General Administration Department,
+    Gujarat
+  website: https://artd.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Admission Committee for Professional Medical Educational Courses, Gujarat
+  website: https://www.medadmgujarat.org
+  category: Others
+  status: external_link
+- name: Ahmedabad District Panchayat, Gujarat
+  website: https://ahmedabaddp.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Ahmedabad Urban Development Authority (AUDA), Gujarat
+  website: https://www.auda.org.in
+  category: Others
+  status: external_link
+- name: Anand District Police Office, Gujarat
+  website: https://www.spanand.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Any RoR - Land Record Details, Gujarat
+  website: https://anyror.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Banaskantha Collectorate, Gujarat
+  website: https://collectorbk.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Beti Vadhaao Programme, Gujarat
+  website: https://betivadhaao.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Bharuch District Panchayat, Gujarat
+  website: https://bharuchdp.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Bharuch District Police Office, Gujarat
+  website: https://spbharuch.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Bhavnagar Collectorate, Gujarat
+  website: https://collectorbhavnagar.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Bhavnagar District Police Office, Gujarat
+  website: https://spbhavnagar.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: COVID-19 Information & Updates, Gujarat
+  website: null
+  category: Others
+  status: external_link
+- name: Central Excise, Ahmedabad Zone, Gujarat
+  website: null
+  category: Others
+  status: external_link
+- name: Civil Defence, Gujarat
+  website: https://www.civildefence.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Dahod, Gujarat
+  website: https://collectordahod.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Dang, Gujarat
+  website: https://collectordangs.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Gandhinagar, Gujarat
+  website: https://collectorgandhinagar.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Junagadh, Gujarat
+  website: https://collectorjunagadh.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Kheda, Gujarat
+  website: https://collectorkheda.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Kutch, Gujarat
+  website: https://collectorkutch.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Mehsana, Gujarat
+  website: https://collectormehsana.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Narmada, Gujarat
+  website: https://collectornarmada.gujarat.gov.in
+  category: Others
+  status: external_link
+- name: Collectorate - District Navsari, Gujarat
+  website: https://collectornavsari.gujarat.gov.in
+  category: Others
+  status: external_link

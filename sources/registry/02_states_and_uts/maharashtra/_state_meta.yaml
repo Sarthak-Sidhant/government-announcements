@@ -1,9 +1,589 @@
-# === IDENTITY ===
-id: "state-maharashtra"
-name: "Maharashtra"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-maharashtra
+name: Maharashtra
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Ahilyanagar
+    website: https://ahmednagar.nic.in
+    sub_districts:
+    - Akole
+    - Jamkhed
+    - Karjat
+    - Kopargaon
+    - Nagar
+    - Nevasa
+    - Parner
+    - Pathardi
+    - Rahta
+    - Rahuri
+    - Sangamner
+    - Shevgaon
+    - Shrigonda
+    - Shrirampur
+    blocks:
+    - Ahilyanagar
+    - Akole
+    - Jamkhed
+    - Karjat
+    - Kopargaon
+    - Nevasa
+    - Parner
+    - Pathardi
+    - Rahata
+    - Rahuri
+    - Sangamner
+    - Shevgaon
+    - Shrigonda
+    - Shrirampur
+  - name: Akola
+    website: https://akola.gov.in
+    sub_districts:
+    - Akola
+    - Akot
+    - Balapur
+    - Barshitakli
+    - Murtijapur
+    - Patur
+    - Telhara
+    blocks:
+    - Akola
+    - Akot
+    - Balapur
+    - Barshitakli
+    - Murtijapur
+    - Patur
+    - Telhara
+  - name: Amravati
+    website: https://amravati.gov.in
+    sub_districts:
+    - Achalpur
+    - Amravati
+    - Anjangaon Surji
+    - Bhatkuli
+    - Chandur Railway
+    - Chandurbazar
+    - Chikhaldara
+    - Daryapur
+    - Dhamangaon Railway
+    - Dharni
+    - Morshi
+    - Nandgaon-Khandeshwar
+    - Tiosa
+    - Warud
+    blocks:
+    - Achalpur
+    - Amravati
+    - Anjangaon S
+    - Bhatkuli
+    - Chandur Bz
+    - Chandur Ril
+    - Chikhaldara
+    - Daryapur
+    - Dhamangaon Ril
+    - Dharni
+    - Morshi
+    - Nandgaon Kh
+    - Tiwsa
+    - Warud
+  - name: Beed
+    website: https://beed.gov.in
+    sub_districts:
+    - Ambejogai
+    - Ashti
+    - Beed
+    - Dharur
+    - Georai
+    - Kaij
+    - Majalgaon
+    - Parli
+    - Patoda
+    - Shirur (Kasar)
+    - Wadwani
+    blocks:
+    - Ambajogai
+    - Ashti
+    - Beed
+    - Dharur
+    - Georai
+    - Kaij
+    - Majalgaon
+    - Parali V .
+    - Patoda
+    - Shirur ( Ka )
+    - Wadwani
+  - name: Bhandara
+    website: https://bhandara.gov.in
+    sub_districts:
+    - Bhandara
+    - Lakhandur
+    - Lakhani
+    - Mohadi
+    - Pauni
+    - Sakoli
+    - Tumsar
+    blocks:
+    - Bhandara
+    - Lakhandur
+    - Lakhani
+    - Mohadi
+    - Pauni
+    - Sakoli
+    - Tumsar
+  - name: Buldhana
+    website: https://buldhana.nic.in
+    sub_districts:
+    - Buldana
+    - Chikhli
+    - Deolgaon Raja
+    - Jalgaon (Jamod)
+    - Khamgaon
+    - Lonar
+    - Malkapur
+    - Mehkar
+    - Motala
+    - Nandura
+    - Sangrampur
+    - Shegaon
+    - Sindkhed Raja
+    blocks:
+    - Buldana
+    - Chikhli
+    - D. Raja
+    - Jalgaonjamod
+    - Khamgaon
+    - Lonar
+    - Malkapur
+    - Mehkar
+    - Motala
+    - Nandura
+    - Sangrampur
+    - Shegaon
+    - Sindkhedraja
+  - name: Chandrapur
+    website: https://chanda.nic.in
+    sub_districts:
+    - Ballarpur
+    - Bhadravati
+    - Brahmapuri
+    - Chandrapur
+    - Chimur
+    - Gondpipri
+    - Jiwati
+    - Korpana
+    - Mul
+    - Nagbhid
+    - Pombhurna
+    - Rajura
+    - Sawali
+    - Sindewahi
+    - Warora
+    blocks:
+    - Ballarpur
+    - Bhadrawati
+    - Brahmapuri
+    - Chandrapur
+    - Chimur
+    - Gondpipri
+    - Jiwati
+    - Korpana
+    - Mul
+    - Nagbhid
+    - Pombhurna
+    - Rajura
+    - Saoli
+    - Sindewahi
+    - Warora
+  - name: Chhatrapati Sambhajinagar
+    website: https://aurangabad.gov.in
+    sub_districts:
+    - Chhatrapati Sambhajinagar
+    - Gangapur
+    - Kannad
+    - Khuldabad
+    - Paithan
+    - Phulambri
+    - Sillod
+    - Soegaon
+    - Vaijapur
+    blocks:
+    - Chhatrapati Sambhajinagar
+    - Gangapur
+    - Kanand
+    - Khultabad
+    - Paithan
+    - Phulambri
+    - Sillod
+    - Soegaon
+    - Vaijapur
+  - name: Dharashiv
+    website: https://osmanabad.gov.in
+    sub_districts:
+    - Bhum
+    - Dharashiv
+    - Kalamb
+    - Lohara
+    - Omarga
+    - Paranda
+    - Tuljapur
+    - Washi
+    blocks:
+    - Bhoom
+    - Dharashiv
+    - Kalamb
+    - Lohara
+    - Omerga
+    - Paranda
+    - Tuljapur
+    - Washi
+  - name: Dhule
+    website: https://dhule.gov.in
+    sub_districts:
+    - Dhule
+    - Sakri
+    - Shirpur
+    - Sindkhede
+    blocks:
+    - Dhule
+    - Sakri
+    - Shindkhede
+    - Shirpur
+  - name: Gadchiroli
+    website: https://gadchiroli.gov.in
+    sub_districts:
+    - Aheri
+    - Armori
+    - Bhamragad
+    - Chamorshi
+    - Desaiganj (Vadasa)
+    - Dhanora
+    - Etapalli
+    - Gadchiroli
+    - Korchi
+    - Kurkheda
+    - Mulchera
+    - Sironcha
+    blocks:
+    - Aheri
+    - Armori
+    - Bhamaragad
+    - Chamorshi
+    - Desaiganj (Wadsa)
+    - Dhanora
+    - Etapalli
+    - Gadchiroli
+    - Korchi
+    - Kurkheda
+    - Mulchera
+    - Sironcha
+  - name: Gondia
+    website: https://gondia.gov.in
+    sub_districts:
+    - Amgaon
+    - Arjuni Morgaon
+    - Deori
+    - Gondiya
+    - Goregaon
+    - Sadak-Arjuni
+    - Salekasa
+    - Tirora
+    blocks:
+    - Amgaon
+    - Arjuni Morgaon
+    - Deori
+    - Gondia
+    - Goregaon
+    - Sadak Arjuni
+    - Salekasa
+    - Tirora
+  - name: Hingoli
+    website: https://hingoli.nic.in
+    sub_districts:
+    - Aundha (Nagnath)
+    - Hingoli
+    - Kalamnuri
+    - Sengaon
+    - Vasmath
+    blocks:
+    - Aundha Nagnath
+    - Basmat
+    - Hingoli
+    - Kalamnuri
+    - Sengaon
+  - name: Jalgaon
+    website: https://jalgaon.gov.in
+    sub_districts:
+    - Amalner
+    - Bhadgaon
+    - Bhusawal
+    - Bodvad
+    - Chalisgaon
+    - Chopda
+    - Dharangaon
+    - Erandol
+    - Jalgaon
+    - Jamner
+    - Muktainagar (Edlabad)
+    - Pachora
+    - Parola
+    - Raver
+    - Yawal
+    blocks:
+    - Amalner
+    - Bhadgaon
+    - Bhusawal
+    - Bodwad
+    - Chalisgaon
+    - Chopda
+    - Dharangaon
+    - Erandol
+    - Jalgaon
+    - Jamner
+    - Muktainagar
+    - Pachora
+    - Parola
+    - Raver
+    - Yawal
+  - name: Jalna
+    website: https://jalna.gov.in
+    sub_districts:
+    - Ambad
+    - Badnapur
+    - Bhokardan
+    - Ghansawangi
+    - Jafrabad
+    - Jalna
+    - Mantha
+    - Partur
+    blocks:
+    - Ambad
+    - Badnapur
+    - Bhokardan
+    - Ghansawangi
+    - Jafrabad
+    - Jalna
+    - Mantha
+    - Partur
+  - name: Kolhapur
+    website: https://kolhapur.gov.in
+    sub_districts:
+    - Ajra
+    - Bhudargad
+    - Chandgad
+    - Gadhinglaj
+    - Gaganbawada
+    - Hatkanangle
+    - Kagal
+    - Karvir
+    - Panhala
+    - Radhanagari
+    - Shahuwadi
+    - Shirol
+    blocks:
+    - Ajara
+    - Bhudargad
+    - Chandgad
+    - Gadhinglaj
+    - Gagan Bavada
+    - Hatkanangale
+    - Kagal
+    - Karveer
+    - Panhala
+    - Radhanagari
+    - Shahuwadi
+    - Shirol
+  - name: Latur
+    website: https://latur.gov.in
+    sub_districts:
+    - Ahmadpur
+    - Ausa
+    - Chakur
+    - Deoni
+    - Jalkot
+    - Latur
+    - Nilanga
+    - Renapur
+    - Shirur Anantpal
+    - Udgir
+    blocks:
+    - Ahemadpur
+    - Ausa
+    - Chakur
+    - Deoni
+    - Jalkot
+    - Latur
+    - Nilanga
+    - Renapur
+    - Shirur Anantpal
+    - Udgir
+  - name: Mumbai
+    website: https://mumbaicity.gov.in
+    sub_districts: []
+    blocks: []
+  - name: Mumbai Suburban
+    website: https://mumbaisuburban.gov.in
+    sub_districts:
+    - Andheri
+    - Borivali
+    - Kurla
+    blocks: []
+  - name: Nagpur
+    website: https://nagpur.gov.in
+    sub_districts:
+    - Bhiwapur
+    - Hingna
+    - Kalameshwar
+    - Kamptee
+    - Katol
+    - Kuhi
+    - Mauda
+    - Nagpur (Rural)
+    - Nagpur (Urban)
+    - Narkhed
+    - Parseoni
+    - Ramtek
+    - Savner
+    - Umred
+    blocks:
+    - Bhivapur
+    - Hingna
+    - Kalmeshwar
+    - Kamptee
+    - Katol
+    - Kuhi
+    - Mouda
+    - Nagpur
+    - Narkhed
+    - Parseoni
+    - Ramtek
+    - Saoner
+    - Umred
+  - name: Nanded
+    website: https://nanded.gov.in
+    sub_districts:
+    - Ardhapur
+    - Bhokar
+    - Biloli
+    - Deglur
+    - Dharmabad
+    - Hadgaon
+    - Himayatnagar
+    - Kandhar
+    - Kinwat
+    - Loha
+    - Mahur
+    - Mudkhed
+    - Mukhed
+    - Naigaon (Khairgaon)
+    - Nanded
+    - Umri
+    blocks:
+    - Ardhapur
+    - Bhokar
+    - Biloli
+    - Deglur
+    - Dharmabad
+    - Hadgaon
+    - Himayatnagar
+    - Kandhar
+    - Kinwat
+    - Loha
+    - Mahur
+    - Modkhed
+    - Mokhed
+    - Naigaon (Kh)
+    - Nanded
+    - Umri
+  - name: Nandurbar
+    website: https://nandurbar.gov.in
+    sub_districts:
+    - Akkalkuwa
+    - Akrani
+    - Nandurbar
+    - Nawapur
+    - Shahade
+    - Talode
+    blocks:
+    - Akarani
+    - Akkalkuwa
+    - Nandurbar
+    - Navapur
+    - Shahada
+    - Taloda
+  - name: Nashik
+    website: https://nashik.gov.in
+    sub_districts:
+    - Baglan
+    - Chandvad
+    - Deola
+    - Dindori
+    - Igatpuri
+    - Kalwan
+    - Malegaon
+    - Nandgaon
+    - Nashik
+    - Niphad
+    - Peth
+    - Sinnar
+    - Surgana
+    - Trimbakeshwar
+    - Yevla
+    blocks:
+    - Baglan
+    - Chandwad
+    - Deola
+    - Dindori
+    - Igatpuri
+    - Kalwan
+    - Malegaon
+    - Nandgaon
+    - Nashik
+    - Niphad
+    - Peth
+    - Sinnar
+    - Surgana
+    - Trimbak
+    - Yeola
+  - name: Palghar
+    website: https://palghar.gov.in
+    sub_districts:
+    - Dahanu
+    - Jawhar
+    - Mokhada
+    - Palghar
+    - Talasari
+    - Vasai
+    - Vikramgad
+    - Wada
+    blocks:
+    - Dahanu
+    - Jawhar
+    - Mokhada
+    - Palghar
+    - Talasari
+    - Vasai
+    - Vikramgad
+    - Wada
+  - name: Parbhani
+    website: https://parbhani.gov.in
+    sub_districts:
+    - Gangakhed
+    - Jintur
+    - Manwath
+    - Palam
+    - Parbhani
+    - Pathri
+    - Purna
+    - Selu
+    - Sonpeth
+    blocks:
+    - Gangakhed
+    - Jintur
+    - Manwat
+    - Palam
+    - Parbhani
+    - Pathri
+    - Purna
+    - Sailu
+    - Sonpeth

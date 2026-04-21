@@ -1,9 +1,476 @@
-# === IDENTITY ===
-id: "state-karnataka"
-name: "Karnataka"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-karnataka
+name: Karnataka
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Bagalkote
+    website: https://bagalkot.nic.in
+    sub_districts:
+    - Badami
+    - Bagalkot
+    - Bilgi
+    - Guledgudda
+    - Hungund
+    - Ilkal
+    - Jamkhandi
+    - Mudhol
+    - Rabakavi Banahatti
+    - Terdal
+    blocks:
+    - Badami
+    - Bagalkot
+    - Bilagi
+    - Guledagudda
+    - Hungund
+    - Ilkal
+    - Jamkhandi
+    - Mudhol
+    - Rabakavi Banahatti
+  - name: Ballari
+    website: https://ballari.nic.in
+    sub_districts:
+    - Ballari
+    - Kampli
+    - Kurugodu
+    - Sandur
+    - Siruguppa
+    blocks:
+    - Ballari
+    - Kampli
+    - Kurugodu
+    - Sandur
+    - Siruguppa
+  - name: Belagavi
+    website: https://belagavi.nic.in
+    sub_districts:
+    - Athni
+    - Bailahongala
+    - Belagavi
+    - Chikodi
+    - Gokak
+    - Hukkeri
+    - Kagwad
+    - Khanapur
+    - Kittur
+    - Mudalgi
+    - Nippani
+    - Ramdurg
+    - Raybag
+    - Savadatti
+    - Yaragatti
+    blocks:
+    - Athni
+    - Belagavi
+    - Bylahongal
+    - Chikodi
+    - Gokak
+    - Hukeri
+    - Kagawada
+    - Khanapur
+    - Kittur
+    - Mudalagi
+    - Nippani
+    - Ramdurg
+    - Raybag
+    - Savadathi
+    - Yaragatti
+  - name: Bengaluru Rural
+    website: https://bangalorerural.nic.in
+    sub_districts:
+    - Devanahalli
+    - Doddaballapura
+    - Hosakote
+    - Nelamangala
+    blocks:
+    - Devanhalli
+    - Dodballapur
+    - Hoskote
+    - Nelamangala
+  - name: Bengaluru South
+    website: https://ramanagara.nic.in
+    sub_districts:
+    - Channapatna
+    - Harohalli
+    - Kanakapura
+    - Magadi
+    - Ramanagara
+    blocks:
+    - Channapatna
+    - Harohalli
+    - Kanakapura
+    - Magadi
+    - Ramanagara
+  - name: Bengaluru Urban
+    website: https://bengaluruurban.nic.in
+    sub_districts:
+    - Anekal
+    - Bengaluru East
+    - Bengaluru North
+    - Bengaluru South
+    - Yelahanka
+    blocks:
+    - Anekal
+    - Bengaluru East
+    - Bengaluru North
+    - Bengaluru South
+    - Yelahanka
+  - name: Bidar
+    website: https://bidar.nic.in
+    sub_districts:
+    - Aurad
+    - Basavakalyan
+    - Bhalki
+    - Bidar
+    - Chitaguppa
+    - Homnabad
+    - Hulsoor
+    - Kamalnagar
+    blocks:
+    - Aurad
+    - Basavakalyan
+    - Bhalki
+    - Bidar
+    - Chittaguppa
+    - Hulasuru
+    - Humnabad
+    - Kamalanagara
+  - name: Chamarajanagar
+    website: https://chamrajnagar.nic.in
+    sub_districts:
+    - Chamarajanagar
+    - Gundlupet
+    - Hanur
+    - Kollegal
+    - Yelandur
+    blocks:
+    - Chamarajanagar
+    - Gundlupet
+    - Hanuru
+    - Kollegala
+    - Yelandur
+  - name: Chikkaballapura
+    website: https://chikkaballapur.nic.in
+    sub_districts:
+    - Bagepalli
+    - Chelur
+    - Chikkaballapura
+    - Chintamani
+    - Gauribidanur
+    - Gudibanda
+    - Manchenahalli
+    - Sidlaghatta
+    blocks:
+    - Bagepalli
+    - Cheluru
+    - Chikballapur
+    - Chintamani
+    - Gauribidanur
+    - Gudibanda
+    - Manchenahalli
+    - Sidlaghatta
+  - name: Chikkamagaluru
+    website: https://chikkamagaluru.nic.in
+    sub_districts:
+    - Ajjampura
+    - Chikkamagaluru
+    - Kadur
+    - Kalasa
+    - Koppa
+    - Mudigere
+    - Narasimharajapura
+    - Sringeri
+    - Tarikere
+    blocks:
+    - Ajjampura
+    - Chikkamagaluru
+    - Kadur
+    - Kalasa
+    - Koppa
+    - Mudigere
+    - Narasimharajapura
+    - Sringeri
+    - Tarikere
+  - name: Chitradurga
+    website: https://chitradurga.nic.in
+    sub_districts:
+    - Challakere
+    - Chitradurga
+    - Hiriyur
+    - Holalkere
+    - Hosdurga
+    - Molakalmuru
+    blocks:
+    - Challakere
+    - Chitradurga
+    - Hiriyur
+    - Holalkere
+    - Hosdurga
+    - Molakalmuru
+  - name: Dakshina Kannada
+    website: https://dk.nic.in
+    sub_districts:
+    - Bantval
+    - Beltangadi
+    - Kadaba
+    - Mangaluru
+    - Moodubidire
+    - Mulki
+    - Puttur
+    - Sulya
+    - Ullala
+    blocks:
+    - Bantval
+    - Beltangadi
+    - Kadaba
+    - Mangaluru
+    - Mudubidare
+    - Mulki
+    - Puttur
+    - Sulya
+    - Ullala
+  - name: Davanagere
+    website: https://davanagere.nic.in
+    sub_districts:
+    - Channagiri
+    - Davanagere
+    - Harihar
+    - Honnali
+    - Jagalur
+    - Nyamathi
+    blocks:
+    - Channagiri
+    - Davanagere
+    - Harihara
+    - Honnali
+    - Jagalur
+    - Nyamathi
+  - name: Dharwad
+    website: https://dharwad.nic.in
+    sub_districts:
+    - Alnavar
+    - Annigeri
+    - Dharwad
+    - Hubballi
+    - Hubballi Urban
+    - Kalghatgi
+    - Kundgol
+    - Navalgund
+    blocks:
+    - Alnavar
+    - Annigeri
+    - Dharwad
+    - Hubballi
+    - Kalghatgi
+    - Kundgol
+    - Navalgund
+  - name: Gadag
+    website: https://gadag.nic.in
+    sub_districts:
+    - Gadag
+    - Gajendragad
+    - Laxmeshwar
+    - Mundargi
+    - Nargund
+    - Ron
+    - Shirahatti
+    blocks:
+    - Gadag
+    - Gajendragad
+    - Laxmeshwar
+    - Mundaragi
+    - Naragund
+    - Ron
+    - Shirahatti
+  - name: Hassan
+    website: https://hassan.nic.in
+    sub_districts:
+    - Alur
+    - Arkalgud
+    - Arsikere
+    - Belur
+    - Channarayapatna
+    - Hassan
+    - Hole Narsipur
+    - Sakleshpur
+    blocks:
+    - Alur
+    - Arkalgud
+    - Arsikere
+    - Belur
+    - Channarayapatna
+    - Hassan
+    - Holenarsipur
+    - Sakaleshpur
+  - name: Haveri
+    website: https://haveri.nic.in
+    sub_districts:
+    - Byadgi
+    - Hangal
+    - Haveri
+    - Hirekerur
+    - Ranibennur
+    - Rattihalli
+    - Savanur
+    - Shiggaon
+    blocks:
+    - Byadgi
+    - Hanagal
+    - Haveri
+    - Hirekerur
+    - Ranebennur
+    - Rattihalli
+    - Savanur
+    - Shiggaon
+  - name: Kalaburagi
+    website: https://kalaburagi.nic.in
+    sub_districts:
+    - Afzalpur
+    - Aland
+    - Chincholi
+    - Chittapur
+    - Jevargi
+    - Kalaburagi
+    - Kalagi
+    - Kamalapur
+    - Sedam
+    - Shahabad
+    - Yadrami
+    blocks:
+    - Afzalpur
+    - Aland
+    - Chincholi
+    - Chitapur
+    - Jevargi
+    - Kalaburagi
+    - Kalagi
+    - Kamalapur
+    - Sedam
+    - Shabad
+    - Yadrami
+  - name: Kodagu
+    website: https://kodagu.nic.in
+    sub_districts:
+    - Kushalnagar
+    - Madikeri
+    - Ponnampet
+    - Somvarpet
+    - Virajpet
+    blocks:
+    - Kushalanagar
+    - Madikeri
+    - Ponnampet
+    - Somvarpet
+    - Virajpet
+  - name: Kolar
+    website: https://kolar.nic.in
+    sub_districts:
+    - Bangarapet
+    - Kolar
+    - Kolar Gold Field
+    - Malur
+    - Mulbagal
+    - Srinivaspur
+    blocks:
+    - Bangarapet
+    - K G F
+    - Kolar
+    - Malur
+    - Mulbagal
+    - Srinivaspur
+  - name: Koppal
+    website: https://koppal.nic.in
+    sub_districts:
+    - Gangawati
+    - Kanakagiri
+    - Karatagi
+    - Koppal
+    - Kukanoor
+    - Kushtagi
+    - Yelbarga
+    blocks:
+    - Gangavathi
+    - Kanakagiri
+    - Karatagi
+    - Koppal
+    - Kukunoor
+    - Kushtagi
+    - Yelburga
+  - name: Mandya
+    website: https://mandya.nic.in
+    sub_districts:
+    - Krishnarajpet
+    - Maddur
+    - Malavalli
+    - Mandya
+    - Nagamangala
+    - Pandavapura
+    - Shrirangapattana
+    blocks:
+    - Krishnarajpet
+    - Maddur
+    - Malvalli
+    - Mandya
+    - Nagamangala
+    - Pandavapura
+    - Shrirangapattana
+  - name: Mysuru
+    website: https://mysore.nic.in
+    sub_districts:
+    - Heggadadevankote
+    - Hunsur
+    - Krishnarajanagara
+    - Mysuru
+    - Nanjangud
+    - Piriyapatna
+    - Saligrama
+    - Saraguru
+    - Tirumakudal - Narsipur
+    blocks:
+    - Heggadadevankote
+    - Hunsur
+    - Krishnarajanagara
+    - Mysuru
+    - Nanjangud
+    - Piriyapatna
+    - Saligrama
+    - Saraguru
+    - Tirumakudal-Narsipur
+  - name: Raichur
+    website: https://raichur.nic.in
+    sub_districts:
+    - Arakera
+    - Devadurga
+    - Lingasugur
+    - Manvi
+    - Maski
+    - Raichur
+    - Sindhnur
+    - Sirwar
+    blocks:
+    - Devadurga
+    - Lingsugur
+    - Manvi
+    - Maski
+    - Raichur
+    - Sindhanur
+    - Sirawara
+  - name: Shivamogga
+    website: https://shimoga.nic.in
+    sub_districts:
+    - Bhadravati
+    - Hosanagara
+    - Sagar
+    - Shikarpur
+    - Shivamogga
+    - Sorab
+    - Tirthahalli
+    blocks:
+    - Bhadravati
+    - Hosanagara
+    - Sagar
+    - Shikarpur
+    - Shivamogga
+    - Sorab
+    - Tirthahalli

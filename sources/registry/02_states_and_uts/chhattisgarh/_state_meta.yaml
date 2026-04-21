@@ -1,9 +1,401 @@
-# === IDENTITY ===
-id: "state-chhattisgarh"
-name: "Chhattisgarh"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-chhattisgarh
+name: Chhattisgarh
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Balod
+    website: https://balod.gov.in
+    sub_districts:
+    - Arjunda
+    - Balod
+    - Daundi
+    - Daundilohara
+    - Gunderdehi
+    - Gurur
+    - Marri Bangla(Deori)
+    blocks:
+    - Balod
+    - Dondi
+    - Dondilohara
+    - Gunderdehi
+    - Gurur
+  - name: Balodabazar-Bhatapara
+    website: https://balodabazar.gov.in
+    sub_districts:
+    - Balodabazar
+    - Bhatapara
+    - Kasdol
+    - Lavan
+    - Palari
+    - Simga
+    - Sonakhan
+    - Suhela
+    - Tundara
+    blocks:
+    - Baloda Bazar
+    - Bhatapara
+    - Kasdol
+    - Palari
+    - Simga
+  - name: Balrampur-Ramanujganj
+    website: https://balrampur.gov.in
+    sub_districts:
+    - Balrampur
+    - Chalgali
+    - Chando
+    - Daura-Kochali
+    - Kusmi(Samri)
+    - Raghunathnagar
+    - Rajpur
+    - Ramanujganj
+    - Ramchandrapur
+    - Samri
+    - Shankargarh
+    - Wadrafnagar
+    blocks:
+    - Balrampur
+    - Kusmi
+    - Rajpur
+    - Ramchandrapur
+    - Shankargarh
+    - Wadrafnagar
+  - name: Bastar
+    website: https://bastar.gov.in
+    sub_districts:
+    - Bakavand
+    - Bastanar
+    - Bastar
+    - Bhanpuri
+    - Darbha
+    - Jagdalpur
+    - Karpawand
+    - Lohandiguda
+    - Nangur
+    - Tokapal
+    blocks:
+    - Bakawand
+    - Bastanar
+    - Bastar
+    - Darbha
+    - Jagdalpur
+    - Lohandiguda
+    - Tokapal
+  - name: Bemetara
+    website: https://bemetara.gov.in
+    sub_districts:
+    - Bemetara
+    - Berla
+    - Bhimbhauri
+    - Darhi
+    - Devkar
+    - Nandghat
+    - Nawagarh
+    - Saja
+    - Thankhamariya
+    blocks:
+    - Bemetara
+    - Berla
+    - Nawagarh
+    - Saja
+  - name: Bijapur
+    website: https://bijapur.gov.in
+    sub_districts:
+    - Bhairamgarh
+    - Bhopalpattnam
+    - Bijapur
+    - Gangaloor
+    - Kutru
+    - Usur
+    blocks:
+    - Bhairamgarh
+    - Bhopal Patnam
+    - Bijapur
+    - Usoor
+  - name: Bilaspur
+    website: https://bilaspur.gov.in
+    sub_districts:
+    - Belgahna
+    - Beltara
+    - Bilaspur
+    - Bilha
+    - Bodri
+    - Kota
+    - Masturi
+    - Pachpedi
+    - Ratanpur
+    - Sankari
+    - Seepat
+    - Takhatpur
+    blocks:
+    - Belha
+    - Kota
+    - Masturi
+    - Takhatpur
+  - name: Dakshin Bastar Dantewada
+    website: https://dantewada.nic.in
+    sub_districts:
+    - Bade Bacheli
+    - Barsur
+    - Dantewada
+    - Gidam
+    - Katekalyan
+    - Kuakonda
+    blocks:
+    - Dantewada
+    - Geedam
+    - Katekalyan
+    - Kuwakonda
+  - name: Dhamtari
+    website: https://dhamtari.gov.in
+    sub_districts:
+    - Belargaon
+    - Bhakhara
+    - Dhamtari
+    - Kukrel
+    - Kurud
+    - Magarlod
+    - Nagri
+    blocks:
+    - Dhamtari
+    - Kurud
+    - Magarlod
+    - Nagari
+  - name: Durg
+    website: https://durg.gov.in
+    sub_districts:
+    - Ahiwara
+    - Bhilai-3
+    - Bori
+    - Dhamdha
+    - Durg
+    - Patan
+    blocks:
+    - Dhamdha
+    - Durg
+    - Patan
+  - name: Gariyaband
+    website: https://gariaband.gov.in
+    sub_districts:
+    - Amlipadar
+    - Chhura
+    - Devbhog
+    - Fingeshwar
+    - Gariyaband
+    - Mainpur
+    - Rajim
+    blocks:
+    - Chhurra
+    - Deobhog
+    - Fingeshwar
+    - Gariyaband
+    - Mainpur
+  - name: Gaurela-Pendra-Marwahi
+    website: https://gaurela-pendra-marwahi.cg.gov.in
+    sub_districts:
+    - Marwahi
+    - Pendra
+    - Pendra Road
+    - Sakola
+    blocks:
+    - Gaurella-1
+    - Gaurella-2
+    - Marwahi
+  - name: Janjgir-Champa
+    website: https://janjgir-champa.gov.in
+    sub_districts:
+    - Akaltara
+    - Baloda
+    - Bamhnidih
+    - Champa
+    - Janjgir
+    - Nawagarh
+    - Pamgarh
+    - Saragaon
+    - Shivrinarayan
+    blocks:
+    - Akaltara
+    - Baloda
+    - Bamhindih
+    - Nawagarh
+    - Pamgarh
+  - name: Jashpur
+    website: https://jashpur.nic.in
+    sub_districts:
+    - Bagbahar
+    - Bagicha
+    - Duldula
+    - Farsabahar
+    - Jashpur
+    - Kansabel
+    - Kunkuri
+    - Manora
+    - Pathalgaon
+    - Sanna
+    blocks:
+    - Bagicha
+    - Duldula
+    - Jashpur
+    - Kansabel
+    - Kunkuri
+    - Manora
+    - Patthalgaon
+    - Pharsabahar
+  - name: Kabeerdham
+    website: https://kawardha.gov.in
+    sub_districts:
+    - Bodla
+    - Kawardha
+    - Kukdur
+    - Kunda
+    - Pandariya
+    - Pipariya
+    - Rengakharkala
+    - Sahaspur Lohara
+    blocks:
+    - Bodla
+    - Kawardha
+    - Pandariya
+    - S.Lohara
+  - name: Khairagarh-Chhuikhadan-Gandai
+    website: null
+    sub_districts:
+    - Chhuikhadan
+    - Gandai
+    - Khairagarh
+    - Salhewara
+    blocks:
+    - Chhuikhadan
+    - Khairagarh
+  - name: Kondagaon
+    website: https://kondagaon.gov.in
+    sub_districts:
+    - Baderajpur
+    - Dhanora
+    - Keshkal
+    - Kondagaon
+    - Makdi
+    - Mardapal
+    - Pharasgaon
+    blocks:
+    - Baderajpur
+    - Keshkal
+    - Kondagaon
+    - Makdi
+    - Pharasgaon
+  - name: Korba
+    website: https://korba.gov.in
+    sub_districts:
+    - Ajgarbahar
+    - Barpali
+    - Bhaisma
+    - Darri
+    - Dipka
+    - Hardibazar
+    - Kartala
+    - Katghora
+    - Korba
+    - Pali
+    - Pasan
+    - Poundi-Uproda
+    blocks:
+    - Kartala
+    - Katghora
+    - Korba
+    - Pali
+    - Podi Uparoda
+  - name: Korea
+    website: https://korea.gov.in
+    sub_districts:
+    - Baikunthpur
+    - Patna
+    - Pondi(Bachra)
+    - Sonhat
+    blocks:
+    - Baikunthpur
+    - Khadgawana
+    - Sonhat
+  - name: Mahasamund
+    website: https://mahasamund.gov.in
+    sub_districts:
+    - Bagbahra
+    - Basna
+    - Komakhan
+    - Mahasamund
+    - Pithora
+    - Saraipali
+    blocks:
+    - Bagbahara
+    - Basna
+    - Mahasamund
+    - Pithora
+    - Saraipali
+  - name: Manendragarh-Chirmiri-Bharatpur(M C B)
+    website: null
+    sub_districts:
+    - Bharatpur
+    - Chirmiri
+    - Kelhari
+    - Khadganva
+    - Kotadol
+    - Manendragarh
+    blocks:
+    - Bharatpur
+    - Manendragarh
+  - name: Mohla-Manpur-Ambagarh Chouki
+    website: https://mohla-manpur-ambagarhchowki.cg.gov.in
+    sub_districts:
+    - Ambagarh Chouki
+    - Aundhi
+    - Khadgaon
+    - Manpur
+    - Mohla
+    blocks:
+    - A.Chowki (Td)
+    - Manpur (Td)
+    - Mohala (Td)
+  - name: Mungeli
+    website: https://mungeli.gov.in
+    sub_districts:
+    - Jarhagaon
+    - Lalpur Thana
+    - Lormi
+    - Mungeli
+    - Pathariya
+    - Sargaon
+    blocks:
+    - Lormi
+    - Mungeli
+    - Pathariya
+  - name: Narayanpur
+    website: https://narayanpur.gov.in
+    sub_districts:
+    - Chhotedongar
+    - Kohkameta
+    - Narayanpur
+    - Orchha
+    blocks:
+    - Narayanpur
+    - Orchha(Abhujmad)
+  - name: Raigarh
+    website: https://raigarh.gov.in
+    sub_districts:
+    - Chhal
+    - Dharamjaigarh
+    - Gharghoda
+    - Kapu
+    - Kharsia
+    - Lailunga
+    - Mukdega
+    - Pusour
+    - Raigarh
+    - Tamnar
+    blocks:
+    - Dharamjaigarh
+    - Gharghoda
+    - Kharsia
+    - Lailunga
+    - Pussore
+    - Raigarh
+    - Tamnar

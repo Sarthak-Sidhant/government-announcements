@@ -1,0 +1,534 @@
+parent_state: Assam
+organizations:
+- name: Official Portal of Assam Government
+  website: https://assam.gov.in
+  category: State Portal
+  status: external_link
+- name: Assam Police
+  website: https://police.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Assam Prison Headquarters, Assam
+  website: https://prisons.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Inspectorate of Boilers, Assam
+  website: https://cib.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Inspectorate of Electricity (IEC), Assam
+  website: https://cei.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Inspectorate of Factories, Assam
+  website: https://ciflabour.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Registrar of Cooperative Societies, Assam
+  website: https://rcs.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Registrar of Firms & Societies, Assam
+  website: https://rfsfinance.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Vigilance & Anti Corruption, Assam
+  website: https://dgvigilance.assam.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Assam Electricity Regulatory Commission (AERC), Assam
+  website: https://aerc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Assam Human Rights Commission
+  website: https://www.ahrc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Assam Science Technology and environment Council
+  website: https://astec.assam.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissionerate of Taxes, Finance, Assam
+  website: https://comtax.assam.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissionerate of Transport, Assam
+  website: https://comtransport.assam.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Finance Commission Cell, Assam
+  website: https://sfcassam.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Adarsha Vidyalaya Sangathan, Assam
+  website: https://avs.assam.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Assam Energy Development Agency (AEDA)
+  website: https://aeda.assam.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Assam Rajiv Gandhi University of Cooperative Management
+  website: https://argucom.assam.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Assam State Designated Agency (ASDA)
+  website: https://asdagov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Assam State Disaster Management Authority (ASDMA)
+  website: https://asdma.assam.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: English Language Teaching Institute, Assam
+  website: https://eltiassam.assam.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Orang National Park & Tiger Reserve, Assam
+  website: https://orangnptr.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: State Institute of Panchayat and Rural Development (SIPRD), Assam
+  website: https://sird.assam.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Civil Defence & Home Guards, Assam
+  website: https://dgcd.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Food & Drugs Administration, Assam
+  website: https://fda.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Industries & Commerce, Assam
+  website: https://industriescom.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Labour, Assam
+  website: https://labourcommissioner.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Rural Development, Assam
+  website: https://rural.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of AYUSH, Assam
+  website: https://ayush.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Accounts & Treasuries, Assam
+  website: https://doatfinance.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Agriculture, Assam
+  website: https://diragri.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Archives, Assam
+  website: https://archives.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Char Areas Development, Assam
+  website: https://dircad.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Cultural Affairs, Assam
+  website: https://directorculture.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics and Statistics, Assam
+  website: https://des.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Elementary Education,Assam
+  website: https://dee.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Employment and Craftsmen Training, Assam
+  website: https://dect.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Forensic Science, Government of Assam
+  website: https://forensic.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Geology & Mining, Assam
+  website: https://dgm.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Health Service (Family Welfare), Assam
+  website: https://dhsfw.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Health Service, Assam
+  website: https://dhs.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Historical and Antiquarian studies, Assam
+  website: https://dhas.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information Technology, Electronics & Communication, Assam
+  website: https://ditec.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information and Public Relations, Assam
+  website: https://dipr.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Land Records, Assam
+  website: https://dlrs.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Land Requisition Acquisition & Reforms, Assam
+  website: https://dlrar.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education, Assam
+  website: https://dme.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Municipal Administration, Assam
+  website: https://dma.assam.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Amtron - Assam Electronics Development Corporation Limited
+  website: https://aedcl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Electricity Grid Corporation Limited
+  website: https://www.aegcl.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Financial Corporation
+  website: https://www.afconline.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Higher Secondary Education Council
+  website: https://ahsec.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Industrial Development Corporation Ltd.
+  website: https://aidcltd.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Infrastructure Financing Authority, Government of Assam
+  website: https://aifa.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Livestock Development Agency, Assam
+  website: https://livestock.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Minorities Development Board
+  website: https://amdb.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Petro-chemicals Limited (APL)
+  website: https://assampetrochemicals.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Power Distribution Company Limited
+  website: https://www.apdcl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Power Generation Corporation Limited (APGCL)
+  website: https://www.apgcl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Small Industries Development Corporation
+  website: https://asidcltd.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam State Agricultural Marketing Board
+  website: https://asamb.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam State Biodiversity Board (ASBB)
+  website: https://asbb.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam State Road Board
+  website: https://asrb.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam State Textbook Production and Publication Corporation Ltd.
+  website: https://textbookcorporation.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam State Warehousing Corporation
+  website: https://warehouse.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Tea Employees Provident Fund Organization, Assam
+  website: https://atppf.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Tourism Development Corporation Limited
+  website: https://tourismcorporation.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Urban Water Supply & Sewerage Board
+  website: https://auwssb.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bodoland Territorial Council
+  website: https://education.bodoland.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: District Rural Development Agency (DRDA), Kokrajhar, Assam
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: District Rural Development Agency (DRDA), Tinsukia, Assam
+  website: https://www.drdatinsukia.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Flood and River Erosion Management Agency of Assam (FREMAA), Assam
+  website: https://fremaa.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Guwahati Metropolitan Development Authority (GMDA), Assam
+  website: https://gmda.assam.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Assam Apex Weavers and Artisans Cooperative Federation Ltd. (ARTFED)
+  website: https://artfed.assam.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Assam Gas Company Limited
+  website: https://assamgas.org
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Assam Project on Forest and Biodiversity Conservation Society (APFBC Society)
+  website: https://apfbcs.nic.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Assam Urban Infrastructure Development and Finance Corporation
+  website: https://auidfcl.assam.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Assam Administrative Staff College (AASC)
+  website: https://aasc.assam.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Assam Admission and eCounselling Services
+  website: https://itiassam.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Assam Agricultural University
+  website: https://www.aau.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Assam Engineering College (AEC)
+  website: https://www.aec.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Assam Institute of Management, Guwahati
+  website: https://www.aimguwahati.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Assam Medical College
+  website: https://amch.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Extension Education Institute (NE Region), Assam
+  website: https://eei-ner.org
+  category: Academies / Institutions
+  status: external_link
+- name: Gauhati Medical College and Hospital, Assam
+  website: https://gmchassam.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gauhati University, Assam
+  website: https://gauhati.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: ICFRE - Rain Forest Research Institute, Jorhat, Assam
+  website: https://rfri.icfre.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Jorhat Engineering College, Assam
+  website: https://jecassam.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Jorhat Medical College, Assam
+  website: https://jorhatmedicalcollege.in
+  category: Academies / Institutions
+  status: external_link
+- name: National Institute of Technology, Silchar, Assam
+  website: https://nits.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: National Law University and Judicial Academy, Assam
+  website: https://www.nluassam.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Regional College of Nursing, Guwahati, Assam
+  website: https://www.rcnguwahati.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: State Award to Teachers, Assam
+  website: https://shikshak.assam.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Assam Farmer Registry
+  website: https://asfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Assam Police Seva Setu
+  website: https://polcitizen.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chief Minister's Atmanirbhar Asom Abhijan 2.0, Assam
+  website: https://cmaaa.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Ease of Doing Business Portal, Assam
+  website: https://eodb.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Integrated Land Records Management System, Assam
+  website: https://ilrms.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kritagyata - Pension Sanction & Payment Tracking System
+  website: https://kritagyata.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Medical Asset Management System (Med-AMS)
+  website: https://medicalassets.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: National Generic Document Registration System, Assam
+  website: https://ngdrs.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Consent Management & Monitoring System, Assam
+  website: https://asocmms.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Ration Card Management System, Assam
+  website: https://rcms.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Right to Information Online Portal, Assam
+  website: https://rtionline.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Startup Assam
+  website: https://startup.assam.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Assam
+  website: https://assam.mygov.in
+  contact:
+    address: CM Block Assam MyGov Team 4th Floor Janata Bhawan Dispur, Guwahati:781006,
+      Assam, India
+    phone: ''
+    fax: ''
+    email: cm[at]assam[dot]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Assam Rural Infrastructure and Agricultural Services Society, (ARIAS)
+  website: https://arias.in
+  category: Others
+  status: external_link
+- name: Assam Skill Development Mission
+  website: https://asdm.assam.gov.in
+  category: Others
+  status: external_link
+- name: Assam Small Farmers Agri-Business Consortium (ASFAC)
+  website: https://asfac.assam.gov.in
+  category: Others
+  status: external_link
+- name: Assam State AIDS Control Society
+  website: https://asacs.assam.gov.in
+  category: Others
+  status: external_link
+- name: Assam State Blood Transfusion Council
+  website: https://asbtc.assam.gov.in
+  category: Others
+  status: external_link
+- name: Assam State Legal Services Authority
+  website: https://aslsa.assam.gov.in
+  category: Others
+  status: external_link
+- name: Assam State Rural Livelihood Mission (ASRLM)
+  website: https://asrlms.assam.gov.in
+  category: Others
+  status: external_link
+- name: Assam Urban Infrastructure Investment Program (AUIIP)
+  website: https://auiip.nic.in
+  category: Others
+  status: external_link
+- name: Assam Water Research and Management Institute Society (AWRMIS)
+  website: https://awrmis.assam.gov.in
+  category: Others
+  status: external_link
+- name: Budget, Assam
+  website: null
+  category: Others
+  status: external_link
+- name: CM Dashboard, Assam
+  website: https://cmdashboard.assam.gov.in
+  category: Others
+  status: external_link
+- name: Chief Minister Samagra Gramya Unnayan Yojana, Assam
+  website: https://mmscmsguy.assam.gov.in
+  category: Others
+  status: external_link
+- name: Employment Exchange Portal, Assam
+  website: https://employment.assam.gov.in
+  category: Others
+  status: external_link
+- name: Eprastuti, Assam
+  website: https://eprastuti.assam.gov.in
+  category: Others
+  status: external_link
+- name: "GoalMart \u2013 e-Commerce Portal, Assam"
+  website: https://goalmart.co.in
+  category: Others
+  status: external_link
+- name: Implementation of Assam Accord, Assam
+  website: https://assamaccord.assam.gov.in
+  category: Others
+  status: external_link
+- name: Inland Water Transport, Assam
+  website: https://iwtdirectorate.assam.gov.in
+  category: Others
+  status: external_link
+- name: Lok Bhavan, Assam
+  website: https://rajbhavan.assam.gov.in
+  category: Others
+  status: external_link
+- name: Mission Basundhara, Assam
+  website: https://basundhara.assam.gov.in
+  category: Others
+  status: external_link
+- name: National Health Mission (NHM), Assam
+  website: https://nhm.assam.gov.in
+  category: Others
+  status: external_link
+- name: Online Citizen Services Portal, Assam
+  website: https://eservices.assam.gov.in
+  category: Others
+  status: external_link
+- name: Public Distribution System, Assam
+  website: https://pds.assam.gov.in
+  category: Others
+  status: external_link
+- name: Rashtriya Uchchattar Shiksha Abhiyan (RUSA), Assam
+  website: https://rusa.assam.gov.in
+  category: Others
+  status: external_link
+- name: Samagra Shiksha, Assam
+  website: https://ssa.assam.gov.in
+  category: Others
+  status: external_link

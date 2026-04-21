@@ -1,9 +1,999 @@
-# === IDENTITY ===
-id: "state-telangana"
-name: "Telangana"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-telangana
+name: Telangana
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Adilabad
+    website: https://adilabad.telangana.gov.in
+    sub_districts:
+    - Adilabad Rural
+    - Adilabad Urban
+    - Bazarhatnoor
+    - Bela
+    - Bheempur
+    - Bhoraj
+    - Boath
+    - Gadiguda
+    - Gudihatnoor
+    - Ichoda
+    - Inderavelly
+    - Jainath
+    - Mavala
+    - Narnoor
+    - Neradigonda
+    - Sathnala
+    - Sirikonda
+    - Sonala
+    - Talamadugu
+    - Tamsi
+    - Utnoor
+    blocks:
+    - Adilabad Rural
+    - Adilabad Urban
+    - Bazarhatnoor
+    - Bela
+    - Bheempur
+    - Bhoraj
+    - Boath
+    - Gadiguda
+    - Gudihatnur
+    - Ichoda
+    - Indervelly
+    - Jainath
+    - Mavala
+    - Narnoor
+    - Neradigonda
+    - Sathnala
+    - Sirikonda
+    - Sonala
+    - Talamadugu
+    - Tamsi
+    - Utnoor
+  - name: Bhadradri Kothagudem
+    website: https://kothagudem.telangana.gov.in
+    sub_districts:
+    - Allapalli
+    - Annapureddypalli
+    - Aswapuram
+    - Aswaraopeta
+    - Bhadrachalam
+    - Burgampahad
+    - Chandrugonda
+    - Cherla
+    - Chunchupalli
+    - Dammapeta
+    - Dummugudem
+    - Gundala
+    - Julurpadu
+    - Karakagudem
+    - Kothagudem
+    - Laxmidevipalli
+    - Manuguru
+    - Mulkalapally
+    - Palvoncha
+    - Pinapaka
+    - Sujathanagar
+    - Tekulapalli
+    - Yellandu
+    blocks:
+    - Allapalli
+    - Annapureddypalli
+    - Aswapuram
+    - Aswaraopeta
+    - Bhadrachalam
+    - Burgampahad
+    - Chandrugonda
+    - Cherla
+    - Chunchupalli
+    - Dammapeta
+    - Dummugudem
+    - Gundala
+    - Julurupadu
+    - Karakagudem
+    - Kothagudem
+    - Laxmidevipalli
+    - Manugur
+    - Mulakalapally
+    - Palwancha
+    - Pinapaka
+    - Sujathanagar
+    - Tekulapally
+    - Yellandu
+  - name: Hanumakonda
+    website: https://hanumakonda.telangana.gov.in
+    sub_districts:
+    - Athmakur
+    - Bheemadevarpalli
+    - Damera
+    - Dharmasagar
+    - Elkathurthy
+    - Hanamkonda
+    - Hasanparthy
+    - Inavole
+    - Kamalapur
+    - Khazipet
+    - Nadikuda
+    - Parkal
+    - Shayampet
+    - Velair
+    blocks:
+    - Atmakur
+    - Bheemadevarapalli
+    - Damera
+    - Dharmasagar
+    - Elkathurthi
+    - Hanamkonda
+    - Hasanparthy
+    - Inavole
+    - Kamalapur
+    - Khazipet
+    - Nadikuda
+    - Parkal
+    - Shayampet
+    - Velair
+  - name: Hyderabad
+    website: https://hyderabad.telangana.gov.in
+    sub_districts:
+    - Amberpet
+    - Ameerpet
+    - Asif Nagar
+    - Bahadurpura
+    - Bandlaguda
+    - Charminar
+    - Golconda
+    - Himayatnagar
+    - Khairatabad
+    - Marredpally
+    - Musheerabad
+    - Nampally
+    - Saidabad
+    - Secunderabad
+    - Shaikpet
+    - Tirumalgiri
+    blocks:
+    - Amberpet
+    - Ameerpet
+    - Asifnagar
+    - Bahadurpura
+    - Bandlaguda
+    - Charminar
+    - Golconda
+    - Himayathnagar
+    - Khairthabad
+    - Marredpally
+    - Musheerabad
+    - Nampally
+    - Saidabad
+    - Secunderabad
+    - Shaikpet
+    - Tirumalagiry
+  - name: Jagitial
+    website: https://jagtial.telangana.gov.in
+    sub_districts:
+    - Beerpur
+    - Bheemaram (20)
+    - Buggaram
+    - Dharmapuri
+    - Endapalli
+    - Gollapalli
+    - Ibrahimpatnam
+    - Jagitial
+    - Jagitial Rural
+    - Kathlapur
+    - Kodimial
+    - Korutla
+    - Mallapur
+    - Mallial
+    - Medipalli
+    - Metpalli
+    - Pegadapalli
+    - Raikal
+    - Sarangapur
+    - Velgatur
+    blocks:
+    - Beerpur
+    - Bheemaram
+    - Buggaram
+    - Dharmapuri
+    - Endapalli
+    - Gollapalli
+    - Ibrahimpatnam
+    - Jagitial Rural
+    - Jagtial
+    - Kathalapur
+    - Kodimial
+    - Korutla
+    - Mallapur
+    - Mallial
+    - Medipalli
+    - Metpalli
+    - Pegadapalli
+    - Raikal
+    - Sarangapur
+    - Velgatoor
+  - name: Jangoan
+    website: https://jangaon.telangana.gov.in
+    sub_districts:
+    - Bachannapet
+    - Chilpur
+    - Devaruppula
+    - Ghanpur (Station)
+    - Jangoan
+    - Kodakandla
+    - Lingalaghanpur
+    - Narmetta
+    - Palakurthy
+    - Ragunathpally
+    - Tharigoppula
+    - Zaffergadh
+    blocks:
+    - Bachannapeta
+    - Chilpur
+    - Devaruppula
+    - Ghanpur(Station)
+    - Jangaon
+    - Kodakandla
+    - Lingalaghanpur
+    - Narmetta
+    - Palakurthi
+    - Raghunathpalle
+    - Tharigoppula
+    - Zaffergadh
+  - name: Jayashankar Bhupalapally
+    website: https://bhoopalapally.telangana.gov.in
+    sub_districts:
+    - Bhupalpally
+    - Chityal
+    - Ghanpur (Mulug)
+    - Kataram
+    - Kothapallygori
+    - Mahadevpur
+    - Malharrao
+    - Mogullapally
+    - Mutharam Mahadevpur
+    - Palimela
+    - Regonda
+    - Tekumatla
+    blocks:
+    - Bhupalpalle
+    - Chityal
+    - Ghanapur (Mulug)
+    - Kataram
+    - Kothapallygori
+    - Mahadevpur
+    - Malhar Rao
+    - Mogullapalle
+    - Mutharam (Mahadevpur)
+    - Palimela
+    - Regonda
+    - Tekumatla
+  - name: Jogulamba Gadwal
+    website: https://gadwal.telangana.gov.in
+    sub_districts:
+    - Alampur
+    - Dharoor
+    - Gadwal
+    - Ghattu
+    - Ieeja
+    - Itikyala
+    - Kaloor Thimmandoddi
+    - Maldakal
+    - Manopad
+    - Rajoli
+    - Undavelly
+    - Waddepally
+    - Yerravalli
+    blocks:
+    - Alampur
+    - Dharur
+    - Gadwal
+    - Ghattu
+    - Ieeja
+    - Itikyal
+    - Kaloor Thimmandoddi
+    - Maldakal
+    - Manopadu
+    - Rajoli
+    - Undavelly
+    - Waddepalle
+    - Yerravalli
+  - name: Kamareddy
+    website: https://kamareddy.telangana.gov.in
+    sub_districts:
+    - Banswada
+    - Bhiknoor
+    - Bibipet
+    - Bichkunda
+    - Birkur
+    - Domakonda
+    - Dongli
+    - Gandhari
+    - Jukkal
+    - Kamareddy
+    - Lingampet
+    - Machareddy
+    - Madnoor
+    - Mohammadnagar
+    - Nagireddypet
+    - Nasurullabad
+    - Nizamsagar
+    - Palwancha
+    - Pedda Kodapgal
+    - Pitlam
+    - Rajampet
+    - Ramareddy
+    - Sadashivanagar
+    - Tadwai
+    - Yellareddy
+    blocks:
+    - Banswada
+    - Bhiknur
+    - Bibipet
+    - Bichkunda
+    - Birkoor
+    - Domakonda
+    - Dongli
+    - Gandhari
+    - Jukkal
+    - Kamareddy
+    - Lingampet
+    - Machareddy
+    - Madnur
+    - Mohammadnagar
+    - Nagireddypet
+    - Nasurullabad
+    - Nizamsagar
+    - Palvancha
+    - Pedda Kodapgal
+    - Pitlam
+    - Rajampet
+    - Ramareddy
+    - Sadasivanagar
+    - Tadwai
+    - Yellareddy
+  - name: Karimnagar
+    website: https://karimnagar.telangana.gov.in
+    sub_districts:
+    - Chigurumamidi
+    - Choppadandi
+    - Ellandakunta
+    - Gangadhara
+    - Ganneruvaram
+    - Huzurabad
+    - Jammikunta
+    - Karimnagar
+    - Karimnagar Rural
+    - Kothapally
+    - Manakondur
+    - Ramadugu
+    - Shankarapatnam
+    - Thimmapur LMD
+    - V.Saidapur
+    - Veenavanka
+    blocks:
+    - Chigurumamidi
+    - Choppadandi
+    - Ellandakunta
+    - Gangadhara
+    - Ganneruvaram
+    - Huzurabad
+    - Jammikunta
+    - Karimnagar Rural
+    - Karimnagar Rural I
+    - Kothapally
+    - Manakondur
+    - Ramadugu
+    - Shankarapatnam
+    - Thimmapur (L.M.D.)
+    - V. Saidapur
+    - Veenavanka
+  - name: Khammam
+    website: https://khammam.telangana.gov.in
+    sub_districts:
+    - Bonakal
+    - Chinthakani
+    - Enkoor
+    - Kalluru
+    - Kamepalli
+    - Khammam (Rural)
+    - Khammam Urban
+    - Konijerla
+    - Kusumanchi
+    - Madhira
+    - Mudigonda
+    - Nelakondapalli
+    - Penuballi
+    - Raghunadhapalem
+    - Sathupalli
+    - Singareni
+    - Thallada
+    - Tirumalayapalem
+    - Vemsoor
+    - Wyra
+    - Yerrupalem
+    blocks:
+    - Bonakal
+    - Chinthakani
+    - Enkoor
+    - Kallur
+    - Kamepally
+    - Khammam (Rural)
+    - Khammam (Urban)
+    - Konijerla
+    - Kusumanchi
+    - Madhira
+    - Mudigonda
+    - Nelakondapally
+    - Penubally
+    - Raghunadhapalem
+    - Sathupally
+    - Singareni
+    - Thallada
+    - Thirumalayapalem
+    - Vemsoor
+    - Wyra
+    - Yerrupalem
+  - name: Kumuram Bheem Asifabad
+    website: https://asifabad.telangana.gov.in
+    sub_districts:
+    - Asifabad
+    - Bejjur
+    - Chintalamanepally
+    - Dahegoan
+    - Jainoor
+    - Kagaznagar
+    - Kerameri
+    - Koutala
+    - Lingapur
+    - Penchicalpet
+    - Rebbena
+    - Sirpur (T)
+    - Sirpur U
+    - Tiryani
+    - Wankidi
+    blocks:
+    - Asifabad
+    - Bejjur
+    - Chintalamanepally
+    - Dahegaon
+    - Jainoor
+    - Kagaznagar
+    - Kerameri
+    - Kouthala
+    - Lingapur
+    - Penchicalpet
+    - Rebbena
+    - Sirpur (T)
+    - Sirpur (U)
+    - Tiryani
+    - Wankidi
+  - name: Mahabubabad
+    website: https://mahabubabad.telangana.gov.in
+    sub_districts:
+    - Bayyaram
+    - Chinnagudur
+    - Danthalapalle
+    - Dornakal
+    - Gangaram
+    - Garla
+    - Gudur
+    - Inugurthy
+    - Kesamudram
+    - Kothaguda
+    - Kuravi
+    - Mahabubabad
+    - Maripeda
+    - Narsimhulapet
+    - Nellikudur
+    - Peddavangara
+    - Seerole
+    - Thorrur
+    blocks:
+    - Bayyaram
+    - Chinnagudur
+    - Danthalapalle
+    - Dornakal
+    - Gangaram
+    - Garla
+    - Gudur
+    - Inugurthy
+    - Kesamudram
+    - Kothagudem
+    - Kuravi
+    - Mahbubabad
+    - Maripeda
+    - Nallikudur
+    - Narsimhulapet
+    - Peddavangara
+    - Seerole
+    - Thorrur
+  - name: Mahabubnagar
+    website: https://mahabubnagar.telangana.gov.in
+    sub_districts:
+    - Addakal
+    - Balanagar
+    - Bhoothpur
+    - Chinnachintakunta
+    - Devarakadra
+    - Gandeed
+    - Hanwada
+    - Jadcherla
+    - Koilkonda
+    - Koukuntla
+    - Mahabubnagar Rural
+    - Mahabubnagar Urban
+    - Midjil
+    - Mohammadabad
+    - Moosapet
+    - Nawabpet
+    - Rajapur
+    blocks:
+    - Addakal
+    - Balanagar
+    - Bhoothpur
+    - Chinnachintakunta
+    - Devarakadara
+    - Gandeed
+    - Hanwada
+    - Jadcherla
+    - Koilkonda
+    - Koukuntla
+    - Mahabubnagar Urban
+    - Mahbubnagar Rural
+    - Midjil
+    - Mohammadabad
+    - Moosapet
+    - Nawabpet
+    - Rajapur
+  - name: Mancherial
+    website: https://mancherial.telangana.gov.in
+    sub_districts:
+    - Bellampally
+    - Bheemaram
+    - Bheemini
+    - Chennur
+    - Dandepally
+    - Hajipur
+    - Jaipur
+    - Jannaram
+    - Kannepally
+    - Kasipet
+    - Kotapally
+    - Luxettipet
+    - Mancherial
+    - Mandamarri
+    - Naspur
+    - Nennel
+    - Tandur
+    - Vemanpally
+    blocks:
+    - Bellampally
+    - Bheemaram
+    - Bheemini
+    - Chennur
+    - Dandepally
+    - Hajipur
+    - Jaipur
+    - Jannaram
+    - Kannepally
+    - Kasipet
+    - Kotapally
+    - Luxettipet
+    - Mancherial
+    - Mandamarri
+    - Naspur
+    - Nennel
+    - Tandur
+    - Vemanpally
+  - name: Medak
+    website: https://medak.telangana.gov.in
+    sub_districts:
+    - Alladurg
+    - Chegunta
+    - Chilpched
+    - Havelighanapur
+    - Kowdipally
+    - Kulcharam
+    - Manoharabad
+    - Masaipet
+    - Medak
+    - Narsapur
+    - Narsingi
+    - Nizampet
+    - Papannapet
+    - Ramayampet
+    - Regode
+    - Shankarampet (A)
+    - Shankarampet (R)
+    - Shivampet
+    - Tekmal
+    - Toopran
+    - Yeldurthy
+    blocks:
+    - Alladurg
+    - Chegunta
+    - Chilpched
+    - Havelighanapur
+    - Kowdipalli
+    - Kulcharam
+    - Manoharabad
+    - Masaipet
+    - Medak
+    - Narsapur
+    - Narsingi
+    - Nizampet
+    - Papannapet
+    - Ramayampet
+    - Regode
+    - Shankarampet[A]
+    - Shankarampet[R]
+    - Shivampet
+    - Tekmal
+    - Tupran
+    - Yeldurthy
+  - name: Medchal Malkajgiri
+    website: https://medchal-malkajgiri.telangana.gov.in
+    sub_districts:
+    - Alwal
+    - Bachupally
+    - Balanagar
+    - Gandimaisamma Dundigal
+    - Ghatkesar
+    - Kapra
+    - Keesara
+    - Kukatpally
+    - Malkajgiri
+    - Medchal
+    - Medipally
+    - Muduchinthalapally
+    - Qutballapur
+    - Shamirpet
+    - Uppal
+    blocks:
+    - Alwal
+    - Bachupally
+    - Balanagar
+    - Dundigal Gandimaisamma
+    - Ghatkesar
+    - Kapra
+    - Keesara
+    - Kukatpally
+    - Malkajgiri
+    - Medchal
+    - Medipally
+    - Muduchinthalapally
+    - Quthbullapur
+    - Shamirpet
+    - Uppal
+  - name: Mulugu
+    website: https://mulugu.telangana.gov.in
+    sub_districts:
+    - Eturunagaram
+    - Govindaraopet
+    - Kannaigudem
+    - Mallampally
+    - Mangapet
+    - Mulug
+    - Tadvai
+    - Venkatapur
+    - Venkatapuram
+    - Wajedu
+    blocks:
+    - Eturnagaram
+    - Govindaraopet
+    - Kannaigudem
+    - Mallampally
+    - Mangapet
+    - Mulug
+    - Tadvai
+    - Venkatapur
+    - Venkatapuram
+    - Wazeed
+  - name: Nagarkurnool
+    website: https://nagarkurnool.telangana.gov.in
+    sub_districts:
+    - Achampet
+    - Amrabad
+    - Balmoor
+    - Bijinapally
+    - Charakonda
+    - Kalwakurthy
+    - Kodair
+    - Kollapur
+    - Lingal
+    - Nagarkurnool
+    - Padara
+    - Peddakothapally
+    - Pentlavelli
+    - Tadoor
+    - Telkapally
+    - Thimmajipet
+    - Uppununthala
+    - Urkonda
+    - Vangoor
+    - Veldanda
+    blocks:
+    - Achampeta
+    - Amrabad
+    - Balmoor
+    - Bijinapalle
+    - Charakonda
+    - Kalwakurthy
+    - Kodair
+    - Kollapur
+    - Lingal
+    - Nagarkurnool
+    - Padara
+    - Peddakothapalle
+    - Pentlavelli
+    - Tadoor
+    - Telkapalle
+    - Thimmajipeta
+    - Uppununthala
+    - Urkonda
+    - Vangoor
+    - Veldanda
+  - name: Nalgonda
+    website: https://nalgonda.telangana.gov.in
+    sub_districts:
+    - Adavidevulapalli
+    - Anumula
+    - Chandampeta
+    - Chandur
+    - Chinthapally
+    - Chityal
+    - Dameracherla
+    - Devarakonda
+    - Gattuppal
+    - Gudipally
+    - Gundlapally
+    - Gurrampode
+    - Kanagal
+    - Kattangur
+    - Kethepally
+    - Kondamallepally
+    - Madugulapally
+    - Marriguda
+    - Miryalaguda
+    - Munugode
+    - Nakrekal
+    - Nalgonda
+    - Nampally
+    - Narketpally
+    - Neredugommu
+    - Nidmanoor
+    - Pedda Adesherlapally
+    - Peddavoora
+    - Shaligouraram
+    - Thipparthy
+    blocks:
+    - Adavidevulapalli
+    - Anumula
+    - Chandampet
+    - Chandur
+    - Chintha Pally
+    - Chityala
+    - Dameracherla
+    - Devarakonda
+    - Gattuppal
+    - Gudipally
+    - Gundlapally (Dindi)
+    - Gurrampode
+    - Kanagal
+    - Kattangoor
+    - Kethe Pally
+    - Konda Mallepally
+    - Madugulapally
+    - Marriguda
+    - Miryalaguda
+    - Munugode
+    - Nakrekal
+    - Nalgonda
+    - Nampally
+    - Narketpally
+    - Neredugommu
+    - Nidamanoor
+    - Pedda Adiserlapally
+    - Peddavoora
+    - Shali Gouraram
+    - Thipparthi
+  - name: Narayanpet
+    website: https://narayanpet.telangana.gov.in
+    sub_districts:
+    - Damargidda
+    - Dhanwada
+    - Gundumal
+    - Kosgi
+    - Kothapally (15)
+    - Krishna
+    - Maddur
+    - Maganoor
+    - Makthal
+    - Marikal
+    - Narayanpet
+    - Narwa
+    - Utkoor
+    blocks:
+    - Damaragidda
+    - Dhanwada
+    - Gundumal
+    - Kosgi
+    - Kothapalle
+    - Krishna
+    - Maddur
+    - Maganoor
+    - Makthal
+    - Marikal
+    - Narayanpet
+    - Narva
+    - Utkoor
+  - name: Nirmal
+    website: https://nirmal.telangana.gov.in
+    sub_districts:
+    - Basar
+    - Bhainsa
+    - Dasturabad
+    - Dilawarpur
+    - Kaddam Peddur
+    - Khanapur
+    - Kubeer
+    - Kuntala
+    - Laxmanchanda
+    - Lokeswaram
+    - Mamada
+    - Mudhole
+    - Narsapur G
+    - Nirmal Rural
+    - Nirmal U
+    - Pembi
+    - Sarangapur
+    - Soan
+    - Tanoor
+    blocks:
+    - Basar
+    - Bhainsa
+    - Dasturabad
+    - Dilawarpur
+    - Kaddam (Peddur)
+    - Khanapur
+    - Kubeer
+    - Kuntala
+    - Laxmanchanda
+    - Lokeswaram
+    - Mamda
+    - Mudhole
+    - Narsapur G
+    - Nirmal
+    - Nirmal Rural
+    - Pembi
+    - Sarangapur
+    - Soan
+    - Tanur
+  - name: Nizamabad
+    website: https://nizamabad.telangana.gov.in
+    sub_districts:
+    - Aloor
+    - Armoor
+    - Balkonda
+    - Bheemgal
+    - Bodhan
+    - Chandur
+    - Dharpally
+    - Dichpally
+    - Donkeshwar
+    - Indalwai
+    - Jakranpally
+    - Kammarpally
+    - Kotagiri
+    - Makloor
+    - Mendora
+    - Morthad
+    - Mosara
+    - Mugpal
+    - Mupkal
+    - Nandipet
+    - Navipet
+    - Nizamabad North
+    - Nizamabad Rural
+    - Nizamabad South
+    - Pothangal
+    - Renjal
+    - Rudrur
+    - Saloora
+    - Sirikonda
+    - Vailpoor
+    blocks:
+    - Aloor
+    - Armur
+    - Balkonda
+    - Bheemgal
+    - Bodhan
+    - Chandur
+    - Dharpalle
+    - Dichpalle
+    - Donkeshwar
+    - Indalwai
+    - Jakranpalle
+    - Kammarapalle
+    - Kotgiri
+    - Makloor
+    - Mendora
+    - Mortad
+    - Mosara
+    - Mugpal
+    - Mupkal
+    - Nandipet
+    - Navipet
+    - Nizamabad North
+    - Nizamabad Rural
+    - Nizamabad South
+    - Pothangal
+    - Renjal
+    - Rudrur
+    - Saloora
+    - Sirkonda
+    - Varni
+  - name: Peddapalli
+    website: https://peddapalli.telangana.gov.in
+    sub_districts:
+    - Anthergaon
+    - Dharmaram
+    - Eligaid
+    - Julapalli
+    - Kamanpur
+    - Manthani
+    - Mutharam (Manthani)
+    - Odela
+    - Palakurthy
+    - Peddapalli
+    - Ramagiri
+    - Ramagundam
+    - Srirampur
+    - Sulthanabad
+    blocks:
+    - Anthergaon
+    - Dharmaram
+    - Eligaid
+    - Julapalli
+    - Kamanpur
+    - Manthani
+    - Mutharam (Manthani)
+    - Odela
+    - Palakurthy
+    - Peddapalli
+    - Ramagiri
+    - Ramagundam
+    - Srirampur
+    - Sulthanabad
+  - name: Rajanna Sircilla
+    website: https://rajannasircilla.telangana.gov.in
+    sub_districts:
+    - Boinpalli
+    - Chandurthi
+    - Gambhiraopet
+    - Illanthakunta
+    - Konaraopet
+    - Mustabad
+    - Rudrangi
+    - Sircilla
+    - Thangallapalli
+    - Veernapalli
+    - Vemulawada
+    - Vemulawada Rural
+    - Yellareddipet
+    blocks:
+    - Boinpalli
+    - Chandurthi
+    - Ellanthakunta
+    - Gambhiraopet
+    - Konaraopet
+    - Mustabad
+    - Rudrangi
+    - Sircilla
+    - Thangallapalli
+    - Veernapalli
+    - Vemulawada
+    - Vemulawada Rural
+    - Yellareddipet

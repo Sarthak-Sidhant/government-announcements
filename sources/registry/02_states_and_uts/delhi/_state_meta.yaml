@@ -1,9 +1,84 @@
-# === IDENTITY ===
-id: "state-delhi"
-name: "Delhi"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-delhi
+name: Delhi
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Central
+    website: https://dccentral.delhi.gov.in
+    sub_districts:
+    - Civil Lines
+    - Karol Bagh
+    - Kotwali
+    blocks: []
+  - name: East
+    website: https://dmeast.delhi.gov.in
+    sub_districts:
+    - Gandhi Nagar
+    - Mayur Vihar
+    - Preet Vihar
+    blocks: []
+  - name: New Delhi
+    website: https://dmnewdelhi.delhi.gov.in
+    sub_districts:
+    - Chanakya Puri
+    - Delhi Cantonment
+    - Vasant Vihar
+    blocks: []
+  - name: North
+    website: https://dmnorth.delhi.gov.in
+    sub_districts:
+    - Alipur
+    - Model Town
+    - Narela
+    blocks: []
+  - name: North East
+    website: https://dmnortheast.delhi.gov.in
+    sub_districts:
+    - Karawal Nagar
+    - Seelam Pur
+    - Yamuna Vihar
+    blocks: []
+  - name: North West
+    website: https://dmnorthwest.delhi.gov.in
+    sub_districts:
+    - Kanjhawala
+    - Rohini
+    - Saraswati Vihar
+    blocks: []
+  - name: Shahdara
+    website: https://dmshahdara.delhi.gov.in
+    sub_districts:
+    - Seema Puri
+    - Shahdara
+    - Vivek Vihar
+    blocks: []
+  - name: South
+    website: https://dmsouth.delhi.gov.in
+    sub_districts:
+    - Hauz Khas
+    - Mehrauli
+    - Saket
+    blocks: []
+  - name: South East
+    website: https://dmsoutheast.delhi.gov.in
+    sub_districts:
+    - Defence Colony
+    - Kalkaji
+    - Sarita Vihar
+    blocks: []
+  - name: South West
+    website: https://dmsouthwest.delhi.gov.in
+    sub_districts:
+    - Dwarka
+    - Kapeshera
+    - Najafgarh
+    blocks: []
+  - name: West
+    website: https://dcwestrev.delhi.gov.in
+    sub_districts:
+    - Patel Nagar
+    - Punjabi Bagh
+    - Rajouri Garden
+    blocks: []

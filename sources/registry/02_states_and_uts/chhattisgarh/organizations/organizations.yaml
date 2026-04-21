@@ -1,0 +1,320 @@
+parent_state: Chhattisgarh
+organizations:
+- name: Official Portal of Chhattisgarh Government
+  website: https://www.cgstate.gov.in
+  category: State Portal
+  status: external_link
+- name: Berojgari Bhatta Portal, Chhattisgarh
+  website: https://berojgaribhatta.cg.nic.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Chhattisgarh Infotech Promotional Society (CHIPS)
+  website: https://www.chips.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: e-MaapVigyan, Chhattisgarh
+  website: https://legalmetrology.cg.nic.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Chhattisgarh Human Rights Commission
+  website: https://hrc.cg.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Chhattisgarh State Electricity Regulatory Commission (CSERC)
+  website: https://cserc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Mission Vatsalya Monitoring System, Chhattisgarh
+  website: https://missionvatsalya.cg.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Information Commission (SIC), Chhattisgarh
+  website: https://siccg.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Planning Commission, Chhattisgarh
+  website: https://spc.cg.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Chhattisgarh Police
+  website: https://cgpolicehelp.cgstate.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Nava Raipur Atal Nagar Vikas Pradhikaran, Chhattisgarh
+  website: https://navaraipuratalnagar.com
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Chhattisgarh Directorate of Employment and Training
+  website: https://cgiti.admissions.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Chhattisgarh Public Relations Directorate
+  website: https://dprcg.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics & Statistics, Raipur, Chhattisgarh
+  website: https://descg.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Food, Chhattisgarh
+  website: https://fcs.cg.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Horticulture, Chhattisgarh
+  website: https://cghorticulture.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education, Nawa Raipur
+  website: https://cgdme.co.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Sainik Welfare, Chhattisgarh
+  website: https://sainikwelfare.cg.gov.in/directorate/html/en/directorate_chhattisgarh_home_en.html
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education, Chhattisgarh
+  website: https://cgdte.admissions.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Town and Country Planning, Chhattisgarh
+  website: https://tcp.cg.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: e-Kosh Online, Directorate of Treasury Accounts and Pensions, Chhattisgarh
+  website: https://ekoshonline.cg.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: "AWAS \u2013 Housing Board Computerization, Chhattisgarh"
+  website: https://cghb.cg.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh Biofuel Development Authority (CBDA)
+  website: https://www.cbda.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh Board Of Secondary Education, Raipur
+  website: https://cgbse.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh Housing Board, Raipur
+  website: https://cghb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh Professional Examination Board
+  website: https://vyapam.cgstate.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh State Beverages Corporation
+  website: https://csbc.cg.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh State Examination Results
+  website: https://results.cg.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh State Industrial Development Corporation Limited (CSIDC)
+  website: https://csidc.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh State Minor Forest Produce (Trading & Development) Co-Operative
+    Fedration Limited, Chhattisgarh
+  website: https://www.cgmfpfed.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh State Power Distribution Company Limited (CSPDCL)
+  website: https://cspdcl.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh State Power Generation Co. Ltd.
+  website: https://cspgcl.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh State Watershed Management Agency (CGSWMA)
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattisgarh Text Book Corporation
+  website: https://www.tbc.cg.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chhattishgarh State Warehousing Corporation (CGSWC)
+  website: https://cgswc.cg.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Handicraft & Handloom, Chhattisgarh
+  website: https://shabari.cg.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: State Load Despatch Centre (SLDC), Chhattisgarh
+  website: https://www.sldccg.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Bhuiyan, Chhattisgarh Land Records
+  website: https://bhuiyan.cg.nic.in
+  category: Revenue Divisions
+  status: external_link
+- name: Registrar Co-operative Societies, Chhattisgarh
+  website: https://coop.cg.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Chhattisgarh Ayush Counselling
+  website: https://cgayush.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Chhattisgarh Medical Counselling
+  website: https://cgdme.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Chhattisgarh Swami Vivekananda Technical University (CSVTU)
+  website: https://csvtu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dau Shri Vasudev Chandrakar Kamdhenu Vishwavidyalaya, Chhattisgarh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Goverment Polytechnic College, Ambikapur, Chhattisgarh
+  website: https://www.polyambikapur.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government College Kotri, Chhattisgarh
+  website: https://govtcollegekotri.in
+  category: Academies / Institutions
+  status: external_link
+- name: Govt. Dudhadhari Bajrang Girls Postgraduate College,Raipur, Chhattisgarh
+  website: https://www.dbgirls.org
+  category: Academies / Institutions
+  status: external_link
+- name: Hidayatullah National Law University (HNLU), Raipur, Chhattisgarh
+  website: https://www.hnlu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Pandit Sundarlal Sharma (Open) University (PSSOU) Chhattisgarh, Bilaspur
+  website: https://www.pssou.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Post Matric Scholarship Portal, Chhattisgarh
+  website: https://postmatric-scholarship.cg.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Sant Gahira Guru Vishwavidyalaya, Surguja, Ambikapur, Chhattisgarh
+  website: https://www.sggcg.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tribal Research & Training Institute, Chhattisgarh
+  website: https://cgtrti.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Chhattisgarh Farmer Registry
+  website: https://cgfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chhattisgarh Unified Industrial Portal
+  website: https://oneclick.cgstate.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: E-Uttar Chhattisgarh Vidhan Sabha
+  website: https://vidhansabha.cg.nic.in/euttar
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Hostel/Ashram Management System Portal, Chhattisgarh
+  website: https://hmstribal.cg.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Integrated Farmer Portal, Chhattisgarh
+  website: https://kisan.cg.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Web Application Portal of Higher Education Department, Chhattisgarh
+  website: https://heonline.cg.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Chhattisgarh
+  website: https://chhattisgarh.mygov.in
+  contact:
+    address: Chhattisgarh Infotech Promotion Society (CHiPS), 3rd Floor, State Data
+      Centre Building, Opp. New Circuit House, Civil Lines, Raipur-492001 Chhattisgarh
+    phone: 0771-4014158, 0771-4023123
+    fax: 0771-4066205
+    email: ceochips[at]nic[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Advocate General, Chhattisgarh
+  website: https://advocategeneralcg.com
+  category: Others
+  status: external_link
+- name: Budget, Chhattisgarh
+  website: null
+  category: Others
+  status: external_link
+- name: Corona Guidelines, Chhattisgarh
+  website: https://gad.cg.gov.in/cgcorona
+  category: Others
+  status: external_link
+- name: Directorate of Aviation, Chhattisgarh
+  website: null
+  category: Others
+  status: external_link
+- name: E-Panjeeyan - Online Property Registration Portal by Department of Registration,
+    Chhattisgarh
+  website: https://epanjeeyan.cg.gov.in
+  category: Others
+  status: external_link
+- name: Forest Management Information System, Chhattisgarh
+  website: null
+  category: Others
+  status: external_link
+- name: Hydrology Project, Chhattisgarh
+  website: https://hydrologyproject.cg.gov.in
+  category: Others
+  status: external_link
+- name: Integrated e-Procurement Portal, Chhattisgarh
+  website: https://eproc.cgstate.gov.in
+  category: Others
+  status: external_link
+- name: Janshikayat - Register Grievances online, Status of Grievance, Chhattisgarh
+  website: https://janshikayat.cg.nic.in
+  category: Others
+  status: external_link
+- name: Mahatma Gandhi National Rural Employment Guarantee Scheme, Chhattisgah
+  website: https://mgnrega.cg.nic.in
+  category: Others
+  status: external_link
+- name: Online Citizen Services Portal, Chhattisgarh
+  website: https://edistrict.cgstate.gov.in
+  category: Others
+  status: external_link
+- name: Raipur Development Authority
+  website: https://rda.cgstate.gov.in
+  category: Others
+  status: external_link
+- name: State Health Resource Centre, Chhattisgarh
+  website: https://shsrc.org
+  category: Others
+  status: external_link
+- name: State council of Educational Research & Training, Raipur, Chhattisgarh
+  website: https://scert.cg.gov.in
+  category: Others
+  status: external_link
+- name: Sub Divisional Magistrate (East), Chhattisgarh
+  website: null
+  category: Others
+  status: external_link
+- name: e-Challan, Chhattisgarh
+  website: https://echallan.cg.nic.in
+  category: Others
+  status: external_link
+- name: e-Gazette, Chhattisgarh
+  website: https://egazette.cg.nic.in
+  category: Others
+  status: external_link
+- name: "e-ManeC \u2013 e-Marketing Network, Chhattisgarh"
+  website: https://emanec.cg.gov.in
+  category: Others
+  status: external_link

@@ -1,0 +1,296 @@
+parent_state: Tripura
+organizations:
+- name: Official Portal of Tripura Government
+  website: https://tripura.gov.in
+  category: State Portal
+  status: external_link
+- name: Birchandra State Central Library, Agartala, Tripura
+  website: https://bcscl.tripura.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Chief Secretary, Tripura
+  website: https://tripura.gov.in/chief-secretary-profile
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Commissionerate of Taxes and Excise, Tripura
+  website: https://taxes.tripura.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Police Accountability Commission (PAC), Tripura
+  website: https://pac.tripura.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Tripura Information Commission, Tripura
+  website: https://rti.tripura.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Tripura State Human Rights Commission
+  website: https://thrc.tripura.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: National Generic Document Registration System, Tripura
+  website: https://ngdrs.tripura.gov.in/NGDRS_TR/Users/welcomenote
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Tripura Renewable Energy Development Agency, Tripura
+  website: https://treda.tripura.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Tripura Tribal Areas Autonomous District Council (TTAADC), Tripura
+  website: https://ttaadc.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Bio-Technology, Tripura
+  website: https://dbttripura.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics & Statistics, Tripura
+  website: https://ecostat.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Elementary Education, Tripura
+  website: https://elementaryeducation.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Employment Services and Manpower Planning, Tripura
+  website: https://employment.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Horticulture & Soil Conservation, Tripura
+  website: https://horti.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Information Technology, Tripura
+  website: https://dit.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education, Tripura
+  website: https://dme.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Prisons, Tripura
+  website: https://prisons.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Secondary Education, Tripura
+  website: https://schooleducation.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Social Welfare and Social Education, Tripura
+  website: https://socialwelfare.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Factories and Boilers Organisation, Tripura
+  website: https://factory.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Fire & Emergency Services, Tripura
+  website: https://fireservice.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Professions Tax - Commissionerate of Taxes & Excise, Tripura
+  website: https://ptax.tripura.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: ONGC Tripura Power Company Limited, Tripura
+  website: https://www.otpcindia.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Teachers' Recruitment Board, Tripura
+  website: https://trb.tripura.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura Board of Joint Entrance Examination, Tripura
+  website: https://tbjee.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura Disaster Management Authority, Tripura
+  website: https://tdma.tripura.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura Forest Developent And Plantation Corporation Limited (TFDPC), Tripura
+  website: https://tfdpc.tripura.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura Industrial Development Corporation Ltd. (TIDC), Tripura
+  website: https://tidc.tripura.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura Minorities Cooperative Development Corporation Limited (TMCDCL), Tripura
+  website: https://tmcdcl.tripura.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura State Electricity Corporation Limited, Tripura
+  website: https://www.tsecl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura State Pollution Control Board (TSPCB), Tripura
+  website: https://tspcb.tripura.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tripura Natural Gas Company Ltd. (TNGCL), Tripura
+  website: https://tngclonline.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Agartala Government Medical College, Tripura
+  website: https://www.agmc.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bir Bikram Memorial College, Agartala, Tripura
+  website: https://bbmc.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dhalai District Polytechnic, Ambassa, Tripura
+  website: https://ddpambassa.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gomati District Polytechnic, Fulkumari, Udaipur, Tripura
+  website: https://gdp.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Degree College, Kamalpur, Dhalai, Tripura
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Iswar Chandra Vidyasagar College, Tripura
+  website: https://icvcollege.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Maharaja Bir Bikram College (MBB), Agartala, Tripura
+  website: https://www.mbbcollege.in
+  category: Academies / Institutions
+  status: external_link
+- name: Netaji Subhash Mahavidyalaya, Udaipur, Tripura
+  website: https://nsmahavidyalaya.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ramthakur College, Agartala, Tripura
+  website: https://ramthakurcollege.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Public Administration and Rural Development (SIPARD), Tripura
+  website: https://sipard.tripura.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Swami Vivekananda Mahavidyalaya, Mohanpur, Tripura
+  website: https://svmmohanpur.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tripura Institute of Technology (TIT), Tripura
+  website: https://www.titagartala.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tripura Medical Counselling Committee (TRMCC)
+  website: https://trmcc.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Women's College, Agartala, Tripura
+  website: https://www.womenscollege.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Women's Polytechnic, Hapania, Tripura
+  website: https://wptripura.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ordinary Resident Register, Tripura
+  website: https://eror.tripura.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Tripura
+  website: https://tripura.mygov.in
+  contact:
+    address: "Chief Minster\u2019s Secretariat Room No. 301, Block -1 State Civil\
+      \ Secretariat, New Capital Complex. PO- Kunjaban, PIN \u2013 799010 Agartala,\
+      \ Tripura"
+    phone: 0381-2414077
+    fax: ''
+    email: ''
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Aadhaar enabled Public Distribution System - AePDS, Tripura
+  website: https://epostr.gov.in
+  category: Others
+  status: external_link
+- name: Beneficiary Management Ecosystem, Tripura
+  website: https://bms.tripura.gov.in/bms
+  category: Others
+  status: external_link
+- name: Digital India Land Records Modernization Programme (DILRMP), Tripura
+  website: https://jami.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Digital Seva e-District Portal, Tripura
+  website: https://edistrict.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Direct Benefit Transfer, Tripura
+  website: https://dbttripura.gov.in
+  category: Others
+  status: external_link
+- name: Food and Essential Commodities Assurance & Security Target (FEAST), Tripura
+  website: https://feasttr.gov.in
+  category: Others
+  status: external_link
+- name: KTDS Police Training Academy, Tripura
+  website: https://ktdspta.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Portal for Welfare of Returned Workers, Tripura
+  website: null
+  category: Others
+  status: external_link
+- name: Society For Tripura Medical College & Dr. BRAM Teaching Hospital, Tripura
+  website: https://tmc.nic.in
+  category: Others
+  status: external_link
+- name: State Resource Centre (SRC), Society for Rehabilitation of Disabled, Tripura
+  website: https://src.tripura.gov.in
+  category: Others
+  status: external_link
+- name: The Tripura State Medical Council, Tripura
+  website: https://tsmc.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Tripura Biotechnology Council (TBC), Tripura
+  website: https://biotechnologycouncil.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Tripura Examination Results, Agartala , Tripura
+  website: https://tbresults.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Tripura Farmers Portal & Kisan Call Center (KCC), Tripura
+  website: https://farmersportal.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Tripura JICA Project - Sustainable Catchment Forest Management (SCATFORM),
+    Tripura
+  website: https://jica.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Tripura Nursing Council, Tripura
+  website: https://nursingcouncil.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Tripura State Blood Transfusion Council, Tripura
+  website: https://tsbtc.tripura.gov.in
+  category: Others
+  status: external_link
+- name: Tripura State Co-Operative Bank Ltd. (TSCB), Tripura
+  website: https://tscbank.nic.in
+  category: Others
+  status: external_link
+- name: Tripura State Council For Science & Technology, Tripura
+  website: https://tscst.nic.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Tripura
+  website: https://tripuratenders.gov.in
+  category: Others
+  status: external_link

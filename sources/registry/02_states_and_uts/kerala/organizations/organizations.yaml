@@ -1,0 +1,547 @@
+parent_state: Kerala
+organizations:
+- name: Official Portal of Kerala Government
+  website: https://kerala.gov.in
+  category: State Portal
+  status: external_link
+- name: Energy Management Centre, Kerala
+  website: https://www.keralaenergy.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Patent Information Centre, Kerala
+  website: https://patentcentre.kerala.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: System for Easy and Legal Issuance of Fuel Permit and Fuel, Kerala
+  website: https://self.kerala.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Kerala State Commission for Protection of Child Rights, Kerala
+  website: https://kescpcr.kerala.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Kerala State Farmers Debt Relief Commission, Kerala
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Kerala State Human Rights Commission
+  website: https://www.kshrc.kerala.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Kerala State Information Commission, Kerala
+  website: https://rti.sic.kerala.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Kerala State Veterinary Council, Kerala
+  website: https://ksvc.kerala.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Kerala State Women's Commission, Kerala
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Pay Revision Commission, Kerala
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: The Kerala State Commission for Backward Classes, Kerala
+  website: https://kscbc.kerala.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Agency for Development of Aquaculture (ADAK), Kerala
+  website: https://adak.kerala.gov.in/eng
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Agency for Non Conventional Energy and Rural Technology (ANERT), Kerala
+  website: https://anert.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Farm Information Bureau, Kerala
+  website: https://www.fibkerala.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Government Ayurveda College, Thiruvananthapuram, Kerala
+  website: https://www.govtayurvedacollegetvm.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Government College, Kattapana, Kerala
+  website: https://www.gckattappana.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kerala Institute of Tourism and Travel Studies (KITTS), Kerala
+  website: https://www.kittsedu.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kerala Police, Kerala
+  website: https://keralapolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kerala Real Estate Regulatory Authority (E-RERA), Kerala
+  website: https://rera.kerala.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kerala State Industrial Development Corporation Ltd., Kerala
+  website: https://www.ksidc.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kerala State Mental Health Authority (KSMHA), Kerala
+  website: https://www.ksmha.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: NEO Cradle, Kerala
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: SCERT - State Council Educational Research and Training, Kerala
+  website: https://www.scert.kerala.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Collegiate Education, Kerala
+  website: https://collegiateedu.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Culture, Kerala
+  website: https://culturedirectorate.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Handlooms and Textiles, Kerala
+  website: https://www.handloom.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Health Services, Kerala
+  website: https://www.dhs.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education, Kerala
+  website: https://dme.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Social Welfare, Kerala
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Survey and Land Records, Kerala
+  website: https://dslr.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Vocational Higher Secondary Education, Kerala
+  website: https://www.vhseportal.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of coir development, Kerala
+  website: https://coir.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorates of Factories and Boilers, Kerala
+  website: https://www.fabkerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Kerala Prisons & Correctional Services, Kerala
+  website: https://www.keralaprisons.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Labour Commissionerate, Kerala
+  website: https://lc.kerala.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Handicrafts Development Corporation of Kerala Limited, Kerala
+  website: https://www.handicrafts.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Irrigation Design and Research Board, Kerala
+  website: https://www.idrb.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Academy for Skills Excellence (KASE), Kerala
+  website: https://www.kase.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Co-operative Milk Marketing Federation, Kerala
+  website: https://milma.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Co-operative Services Examination Board, Thiruvananthapuram, Kerala
+  website: https://keralacseb.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Feeds Limited, Thrissur, Kerala
+  website: https://www.keralafeeds.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Financial Corporation (KFC), Kerala
+  website: https://www.kfc.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Forest Development Corporation Limited (KFDC), Kottayam, Kerala
+  website: https://kfdc.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Industrial Infrastructure Development Corporation (KINFRA), Kerala
+  website: https://kinfra.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Livestock Development Board, Kerala
+  website: https://livestock.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Police Housing and Construction Corporation Ltd. (KPHCC), Kerala
+  website: https://kphccltd.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Shipping and Inland Navigation Corporation Ltd., Kerala
+  website: https://www.ksinc.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala Shops and Commercial Establishments Workers Welfare Fund Board, Kerala
+  website: https://peedika.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Biodiversity Board, Kerala
+  website: https://keralabiodiversity.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Civil Supplies Corporation Limited, Kerala
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Disaster Management Authority, Kerala
+  website: https://www.sdma.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Electricity Board Ltd. (KSEB), Kerala
+  website: https://www.kseb.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Electronics Development Corporation Limited (KELTRON), Kerala
+  website: https://www.keltron.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Housing Board, Kerala
+  website: https://kshb.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Land Use Board, Kerala
+  website: https://kslub.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Planning Board, Kerala
+  website: https://spb.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Pollution Control Board, Kerala
+  website: https://kspcb.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Poultry Development Corporation Ltd., Kerala
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Road Transport Corporation, Kerala
+  website: https://www.keralartc.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Kerala State Textile Corporation Limited, Kerala
+  website: https://kstc.kerala.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Foam Mattings (India) Limited (FOMIL), Kerala
+  website: null
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Kerala Automobiles Limited (KAL), Kerala
+  website: https://kal.org.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Kerala State Differently Abled Welfare Corporation Limited, Kerala
+  website: https://www.hpwc.kerala.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: The Kerala Minerals and Metals Limited, Kerala
+  website: https://www.kmml.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Traco Cable Company Limited, Kerala
+  website: https://www.tracocable.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Travancore Titanium Products Limited, Kerala
+  website: https://travancoretitanium.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Additional Skill Acquisition Programme (ASAP) Kerala
+  website: https://asapkerala.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Akshaya - e-Governance Tool, Kerala
+  website: https://akshaya.kerala.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Army Public School Trivandrum, Kerala
+  website: https://www.armyschooltrivandrum.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Development of Imaging Technology (C-DIT), Kerala
+  website: https://cdit.org
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Water Resources Development and Management (CWRDM), Kerala
+  website: https://cwrdm.kerala.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Co-operative Academy of Professional Education (CAPE), Kerala
+  website: https://www.capekerala.org
+  category: Academies / Institutions
+  status: external_link
+- name: Cochin University of Science and Technology, Kerala
+  website: https://www.cusat.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: College of Engineering Attingal, Kerala
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: College of Engineering Chengannur, Kerala
+  website: https://www.ceconline.edu
+  category: Academies / Institutions
+  status: external_link
+- name: College of Engineering Kallooppara, Kerala
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: College of Engineering Thalassery, Kerala
+  website: https://www.cethalassery.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: College of Engineering Trikaripur, Kerala
+  website: https://www.cetkr.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: College of Engineering Trivandrum, Kerala
+  website: https://www.cet.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: College of Engineering Vadakara, Kerala
+  website: https://www.cev.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Computer Centre, University of Kerala, Kerala
+  website: https://www.kucc.keralauniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Directorate of Collegiate Education, Kerala
+  website: https://www.dcescholarship.kerala.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Directorate of Technical Education, Kerala
+  website: https://www.dtekerala.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training (DIET) - Thrissur, Kerala
+  website: https://www.dietthrissur.org
+  category: Academies / Institutions
+  status: external_link
+- name: Goverment Engineering College Idukki, Kerala
+  website: https://gecidukki.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Ayurveda College, Kannur, Kerala
+  website: https://gack.kerala.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Nursing, Thrissur, Kerala
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Engineering College - Kozhikode, Kerala
+  website: https://www.geckkd.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Engineering College Palakkad, Sreekrishnapuram, Kerala
+  website: https://gecskp.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Engineering College, Barton Hill, Kerala
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Engineering College, Thrissur, Kerala
+  website: https://gectcr.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ayyankali Urban Employment Guarantee Scheme, Kerala
+  website: https://auegsmis.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Cochin University of Science and Technology, Kerala
+  website: https://results.cusat.ac.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Ente Bhoomi - Digital Land Records System, Kerala
+  website: https://entebhoomi.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Ente Bhoomi - Digital Land Survey, Kerala
+  website: https://survey.entebhoomi.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Information Kerala Mission (IKM), Kerala
+  website: https://www.ikm.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala Agriculture Technology Hub and Information Repository (KATHIR)
+  website: https://kathir.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala Electricity Ombudsman, Kerala
+  website: https://www.keralaeo.org
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala Farmer Registry
+  website: https://klfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala Online Mining Permit Awarding Services
+  website: https://www.portal.dmg.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala Social Security Mission, Kerala
+  website: https://socialsecuritymission.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala Startup Mission (KSUM), Kerala
+  website: https://startupmission.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala State Horticulture Mission, Kerala
+  website: null
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kerala State IT Mission
+  website: https://itmission.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Ksheerasree Portal
+  website: https://ksheerasree.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Povertiy Eradication Mission (Kudumbashree), Kerala
+  website: https://www.kudumbashree.org
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Project Information & Cost Estimation (PRICE), Kerala
+  website: https://price.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Right to Information (RTI), Kerala
+  website: https://rtiportal.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Housing Online Disbursement of Housing Assistance to the SC, Kerala
+  website: https://e-housing.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: eHealth Portal, Kerala
+  website: https://ehealth.kerala.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Aadhaar enabled Public Distribution System - AePDS, Kerala
+  website: https://epos.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Agriculture Info Management System, Kerala
+  website: https://www.aims.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Arogya Keralam, Kerala
+  website: https://arogyakeralam.gov.in
+  category: Others
+  status: external_link
+- name: Blood Donors Directory, Kollam District, Kerala
+  website: null
+  category: Others
+  status: external_link
+- name: COMPOSE - Comprehensive Operations and Management of Presses Over Secure Environment,
+    Kerala
+  website: https://compose.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Commissioner for Entrance Examinations, Kerala
+  website: https://cee.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Covid-19 Jagratha, Kerala
+  website: null
+  category: Others
+  status: external_link
+- name: District Tourism Promotion Council, Kollam, Kerala
+  website: https://www.dtpckollam.com
+  category: Others
+  status: external_link
+- name: Economics & Statistics Department, Kerala
+  website: https://www.ecostat.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Ernakulam Rural Police, Kerala
+  website: https://ernakulamrural.keralapolice.gov.in
+  category: Others
+  status: external_link
+- name: Financial aid for the house construction to the scheduled castes, Kerala
+  website: null
+  category: Others
+  status: external_link
+- name: General Education Department, Kerala
+  website: https://education.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Government Orders, Circulars and Gazettes Notifications, Kerala
+  website: https://go.lsgkerala.gov.in
+  category: Others
+  status: external_link
+- name: Grand Kerala Shopping Festival, Kerala
+  website: https://www.shoppingfestival.in
+  category: Others
+  status: external_link
+- name: Insurance Medical Services, Kerala
+  website: https://ims.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Jalanidhi - Kerala Rural water Supply and Sanitation Agency, Kerala
+  website: https://jalanidhi.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Kannur City Police, Kerala
+  website: https://kannur.keralapolice.gov.in
+  category: Others
+  status: external_link
+- name: Kasaragod District Police, Kerala
+  website: https://kasaragod.keralapolice.gov.in
+  category: Others
+  status: external_link
+- name: Kerala Engineering Research Institute, Kerala
+  website: https://keri.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Kerala Examination Results, Kerala
+  website: https://keralaresults.nic.in
+  category: Others
+  status: external_link
+- name: Kerala Gazette
+  website: null
+  category: Others
+  status: external_link
+- name: Kerala House & Office Of The Resident Commissioner in New Delhi, Kerala
+  website: https://keralahouse.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Kerala Industrial and Technical Consultancy Organisation (KITCO), Kerala
+  website: https://www.kitco.in
+  category: Others
+  status: external_link
+- name: Kerala Lottery, Kerala
+  website: https://statelottery.kerala.gov.in
+  category: Others
+  status: external_link
+- name: Kerala News - I & PRD Portal, Kerala
+  website: https://keralanews.gov.in
+  category: Others
+  status: external_link

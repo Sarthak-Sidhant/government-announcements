@@ -1,0 +1,241 @@
+parent_state: Meghalaya
+organizations:
+- name: Official Portal of Meghalaya Government
+  website: https://meghalaya.gov.in
+  category: State Portal
+  status: external_link
+- name: Meghalaya State Agricultural Marketing Board, Meghalaya
+  website: https://megamb.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Meghalaya State Commission for Protection of Child Rights, Meghalaya
+  website: https://megscpcr.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Meghalaya State Electricity Regulatory Commission (MSERC), Meghalaya
+  website: https://mserc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Meghalaya State Higher Education Council
+  website: https://mshec.megeducation.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Information Commission (SIC), Meghalaya
+  website: https://megsic.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: District Institute of Education and Training, Cherrapunjee, Meghalaya
+  website: https://dietsohra.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Meghalaya State Designated Agency, Meghalaya
+  website: https://msda.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: State Disaster Management Authority, Shillong, Meghalaya
+  website: https://msdma.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Civil Defence & Home Guards, Meghalaya
+  website: https://meghomeguards.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Fire & Emergency Service, Meghalaya
+  website: https://megfireservice.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Mid Day Meal Scheme, Directorate of School Education & Literacy, Meghalaya
+  website: https://mdmsmeghalaya.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Office of the State Commissioner for Persons with Disabilities, Meghalaya
+  website: https://megscpwd.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Meghalaya Board of School Education (MBOSE), Meghalaya
+  website: https://www.mbose.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Meghalaya Energy Corporation Limited (MeECL), Shillong, Meghalaya
+  website: https://meecl.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Meghalaya Private Universities Regulatory Board
+  website: https://mpurb.megeducation.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Meghalaya State Planning Board, Meghalaya
+  website: https://megspb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Meghalaya State Pollution Control Board (MSPCB), Meghalaya
+  website: https://megspcb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Administrative Training Institute, Meghalaya
+  website: https://mati.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Management, North Eastern Hill University, Tura Campus, Meghalaya
+  website: https://nehumba.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training, Baghmara, Meghalaya
+  website: https://dietbaghmara.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training, Nongpoh, Meghalaya
+  website: https://dietnongpoh.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training, Nongstoin, Meghalaya
+  website: https://dietnongstoin.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training, Resubelpara, Meghalaya
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training, Tura, Meghalaya
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training,Thadlaskein, Jaintia Hills, Meghalaya
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Extension Training Centre (ETC), Nongsder, Meghalaya
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Martin Luther Christian University, (MICU), Shillong, Meghalaya
+  website: https://www.mlcuniv.in
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Rural Development (SIRD), Meghalaya
+  website: https://megsird.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: The Institute of Chartered Financial Analysts of India University (ICFAI),
+    Meghalaya
+  website: https://www.iumeghalaya.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Meghalaya Farmer Portal
+  website: https://www.megfarmer.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Meghalaya Sign-Lex Portal
+  website: https://meghability.megscpwd.gov.in/megsignlex
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MeghalayaONE
+  website: https://meghalayaone.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: North Eastern Council, Utilization Certificate Portal
+  website: https://necucportal.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Agricultural Planning and Information Bank (APIB), East Khasi Hills District,
+    Meghalaya
+  website: null
+  category: Others
+  status: external_link
+- name: Amlarem Civil Sub-Division, Meghalaya
+  website: https://amlarem.gov.in
+  category: Others
+  status: external_link
+- name: Crop Pests & Diseases Surveillance and Advisory Portal (CROPSAP), Meghalaya
+  website: https://cropsap.megfarmer.gov.in
+  category: Others
+  status: external_link
+- name: Direct Benefit Transfer, Meghalaya
+  website: https://megdbt.gov.in
+  category: Others
+  status: external_link
+- name: District Court, Shillong, Meghalaya
+  website: null
+  category: Others
+  status: external_link
+- name: East Khasi Hills District Police, Shillong, Meghalaya
+  website: https://shillongpolice.gov.in
+  category: Others
+  status: external_link
+- name: Examination Results - Meghalaya Board of School Education, Meghalaya
+  website: https://megresults.nic.in
+  category: Others
+  status: external_link
+- name: Invest in Meghalaya, Government of Meghalaya
+  website: https://investmeghalaya.gov.in
+  category: Others
+  status: external_link
+- name: Khasi Hills Autonomous District Council (KHADC), Meghalaya
+  website: https://khadc.nic.in
+  category: Others
+  status: external_link
+- name: Meghalaya Basin Development Authority (MBDA), Meghalaya
+  website: https://mbda.gov.in
+  category: Others
+  status: external_link
+- name: Meghalaya New and Renewable Energy Development Agency, Meghalaya
+  website: https://mnreda.gov.in
+  category: Others
+  status: external_link
+- name: Meghalaya State Public Services Delivery Commission (MSPSDC), Meghalaya
+  website: https://mspsdc.meghalaya.gov.in
+  category: Others
+  status: external_link
+- name: Meghalaya State Rural Livelihoods Society, Meghalaya
+  website: https://msrls.nic.in
+  category: Others
+  status: external_link
+- name: Meghalaya Tourism Development Corporation Limited (MTDC Ltd.), Meghalaya
+  website: https://mtdcmeghalaya.in
+  category: Others
+  status: external_link
+- name: Meghalaya Urban Development Agency (MUDA), Meghalaya
+  website: https://mudashillong.gov.in
+  category: Others
+  status: external_link
+- name: National Food Security Program, Meghalaya
+  website: https://megfeast.gov.in
+  category: Others
+  status: external_link
+- name: National Generic Document Registration System, Meghalaya
+  website: https://ngdrs.meghalaya.gov.in/NGDRS_ML
+  category: Others
+  status: external_link
+- name: Right to Information (RTI), Meghalaya
+  website: https://megrti.gov.in
+  category: Others
+  status: external_link
+- name: Sohra Civil Sub-Division, East Khasi Hills District, Meghalaya
+  website: https://sohra.gov.in
+  category: Others
+  status: external_link
+- name: State Cancer Society of Meghalaya, Govt. of Meghalaya
+  website: https://scsm.nic.in
+  category: Others
+  status: external_link
+- name: State Investment and Project Management and Implementation Unit (SIPMIU),
+    Shillong, Megalaya
+  website: https://sipmiu.nic.in
+  category: Others
+  status: external_link
+- name: The Meghalaya Co-operative Apex Bank Ltd., Meghalaya
+  website: https://megcab.com
+  category: Others
+  status: external_link
+- name: The Meghalaya Residents Safety and Security Act, 2016, Meghalaya
+  website: https://megrssa.nic.in
+  category: Others
+  status: external_link
+- name: West Jaintia Hills Police, Meghalaya
+  website: null
+  category: Others
+  status: external_link
+- name: e-District Services, Meghalaya
+  website: https://megedistrict.gov.in
+  category: Others
+  status: external_link

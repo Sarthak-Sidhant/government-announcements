@@ -1,9 +1,460 @@
-# === IDENTITY ===
-id: "state-madhya_pradesh"
-name: "Madhya Pradesh"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-madhya_pradesh
+name: Madhya Pradesh
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Agar-Malwa
+    website: https://agarmalwa.nic.in
+    sub_districts:
+    - Agar
+    - Badod
+    - Nalkheda
+    - Soyatkala
+    - Susner
+    blocks:
+    - Agar
+    - Barod
+    - Nalkheda
+    - Susner
+  - name: Alirajpur
+    website: https://alirajpur.nic.in
+    sub_districts:
+    - Alirajpur
+    - Chandra Shekhar Azad Nagar
+    - Jobat
+    - Katthiwara
+    - Sondawa
+    blocks:
+    - Alirajpur
+    - Bhabra
+    - Jobat
+    - Katthiwada
+    - Sondwa
+    - Udaigarh
+  - name: Anuppur
+    website: https://anuppur.nic.in
+    sub_districts:
+    - Anuppur
+    - Jaithari
+    - Kotma
+    - Pushparajgarh
+    blocks:
+    - Anuppur
+    - Jaithari
+    - Kotma
+    - Pushprajgarh
+  - name: Ashoknagar
+    website: https://ashoknagar.nic.in
+    sub_districts:
+    - Ashoknagar
+    - Bahadurpur
+    - Chanderi
+    - Isagarh
+    - Mungaoli
+    - Nai Sarai
+    - Piprai
+    - Shadhora
+    blocks:
+    - Ashoknagar
+    - Chanderi
+    - Isagarh
+    - Mungaoli
+  - name: Balaghat
+    website: https://balaghat.nic.in
+    sub_districts:
+    - Baihar
+    - Balaghat
+    - Birsa
+    - Katangi
+    - Khairlanji
+    - Kirnapur
+    - Lalbarra
+    - Lamta
+    - Lanji
+    - Paraswada
+    - Tirodi
+    - Waraseoni
+    blocks:
+    - Baihar
+    - Balaghat
+    - Birsa
+    - Katangi
+    - Khairlanji
+    - Kirnapur
+    - Lalbarra
+    - Lanji
+    - Paraswada
+    - Waraseoni
+  - name: Barwani
+    website: https://barwani.nic.in
+    sub_districts:
+    - Anjad
+    - Barwani
+    - Niwali
+    - Pansemal
+    - Pati
+    - Rajpur
+    - Sendhwa
+    - Thikri
+    - Varla
+    blocks:
+    - Barwani
+    - Newali
+    - Pansemal
+    - Pati
+    - Rajpur
+    - Sendhawa
+    - Thikri
+  - name: Betul
+    website: https://betul.nic.in
+    sub_districts:
+    - Amla
+    - Athner
+    - Betul
+    - Betul Nagar
+    - Bhainsdehi
+    - Bhimpur
+    - Chicholi
+    - Ghoda Dongri
+    - Multai
+    - Prabhatpttan
+    - Shahpur
+    blocks:
+    - Amla
+    - Athner
+    - Betul
+    - Bhainsdehi
+    - Bhimpur
+    - Chicholi
+    - Ghoradongri
+    - Multai
+    - Prabhat Pattan
+    - Shahpur
+  - name: Bhind
+    website: https://bhind.nic.in
+    sub_districts:
+    - Ater
+    - Bhind
+    - Bhind Nagar
+    - Gohad
+    - Gormi
+    - Lahar
+    - Mau
+    - Mehgaon
+    - Mihona
+    - Ron
+    blocks:
+    - Ater
+    - Bhind
+    - Gohad
+    - Lahar
+    - Mehgaon
+    - Raon
+  - name: Bhopal
+    website: https://bhopal.nic.in
+    sub_districts:
+    - Berasia
+    - Huzur
+    - Kolar
+    blocks:
+    - Berasia
+    - Phanda
+  - name: Burhanpur
+    website: https://burhanpur.nic.in
+    sub_districts:
+    - Burhanpur
+    - Burhanpur Nagar
+    - Dhulcot
+    - Khaknar
+    - Nepanagar
+    blocks:
+    - Burhanpur
+    - Khaknar
+  - name: Chhatarpur
+    website: https://chhatarpur.nic.in
+    sub_districts:
+    - Bada Malhera
+    - Bijawar
+    - Buxwaha
+    - Chandla
+    - Chhatarpur
+    - Chhatarpur Nagar
+    - Gaurihar
+    - Ghuwara
+    - Lavkush Nagar
+    - Maharajpur
+    - Nowgong
+    - Rajnagar
+    - Satai
+    blocks:
+    - Bada Malehara
+    - Barigarh
+    - Bijawar
+    - Buxwaha
+    - Chhatarpur
+    - Lavkush Nagar
+    - Nowgong
+    - Rajnagar
+  - name: Chhindwara
+    website: https://chhindwara.nic.in
+    sub_districts:
+    - Amarwara
+    - Bichhua
+    - Chand
+    - Chaurai
+    - Chhindwara
+    - Chhindwara Nagar
+    - Harrai
+    - Jamai (Junnardeo)
+    - Mohkhed
+    - Parasia
+    - Tamia
+    - Umreth
+    blocks:
+    - Amarwara
+    - Bichhua
+    - Chaurai
+    - Chhindwara
+    - Harrai
+    - Jamai
+    - Mohkhed
+    - Parasia
+    - Tamia
+  - name: Damoh
+    website: https://damoh.nic.in
+    sub_districts:
+    - Batiyagarh
+    - Damoh
+    - Damyanti Nagar
+    - Hatta
+    - Jabera
+    - Patera
+    - Patharia
+    - Tendukheda
+    blocks:
+    - Batiyagarh
+    - Damoh
+    - Hatta
+    - Jabera
+    - Patera
+    - Pathariya
+    - Tendukheda
+  - name: Datia
+    website: https://datia.nic.in
+    sub_districts:
+    - Baroni
+    - Bhander
+    - Datia
+    - Datia Nagar
+    - Indergarh
+    - Seondha
+    blocks:
+    - Bhander
+    - Datia
+    - Seondha
+  - name: Dewas
+    website: https://dewas.nic.in
+    sub_districts:
+    - Bagli
+    - Dewas
+    - Dewas Nagar
+    - Hatpiplya
+    - Kannod
+    - Khategaon
+    - Satwas
+    - Sonkatch
+    - Tonk Khurd
+    - Udaynagar
+    blocks:
+    - Bagli
+    - Dewas
+    - Kannod
+    - Khategaon
+    - Sonkatch
+    - Tonk Khurd
+  - name: Dhar
+    website: https://dhar.nic.in
+    sub_districts:
+    - Badnawar
+    - Dahi
+    - Dhar
+    - Dharampuri
+    - Gandhwani
+    - Kukshi
+    - Manawar
+    - Pithampur
+    - Sardarpur
+    blocks:
+    - Badnawar
+    - Bagh
+    - Dahi
+    - Dhar
+    - Dharampuri
+    - Gandhwani
+    - Kukshi
+    - Manawar
+    - Nalchha
+    - Nisarpur
+    - Sardarpur
+    - Tirla
+    - Umarban
+  - name: Dindori
+    website: https://dindori.nic.in
+    sub_districts:
+    - Bajag
+    - Dindori
+    - Shahpura
+    blocks:
+    - Amarpur
+    - Bajag
+    - Dindori
+    - Karanjiya
+    - Mehandwani
+    - Samnapur
+    - Shahpura
+  - name: Guna
+    website: https://guna.nic.in
+    sub_districts:
+    - Aron
+    - Bamori
+    - Chachaura
+    - Guna
+    - Guna Nagar
+    - Kumbhraj
+    - Maksoodangarh
+    - Raghogarh
+    blocks:
+    - Aron
+    - Bamori
+    - Chanchoda
+    - Guna
+    - Raghogarh
+  - name: Gwalior
+    website: https://gwalior.nic.in
+    sub_districts:
+    - Bhitarwar
+    - Chinour
+    - City Center
+    - Dabra
+    - Ghatigaon
+    - Gird
+    - Gwalior Gramin
+    - Morar
+    - Pichhor
+    - Tansen
+    blocks:
+    - Bhitarwar
+    - Dabra
+    - Ghatigaon
+    - Morar
+  - name: Harda
+    website: https://harda.nic.in
+    sub_districts:
+    - Handiya
+    - Harda
+    - Khirkiya
+    - Rehatgaon
+    - Sirali
+    - Timarni
+    blocks:
+    - Harda
+    - Khirkiya
+    - Timarni
+  - name: Indore
+    website: https://indore.nic.in
+    sub_districts:
+    - Bicholi Hapsi
+    - Depalpur
+    - Dr. Ambedkar Nagar Mhow
+    - Hatod
+    - Juni Indore
+    - Kanadia
+    - Khudel
+    - Malharganj
+    - Rau
+    - Sanwer
+    blocks:
+    - Depalpur
+    - Indore
+    - Mhow
+    - Sanwer
+  - name: Jabalpur
+    website: https://jabalpur.nic.in
+    sub_districts:
+    - Adhartal
+    - Gorakhpur
+    - Jabalpur
+    - Katngi
+    - Kundam
+    - Majholi
+    - Panagar
+    - Patan
+    - Pounda
+    - Ranjhi
+    - Shahpura
+    - Sihora
+    blocks:
+    - Jabalpur
+    - Kundam
+    - Majhouli
+    - Panagar
+    - Patan
+    - Shahpura
+    - Sihora
+  - name: Jhabua
+    website: https://jhabua.nic.in
+    sub_districts:
+    - Jhabua
+    - Meghnagar
+    - Petlawad
+    - Rama
+    - Ranapur
+    - Thandla
+    blocks:
+    - Jhabua
+    - Meghnagar
+    - Petlawad
+    - Rama
+    - Ranapur
+    - Thandla
+  - name: Katni
+    website: https://katni.nic.in
+    sub_districts:
+    - Badwara
+    - Bahoriband
+    - Barhi
+    - Dhimarkheda
+    - Katni Nagar
+    - Murwara Or Katni
+    - Rithi
+    - Sleemnabad
+    - Vijayraghavgarh
+    blocks:
+    - Badwara
+    - Bahoriband
+    - Dheemerkheda
+    - Katni
+    - Rithi
+    - Vijayraghavgarh
+  - name: Khandwa (East Nimar)
+    website: https://khandwa.nic.in
+    sub_districts:
+    - Chhaigaon Makhan
+    - Harsud
+    - Khalwa
+    - Khandwa
+    - Khandwa Nagar
+    - Killod
+    - Mundi
+    - Pandhana
+    - Punasa
+    blocks:
+    - Baladi
+    - Chhaigaon Makhan
+    - Harsud
+    - Khalwa
+    - Khandwa
+    - Pandhana
+    - Punasa

@@ -1,9 +1,354 @@
-# === IDENTITY ===
-id: "state-punjab"
-name: "Punjab"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-punjab
+name: Punjab
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Amritsar
+    website: https://amritsar.nic.in
+    sub_districts:
+    - Ajnala
+    - Amritsar -I
+    - Amritsar- II
+    - Baba Bakala
+    - Lopoke
+    - Majitha
+    blocks:
+    - Ajnala
+    - Attari
+    - Chogawan
+    - Harshe Chhina
+    - Jandiala Guru
+    - Majitha-1
+    - Majitha-2
+    - Ramdas
+    - Rayya
+    - Tarsikka
+    - Verka
+  - name: Barnala
+    website: https://barnala.gov.in
+    sub_districts:
+    - Barnala
+    - Mehal Kalan
+    - Tapa
+    blocks:
+    - Barnala
+    - Mehal Kalan
+    - Sehna
+  - name: Bathinda
+    website: https://bathinda.nic.in
+    sub_districts:
+    - Bathinda
+    - Maur
+    - Rampura Phul
+    - Talwandi Sabo
+    blocks:
+    - Bathinda
+    - Bhagta Bhaika
+    - Goniana
+    - Maur
+    - Nathana
+    - Phul
+    - Rampura
+    - Sangat
+    - Talwandi Sabo
+  - name: Faridkot
+    website: https://faridkot.nic.in
+    sub_districts:
+    - Faridkot
+    - Jaitu
+    - Kotkapura
+    blocks:
+    - Faridkot
+    - Jaitu
+    - Kot Kapura
+  - name: Fatehgarh Sahib
+    website: https://fatehgarhsahib.nic.in
+    sub_districts:
+    - Amloh
+    - Bassi Pathana
+    - Fatehgarh Sahib
+    - Khamanon
+    blocks:
+    - Amloh
+    - Bassi Pathana
+    - Khamano
+    - Khera
+    - Sirhind
+  - name: Fazilka
+    website: https://fazilka.nic.in
+    sub_districts:
+    - Abohar
+    - Fazilka
+    - Jalalabad
+    blocks:
+    - Abohar
+    - Arniwala Shiekh Subhan
+    - Fazilka
+    - Jalalabad
+    - Khuian Sarwar
+  - name: Ferozepur
+    website: https://ferozepur.nic.in
+    sub_districts:
+    - Firozpur
+    - Guruharsahai
+    - Zira
+    blocks:
+    - Firozpur
+    - Ghall Khurd
+    - Guru Har Sahai
+    - Makhu
+    - Mamdot
+    - Zira
+  - name: Gurdaspur
+    website: https://gurdaspur.nic.in
+    sub_districts:
+    - Batala
+    - Dera Baba Nanak
+    - Dinanagar
+    - Fatehgarh Churian
+    - Gurdaspur
+    - Kalanaur
+    blocks:
+    - Batala
+    - Dera Baba Nanak
+    - Dhariwal
+    - Dinanagar
+    - Dorangla
+    - Fatehgarh Churian
+    - Gurdaspur
+    - Kahnuwan
+    - Kalanaur
+    - Qadian
+    - Sri Hargobindpur
+  - name: Hoshiarpur
+    website: https://hoshiarpur.nic.in
+    sub_districts:
+    - Dasua
+    - Garhshankar
+    - Hoshiarpur
+    - Mukerian
+    - Tanda
+    blocks:
+    - Bhunga
+    - Dasuya
+    - Garhshankar
+    - Hajipur
+    - Hoshiarpur-I
+    - Hoshiarpur-Ii
+    - Mahilpur
+    - Mukerian
+    - Talwara
+    - Tanda
+  - name: Jalandhar
+    website: https://jalandhar.nic.in
+    sub_districts:
+    - Adampur
+    - Jalandhar - I
+    - Jalandhar - II
+    - Nakodar
+    - Phillaur
+    - Shahkot
+    blocks:
+    - Adampur
+    - Bhogpur
+    - Jalandhar - West
+    - Jalandhar-East
+    - Lohian
+    - Mehatpur
+    - Nakodar
+    - Nurmahal
+    - Phillaur
+    - Rurka Kalan
+    - Shahkot
+  - name: Kapurthala
+    website: https://kapurthala.gov.in
+    sub_districts:
+    - Bhulath
+    - Kapurthala
+    - Phagwara
+    - Sultanpur Lodhi
+    blocks:
+    - Dhilwan
+    - Kapurthala
+    - Nadala
+    - Phagwara
+    - Sultanpur Lodhi
+  - name: Ludhiana
+    website: https://ludhiana.nic.in
+    sub_districts:
+    - Jagraon
+    - Khanna
+    - Ludhiana (East)
+    - Ludhiana (West)
+    - Payal
+    - Raikot
+    - Samrala
+    blocks:
+    - Dehlon
+    - Doraha
+    - Jagraon
+    - Khanna
+    - Ludhiana-1
+    - Ludhiana-2
+    - Machhiwara
+    - Maloud
+    - Pakhowal
+    - Raikot
+    - Samrala
+    - Sidhwan Bet
+    - Sudhar
+  - name: Malerkotla
+    website: https://malerkotla.nic.in
+    sub_districts:
+    - Ahmedgarh
+    - Amargarh
+    - Malerkotla
+    blocks:
+    - Ahmedgarh
+    - Amargarh
+    - Malerkotla (Head Quarter)
+  - name: Mansa
+    website: https://mansa.nic.in
+    sub_districts:
+    - Budhlada
+    - Mansa
+    - Sardulgarh
+    blocks:
+    - Bhikhi
+    - Budhlada
+    - Jhunir
+    - Mansa
+    - Sardulgarh
+  - name: Moga
+    website: https://moga.nic.in
+    sub_districts:
+    - Bagha Purana
+    - Dharamkot
+    - Moga
+    - Nihal Singhwala
+    blocks:
+    - Baghapurana
+    - Dharmkot
+    - Kot-Ise-Khan
+    - Moga
+    - Moga-I
+    - Nihal Singh Wala
+  - name: Pathankot
+    website: https://pathankot.nic.in
+    sub_districts:
+    - Dhar Kalan
+    - Pathankot
+    blocks:
+    - Bamial
+    - Dharkalan
+    - Gharota
+    - Narot Jaimal Singh
+    - Pathankot
+    - Sujanpur
+  - name: Patiala
+    website: https://patiala.nic.in
+    sub_districts:
+    - Dudhan Sadhan
+    - Nabha
+    - Patiala
+    - Patran
+    - Rajpura
+    - Samana
+    blocks:
+    - Bhuner Heri
+    - Ghanaur
+    - Nabha
+    - Patiala
+    - Patiala Rural
+    - Patran
+    - Rajpura
+    - Samana
+    - Sanour
+    - Shambu Kalan
+  - name: Rupnagar
+    website: https://rupnagar.nic.in
+    sub_districts:
+    - Anandpur Sahib
+    - Chamkaur Sahib
+    - Morinda
+    - Nangal
+    - Rup Nagar
+    blocks:
+    - Anandpur Sahib
+    - Chamkaur Sahib
+    - Morinda
+    - Nangal
+    - Nurpur Bedi
+    - Rupnagar
+  - name: S.A.S Nagar
+    website: https://sasnagar.nic.in
+    sub_districts:
+    - Dera Bassi
+    - Kharar
+    - Sas Nagar (Mohali)
+    blocks:
+    - Dera Bassi
+    - Kharar
+    - Majri
+    - Mohali
+  - name: Sangrur
+    website: https://sangrur.nic.in
+    sub_districts:
+    - Bhawanigarh
+    - Dhuri
+    - Dirba
+    - Lehra
+    - Moonak
+    - Sangrur
+    - Sunam
+    blocks:
+    - Andana
+    - Bhawani Garh
+    - Dhuri
+    - Dirba
+    - Lehragaga
+    - Sangrur
+    - Sherpur
+    - Sunam
+  - name: Shahid Bhagat Singh Nagar
+    website: https://nawanshahr.nic.in
+    sub_districts:
+    - Balachaur
+    - Banga
+    - Nawanshahr
+    blocks:
+    - Aur
+    - Balachaur
+    - Banga
+    - Nawanshahr
+    - Saroya
+  - name: Sri Muktsar Sahib
+    website: https://muktsar.nic.in
+    sub_districts:
+    - Gidderbaha
+    - Malout
+    - Sri Muktsar Sahib
+    blocks:
+    - Gidderbaha
+    - Lambi
+    - Malout
+    - Sri Muktsar Sahib
+  - name: Tarn Taran
+    website: https://tarntaran.nic.in
+    sub_districts:
+    - Bhikhiwind
+    - Khadur Sahib
+    - Patti
+    - Tarn Taran
+    blocks:
+    - Bhikhi Wind-13
+    - Chohla Sahib-8
+    - Gandiwind-9
+    - Khadur-Sahib-10
+    - Nagoke
+    - Naushehra Pannuan-11
+    - Patti-14
+    - Tarn Taran-12
+    - Valtoha-15

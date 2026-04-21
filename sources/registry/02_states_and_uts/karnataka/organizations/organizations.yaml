@@ -1,0 +1,395 @@
+parent_state: Karnataka
+organizations:
+- name: Official Portal of Karnataka Government
+  website: https://www.karnataka.gov.in
+  category: State Portal
+  status: external_link
+- name: Karnataka State Consumer Disputes Redressal Commission, Karnataka
+  website: https://kscdrc.karnataka.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Karnataka State Minorities Commission, Karnataka
+  website: https://www.karmin.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Karnataka Police Academy, Mysuru, Karnataka
+  website: https://kpa.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Karnataka State Council for Science and Technology (KSCST)
+  website: https://www.kscst.org.in/english/index.html
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Karnataka State Safai Karmachari Development Corporation, Karnataka
+  website: https://ksskdc.kar.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Karnataka Veterinery, Animal and Fisheries Science University, Bidar, Karnataka
+  website: https://www.kvafsu.edu.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Visvesvaraya Trade Promotion Centre, Karnataka
+  website: https://vtpc.karnataka.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Commissionerate of Health & Family Welfare Service, Karnataka
+  website: https://hfwcom.karnataka.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Municipal Administration, Karnataka
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorates of Minorities, Karnataka
+  website: https://dom.karnataka.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Drug Control Department, Karnataka
+  website: https://drugs.karnataka.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Karnataka Digital Public Library, Karnataka
+  website: https://www.karnatakadigitalpubliclibrary.org
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Bangalore Metropolitan Transport Corporation (BMTC), Karnataka
+  website: https://mybmtc.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bidar City Municipal Council, Karnataka
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Chamundeshwari Electricity Supply Corporation Limited Mysore, Karnataka
+  website: https://cescmysore.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: HESCOM R-APDRP Portal, Karnataka
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Housing Board, Karnataka
+  website: https://khb.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Industrial Areas Development Board (KIADB), Karnataka
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Minorities Development Corporation Limited, Karnataka
+  website: https://kmdc.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Neeravari Nigam Limited (KNNL), Bangalore, Karnataka
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Power Transmission Corporation Limited, Karnataka
+  website: https://kptcl.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Real Estate Regulatory Authority
+  website: https://rera.karnataka.gov.in/home?language=en
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Rural Infrastructure Development Limited, Karnataka
+  website: https://www.kridl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka School Examination and Assessment Board, Karnataka
+  website: https://kseab.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka Silk Industries Corporation Limited, Karnataka
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Diploma in Nursing Examination Board, Karnataka
+  website: https://ksdneb.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Electronics Development Corporation Limited (KEONICS), Karnataka
+  website: https://www.keonics.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Industrial and Infrastructure Development Corporation
+  website: https://ksiidc.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Minerals Corporation Limited, Karnataka
+  website: https://ksmc.karnataka.gov.in/english
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Road Transport Corporation, Karnataka
+  website: https://www.ksrtc.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Seed And Organic Certification Agency, Karnataka
+  website: https://kssoca.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Tourism Development Corporation (KSTDC), Karnataka
+  website: https://www.kstdc.co
+  category: Boards / Undertakings
+  status: external_link
+- name: Karnataka State Warehousing Corporation, Karnataka
+  website: https://kswc.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Mangalore Electricity Supply Company, Karnataka
+  website: https://mescom.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Mysuru Urban Development Authority, Karnataka
+  website: https://mudamysore.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rajiv Gandhi Housing Corporation Limited, Karnataka
+  website: https://ashraya.karnataka.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Technical Consultancy Services Organisation of Karnataka (TECSOK), Karnataka
+  website: https://www.tecsok.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Department of Electronics and Communication Engineering, Karnataka
+  website: https://ece.nitk.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Directorate of Economics and Statistics, Department of Agriculture and Farmers
+    Welfare, Karnataka
+  website: https://eands.da.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Science College Bengaluru, Karnataka
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Gulbarga University, Karnataka
+  website: https://gug.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Information of Schools, Karnataka
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: International Institute of Information Technology Bangalore, Karnataka
+  website: https://www.iiitb.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Karnataka State Akkamahadevi Women's University, Vijayapura, Karnataka
+  website: https://www.kswu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Karnataka State Open University, Karnataka
+  website: https://ksoumysuru.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Kuvempu University, Karnataka
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Malnad College of Engineering, Hassan, Karnataka
+  website: https://www.mcehassan.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Mangalore University, Konaje, Karnataka
+  website: https://www.mangaloreuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: National Law School of India University, Bengaluru,, Karnataka
+  website: https://www.nls.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Public Libraries System, Karnataka
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Rajiv Gandhi University of Health Sciences, Karnataka
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Sri Jayachamarajendra Government Polytechnic, Bangalore
+  website: https://sjpolytechnic.karnataka.gov.in/en
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute for Urban Development (SIUD), Karnataka
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: UGC-Human Resource Development Centre, University of Mysore, Karnataka
+  website: https://hrdcmysore.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: University of Agricultural Sciences, Karnataka
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: University of Mysore, Karnataka
+  website: https://uni-mysore.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Visveswaraiah Technological University, Belagaiv, Karnataka
+  website: https://vtu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: BBMP Property Tax System, Karnataka
+  website: https://bbmptax.karnataka.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bangalore Water Supply and Sewerage Board
+  website: https://bwsajala.karnataka.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Janasevaka Portal, Karnataka
+  website: https://www.janasevaka.karnataka.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Karnataka - Krishi Information Service and Networking (KKISAN)
+  website: https://kkisan.karnataka.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Karnataka Information Commission, Karnataka
+  website: https://www.kic.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Karnataka Public Service Commission, Karnataka
+  website: https://www.kpsc.kar.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Kutumba Portal, Karnataka
+  website: https://kutumba.karnataka.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Office of the Chief Registrar of Births and Deaths, Karnataka
+  website: https://ejanma.karnataka.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Seva Sindhu Portal, Karnataka
+  website: https://sevasindhu.karnataka.gov.in/Sevasindhu/English
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Visveswaraiah Technological University, Belgaum, Karnataka
+  website: https://results.vtu.ac.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Aushada Portal
+  website: https://aushada.kar.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Mapan, Legal Metrology Department, Karnataka
+  website: https://emapan.karnataka.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Karnataka
+  website: https://karnataka.mygov.in
+  contact:
+    address: Karnataka MyGov Team Chief Secretary Office Room No. 320, 3rd floor,
+      Vidhanasoudha, Bangalore-01
+    phone: ''
+    fax: ''
+    email: cs[at]karnataka[dot]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Agriculture Secretariat, Karnataka
+  website: https://agriculture.karnataka.gov.in
+  category: Others
+  status: external_link
+- name: Bangalore Development Authority, Karnataka
+  website: https://kbda.karnataka.gov.in
+  category: Others
+  status: external_link
+- name: Bangalore Mediation Centre, Karnataka
+  website: https://nyayadegula.kar.nic.in
+  category: Others
+  status: external_link
+- name: Bangalore Metropolitan Task Force, Karnataka
+  website: https://bmtf.gov.in
+  category: Others
+  status: external_link
+- name: Bengaluru Traffic Police, Karnataka
+  website: https://btp.gov.in
+  category: Others
+  status: external_link
+- name: Citizen Centric Portal, Karnataka State Police
+  website: https://policeseva.ksp.gov.in
+  category: Others
+  status: external_link
+- name: Crop Loan Waiver System, Karnataka
+  website: https://clws.karnataka.gov.in
+  category: Others
+  status: external_link
+- name: Farmer Registration and Unified beneficiary Information System, Karnataka
+  website: https://fruits.karnataka.gov.in
+  category: Others
+  status: external_link
+- name: Goods and Services Tax (GST), Commercial Taxes Department, Karnataka
+  website: https://gst.kar.nic.in
+  category: Others
+  status: external_link
+- name: Hindu Religious Institutions And Charitable Endowments Department, Karnataka
+  website: https://itms.kar.nic.in/hrcehome/index.php
+  category: Others
+  status: external_link
+- name: Kannada Development Authority, Karnataka
+  website: https://kannadapraadhikaara.karnataka.gov.in
+  category: Others
+  status: external_link
+- name: Kannada Sahitya Parishat, Karnataka
+  website: https://kannadasahithyaparishattu.in
+  category: Others
+  status: external_link
+- name: Karnataka Council for Technological Upgradation, Karnataka
+  website: https://kctu.karnataka.gov.in
+  category: Others
+  status: external_link
+- name: Karnataka Examination Authority, Karnataka
+  website: null
+  category: Others
+  status: external_link
+- name: Karnataka Examination Results, Karnataka
+  website: https://karresults.nic.in
+  category: Others
+  status: external_link
+- name: Karnataka Public Procurement Portal, Karnataka
+  website: https://eproc.karnataka.gov.in
+  category: Others
+  status: external_link
+- name: Karnataka Renewable Energy Development Limited, Karnataka
+  website: https://kredl.karnataka.gov.in/en
+  category: Others
+  status: external_link
+- name: Karnataka Road Development Corporation Limited (KRDCL), Bangalore, Karnataka
+  website: null
+  category: Others
+  status: external_link
+- name: Karnataka State Haj Committee, Karnataka
+  website: https://www.karhaj.in
+  category: Others
+  status: external_link
+- name: Karnataka State Highways Improvement Project (KSHIP), Karnataka
+  website: https://www.kship.in
+  category: Others
+  status: external_link
+- name: Karnataka State Pharmacy Council, Karnataka
+  website: https://www.kspcdic.com
+  category: Others
+  status: external_link
+- name: Karnataka State Police
+  website: https://ksp.karnataka.gov.in/english
+  category: Others
+  status: external_link
+- name: Karnataka Urban Infrastructure Development and Finance Corporation, Karnataka
+  website: null
+  category: Others
+  status: external_link
+- name: Mysore City Police, Karnataka
+  website: https://mysurucitypolice.karnataka.gov.in
+  category: Others
+  status: external_link

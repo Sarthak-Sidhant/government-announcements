@@ -1,0 +1,459 @@
+parent_state: Bihar
+organizations:
+- name: Official Portal of Bihar Government
+  website: https://state.bihar.gov.in
+  category: State Portal
+  status: external_link
+- name: Bihar State Power Holding Company Limited (BSPHCL), Patna, Bihar
+  website: https://www.bsphcl.co.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Budget, Bihar
+  website: https://budget.bihar.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: State Board of Technical Education (SBTE), Bihar
+  website: https://sbte.bihar.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Bihar Electricity Regulatory Commission
+  website: https://berc.co.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Bihar Human Rights Commission
+  website: https://bhrc.bihar.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Bihar Police Sub-ordinate Services Commission (BPSSC)
+  website: https://bpssc.bih.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Bihar State Consumer Disputes Redressal Commission (BSCDRC)
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Chief Commissioner CGST and CE Ranchi Zone Patna
+  website: https://cgstranchizone.bih.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Commissioner of Customs (Prevention), Patna, Bihar
+  website: https://customspatna.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Bihar Animal Sciences University (BASU)
+  website: https://www.basu.org.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Bihar Institute of Public Administration and Rural Development (BIPARD)
+  website: https://bipard.bihar.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Bihar Police
+  website: https://police.bihar.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Bihar State Election Authority (BSEA)
+  website: https://bsea.bihar.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gopal Narayan Public Library, Bharatpura, Bihar
+  website: https://www.bharatpuralibrary.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Government Polytechnic, Muzaffarpur, Bihar
+  website: https://www.gpmuz.ac.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: BPSC Online Application Portal
+  website: https://bpsconline.bihar.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Bihar State Archives Directorate
+  website: https://archives.bihar.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Central Excise and Service Tax, Ranchi Zone, Patna
+  website: https://cgstranchizone.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Distance Education, Magadh University, BodhGaya, Bihar
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics and Statistics, Bihar
+  website: https://dse.bihar.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Fisheries, Bihar
+  website: https://fisheries.bihar.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Land Records & Survey, Bihar
+  website: https://dlrs.bihar.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Divisional Commissioner, Darbhanga Division, Bihar
+  website: https://darbhangadivision.bih.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Horticulture Directorate, Agriculture Department, Bihar
+  website: https://horticulture.bihar.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Agriculture Technology Management Agency (ATMA), Samastipur, Bihar
+  website: https://atmasamastipur.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Board of Open Schooling & Examination
+  website: https://bboseonline.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Building & Other Construction Workers Welfare Board
+  website: https://bocwscheme.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Combined Entrance Competitive Examination Board (BCECEB)
+  website: https://bceceboard.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Industrial Area Development Authority (BIADA)
+  website: https://biadabihar.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Medical Services & Infrastructure Corporation (BMSICL)
+  website: https://bmsicl.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Rajya Beej Nigam Limited
+  website: https://brbn.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Rajya Pul Nirman Nigam Ltd.
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar Renewable Energy Development Agency (BREDA)
+  website: https://breda.bih.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar School Examination Board (BSEB)
+  website: https://biharboardonline.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Building Construction Corporation Limited (BSBCCL)
+  website: https://bsbccl.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Financial Corporation (BSFC), Patna
+  website: https://bsfc.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Housing Board (BSHB)
+  website: https://bshb.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Planning Board (BSPB)
+  website: https://bspb.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Pollution Control Board (BSPCB)
+  website: https://bspcb.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Power Transmission Company Limited (BSPTCL)
+  website: https://www.bsptcl.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Road Development Corporation Ltd (BSRDCL)
+  website: https://bsrdcl.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Bihar State Text Book Publishing Corporation Ltd. (BSTBPCL)
+  website: https://bstbpc.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Revenue, Bihar
+  website: https://borpdra.bihar.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Infrastructure Development Authority (IDA), Bihar
+  website: https://www.idabihar.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Patna Division, Bihar
+  website: https://patnadivision.bih.nic.in
+  category: Revenue Divisions
+  status: external_link
+- name: Purnea Division, Bihar
+  website: https://purneadivision.bih.nic.in
+  category: Revenue Divisions
+  status: external_link
+- name: State Health Society, Bihar
+  website: https://shs.bihar.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Babasaheb Bhimrao Ambedkar Bihar University
+  website: https://www.brabu.net
+  category: Academies / Institutions
+  status: external_link
+- name: Bihar Admission and eCounselling Services
+  website: https://bcece.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bihar Agricultural University, Sabour
+  website: https://www.bausabour.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bihar National College, Patna
+  website: https://www.bncollegepatna.com
+  category: Academies / Institutions
+  status: external_link
+- name: Bihar State Panchayat Resource Institute (BSPRI)
+  website: https://bgsys.bihar.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Indira Gandhi Institute of Medical Sciences (IGIMS), Patna, Bihar
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Jai Prakash Vishwavidyala (University), Bihar
+  website: https://jpv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Lalit Narayan Mithila University, Darbhanga, Bihar
+  website: https://lnmu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Loknayak Jai Prakash Institute Of Technology (LNJPIT)
+  website: https://www.lnjpitchapra.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Medha Soft - Education Department Bihar
+  website: https://medhasoft.bih.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Muzaffarpur Institute of Technology, Bihar
+  website: https://www.mitmuzaffarpur.org
+  category: Academies / Institutions
+  status: external_link
+- name: Nalanda Open University, Bihar
+  website: https://www.nou.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Nalanda University
+  website: https://www.nalandauniv.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Patna Science College, Bihar
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Patna University, Bihar
+  website: https://pup.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tilka Manjhi Bhagalpur University (TMBU), Bihar
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Aadhaar enabled Public Distribution System (AePDS), Bihar
+  website: https://epos.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Aapada Sampoorti, Bihar
+  website: https://aapda.bih.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bhu AbhiLekh Portal, Bihar
+  website: https://bhuabhilekh.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bhu-Samadhan Portal, Bihar
+  website: https://homeonline.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bhulagan Portal, Bihar
+  website: https://www.bhulagan.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bihar Home Guard Recruitment
+  website: https://onlinebhg.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bihar State Coordination Portal
+  website: https://brs.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Cane Care Software, Bihar
+  website: https://ccs.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Court Case Monitoring System, Bihar
+  website: https://ccms.bihar.gov.in/CMS/Login.aspx
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Directorate of Drugs Control, Bihar
+  website: https://xln.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: E-Cooperative, Bihar
+  website: https://esahkari.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Jan Shikayat Portal, Bihar
+  website: https://biharbhumiplus.bihar.gov.in/pg
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Land Conversion Portal, Bihar
+  website: https://landconversion.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mukhyamantri Niji Nalkup Yojna, Bihar
+  website: https://mwrd.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mukhyamantri Nishchay Swayam Sahayata Bhata Yojana (MNSSBY), Bihar
+  website: https://www.7nishchay-yuvaupmission.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Farm Mechanization Application Software (OFMAS), Bihar
+  website: https://farmech.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Government Receipts Accounting System (OGRAS), Bihar
+  website: https://e-receipt.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Portal for correction of incorrect entries in the digitized Jamabandi register
+    (PARIMARJAN)
+  website: https://parimarjanplus.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Post Matric Scholarship Portal, Bihar
+  website: https://pmsonline.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Ration Card Management System, Bihar
+  website: https://rconline.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: SC/ST-Post Matric, Scholarship Portal, Bihar
+  website: https://scstpmsonline.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Swachh Bihar Portal
+  website: https://swachhbihar.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Trial Monitoring System, Bihar Police
+  website: https://tms.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Udyami Portal, Bihar
+  website: https://udyami.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Bhawan Portal, Bihar
+  website: https://e-bhawan.bihar.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: ASHA Workers Performance and Incentives Portal, Bihar
+  website: https://ashwin.bih.nic.in/Ashwin/Default.aspx
+  category: Others
+  status: external_link
+- name: Bihar Education Project Council (BEPC)
+  website: https://www.bepcssa.in/en
+  category: Others
+  status: external_link
+- name: Bihar Government Servant Grievance Redressal System
+  website: https://sevasamadhan.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Bihar Prashasnik Sudhar Mission Society
+  website: https://bpsm.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Bihar Public Grievance Redressal System
+  website: https://lokshikayat.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Bihar Rural Development Society (BRDS)
+  website: https://brds.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Bihar State Co-operative Bank Limited (BSCB)
+  website: https://biharscb.co.in
+  category: Others
+  status: external_link
+- name: Bihar State Electronics Development Corporation Limited, Beltron, Patna
+  website: https://bsedc.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Bihar Tourism
+  website: https://tourism.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Central Selection Board of Constable, Patna, Bihar
+  website: https://csbc.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Direct Benefit Transfer (DBT), Agriculture Department, Bihar
+  website: https://dbtagriculture.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Direct Benefit Transfer (DBT), Bihar
+  website: https://dbt.bih.nic.in
+  category: Others
+  status: external_link
+- name: Executive Court Information System, Bihar
+  website: https://ecis.bih.nic.in
+  category: Others
+  status: external_link
+- name: Flood Management Improvement Support Centre (FMISC), Bihar
+  website: https://fmiscwrdbihar.gov.in
+  category: Others
+  status: external_link
+- name: Integrated Child Development Services (ICDS) Scheme, Bihar
+  website: https://icdsonline.bih.nic.in
+  category: Others
+  status: external_link
+- name: JEEViKA - Bihar Rural Livelihoods Project (BRLP)
+  website: https://brlps.in
+  category: Others
+  status: external_link
+- name: Koshi Division, Saharsa, Bihar
+  website: https://kosidivision.bih.nic.in
+  category: Others
+  status: external_link
+- name: Lohiya Swachh Bihar Abhiyan (LSBA), Bihar
+  website: https://lsba.bih.nic.in
+  category: Others
+  status: external_link
+- name: Munger Division, Bihar
+  website: https://mungerdivision.bih.nic.in
+  category: Others
+  status: external_link
+- name: Online Citizen Services Portal, Bihar
+  website: https://serviceonline.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Online Government Receipt Account System, Bihar
+  website: https://e-gpf.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Online Mutation, Department of Revenue and Land Reforms, Bihar
+  website: https://biharbhumi.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Project Management Information System, Bihar
+  website: https://rcdonline.bih.nic.in
+  category: Others
+  status: external_link
+- name: Right to Information (RTI) Jaankari Facilitation Centre, Bihar
+  website: https://jaankari.bihar.gov.in
+  category: Others
+  status: external_link
+- name: Sewa Itihas (Service History Management) Portal, Bihar
+  website: https://sewa-itihas.bih.nic.in
+  category: Others
+  status: external_link

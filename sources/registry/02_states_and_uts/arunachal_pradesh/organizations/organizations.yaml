@@ -1,0 +1,203 @@
+parent_state: Arunachal Pradesh
+organizations:
+- name: Official Portal of Arunachal Pradesh Government
+  website: https://arunachalpradesh.gov.in
+  category: State Portal
+  status: external_link
+- name: Registrar of Cooperative Societies, Arunachal Pradesh
+  website: https://cooparun.nic.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Arunachal Pradesh Information Commission
+  website: https://apic.arunachal.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Arunachal Pradesh State Electricity Regulatory Commission (APSERC)
+  website: https://apserc.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Arunachal Pradesh Police
+  website: https://arunpol.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Arunachal Pradesh Medical Council (India)
+  website: https://arunapmc.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Higher and Technical Education, Arunachal Pradesh
+  website: https://apdhte.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Research, Arunachal Pradesh
+  website: https://research.arunachal.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Urban Local Bodies, Arunachal Pradesh
+  website: https://ulb.arunachal.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Arunachal Pradesh Energy Development Agency (APEDA)
+  website: https://apeda.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Arunachal Pradesh Police Housing and Welfare Corporation Limited
+  website: https://aphwcl.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Arunachal Pradesh Staff Selection Board
+  website: https://apssb.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Arunachal University of Studies (AUS), Arunachal Pradesh
+  website: https://www.arunachaluniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dera Natung Government College, Itanagar, Arunachal Pradesh
+  website: https://dngc.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Jarbom Gamlin Government Law College, Arunachal Pradesh
+  website: https://jgglc.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Krishi Vigyan Kendra (ICAR), Papum-Pare, Arunachal Pradesh
+  website: https://kvkpapumpare.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Krishi Vigyan Kendra (KVK), Lower Subansiri, Arunachal Pradesh
+  website: https://kvklowersubansiri.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Krishi Vigyan Kendra (KVK), West Kameng, Arunachal Pradesh
+  website: https://kvkwestkameng.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Krishi Vigyan Kendra, Anjaw, Arunachal Pradesh
+  website: https://kvkanjaw.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Krishi Vigyan Kendra, Upper Subansiri, Arunachal Pradesh
+  website: https://kvkuppersubansiri.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Rural Development and Panchayati Raj (SIRD&PR), Arunachal
+    Pradesh
+  website: https://sirdpr.arunachal.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Aadhaar enabled Public Distribution System (AePDS), Arunachal Pradesh
+  website: https://epos.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Arunachal Pradesh Investment Portal
+  website: https://eodb.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Arunachal Pradesh Space Application Center
+  website: https://www.srsac.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Arunachal Pradesh Startup Portal
+  website: https://startup.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chief Minister Jansunwai Portal, Arunachal Pradesh
+  website: https://cmejansunwai.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chief Minister's e-Seva Digital Platform, Arunachal Pradesh
+  website: https://cmeseva.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Government Receipt Accounting System, Arunachal Pradesh
+  website: https://www.egras.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Land Information System of Arunachal Portal (LISA)
+  website: https://lisa.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: National Health Mission, Arunachal Pradesh
+  website: https://nhm.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Building Permission System (OBPS), Arunachal Pradesh
+  website: https://obps.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Inner Line Permit Management System, Arunachal Pradesh
+  website: https://www.eilp.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online RTI Information System, Arunachal Pradesh
+  website: https://rti.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Raj Bhavan Visitor Booking, Arunachal Pradesh
+  website: https://rajbhavanvisit.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: SNA-SPARSH, Integrated Financial Management System, Arunachal Pradesh
+  website: https://snasparsh.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: eCabinet, Arunachal Pradesh
+  website: https://ecabinet.arunachal.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Arunachal Pradesh
+  website: https://arunachal.mygov.in
+  contact:
+    address: "6th Floor, Block -2 Itanagar \u2013 791111 Arunachal Pradesh"
+    phone: 0360-2212915
+    fax: ''
+    email: cmoffice-arn[at]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Arunachal Pradesh State Transport Services (APSTS)
+  website: https://apsts.arunachal.gov.in
+  category: Others
+  status: external_link
+- name: Arunachal-eSamikSha, Arunachal Pradesh
+  website: https://esamiksha.arunachal.gov.in
+  category: Others
+  status: external_link
+- name: Itanagar Capital Complex, Arunachal Pradesh
+  website: https://itanagar.nic.in
+  category: Others
+  status: external_link
+- name: Nurses and Midwives Registration Council, Arunachal Pradesh
+  website: https://apnmrc.in
+  category: Others
+  status: external_link
+- name: Prison, Arunachal Pradesh
+  website: https://arunprisons.nic.in
+  category: Others
+  status: external_link
+- name: Scheme beneficiary details of Lower Dibang Valley District, Arunachal Pradesh
+  website: https://ldvbeneficiary.nic.in
+  category: Others
+  status: external_link
+- name: State Council of Educational Research & Training (SCERT), Itanagar, Arunachal
+    Pradesh
+  website: https://scertarunachal.nic.in
+  category: Others
+  status: external_link
+- name: State Lotteries, Arunachal Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: eProcurement Portal, Arunachal Pradesh
+  website: https://arunachaltenders.gov.in
+  category: Others
+  status: external_link
+- name: eServices Portal, Arunachal Pradesh
+  website: https://eservice.arunachal.gov.in
+  category: Others
+  status: external_link

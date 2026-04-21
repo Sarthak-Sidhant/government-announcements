@@ -1,9 +1,107 @@
-# === IDENTITY ===
-id: "state-mizoram"
-name: "Mizoram"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-mizoram
+name: Mizoram
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Aizawl
+    website: https://aizawl.nic.in
+    sub_districts:
+    - Aibawk
+    - Darlawn
+    - Thingsulthliah
+    - Tlangnuam
+    blocks:
+    - Aibawk
+    - Darlawn
+    - Thingsulthliah
+    - Tlangnuam
+  - name: Champhai
+    website: https://champhai.nic.in
+    sub_districts:
+    - Champhai
+    - Khawbung
+    blocks:
+    - Champhai
+    - Khawbung
+  - name: Hnahthial
+    website: null
+    sub_districts:
+    - Hnahthial
+    blocks:
+    - Hnahthial
+  - name: Khawzawl
+    website: null
+    sub_districts:
+    - Khawzawl
+    blocks:
+    - Khawzawl
+  - name: Kolasib
+    website: https://kolasib.nic.in
+    sub_districts:
+    - Bilkhawthlir
+    - Thingdawl
+    blocks:
+    - Bilkhawthlir
+    - Thingdawl
+  - name: Lawngtlai
+    website: https://lawngtlai.nic.in
+    sub_districts:
+    - Bungtlang South
+    - Chawngte
+    - Lawngtlai
+    - Sangau
+    blocks:
+    - Bungtlang South
+    - Chawngte
+    - Lawngtlai
+    - Sangau
+  - name: Lunglei
+    website: https://lunglei.nic.in
+    sub_districts:
+    - Bunghmun
+    - Lunglei
+    - Lungsen
+    - Tlabung
+    blocks:
+    - Bunghmun
+    - Lunglei
+    - Lungsen
+    - Tlabung
+  - name: Mamit
+    website: https://mamit.nic.in
+    sub_districts:
+    - Kawrtethawveng
+    - Reiek
+    - West Phaileng
+    - Zawlnuam
+    blocks:
+    - Kawrtethawveng
+    - Reiek
+    - West Phaileng
+    - Zawlnuam
+  - name: Saitual
+    website: null
+    sub_districts:
+    - Ngopa
+    - Phullen
+    blocks:
+    - Ngopa
+    - Phullen
+  - name: Serchhip
+    website: https://serchhip.nic.in
+    sub_districts:
+    - East Lungdar
+    - Serchhip
+    blocks:
+    - East Lungdar
+    - Serchhip
+  - name: Siaha
+    website: https://siaha.nic.in
+    sub_districts:
+    - Siaha
+    - Tipa
+    blocks:
+    - Saiha
+    - Tuipang

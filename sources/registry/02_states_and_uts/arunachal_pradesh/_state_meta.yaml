@@ -1,9 +1,414 @@
-# === IDENTITY ===
-id: "state-arunachal_pradesh"
-name: "Arunachal Pradesh"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-arunachal_pradesh
+name: Arunachal Pradesh
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Anjaw
+    website: https://anjaw.nic.in
+    sub_districts:
+    - Chaglagam Circle
+    - Goiliang Circle
+    - Hawai Hq
+    - Hayuliang Adc
+    - Kibithoo Circle
+    - Manchal Circle
+    - Metengliang Circle
+    - Walong Circle
+    blocks:
+    - Chaglagam
+    - Hawai-Walong
+    - Hayuliang
+    - Manchal
+  - name: Bichom
+    website: null
+    sub_districts:
+    - Bana Eac
+    - Lada Circle
+    - Nafra Adc
+    blocks: []
+  - name: Changlang
+    website: https://changlang.nic.in
+    sub_districts:
+    - Bordumsa Adc
+    - Changlang Hq
+    - Diyun Eac
+    - Jairampur Adc
+    - Kantang Circle
+    - Kharsang Circle
+    - Khimiyang Eac
+    - Lyngok Longtoi Circle
+    - Manmao Eac
+    - Miao Adc
+    - Nampong Sdo
+    - Namtok Eac
+    - Renuk Circle
+    - Tikhak Rima Putok Circle
+    - Vijoynagar Eac
+    - Yatdam Circle
+    blocks:
+    - Bordumsa
+    - Changlang
+    - Diyun
+    - Kantang
+    - Khagam-Miao
+    - Khimiyang
+    - Manmao
+    - Nampong
+    - Vijoynagar
+    - Yatdam
+  - name: Dibang Valley
+    website: https://dibangvalley.nic.in
+    sub_districts:
+    - Anelih
+    - Anini
+    - Dambuen Circle
+    - Etalin
+    - Kronli (Arzoo Circle)
+    - Mipi
+    blocks:
+    - Anelih Arzu
+    - Anini-Mepi
+    - Etalin Malinye
+  - name: East Kameng
+    website: https://eastkameng.nic.in
+    sub_districts:
+    - Bameng Adc
+    - Chayangtajo Adc
+    - Debeyar Co Circle
+    - Gyawe Purang Circle
+    - Khenawa Circle
+    - Pakoti Circle
+    - Pipu Dipu Circle
+    - Richukrong Circle
+    - Sawa Circle
+    - Seppa Hq
+    blocks:
+    - Bameng
+    - Bana
+    - Chayangtajo
+    - Khenewa
+    - Lada
+    - Pipu
+    - Sawa
+    - Seppa
+  - name: East Siang
+    website: https://eastsiang.nic.in
+    sub_districts:
+    - Bilat Circle
+    - Mebo Adc
+    - Namsing Circle
+    - Oyan Circle
+    - Pasighat Hq
+    - Ruksin Adc
+    blocks:
+    - Bilat
+    - Mebo
+    - Pasighat
+    - Ruksin
+  - name: Kamle
+    website: null
+    sub_districts:
+    - Dollungmukh Circle
+    - Gepen Circle
+    - Kamporijo Circle
+    - Puchi Geko Circle
+    - Raga Adc
+    blocks:
+    - Gepen
+    - Kamporijo
+    - Persin Dollungmukh
+    - Puchi Geko
+    - Tamen-Raga
+  - name: Keyi Panyor
+    website: null
+    sub_districts:
+    - Deed Circle
+    - Pistana Circle
+    - Yachuli Adc
+    - Yazali Circle
+    blocks: []
+  - name: Kra Daadi
+    website: https://kradaadi.nic.in
+    sub_districts:
+    - Chambang Circle
+    - Gangte Circle
+    - Palin Circle
+    - Pipsorang Circle
+    - Tali Adc
+    - Tarak Lengdi Cicle
+    - Yangte Circle
+    blocks:
+    - Chambang
+    - Gangte
+    - Palin
+    - Pipsorang
+    - Tali
+    - Yangte
+  - name: Kurung Kumey
+    website: https://kurungkumey.nic.in
+    sub_districts:
+    - Damin Circle
+    - Koloriang Hq
+    - Nyapin Adc
+    - Nyobia Circle
+    - Patuk Adc
+    - Phassang Circle
+    - Polosang Circle
+    - Sangram Sdo
+    - Sarli Circle
+    blocks:
+    - Damin
+    - Koloriang
+    - Nyapin
+    - Paniasang
+    - Parsiparlo
+    - Phassang
+    - Polosang
+    - Sangram
+    - Sarli
+  - name: Leparada
+    website: null
+    sub_districts:
+    - Basar Adc
+    - Daring Circle
+    - Sago
+    - Tirbin Eac
+    blocks:
+    - Basar
+    - Daring
+    - Tirbin
+  - name: Lohit
+    website: https://lohit.nic.in
+    sub_districts:
+    - Sunpura Circle
+    - Tezu Hq
+    - Wakro Circle
+    blocks:
+    - Tezu
+    - Wakro
+  - name: Longding
+    website: https://longding.nic.in
+    sub_districts:
+    - Kanubari Adc
+    - Lawnu Circle
+    - Longding Hq
+    - Pangchao Sdo
+    - Pumao Circle
+    - Wakka Sdo
+    blocks:
+    - Kanubari
+    - Lawnu
+    - Niausa
+    - Pongchau
+    - Wakka
+  - name: Lower Dibang Valley
+    website: https://roing.nic.in
+    sub_districts:
+    - Dambuk Adc
+    - Desali Circle
+    - Hunli Sdo
+    - Koronu Circle
+    - Parbuk Sdo
+    - Roing Hq
+    - Tinali Paglam Circle
+    blocks:
+    - Dambuk
+    - Hunli-Kronli
+    - Roing
+  - name: Lower Siang
+    website: null
+    sub_districts:
+    - Gensi Eac
+    - Kangku Circle
+    - Kora Circle
+    - Koyu Eac
+    - Likabali Sdo
+    - Nari Adc
+    - New Seren Circle
+    - Sibe Circle
+    blocks:
+    - Gensi
+    - Kangku
+    - Likabali
+    - Ramle Bango
+  - name: Lower Subansiri
+    website: https://lowersubansiri.nic.in
+    sub_districts:
+    - Old Ziro Sdo
+    - Ziro Hq
+    blocks:
+    - Hong-Hari
+    - Pistana
+    - Ziro-I
+    - Ziro-Ii
+  - name: Namsai
+    website: https://namsai.nic.in
+    sub_districts:
+    - Chongkham Eac
+    - Lathao Circle
+    - Lekang Mahadevpur Circle
+    - Namsai Hq
+    - Piyong Circle
+    blocks:
+    - Chowkham
+    - Lekang
+    - Namsai
+  - name: Pakke Kessang
+    website: null
+    sub_districts:
+    - Dissing Passo Circle
+    - Pakke Kessang Eac
+    - Passa Valley Circle
+    - Pizirang Veo Circle
+    - Seijosa Adc
+    blocks:
+    - Pakkekessang
+    - Seijosa
+  - name: Papum Pare
+    website: https://papumpare.nic.in
+    sub_districts:
+    - Balijan Adc
+    - Banderdewa Circle
+    - Borum
+    - Doimukh Sdo
+    - Gumto Circle
+    - Itanagar Eac
+    - Kakoi Circle
+    - Kimin Sdo
+    - Leporiang Circle
+    - Mengio Eac
+    - Naharlagun Eac
+    - Parang Circle
+    - Sagalee Adc
+    - Sangdupota Basar Nello Circle
+    - Silsango Circle
+    - Taraso Circle
+    - Toru Circle
+    blocks:
+    - Balijan
+    - Borum
+    - Doimukh
+    - Kimin
+    - Mengio
+    - Sagalee
+  - name: Shi Yomi
+    website: https://shiyomi.nic.in
+    sub_districts:
+    - Mechuka Adc
+    - Monigong Eac
+    - Pidi Circle
+    - Tato Eac
+    blocks:
+    - Manigoan
+    - Mechuka-Tato
+  - name: Siang
+    website: https://siang.nic.in
+    sub_districts:
+    - Boleng Adc
+    - Jomlo Mobuk Circle
+    - Kaying Eac
+    - Kebang Circle
+    - Pangin Eac
+    - Payum Circle
+    - Rebo Perging Circle
+    - Riga Eac
+    - Rumgong Adc
+    blocks:
+    - Boleng
+    - Kaying
+    - Pangin
+    - Payum
+    - Rebo Parging
+    - Riga
+    - Rumgong
+  - name: Tawang
+    website: https://tawang.nic.in
+    sub_districts:
+    - Bongkhar Circle
+    - Dudunghar Circle
+    - Jang Adc
+    - Kitpi Circle
+    - Lhou Circle
+    - Lumla Adc
+    - Mukto Circle
+    - Tawang Hq
+    - Thingbu Circle
+    - Zemithang Circle
+    blocks:
+    - Jang-Thingbu
+    - Kitpi
+    - Lumla
+    - Mukto Bongkhar
+    - Tawang
+    - Zemithang Dudunghar
+  - name: Tirap
+    website: https://tirap.nic.in
+    sub_districts:
+    - Bari Basip Circle
+    - Borduria Circle
+    - Dadam Circle
+    - Deomali Adc
+    - Khonsa Hq
+    - Laju Sdo
+    - Longo Circle
+    - Soha Circle
+    blocks:
+    - Bari Basip
+    - Borduria
+    - Dadam
+    - Khonsa
+    - Lazu
+    - Namsang
+  - name: Upper Siang
+    website: https://uppersiang.nic.in
+    sub_districts:
+    - Geku Eac
+    - Gelling Circle
+    - Jengging Circle
+    - Katan Circle
+    - Mariyang Adc
+    - Migging Circle
+    - Mopom Adipasi Circle
+    - Palling Circle
+    - Singa Circle
+    - Tuting Adc
+    - Yingkiong Circle
+    blocks:
+    - Geku
+    - Jengging
+    - Mariyang
+    - Singa Gelling
+    - Tuting
+    - Yingkiong
+  - name: Upper Subansiri
+    website: https://uppersubansiri.nic.in
+    sub_districts:
+    - Baririjo Circle
+    - Chetam Peer Yapu Circle
+    - Daporijo Hq
+    - Dumporijo Adc
+    - Giba Circle
+    - Gite Ripa Circle
+    - Limeking Circle
+    - Maro Circle
+    - Nacho Sdo
+    - Nilling Circle
+    - Payeng Circle
+    - Segi Gusar Circle
+    - Siyum Adc
+    - Taksing Circle
+    - Taliha Adc
+    blocks:
+    - Baririjo
+    - Chetam
+    - Daporijo
+    - Dumporijo
+    - Giba
+    - Limeking
+    - Nacho
+    - Payeng
+    - Siyum
+    - Taksing
+    - Taliha

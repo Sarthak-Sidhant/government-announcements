@@ -1,0 +1,134 @@
+parent_state: Puducherry
+organizations:
+- name: Official Portal of Puducherry Government
+  website: https://www.py.gov.in
+  category: State Portal
+  status: external_link
+- name: Rajiv Gandhi Government Women and Children Hospital, Puducherry
+  website: https://rggwch.py.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Centralized Admission Committee (CENTAC), Puducherry
+  website: https://www.centacpuducherry.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Directorate of Accounts and Treasuries, Puducherry
+  website: https://dat.py.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of School Education, Puducherry
+  website: https://schooledn.py.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Puducherry Industrial Promotion Development and Investment Corporation (PIPDIC),
+    Puducherry
+  website: https://www.pipdic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Puducherry Power Corporation Limited (PPCL), Puducherry
+  website: https://ppclgov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Puducherry Tourism Development Corporation (PDTC), Puducherry
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Puducherry Distilleries Limited (PDL), Puducherry
+  website: https://www.pdlindia.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Arignar Anna Government Arts College, Karaikal, Puducherry
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Bharathiar Palkalaikoodam, Puducherry
+  website: https://bpk.py.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bharathidasan Government College for Women, Puducherry
+  website: https://bgcw.py.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Department of Computer Science and Engineering, Puducherry Technological University,
+    Puducherry
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training (DIET), Puducherry
+  website: https://schooledn.py.gov.in/diet/introductiondiet.html
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. Sarvepalli Radhakrishnan Government Arts College, Yanam, Puducherry
+  website: https://www.srkgacyanam.edu.in/information?page=5c5d1b1c0d497
+  category: Academies / Institutions
+  status: external_link
+- name: Mahatma Gandhi Postgraduate Institute of Dental Sciences (MGPGIDS), Puducherry
+  website: https://mgpgi.py.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Puducherry Institute of Hotel Management and Catering Technology (PIHMCT),
+    Puducherry
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Puducherry Technological University (PTU), Puducherry
+  website: https://www.ptuniv.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tagore Government Arts and Science College, Puducherry
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Online Water Consumption Billing and Payment Collection System, Puducherry
+  website: https://pwdservices.py.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Portal for Single Windeows System for Licensing (LicenseSoft), Puducherry
+  website: https://swscollectorate.py.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Puducherry State Disaster Management Authority
+  website: https://psdma.py.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Puduvaicalal, Puducherry
+  website: https://exciseportal.py.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: COVID-19 Advisories & Updates, Puducherry
+  website: null
+  category: Others
+  status: external_link
+- name: COVID-19 Dashboard, Puducherry
+  website: https://covid19dashboard.py.gov.in
+  category: Others
+  status: external_link
+- name: District Industries Centre (DIC), Puducherry
+  website: https://dic.py.gov.in
+  category: Others
+  status: external_link
+- name: Office of the Principal Chief Commissioner of GST & Central Excise Tamil Nadu
+    & Puducherry Zone, Puducherry
+  website: https://gstchennai.gov.in
+  category: Others
+  status: external_link
+- name: Online Building Permission System, Puducherry
+  website: https://obps.py.gov.in
+  category: Others
+  status: external_link
+- name: Online Gazette Notifications, Puducherry
+  website: null
+  category: Others
+  status: external_link
+- name: Online Portal for Government Recruitments, Puducherry
+  website: https://recruitment.py.gov.in
+  category: Others
+  status: external_link
+- name: Renewable Energy Agency Puducherry
+  website: https://reap.py.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Puducherry
+  website: https://pudutenders.gov.in
+  category: Others
+  status: external_link

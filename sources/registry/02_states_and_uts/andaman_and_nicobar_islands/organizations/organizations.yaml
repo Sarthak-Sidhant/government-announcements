@@ -1,0 +1,66 @@
+parent_state: Andaman and Nicobar Islands
+organizations:
+- name: Official Portal of Andaman & Nicobar Islands Government
+  website: https://andamannicobar.gov.in
+  category: State Portal
+  status: external_link
+- name: Integrated Development Corporation Limited (ANIIDCO), Andaman & Nicobar Islands
+  website: https://aniidco.and.nic.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Dr. B.R. Ambedkar Institute of Technology, Andaman & Nicobar Admistration
+  website: https://dbrait.andaman.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Jawaharlal Nehru Rajkeeya Mahavidyalaya, Andaman & Nicobar Islands
+  website: https://jnrm.and.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Mahatma Gandhi Government College, Mayabunder, Andaman & Nicobar Islands
+  website: https://mggcm.and.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tagore Government College of Education (TGCE), Port Blair
+  website: https://tgce.and.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: AIDS Control Society (ANACS), Andaman and Nicobar
+  website: https://anacs.andaman.gov.in
+  category: Others
+  status: external_link
+- name: Andaman Nicobar State Transport Services
+  website: https://ants.andaman.gov.in
+  category: Others
+  status: external_link
+- name: Andaman and Nicobar State Cooperative Bank Limited (ANSCB)
+  website: https://www.anscbank.in
+  category: Others
+  status: external_link
+- name: Anti Corruption and Vigilance Unit, Andaman & Nicobar Islands
+  website: null
+  category: Others
+  status: external_link
+- name: Automatic Allotment of Government Accommodation, Andaman & Nicobar Islands
+  website: https://aaga.andaman.gov.in
+  category: Others
+  status: external_link
+- name: DHS - Drug Licensing, Andaman & Nicobar Islands
+  website: https://druglicense.andaman.gov.in
+  category: Others
+  status: external_link
+- name: Online Recruitment Portal, Andaman and Nicobar Administration
+  website: https://karmic.andaman.gov.in
+  category: Others
+  status: external_link
+- name: The Daily Telegrams, Andaman & Nicobar Islands
+  website: https://dt.andaman.gov.in
+  category: Others
+  status: external_link
+- name: Urja Pay (Electricity Bill Payment), Andaman & Nicobar Islands
+  website: https://urjapay.andaman.gov.in
+  category: Others
+  status: external_link
+- name: e-District Project, Andaman & Nicobar Administration
+  website: https://edistrict.andaman.gov.in
+  category: Others
+  status: external_link

@@ -1,0 +1,487 @@
+parent_state: Tamil Nadu
+organizations:
+- name: Official Portal of Tamil Nadu Government
+  website: https://www.tn.gov.in
+  category: State Portal
+  status: external_link
+- name: State Human Rights Commission, Tamil Nadu
+  website: https://www.shrc.tn.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Planning Commission (SPC), Tamil Nadu
+  website: https://www.spc.tn.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Tamil Nadu Electricity Regulatory Commission (TNERC), Tamil Nadu
+  website: https://tnerc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Tamil Nadu Information Commission, Tamil Nadu
+  website: https://www.tnsic.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Chennai City Police, Tamil Nadu
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Commissionerate of Rural Development and Panchayat Raj (Training), Tamil Nadu
+  website: https://crdpr.tn.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Tamil Nadu Police, Tamil Nadu
+  website: https://eservices.tnpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Tamil Nadu Real Estate Regulatory Authority (TNRERA), Tamil Nadu
+  website: https://rera.tn.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Tamil Nadu State Disaster Management Authority (TNSDMA), Tamil Nadu
+  website: https://tnsdma.tn.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Tamil Nadu e-Governance Agency, Tamil Nadu
+  website: https://tnega.tn.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Central GST Commissionerate, Coimbatore, Tamil Nadu
+  website: https://coimbatoregst.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Commissionerate of Revenue Administration and Disaster Management, Tamil Nadu
+  website: https://www.cra.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate for Welfare of the Differently Abled, Tamil Nadu
+  website: https://www.scd.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Boilers, Tamil Nadu
+  website: https://www.boilers.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Collegiate Education, Tamil Nadu
+  website: https://www.tndce.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Ex-Servicemen's Welfare, Tamil Nadu
+  website: https://www.exwel.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Government Examinations, Tamil Nadu
+  website: https://www.dge.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Industrial Safety and Health, Tamil Nadu
+  website: https://dish.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Pension Tamil Nadu
+  website: https://www.tn.gov.in/dop
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Prosecution, Tamil Nadu
+  website: https://prosecution.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education - Chennai, Tamil Nadu
+  website: https://dte.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education, Diploma Exam Time Table, Tamil Nadu
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Town Panchayats, Tamil Nadu
+  website: https://www.tn.gov.in/dtp
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Town and Country Planning, Tamil Nadu
+  website: https://tcp.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Vigilance & Anti-Corruption, Tamil Nadu
+  website: https://www.dvac.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Virtual Learning Portal, Commissionerate of Employment & Training, Tamil Nadu
+  website: https://tamilnaducareerservices.tn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Arasu Rubber Corporation Limited, Tamil Nadu
+  website: https://arasurubber.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chennai Metropolitan Development Authority (CMDA), Tamil Nadu
+  website: https://www.cmdachennai.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chennai Metropolitan Water Supply and Sewerage Board, Tamil Nadu
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Chennai Rivers Restoration Trust, Tamil Nadu
+  website: https://www.chennairivers.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Electronics Corporation of Tamil Nadu Ltd. (ELCOT), Tamil Nadu
+  website: https://www.elcot.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Medical Services Recruitment Board (MRB), Tamil Nadu
+  website: https://www.mrb.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Metropolitan Transport Corporation (Chennai) Ltd., Tamil Nadu
+  website: https://mtcbus.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Overseas Manpower Corporation Ltd., Tamil Nadu
+  website: https://omcmanpower.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Single Window Portal (Business-Related Approvals/ Licenses/ Clearances/ NOCs),
+    Tamil Nadu
+  website: https://tnswp.com
+  category: Boards / Undertakings
+  status: external_link
+- name: State Industries Promotion Corporation of Tamil Nadu Limited (SIPCOT), Tamil
+    Nadu
+  website: https://sipcot.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Adi Dravidar Housing and Development Corporation (TAHDCO), Tamil
+    Nadu
+  website: https://www.tahdco.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Cooperative Marketing Federation Limited (TANFED), Tamil Nadu
+  website: https://www.tanfed.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Corporation for Development of Women (TNCDW), Tamil Nadu
+  website: https://tncdw.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Electrical Inspectorate, Tamil Nadu
+  website: https://www.tnei.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Forest Plantation Corporation Limited (TAFCORN), Tamil Nadu
+  website: https://www.tafcorn.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Housing Board, Tamil Nadu
+  website: https://tnhb.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Infrastructure Development Board, Tamil Nadu
+  website: https://tnidb.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Maritime Board, Tamil Nadu
+  website: https://www.tnmaritime.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Medical Plant Farms & Herbal Medicine Corporation (TAMPCOL), Tamil
+    Nadu
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Medical Services Corporation Limited (TNMSC), Tamil Nadu
+  website: https://tnmsc.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Pollution Control Board (TNPCB), Tamil Nadu
+  website: https://tnpcb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Small Industries Corporation Limited (TANSI), Tamil Nadu
+  website: https://tansi.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu State Biodiversity Board, Tamil Nadu
+  website: https://tnbb.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu State Land Use Research Board
+  website: https://tnslurb.tn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Tamil Nadu Technology Development & Promotion Centre, Tamil Nadu
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Information Technology Park, Chennai (TIDEL Park), Tamil Nadu
+  website: https://www.tidelpark.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Registrar of Cooperative Societies, Tamil Nadu
+  website: https://rcs.tn.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Tamil Nadu Skill Development Corporation (TNSDC), Tamil Nadu
+  website: https://www.tnskill.tn.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Tamil Nadu Small Industries Corporation Limited
+  website: https://www.tansismart.tn.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Tamilnadu Civil Supplies Corporation, Tamil Nadu
+  website: https://www.tncsc.tn.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Tamilnadu Magnesite Limited (TANMAG), Tamil Nadu
+  website: https://tanmag.org
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Tamilnadu News Print And Papers Ltd. (TNPL), Tamil Nadu
+  website: https://www.tnpl.com
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Tamilnadu Trade Promotion Organization (TNTPO), Tamil Nadu
+  website: https://www.chennaitradecentre.org
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Alagappa University, Tamil Nadu
+  website: https://www.alagappauniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Anna University Regional Campus (AURCM), Madurai, Tamil Nadu
+  website: https://www.autmdu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Anna University Regional Campus - Tirunelveli, Tamil Nadu
+  website: https://www.auttvl.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Anna University, Chennai, Tamil Nadu
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Annamalai University, Tamil Nadu
+  website: https://annamalaiuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bharathiar University, Coimbatore, Tamil Nadu
+  website: https://b-u.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bharathidasan Institute of Management (BIM), Tiruchirappalli, Tamil Nadu
+  website: https://www.bim.edu
+  category: Academies / Institutions
+  status: external_link
+- name: Bharathidasan University, Tiruchirappalli, Tamil Nadu
+  website: https://www.bdu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Education Manual Revision, Tamil Nadu
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Engineering (GCE), Salem, Tamil Nadu
+  website: https://gcesalem.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Technology, Coimbatore, Tamil Nadu
+  website: https://gct.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Medical College, Omandurar Government Estate, Chennai, Tamil Nadu
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Distance Education University of Madras, Tamil Nadu
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Madurai Kamaraj University, Tamil Nadu
+  website: https://mkuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Manonmaniam Sundaranar University, Tamil Nadu
+  website: https://www.msuniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Mother Teresa Women's University, Kodaikanal, Tamil Nadu
+  website: https://www.motherteresawomenuniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Namma School Namma Ooru Palli (NSNOP), Tamil Nadu
+  website: https://nammaschool.tnschools.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Periyar University, Tamil Nadu
+  website: https://www.periyaruniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Stanley Medical College (SMC), Chennai, Tamil Nadu
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Tamil Nadu Agricultural University (TNAU), Tamil Nadu
+  website: https://www.tnau.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tamil Nadu Dr.M.G.R. Medical University, Chennai, Tamil Nadu
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Tamil Nadu Institute of Urban Studies (TNIUS), Coimbatore, Tamil Nadu
+  website: https://www.tniuscbe.org
+  category: Academies / Institutions
+  status: external_link
+- name: Tamil Nadu Institute of Urban Studies, Tamil Nadu
+  website: https://www.tnius.org
+  category: Academies / Institutions
+  status: external_link
+- name: Tamil Nadu Open University, Tamil Nadu
+  website: https://www.tnou.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tamil Nadu Physical Education and Sports University, Chennai, Tamil Nadu
+  website: https://tnpesu.org
+  category: Academies / Institutions
+  status: external_link
+- name: Comprehensive Audit Management System, Tamil Nadu
+  website: https://cams.tn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mineral Management System, Tamil Nadu
+  website: https://mimas.tn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mudhalvar Marundhagam Portal
+  website: https://mudhalvarmarundhagam.tn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Tamil Nadu Green Climate Company (TNGCC)
+  website: https://www.tngcc.tn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Tamil Nadu IT Nanban Portal
+  website: https://www.itnanban.tn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Tamil Nadu Panchayat Tax Portal
+  website: https://vptax.tnrd.tn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Tamilnadu Single Window Portal for Planning Permission
+  website: https://onlineppa.tn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Tamil Nadu
+  website: https://tamilnadu.mygov.in
+  contact:
+    address: 2nd & 7th Floor, P.T.LEE Chengalvaraya Naicker Building, Anna Salai,
+      Chennai - 600 002. Opt. LIC Building
+    phone: 91-44-40164907
+    fax: ''
+    email: tnega[at]tn[dot]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Animal Disease Info System, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link
+- name: Anna Centenary Celebrations INPR, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link
+- name: Archives and Historical Research, Tamil Nadu
+  website: https://www.tnarchives.tn.gov.in
+  category: Others
+  status: external_link
+- name: COVID-19 Updates & Information, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link
+- name: CRA, CLA, CLR Management Information System, Tamil Nadu
+  website: https://gdp.tn.gov.in
+  category: Others
+  status: external_link
+- name: Central Electrical Testing Laboratory (CETL), Kakkalur, Tamil Nadu
+  website: https://cetl.tn.gov.in
+  category: Others
+  status: external_link
+- name: Chief Minister's Comprehensive Health Insurance Scheme, Tamil Nadu
+  website: https://cmchistn.com
+  category: Others
+  status: external_link
+- name: Commissionerate of Employmnet and Traning, Tamil Nadu
+  website: https://skilltraining.tn.gov.in
+  category: Others
+  status: external_link
+- name: Court Case Monitoring System, Tamil Nadu
+  website: https://www.ccms.tn.gov.in
+  category: Others
+  status: external_link
+- name: EIACP PC-HuB State of Environment and Related Issues, Tamil Nadu
+  website: https://tnenvis.nic.in
+  category: Others
+  status: external_link
+- name: Economic Offences Wing, Tamil Nadu
+  website: https://www.tneow.gov.in
+  category: Others
+  status: external_link
+- name: Examination Results, Tamil Nadu
+  website: https://tnresults.nic.in
+  category: Others
+  status: external_link
+- name: Fire and Rescue Services, Tamil Nadu
+  website: https://www.tnfrs.tn.gov.in
+  category: Others
+  status: external_link
+- name: Forensic Sciences Department, Tamil Nadu
+  website: https://www.forensic.tn.gov.in
+  category: Others
+  status: external_link
+- name: Geographical Information System - Nagapattinam, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link
+- name: Geographical Information System, Cuddalore, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link
+- name: Government Budget Text 2023-2024, Tamil Nadu
+  website: https://www.tnbudget.tn.gov.in
+  category: Others
+  status: external_link
+- name: High Court Judgements, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link
+- name: Office of the Chief Electoral Officer, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link
+- name: Online Citizen Services Portal, Tamil Nadu
+  website: https://edistricts.tn.gov.in:8443/certificates_csc
+  category: Others
+  status: external_link
+- name: Open Government Data Portal, Tamil Nadu
+  website: https://tn.data.gov.in
+  category: Others
+  status: external_link
+- name: Public Distribution Scheme (PDS), Tamil Nadu
+  website: https://tnpds.gov.in
+  category: Others
+  status: external_link
+- name: Puratchi Thalaivar M.G.R. Nutritious Meal Programme (Mid Day Meal Scheme),
+    Tamil Nadu
+  website: https://middaymeal.tn.gov.in
+  category: Others
+  status: external_link
+- name: Sarasvati Mahal Library, Tamil Nadu
+  website: null
+  category: Others
+  status: external_link

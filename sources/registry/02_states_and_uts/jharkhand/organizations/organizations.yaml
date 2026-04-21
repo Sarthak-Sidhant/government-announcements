@@ -1,0 +1,176 @@
+parent_state: Jharkhand
+organizations:
+- name: Official Portal of Jharkhand Government
+  website: https://www.jharkhand.gov.in
+  category: State Portal
+  status: external_link
+- name: Jharkhand Staff Selection Commission, Jharkhand
+  website: https://jssc.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Jharkhand State Electricity Regulatory Commission, Jharkhand
+  website: https://jserc.org
+  category: Commissions/ Committees
+  status: external_link
+- name: Jharkhand State Information Commission, Jharkhand
+  website: https://onlinejsic.jharkhand.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Directorate of Employment and Training, Jharkhand
+  website: https://iti.jharkhand.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Jharkhand Police, Jharkhand
+  website: https://www.jhpolice.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Jharkhand Bijli Vitran Nigam Limited, Jharkhand
+  website: https://jbvnl.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Jharkhand Renewable Energy Development Agency, Jharkhand
+  website: https://www.jreda.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Jharkhand State AIDS Control Society, Jharkhand
+  website: https://jsacs.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Jharkhand State Mineral Development Corporation Ltd. (JSMDC), Jharkhand
+  website: https://www.jsmdc.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Jharkhand State Pollution Control Board, Jharkhand
+  website: https://www.jspcb.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Real Estate Regulatory Authority, Jharkhand
+  website: https://jharera.jharkhand.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Sports Authority of Jharkhand, Jharkhand
+  website: https://sajha.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Birsa Agricultural University, Ranchi, Jharkhand
+  website: https://www.bauranchi.org
+  category: Academies / Institutions
+  status: external_link
+- name: Birsa Munda Tribal University, Jharkhand
+  website: https://bmtu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ranchi Institute of Neuro-Psychiatry & Allied Sciences (RINPAS), Jharkhand
+  website: https://rinpas.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Ranchi University, Jharkhand
+  website: https://www.ranchiuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Shri Krishna Institute of Public Administration (SKIPA), Jharkhand
+  website: https://skipa.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: State Agricultural Management and Extension Training Institute (SAMETI), Jharkhand
+  website: https://sameti.org
+  category: Academies / Institutions
+  status: external_link
+- name: Vinoba Bhave University, Hazaribag, Jharkhand
+  website: https://vbu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Abua Budget Portal, Jharkhand
+  website: https://finance.jharkhand.gov.in/budgetvichar/default.aspx
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chancellor Portal, Jharkhand
+  website: https://jharkhanduniversities.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: E-Uparjan, Jharkhand
+  website: https://uparjan.jharkhand.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Guest Verification System, Jharkhand
+  website: https://jhpoliceverification.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Jharkhand Online FIR System
+  website: https://jofs.jhpolice.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Maiya Samman Yojana, Jharkhand
+  website: https://mmmsy.jharkhand.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online RTI Portal, Jharkhand
+  website: https://rti.jharkhand.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Jharkhand
+  website: https://jharkhand.mygov.in
+  contact:
+    address: JAP-IT Jharkhand Agency for Promotion of Information Technology (An Autonomous
+      body under Department of Information Technology, Govt. of jharkhand) Ground
+      Floor, Engineering Hostel-1, Near Golchakkar, Dhurwa, Ranchi, Jharkhand
+    phone: 0651-2401040, 0651-2401067
+    fax: ''
+    email: connect[at]mygov[dot]nic[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Division of Legal Metrology, Jharkhand
+  website: https://elegalmetrology.jharkhand.gov.in
+  category: Others
+  status: external_link
+- name: 'EIACP HUB: Jharkhand Status of Environment and Related Issues, Jharkhand'
+  website: https://jharenvis.nic.in
+  category: Others
+  status: external_link
+- name: JharSewa - Online Citizen Services Portal, Jharkhand
+  website: https://jharsewa.jharkhand.gov.in
+  category: Others
+  status: external_link
+- name: Jharkhand Space Applications Center (JSAC), Jharkhand
+  website: https://jsac.jharkhand.gov.in
+  category: Others
+  status: external_link
+- name: Kuber Integrated Financial Management System, Jharkhand
+  website: https://jkuber.jharkhand.gov.in
+  category: Others
+  status: external_link
+- name: Manav Sampada - Human Resource Management System for Jharkhand Government
+    Employees, Jharkhand
+  website: https://hrms.jharkhand.gov.in
+  category: Others
+  status: external_link
+- name: Online State Permit System, Jharkhand
+  website: null
+  category: Others
+  status: external_link
+- name: SHRAMADHAN - Comprehensive Labour Management System, Jharkhand
+  website: https://shramadhan.jharkhand.gov.in
+  category: Others
+  status: external_link
+- name: UID - Aadhaar Portal, Jharkhand
+  website: https://aadhaar.jharkhand.gov.in
+  category: Others
+  status: external_link
+- name: e-GRAS Online Government Receipts Accounting System, Jharkhand
+  website: https://finance.jharkhand.gov.in/jegras
+  category: Others
+  status: external_link
+- name: e-Kalyan - Student Scholarships by Welfare Department, Jharkhand
+  website: https://ekalyan.cgg.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Jharkhand
+  website: https://jharkhandtenders.gov.in
+  category: Others
+  status: external_link

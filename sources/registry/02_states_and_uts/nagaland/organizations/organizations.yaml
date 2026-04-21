@@ -1,0 +1,94 @@
+parent_state: Nagaland
+organizations:
+- name: Official Portal of Nagaland Government
+  website: https://www.nagaland.gov.in
+  category: State Portal
+  status: external_link
+- name: Nagaland Information Commission, Nagaland
+  website: https://nlsic.nagaland.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Administrative Training Institute, Nagaland
+  website: https://atingl.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Nagaland Pollution Control Board, Nagaland
+  website: https://npcb.nagaland.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Evaluation, Nagaland
+  website: https://evaluation.nagaland.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Home Guards, Civil Defence & State Disaster Response Force
+    (SDRF), Nagaland
+  website: https://hgcdsdrf.nagaland.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of State Institute of Rural Development, Kohima, Nagaland
+  website: https://sird.nagaland.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education, Nagaland
+  website: https://dte.nagaland.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Nagaland Board of School Education (NBSE), Nagaland
+  website: https://nbsenl.edu.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Nagaland State Disaster Management Authority, Nagaland
+  website: https://nsdma.nagaland.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Chief Minister Health Insurance Scheme (CMHIS), Nagaland
+  website: https://cmhis.nagaland.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Credit Portal Nagaland
+  website: https://credit.nagaland.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Nagaland
+  website: https://nagaland.mygov.in
+  contact:
+    address: Chief Secretary Office Nagaland Civil Secretariat Kohima -797001 Nagaland
+    phone: ''
+    fax: ''
+    email: nagaland[dot]mygov[at]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: COVID-19 War Room, Nagaland
+  website: null
+  category: Others
+  status: external_link
+- name: Common Scholarship Portal, Nagaland
+  website: https://scholarship.nagaland.gov.in
+  category: Others
+  status: external_link
+- name: Nagaland Police Citizen Portal, Nagaland
+  website: https://cp.police.nagaland.gov.in
+  category: Others
+  status: external_link
+- name: Nagaland State Extension Reforms (Niche ATMA), Nagaland
+  website: https://nser.nic.in
+  category: Others
+  status: external_link
+- name: Online GPF Information System, Nagaland
+  website: null
+  category: Others
+  status: external_link
+- name: e-Governance Solution - Kohima Municipal Corporation, Nagaland
+  website: https://www.ekmc.co.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Nagaland
+  website: https://nagalandtenders.gov.in
+  category: Others
+  status: external_link

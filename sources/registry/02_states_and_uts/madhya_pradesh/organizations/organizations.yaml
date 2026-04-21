@@ -1,0 +1,532 @@
+parent_state: Madhya Pradesh
+organizations:
+- name: Official Portal of Madhya Pradesh Government
+  website: https://mp.gov.in
+  category: State Portal
+  status: external_link
+- name: Chief Engineer (E/S) and Chief Electrical Inspector, Madhya Pradesh
+  website: https://cei.mp.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Directorate of Estates, Madhya Pradesh
+  website: https://sampada.mp.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Madhya Pradesh State Social Security Portal
+  website: https://socialsecurity.mp.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Registrar, Firms and Societies, Madhya Pradesh
+  website: https://registrarfirms.mp.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Commissioner, Gwalior Division, Madhya Pradesh
+  website: https://gwaliordivisionmp.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: MP State Consumer Disputes Redressal Commission, Madhya Pradesh
+  website: https://www.mpscdrc.mp.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Madhya Pradesh Electricity Regulatory Commission (MPERC), Madhya Pradesh
+  website: https://mperc.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Madhya Pradesh Rajya NITI Aayog, Madhya Pradesh
+  website: https://mpplanningcommission.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Staff Selection Commission (SSC), Madhya Pradesh Region
+  website: https://sscmpr.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: State Commission for Backward Classes, Madhya Pradesh
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: State Human Rights Commission, Madhya Pradesh
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Environmental Planning & Coordination Organisation (EPCO), Madhya Pradesh
+  website: https://epco.mp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Jiwaji University, Gwalior, Madhya Pradesh
+  website: https://www.jiwaji.edu
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Madhya Pradesh Commercial Tax Appellate Board, Madhya Pradesh
+  website: https://www.mpctab.mp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Madhya Pradesh Police Academy, Bhopal, Madhya Pradesh
+  website: https://academy.mppolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Madhya Pradesh State Cooperative Dairy Federation Limited (MPCDF), Bhopal,
+    Madhya Pradesh
+  website: https://sanchidairy.com
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Madhya Pradesh State Mining Corporation Limited
+  website: https://www.mining.mp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Madhya Pradesh State Pharmacy Council, Madhya Pradesh
+  website: https://pharmacy.mponline.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Pt. Khushilal Sharma Government (Autonomous) Ayurveda College & Institute
+    Bhopal, Madhya Pradesh
+  website: https://www.klsgaci.edu.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Real Estate Regulatory Authority, Madhya Pradesh
+  website: https://rera.mp.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Institutional Finance, Madhya Pradesh
+  website: https://www.dif.mp.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical Education, Madhya Pradesh
+  website: https://medicaleducation.mp.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medico Legal Institute, Bhopal, Madhya Pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Pension Provident Fund and Insurance (DoPPFI), Madhya Pradesh
+  website: https://www.pension.mp.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Sainik Welfare, Madhya Pradesh
+  website: https://www.sainikkalyan.mp.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Small Savings and State Lotteries, Madhya Pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Technical Education, Madhya Pradesh
+  website: https://www.mptechedu.org
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Town and Country Planning, Madhya Pradesh
+  website: https://mptownplan.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Food and Drugs Administration, Madhya Pradesh
+  website: https://cfdamp.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Inspector General of Registration and Superintendent of Stamps, Madhya Pradesh
+  website: https://www.mpigr.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Lokayukt Organisation, Madhya Pradesh
+  website: https://mplokayukt.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: MP Public Prosecution Portal, Madhya Pradesh
+  website: https://www.eprosecution.mp.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Madhya Pradesh State Garage, Bhopal, Madhya Pradesh
+  website: https://stategarage.mp.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Principal Revenue Commissioner, Madhya Pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Skill Development Mission, Madhya Pradesh
+  website: https://mpskills.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Board of Revenue, Madhya Pradesh
+  website: https://boardofrevenue.mp.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Secondary Education, Madhya Pradesh
+  website: https://mpbse.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Capital Project Administration, Bhopal, Madhya Pradesh
+  website: https://cpamp.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Commissioner of Land Records, Madhya Pradesh
+  website: https://mpbhulekh.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Directorate of Treasuries & Accounts, Madhya Pradesh
+  website: https://mptreasury.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Ecotourism Development Board, Madhya Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: M.P. Employees Selection Board, Madhya Pradesh
+  website: https://esb.mp.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: M.P. Housing and Infrastructure Development Board, Madhya Pradesh
+  website: https://www.mphousing.in
+  category: Boards / Undertakings
+  status: external_link
+- name: M.P. Power Management Company Limited, Jabalpur, Madhya Pradesh
+  website: https://mppmcl.com
+  category: Boards / Undertakings
+  status: external_link
+- name: MP Industrial Development Corporation Limited (MPIDC), Madhya Pradesh
+  website: https://sws.invest.mp.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Laghu Udyog Nigam, Madhya Pradesh
+  website: https://mplun.mpmsme.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Madhya Kshetra Vidyut Vitaran Co. Ltd., Bhopal, Madhya Pradesh
+  website: https://portal.mpcz.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Pollution Control Board, Madhya Pradesh
+  website: https://www.mppcb.mp.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Rajya Van Vikas Nigam Ltd., Madhya Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Road Development Corporation Ltd. (MPRDC), Madhya Pradesh
+  website: https://mprdc.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Rural Road Development Authority, Madhya Pradesh
+  website: https://www.mprrda.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh State Biodiversity Board, Madhya Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh State Minor Forest Produce, Madhya Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh State Seed Certification Agency, Madhya Pradesh
+  website: https://www.mpssca.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh State Tourism Development Corporation Limited (MPSTDC), Bhopal,
+    Madhya Pradesh
+  website: https://mpstdc.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Stock Exchange Limited (MPSE), Madhya Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Text Book Corporation (MPTBC), Madhya Pradesh
+  website: https://mptbc.mp.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhya Pradesh Urja Vikas Nigam Limited (MPUVN), Bhopal, Madhya Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Maharshi Patanjali Sanskrit Sansthan, Madhya Pradesh
+  website: https://mpss.mponline.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: State Disaster Management Authority (MPSDMA), Madhya Pradesh
+  website: https://mpsdma.mp.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: IForms MPOnline Limited Portal
+  website: https://iforms.mponline.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: M.P Power Generating Company Limited (MPPGCL), Madhya Pradesh
+  website: https://www.mppgcl.mp.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: MP State Civil Supplies Corporation Ltd., Madhya Pradesh
+  website: https://mpscsc.mp.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Madhya Pradesh Poorv Kshetra Vidyut Vitran Company Limited (MPPKVVCL), Madhya
+    Pradesh
+  website: https://www.mpez.co.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Madhya Pradesh Power Transmission Company Ltd. (MPPTCL), Madhya Pradesh
+  website: https://www.mptransco.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Madhya Pradesh Urban Development Company Limited, Madhya Pradesh
+  website: https://www.mpudc.co.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: AYUSH Counselling, Madhya Pradesh
+  website: https://ayush.mponline.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Barkatullah University Institute of Technology, Bhopal, Madhya Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Barkatullah Vishwavidyalaya, Bhopal, Madhya Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Entrepreneurship Development, Madhya Pradesh
+  website: https://cedmapindia.mp.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Devi Ahilya Vishwavidyalaya, Indore, Madhya Pradesh
+  website: https://www.dauniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Disaster Management Institute (DMI), Madhya Pradesh
+  website: https://dmibhopal.mp.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Education Portal 2.0, Madhya Pradesh
+  website: https://shikshaportal.mp.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Holkar (Model, Autonomous) Science College, Indore, Madhya Pradesh
+  website: https://www.collegeholkar.org
+  category: Academies / Institutions
+  status: external_link
+- name: Government M.H. College of Home Science and Science for Women, Jabalpur, Madhya
+    Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic College, Mandla, Madhya Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Women's Polytechnic College, Bhopal, Madhya Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: ICFRE - Tropical Forest Research Institute, Jabalpur, Madhya Pradesh
+  website: https://tfri.icfre.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Jawaharlal Nehru Cancer Hospital & Research Centre (JNCHRC), Bhopal, Madhya
+    Pradesh
+  website: https://www.jnchrc.com
+  category: Academies / Institutions
+  status: external_link
+- name: Madhya Pradesh State Open School Education Board, Madhya Pradesh
+  website: https://mpsos.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Mahatma Gandhi Chitrakoot Gramodaya University, Chitrakoot, Satna
+  website: https://cmcldpmp.mpjapmis.org
+  category: Academies / Institutions
+  status: external_link
+- name: RCVP Noronha Academy of Administration, Bhopal, Madhya Pradesh
+  website: https://www.academy.mp.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Rajiv Gandhi Proudyogiki Vishwavidyalaya, State Technical University, Madhya
+    Pradesh
+  website: https://www.rgpv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya (RVSKVV), Gwalior, Madhya
+    Pradesh
+  website: https://www.rvskvv.net
+  category: Academies / Institutions
+  status: external_link
+- name: Rani Durgavati Vishwavidyalaya, Jabalpur, Madhya Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Agricultrue Extension and Training (SIAET), Madhya Pradesh
+  website: https://siaet.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Science Education, Jabalpur, Madhya Pradesh
+  website: https://sisejbp.org
+  category: Academies / Institutions
+  status: external_link
+- name: State Scholarship Portal, Madhya Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: The National Law Institute University, Bhopal (NLIU), Madhya Pradesh
+  website: https://www.nliu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Tribal Research and Development Institute, Madhya Pradesh
+  website: https://www.trdi.mp.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Research and Industrial Staff Performance, Madhya Pradesh
+  website: https://crisp.mp.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chayan Portal, Madhya Pradesh
+  website: https://chayan.mponline.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Chief Minister Ladli Behna Yojana, Madhya Pradesh
+  website: https://cmladlibahna.mp.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Citizen Engagement and Resolution Platform, Madhya Pradesh
+  website: https://helpdesk.mponline.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Jal Samagra, Madhya Pradesh Jal Nigam Limited
+  website: https://jalsamagra.mp.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: M.P. State Electronics Development Corporation Ltd., Madhya Pradesh
+  website: https://mpsedc.mp.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Madhya Pradesh Farmer Registry
+  website: https://mpfr.agristack.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Drugs Licensing System (ODLS), Madhya Pradesh
+  website: https://fdamp.mponline.gov.in/portal/home.aspx
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Panchayat Darpan 2.0, Madhya Pradesh
+  website: https://mppanchayatdarpan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Safari Reservation Portal, Madhya Pradesh
+  website: https://forest.mponline.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Samagra Portal - Samagra Social Security Mission, Madhya Pradesh
+  website: https://samagra.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Smart Application for Revenue Administration (SARA)
+  website: https://saara.mp.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Challan Payment, Madhya Pradesh Police
+  website: https://echallan.mponline.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Mandi Portal, Madhya Pradesh
+  website: https://eanugya.mp.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Accredited Social Health Activist (ASHA), National Health Mission, Madhya
+    Pradesh
+  website: https://asha.mp.gov.in
+  category: Others
+  status: external_link
+- name: Agency for Promotion of Information Technology, Madhya Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Arid Forest Research Institute, Madhya Pradesh
+  website: https://afri.icfre.gov.in
+  category: Others
+  status: external_link
+- name: Bhopal Division, Madhya Pradesh
+  website: https://bhopaldivisionmp.nic.in
+  category: Others
+  status: external_link
+- name: Central Academy For Police Training, Madhya Pradesh
+  website: https://capt.gov.in
+  category: Others
+  status: external_link
+- name: Commissioner, Sagar Division, Madhya Pradesh
+  website: https://sagardivisionmp.nic.in
+  category: Others
+  status: external_link
+- name: Competent Authority Examination Results, Madhya Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Computer Proficiency Certification Test (CPCT), Madhya Pradesh
+  website: https://www.cpct.mp.gov.in
+  category: Others
+  status: external_link
+- name: Digital Repository of Acts and Rules, Madhya Pradesh
+  website: https://www.code.mp.gov.in
+  category: Others
+  status: external_link
+- name: Dindori Narmada Yatra, Madhya Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Districts Portal, Madhya Pradesh
+  website: https://mpdistricts.nic.in
+  category: Others
+  status: external_link
+- name: Economic Offences Wing, Madhya Pradesh
+  website: https://eow.mp.gov.in
+  category: Others
+  status: external_link
+- name: Environment Surveillance Centre (M.P Pollution Control Board), Madhya Pradesh
+  website: https://erc.mp.gov.in
+  category: Others
+  status: external_link
+- name: Indore Special Economic Zone, Madhya Pradesh
+  website: https://indoresez.gov.in
+  category: Others
+  status: external_link
+- name: List of District Magistrates, Madhya Pradesh
+  website: https://bhopal.nic.in/en/dm-profiles
+  category: Others
+  status: external_link
+- name: M.P. Biotechnology Council Bhopal, Madhya Pradesh
+  website: https://www.mpbiotech.nic.in
+  category: Others
+  status: external_link
+- name: M.P. Paschim Kshetra Vidyut Vitran Co. Ltd., Madhya Pradesh
+  website: https://www.mpwz.co.in
+  category: Others
+  status: external_link
+- name: MP Online Limited - Citizen Services Portal, Madhya Pradesh
+  website: https://www.mponline.gov.in/portal
+  category: Others
+  status: external_link
+- name: Madhya Pradesh Bhawan - New Delhi, Madhya Pradesh
+  website: https://mpbhawan.gov.in
+  category: Others
+  status: external_link
+- name: Madhya Pradesh Council of Science and Technology (MPCOST), Bhopal, Madhya
+    Pradesh.
+  website: https://mpcost.gov.in
+  category: Others
+  status: external_link
+- name: Madhya Pradesh Electricity Inspectorate
+  website: https://esd.mponline.gov.in
+  category: Others
+  status: external_link
+- name: Madhya Pradesh Employment Portal, Madhya Pradesh
+  website: https://mprojgar.gov.in
+  category: Others
+  status: external_link
+- name: Madhya Pradesh Medical Council, Bhopal, Madhya Pradesh
+  website: https://mpmc.mp.gov.in
+  category: Others
+  status: external_link
+- name: Madhya Pradesh PARICHAI - UID Authentication & eKYC Services, Madhya Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Madhya Pradesh Police
+  website: https://www.mppolice.gov.in/en
+  category: Others
+  status: external_link

@@ -1,0 +1,211 @@
+parent_state: Mizoram
+organizations:
+- name: Official Portal of Mizoram Government
+  website: https://www.mizoram.gov.in
+  category: State Portal
+  status: external_link
+- name: Mizoram Remote Sensing Application Centre, Mizorm
+  website: https://mirsac.mizoram.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Chakma Autonomous District Council, Mizoram
+  website: https://www.cadc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Mizoram Information Commission, Mizoram
+  website: https://mic.mizoram.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Anti Corruption Bureau, Mizoram
+  website: https://acb.mizoram.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate Of Geology & Mining, Mizoram
+  website: https://dgmr.mizoram.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Agriculture (Research and Education), Mizoram
+  website: https://agriculture.mizoram.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of State Council of Educational Research and Training, Mizoram
+  website: https://scert.mizoram.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Legal Metrology, Mizoram
+  website: https://metrology.mizoram.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: MKVIB (Mizoram Khadi & Village Industries Board), Mizoram
+  website: https://mizokvib.mizoram.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Mizoram Board of School Education, Mizoram
+  website: https://www.mbse.edu.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Mizoram State E-Governance Society, Mizoram
+  website: https://msegs.mizoram.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Zoram Infrastructure and Industrial Development Corporation Limited (ZIDCO),
+    Mizoram
+  website: https://zidco.mizoram.gov.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Digital Forensic Virtual Classroom
+  website: https://nielitcyberforensics.in
+  category: Academies / Institutions
+  status: external_link
+- name: Gandhi Memorial Higher Secondary School, Champhai, Mizoram
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Aizawl North College, Mizoram
+  website: https://ganc.mizoram.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Aizawl West College, Mizoram
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Government Higher Secondary School, Chaltlang, Mizoram
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Govt. Hrangbana College, Mizoram
+  website: https://ghbc.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Industrial Training Institute, Aizawl, Mizoram
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: KVK Serchhip, Mizoram
+  website: https://kvkserchhip.mizoram.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Krishi Vigyan Kendra, Kolasib, Mizoram
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: State Institute of Rural Development & Panchayati Raj (SIRD & PR), Mizoram
+  website: https://sirdpr.mizoram.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Women's Polytechnic Aizawl, Mizoram
+  website: https://womenspolytechnicaizawl.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: MyGov Mizoram
+  website: https://mizoram.mygov.in
+  contact:
+    address: Directorate of Information & Communication Technology, Government of
+      Mizoram, Old Secretariat Building - I, Treasury Square, Aizawl - 796001, Mizoram
+    phone: '9436140113'
+    fax: ''
+    email: cio[dot]ict[at]mizoram[dot]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Administrative Training Institute (ATI), Mizoram
+  website: https://ati.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: Civil Sub-Division, Vairengte, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: East Lungdar Rural Development Block, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: Forensic Science Laboratory, Mizoram
+  website: https://forensic.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: Institutional Finance and State Lottery, Mizoram
+  website: https://ifsl.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: KVK Lawngtlai, Mizoram
+  website: https://kvklawngtlai.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: Khawbung Rural Development Block, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: Mizoram Food And Allied Industries Corporation Limited (MIFCO), Mizoram
+  website: https://mifco.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: Mizoram House - New Delhi, Mizoram
+  website: https://mizoramhouse.nic.in
+  category: Others
+  status: external_link
+- name: Mizoram Science Centre, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: Mizoram State Sports Council
+  website: https://sportscouncil.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: Mizoram State Tobacco Control Society
+  website: https://tobaccocontrol.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: Mizoram State Wide Area Network (MSWAN), Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: National Rural Employment Guarantee Act, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: New Land Use Policy, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: Online Citizen Services Portal, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: Rashtriya Madhyamik Shiksha Abhiyan (RMSA), Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: Sainik Welfare and Resettlement, Mizoram
+  website: null
+  category: Others
+  status: external_link
+- name: Sarva Shiksha Abhiyan (SSA), Mizoram
+  website: https://schooleducation.mizoram.gov.in/page/ssa
+  category: Others
+  status: external_link
+- name: State Load Despatch Centre (SLDC), Mizoram
+  website: https://sldc.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: Training Calendar of the Administrative Training Institute, Mizoram
+  website: https://ati.mizoram.gov.in/page/training-calendar-2020-2021
+  category: Others
+  status: external_link
+- name: Zoram Energy Development Agency, Mizoram
+  website: https://zeda.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: e-Tender, Mizoram
+  website: https://tender.mizoram.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Mizoram
+  website: https://mizoramtenders.gov.in
+  category: Others
+  status: external_link

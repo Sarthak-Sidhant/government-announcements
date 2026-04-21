@@ -1,9 +1,385 @@
-# === IDENTITY ===
-id: "state-haryana"
-name: "Haryana"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-haryana
+name: Haryana
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Ambala
+    website: https://ambala.gov.in
+    sub_districts:
+    - Ambala
+    - Ambala Cantonment
+    - Barara
+    - Mulana St
+    - Naraingarh
+    - Saha St
+    - Shahzadpur St
+    blocks:
+    - Ambala-I
+    - Ambala-Ii
+    - Barara
+    - Naraingarh
+    - Saha
+    - Shahzadpur
+  - name: Bhiwani
+    website: https://bhiwani.gov.in
+    sub_districts:
+    - Bahal St
+    - Bawani Khera
+    - Bhiwani
+    - Loharu
+    - Siwani
+    - Tosham
+    blocks:
+    - Bawani Khera
+    - Behal
+    - Bhiwani
+    - Kairu
+    - Loharu
+    - Siwani
+    - Tosham
+  - name: Charkhi Dadri
+    website: https://charkhidadri.gov.in
+    sub_districts:
+    - Badhra
+    - Bondkalan St
+    - Dadri
+    blocks:
+    - Badhra
+    - Baund
+    - Charkhi Dadri
+    - Jhojhu
+  - name: Faridabad
+    website: https://faridabad.nic.in
+    sub_districts:
+    - Badkhal
+    - Ballabgarh
+    - Dayalpur St
+    - Dhauj St
+    - Faridabad
+    - Gaunchi St
+    - Mohna St
+    - Tigaon St
+    blocks:
+    - Ballabgarh
+    - Faridabad
+    - Tigaon
+  - name: Fatehabad
+    website: https://fatehabad.nic.in
+    sub_districts:
+    - Bhattukalan St
+    - Bhuna St
+    - Fatehabad
+    - Jakhal St
+    - Kulan St
+    - Ratia
+    - Tohana
+    blocks:
+    - Bhattu Kalan
+    - Bhuna
+    - Fatehabad
+    - Jakhal
+    - Nagpur
+    - Ratia
+    - Tohana
+  - name: Gurugram
+    website: https://gurugram.gov.in
+    sub_districts:
+    - Badshahpur St
+    - Farrukhnagar
+    - Gurgaon
+    - Harsaru St
+    - Kadipur St
+    - Manesar
+    - Pataudi
+    - Sohna
+    - Wazirabad St
+    blocks:
+    - Farrukh Nagar
+    - Gurgaon
+    - Pataudi
+    - Sohna
+  - name: Hansi
+    website: null
+    sub_districts:
+    - Bass
+    - Hansi
+    - Kheri Jalab St
+    - Narnaund
+    blocks:
+    - Hansi-I
+    - Hansi-Ii
+    - Narnaund
+  - name: Hisar
+    website: https://hisar.gov.in
+    sub_districts:
+    - Adampur
+    - Balsamand St
+    - Barwala
+    - Hisar
+    - Uklana St
+    blocks:
+    - Adampur
+    - Agroha
+    - Barwala
+    - Hisar-I
+    - Hisar-Ii
+    - Uklana
+  - name: Jhajjar
+    website: https://jhajjar.nic.in
+    sub_districts:
+    - Badli
+    - Bahadurgarh
+    - Beri
+    - Jhajjar
+    - Matenhail
+    - Salhawas St
+    blocks:
+    - Badli
+    - Bahadurgarh
+    - Beri
+    - Jhajjar
+    - Machhrauli
+    - Matannail
+    - Salhawas
+  - name: Jind
+    website: https://jind.gov.in
+    sub_districts:
+    - Alewa
+    - Jind
+    - Julana
+    - Narwana
+    - Pillukhera St
+    - Safidon
+    - Uchana
+    blocks:
+    - Alewa
+    - Jind
+    - Julana
+    - Narwana
+    - Pillukhera
+    - Safidon
+    - Uchana
+    - Ujhana
+  - name: Kaithal
+    website: https://kaithal.gov.in
+    sub_districts:
+    - Dhand St
+    - Fatehpur Pundri
+    - Guhla
+    - Kaithal
+    - Kalayat
+    - Rajaund St
+    - Siwan St
+    blocks:
+    - Dhand
+    - Guhla
+    - Kaithal
+    - Kalayat
+    - Pundri
+    - Rajound
+    - Siwan
+  - name: Karnal
+    website: https://karnal.gov.in
+    sub_districts:
+    - Assandh
+    - Ballah St
+    - Gharaunda
+    - Indri
+    - Karnal
+    - Nigdu St
+    - Nilokheri
+    - Nising St
+    blocks:
+    - Assandh
+    - Chirao
+    - Gharaunda (Part)
+    - Indri
+    - Karnal
+    - Kunjpura
+    - Munak
+    - Nilokheri
+    - Nissing
+  - name: Kurukshetra
+    website: https://kurukshetra.gov.in
+    sub_districts:
+    - Babain St
+    - Ismailabad St
+    - Ladwa
+    - Pehowa
+    - Shahbad
+    - Thanesar
+    blocks:
+    - Babain
+    - Ismailabad
+    - Ladwa
+    - Pehowa
+    - Pipli
+    - Shahbad
+    - Thanesar
+  - name: Mahendragarh
+    website: https://mahendragarh.gov.in
+    sub_districts:
+    - Ateli
+    - Kanina
+    - Mahendragarh
+    - Nangal Chawdhary
+    - Narnaul
+    - Satnali St
+    blocks:
+    - Ateli Nangal
+    - Kanina
+    - Mahendragarh
+    - Nangal Chaudhry
+    - Narnaul
+    - Nizampur
+    - Satnali
+    - Sihma
+  - name: Nuh
+    website: https://nuh.gov.in
+    sub_districts:
+    - Ferozepur Jhirka
+    - Indri
+    - Nagina St
+    - Nuh
+    - Punahana
+    - Taoru
+    blocks:
+    - Ferozepur Jhirka
+    - Indri
+    - Nagina
+    - Nuh
+    - Pingwan
+    - Punahana
+    - Taoru
+  - name: Palwal
+    website: https://palwal.gov.in
+    sub_districts:
+    - Bahin St
+    - Hassanpur St
+    - Hathin
+    - Hodal
+    - Palwal
+    blocks:
+    - Badoli
+    - Hassanpur
+    - Hathin
+    - Hodal
+    - Palwal
+    - Prithla
+  - name: Panchkula
+    website: https://panchkula.nic.in
+    sub_districts:
+    - Barwala St
+    - Kalka
+    - Morni St
+    - Panchkula
+    - Raipur Rani
+    blocks:
+    - Barwala
+    - Morni
+    - Pinjore
+    - Raipur Rani
+  - name: Panipat
+    website: https://panipat.gov.in
+    sub_districts:
+    - Bapoli
+    - Israna
+    - Matlauda
+    - Panipat
+    - Samalkha
+    blocks:
+    - Bapoli
+    - Israna
+    - Madlauda
+    - Panipat
+    - Samalkha
+    - Sanauli Khurd
+  - name: Rewari
+    website: https://rewari.gov.in
+    sub_districts:
+    - Bawal
+    - Dahina St
+    - Dharuhera St
+    - Kosli
+    - Manethi St
+    - Nahar St
+    - Palhawas St
+    - Rewari
+    blocks:
+    - Bawal
+    - Dahina
+    - Dharuhera
+    - Jatusana
+    - Khol At Rewari
+    - Nahar
+    - Rewari
+  - name: Rohtak
+    website: https://rohtak.gov.in
+    sub_districts:
+    - Kalanaur
+    - Lakhan Majra St
+    - Maham
+    - Rohtak
+    - Sampla
+    blocks:
+    - Kalanaur
+    - Lakhan Majra
+    - Maham
+    - Rohtak
+    - Sampla
+  - name: Sirsa
+    website: https://sirsa.gov.in
+    sub_districts:
+    - Dabwali
+    - Ellenabad
+    - Goriwala St
+    - Kalanwali
+    - Nathusari Chopta
+    - Rania
+    - Sirsa
+    blocks:
+    - Baragudha
+    - Dabwali
+    - Ellenabad
+    - Nathusari Chopta
+    - Odhan
+    - Rania
+    - Sirsa
+  - name: Sonipat
+    website: https://sonipat.gov.in
+    sub_districts:
+    - Ganaur
+    - Gohana
+    - Khanpur St
+    - Kharkhoda
+    - Rai St
+    - Sonipat
+    blocks:
+    - Ganaur
+    - Gohana
+    - Kathura
+    - Kharkhoda
+    - Mundlana
+    - Murthal
+    - Rai
+    - Sonipat
+  - name: Yamunanagar
+    website: https://yamunanagar.nic.in
+    sub_districts:
+    - Bilaspur
+    - Chhachhrauli
+    - Jagadhri
+    - Pratap Nagar St
+    - Radaur
+    - Sadhaura St
+    - Saraswati Nagar St
+    blocks:
+    - Bilaspur
+    - Chhachhrauli
+    - Jagadhri
+    - Partap Nagar
+    - Radaur
+    - Sadaura (Part)
+    - Saraswati Nagar

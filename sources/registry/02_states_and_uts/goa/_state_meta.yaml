@@ -1,9 +1,43 @@
-# === IDENTITY ===
-id: "state-goa"
-name: "Goa"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-goa
+name: Goa
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Kushavati
+    website: null
+    sub_districts:
+    - Canacona
+    - Dharbandora
+    - Quepem
+    - Sanguem
+    blocks:
+    - Canacona
+    - Dharbandora
+    - Quepem
+    - Sanguem
+  - name: North Goa
+    website: https://northgoa.gov.in
+    sub_districts:
+    - Bardez
+    - Bicholim
+    - Pernem
+    - Satari
+    - Tiswadi
+    blocks:
+    - Bardez
+    - Bicholim
+    - Pernem
+    - Satari
+    - Tiswadi
+  - name: South Goa
+    website: https://southgoa.nic.in
+    sub_districts:
+    - Mormugao
+    - Ponda
+    - Salcete
+    blocks:
+    - Mormugao
+    - Ponda
+    - Salcete

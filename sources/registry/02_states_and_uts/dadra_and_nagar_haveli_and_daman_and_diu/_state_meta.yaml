@@ -1,0 +1,23 @@
+id: state-dadra_and_nagar_haveli_and_daman_and_diu
+name: Dadra And Nagar Haveli And Daman And Diu
+type: state_government
+administrative_divisions:
+  districts:
+  - name: Dadra And Nagar Haveli
+    website: https://dnh.gov.in
+    sub_districts:
+    - Dadra & Nagar Haveli
+    blocks:
+    - Dadra Nagar Haveli
+  - name: Daman
+    website: https://daman.nic.in/websites/collectorate_daman/index.asp
+    sub_districts:
+    - Daman
+    blocks:
+    - Daman
+  - name: Diu
+    website: https://diu.gov.in
+    sub_districts:
+    - Diu
+    blocks:
+    - Diu

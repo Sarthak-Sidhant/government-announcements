@@ -1,0 +1,414 @@
+parent_state: Jammu and Kashmir
+organizations:
+- name: Official Portal of Jammu and Kashmir
+  website: https://jk.gov.in
+  category: State Portal
+  status: external_link
+- name: Anti Corruption Bureau, Jammu and Kashmir
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Department of Agriculture and Farmers Welfare Kashmir, Jammu and Kashmir
+  website: https://diragrikmr.nic.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Ladakh Tourism, Jammu and Kashmir
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Divisional Commissioner Kashmir, Jammu and Kashmir
+  website: https://divcomkashmir.jk.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Employees Provident Fund Organisation, Jammu and Kashmir
+  website: https://jkepfo.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Jammu & Kashmir Energy Development Agency (JAKEDA), Jammu and Kashmir
+  website: https://www.jakeda.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Department of Legal Metrology, Jammu and Kashmir
+  website: https://jklm.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate General Of Accounts and Treasuries, Jammu and Kashmir
+  website: https://jkdat.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Agriculture Production & Farmers Welfare, Jammu, Jammu and
+    Kashmir
+  website: https://diragrijmu.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Animal Husbandary, Jammu and Kashmir
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Archives, Archaeology and Museums, Jammu and Kashmir
+  website: https://jkarchives.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Consumer Affairs and Public Distribution, Jammu and Kashmir
+  website: https://www.dircapdjmu.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Economics and Statistics, Jammu and Kashmir
+  website: https://ecostatjk.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Employment, Jammu and Kashmir
+  website: https://jakemp.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Handicrafts & Handloom Kashmir
+  website: https://dohh.jk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Industries and Commerce, Kashmir, Jammu and Kashmir
+  website: https://industrieskashmir.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Rural Development, Jammu and Kashmir
+  website: https://drdk.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of School Education Jammu, Jammu and Kashmir
+  website: https://schedujammu.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of School Education Kashmir, Jammu and Kashmir
+  website: https://www.dsek.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Sheep Husbandry Jammu, Jammu and Kashmir
+  website: https://sheepjammu.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Sheep Husbandry Kashmir, Jammu and Kashmir
+  website: https://jksheephusbandrykashmir.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Tourism Jammu, Jammu and Kashmir
+  website: https://www.jammutourism.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Youth Services & Sports, Jammu and Kashmir
+  website: https://dgyssjk.org
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Financial Commissioner Revenue, Jammu and Kashmir
+  website: https://jkfcr.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Horticulture Department, Jammu and Kashmir
+  website: https://horticulture.jk.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Motor Garages Department, Jammu and Kashmir
+  website: https://jksmg.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Bhadarwah Development Authority (J&K Tourism), Jammu and Kashmir
+  website: https://www.bhadarwahheavens.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Command Area Development (CAD), Kashmir, Jammu and Kashmir
+  website: https://cadkashmir.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Divisional Commissioner Jammu, Jammu and Kashmir
+  website: https://divcomjammu.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Funds Organisation, Jammu and Kashmir
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: J&K Building and Other Construction Workers Welfare Board, Jammu and Kashmir
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Jammu & Kashmir Board of School Education, Jammu and Kashmir
+  website: https://jkbose.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Jammu and Kashmir Board of Professional Entrance Examinations (JKBOPEE), Jammu
+    and Kashmir
+  website: https://jkbopee.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Jammu and Kashmir Services Selection Board, Jammu and Kashmir
+  website: https://jkssb.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Jammu and Kashmir State Water Resources Regulatory Authority (JKSWRRA), Jammu
+    and Kashmir
+  website: https://jkswrra.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Pollution Control Committee, Jammu and Kashmir
+  website: https://jkocmms.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Power Development Corporation, Jammu and Kashmir
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Regional Director Survey and Land Records Jammu, Jammu and kashmir
+  website: https://rd-slrj.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Rural Development and Panchayati Raj Department, Udhampur, Jammu and Kashmir
+  website: https://rddudhampur.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Shri Amarnath Ji Shrine Board, Jammu and Kashmir
+  website: https://jksasb.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Shri Mata Vaishno Devi Shrine Board, Jammu and Kashmir
+  website: https://maavaishnodevi.org
+  category: Boards / Undertakings
+  status: external_link
+- name: The Citizens' Co-operative Bank Ltd. Jammu, Jammu and Kashmir
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: The J&K Projects Construction Corporation Ltd. , Jammu and Kashmir
+  website: https://www.jkpcc.com
+  category: Boards / Undertakings
+  status: external_link
+- name: J&K Minerals Limited, Jammu and Kashmir
+  website: https://www.jandkminerals.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Army Public School, Udhampur, Jammu and Kashmir
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Baba Ghulam Shah Badshah University, Rajouri, Jammu and Kashmir
+  website: https://www.bgsbu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bhaderwah Campus, University of Jammu, Jammu and Kashmir
+  website: https://www.bhaderwahcampus.in
+  category: Academies / Institutions
+  status: external_link
+- name: Central University of Jammu, Jammu and Kashmir
+  website: https://www.cujammu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Craft Development Institute (CDI), Jammu and Kashmir
+  website: https://cdisgr.org
+  category: Academies / Institutions
+  status: external_link
+- name: Directorate of Distance Education & Online Education (DD & OE), University
+    of Jammu, Jammu and Kashmir
+  website: https://www.distanceeducationju.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Degree College For Women, Anantnag, Jammu and Kashmir
+  website: https://wca.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Medical College Jammu, Jammu and Kashmir
+  website: https://gmcjammu.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Medical College Srinagar and it's Associated Hospitals, Jammu and
+    Kashmir
+  website: https://www.gmcs.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic for Women Jammu, Jammu and Kashmir
+  website: https://www.gpfwjammu.org
+  category: Academies / Institutions
+  status: external_link
+- name: Government Women College, Gandhi Nagar, Jammu, Jammu and Kashmir
+  website: https://gcwgandhinagar.com
+  category: Academies / Institutions
+  status: external_link
+- name: Indian Institute of Carpet Technology (IICT), Srinagar, Jammu and Kashmir
+  website: https://iictsrinagarcarpet-gi.org
+  category: Academies / Institutions
+  status: external_link
+- name: Islamic University of Science & Technology, Jammu and Kashmir
+  website: https://www.islamicuniversity.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: J&K Institute of Management Public Administration & Rural Development, Jammu
+    and Kashmir
+  website: https://www.jkimpa.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Jammu and Kashmir Entrepreneurship Development Institute, Jammu and Kashmir
+  website: https://jkedi.org
+  category: Academies / Institutions
+  status: external_link
+- name: Jawahar Institute of Mountaineering and Winter Sports, Pahalgam
+  website: https://www.jawaharinstitutepahalgam.com
+  category: Academies / Institutions
+  status: external_link
+- name: Jawahar Navodaya Vidyalaya, Kathua, Jammu and Kashmir
+  website: https://www.navodaya.gov.in/nvs/nvs-school/KATHUA/en/home
+  category: Academies / Institutions
+  status: external_link
+- name: Maulana Azad Memorial College, Jammu and Kashmir
+  website: https://www.mamcollegejammu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu
+    (SKUAST-Jammu), Jammu and Kashmir
+  website: https://skuast.org
+  category: Academies / Institutions
+  status: external_link
+- name: Sher-e-Kashmir University of Agriculture Sciences and Technology of Kashmir
+    (SKUAST-Kashmir), Jammu and Kashmir
+  website: https://skuastkashmir.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Sher-i-Kashmir Institute of Medical Sciences Soura, Srinagar, Jammu and Kashmir
+  website: https://www.skims.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Shri Mata Vaishno Devi University, Katra, Jammu and Kashmir
+  website: https://www.smvdu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: The Business School - University of Jammu, Jammu and Kashmir
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: University of Jammu, Jammu and Kashmir
+  website: https://www.jammuuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: University of Kashmir, Jammu and Kashmir
+  website: https://www.kashmiruniversity.net
+  category: Academies / Institutions
+  status: external_link
+- name: Holistic Agriculture Development Program, Jammu and Kashmir
+  website: https://hadp.jk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Jansugam Portal, Jammu and Kashmir
+  website: https://jansugam.jk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mission YUVA Portal, Jammu and Kashmir
+  website: https://missionyuva.jk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Building Permission System and CLU Application Portal, Jammu & Kashmir
+  website: https://huddobps.jk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online RTI Information System, Jammu & Kashmir
+  website: https://rtionline.jk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Pension Suvidha Portal, Jammu & Kashmir
+  website: https://pensionsuvidha.jk.gov.in/jkpension
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Swachh Bharat Mission Urban 2.0, Jammu & Kashmir
+  website: https://swachh.jk.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Jammu and Kashmir
+  website: https://jk.mygov.in
+  contact:
+    address: Dr. Rajinder Kumar Khajuria Additional Secretary Information Technology
+      Department UT of Jammu and Kashmir India
+    phone: ''
+    fax: ''
+    email: addsecy[dot]itd[at]jk[dot]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: Centralized Personnel Information System, Jammu and Kashmir
+  website: https://jkcpis.nic.in
+  category: Others
+  status: external_link
+- name: Command Area Development, Jammu, Jammu and Kashmir
+  website: https://cadjmu.nic.in
+  category: Others
+  status: external_link
+- name: Crime Branch, Jammu and Kashmir Police, Jammu and Kashmir
+  website: https://crimebranchjkpolice.nic.in
+  category: Others
+  status: external_link
+- name: Design Inspection and Quality Control Department, Jammu, Jammu and Kashmir
+  website: https://cediqcjk.nic.in
+  category: Others
+  status: external_link
+- name: Direct Benefit Transfer, Jammu and Kashmir
+  website: null
+  category: Others
+  status: external_link
+- name: Dudu Basantgarh Sub Division, Jammu and Kashmir
+  website: https://dudubasantgarh.gov.in
+  category: Others
+  status: external_link
+- name: Employee Performance Monitoring Portal (EPM), Jammu and Kashmir
+  website: https://epm.jk.gov.in
+  category: Others
+  status: external_link
+- name: Government Receipt Accounting System, Jammu and Kashmir
+  website: https://jkgras.jktreasury.gov.in
+  category: Others
+  status: external_link
+- name: J&K Tourism Development Corporation, Jammu and Kashmir
+  website: https://www.jktdc.co.in
+  category: Others
+  status: external_link
+- name: J&K Traffic Police, Jammu and Kashmir
+  website: https://jktrafficpolice.nic.in
+  category: Others
+  status: external_link
+- name: Jammu & Kashmir Women`s Development Corporation, Jammu and Kashmir
+  website: https://www.jkwdc.com
+  category: Others
+  status: external_link
+- name: Jammu and Kashmir Forest Protection Force, Jammu and Kashmir
+  website: https://jkfpf.nic.in
+  category: Others
+  status: external_link
+- name: Jammu and Kashmir Police, Jammu and Kashmir
+  website: https://jkpolice.gov.in
+  category: Others
+  status: external_link
+- name: National Food Security Program, Jammu and Kashmir
+  website: https://feastjk.gov.in
+  category: Others
+  status: external_link
+- name: New Central Sector Scheme for Industrial Development, Jammu and Kashmir
+  website: https://jknis.dpiit.gov.in
+  category: Others
+  status: external_link
+- name: Ranbir Government Press, Jammu and Kashmir
+  website: https://rgp.jk.gov.in
+  category: Others
+  status: external_link
+- name: Srinagar Development Authority, Jammu and Kashmir
+  website: https://sdasrinagar.jk.gov.in
+  category: Others
+  status: external_link
+- name: State Road Transport Corporation, Jammu and Kashmir
+  website: null
+  category: Others
+  status: external_link
+- name: e-UNNAT UNified INtegrated Accessible, Transparent, Jammu and Kashmir
+  website: https://eunnat.jk.gov.in/pages/Home.aspx
+  category: Others
+  status: external_link
+- name: eProcurement System, Jammu and Kashmir
+  website: https://jktenders.gov.in
+  category: Others
+  status: external_link

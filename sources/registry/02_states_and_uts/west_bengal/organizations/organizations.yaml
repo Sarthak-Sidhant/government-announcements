@@ -1,0 +1,490 @@
+parent_state: West Bengal
+organizations:
+- name: Official Portal of West Bengal Government
+  website: https://wb.gov.in
+  category: State Portal
+  status: external_link
+- name: Forest Development Agency, West Bengal
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Purba-Dwarakapur Sebayan Sangha, West Bengal
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Registrar General of Marriages, West Bengal
+  website: https://rgmwb.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Bina Mulya Samajik Suraksha Yojana, West Bengal
+  website: https://bmssy.wblabour.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Clinical Establishment Regulatory Commission, West Bengal
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Human Rights Commission, West Bengal
+  website: https://wbhrc.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Information Commission, West Bengal
+  website: https://wbic.wb.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: West Bengal Central School Service Commission, West Bengal
+  website: https://www.wbsschelpdesk.com
+  category: Commissions/ Committees
+  status: external_link
+- name: West Bengal College Service Commission, West Bengal
+  website: https://www.wbcsconline.in
+  category: Commissions/ Committees
+  status: external_link
+- name: West Bengal Electricity Regulatory Commission (WBERC), West Bengal
+  website: https://www.wberc.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: ASANSOL Durgapur Development Authority, West Bengal
+  website: https://addaonline.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Bankura District Police, West Bengal
+  website: https://bankurapolice.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Barasat Police District, West Bengal
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Bidhannagar City Police, West Bengal
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Institute of Post Graduate Medical Education & Research (IPGME&R), Kolkata,
+    West Bengal
+  website: https://www.ipgmer.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Jalpaiguri Police, West Bengal
+  website: https://jalpaiguripolice.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kolkata Metropolitan Development Authority, West Bengal
+  website: https://kmda.wb.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kolkata Police, West Bengal
+  website: https://www.kolkatapolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Kolkata Traffic Police, West Bengal
+  website: https://kolkatatrafficpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: M. R. Bangur Hospital, Tollygunge, Kolkata, West Bengal
+  website: https://www.mrbangurhospital.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Murshidabad Police, West Bengal
+  website: https://www.murshidabadpolice.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: New Town Kolkata Development Authority, West Bengal
+  website: https://www.nkdamar.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Purba Medinipur District Police, West Bengal
+  website: https://www.purbamedinipurpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Purulia District Police, West Bengal
+  website: https://puruliapolice.org
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Service Record Monitoring System, West Bengal
+  website: https://wbaasprofile.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Veterinary Council, West Bengal
+  website: null
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: West Bengal Police, West Bengal
+  website: https://wbpolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: West Bengal State Council of Higher Education, West Bengal
+  website: https://wbsche.wb.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Asansol Durgapur Police Commissionerate
+  website: https://asansoldurgapurpolice.wb.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Anti Corruption Branch, West Bengal
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Boilers, West Bengal
+  website: https://wbboilers.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Commercial Taxes, West Bengal
+  website: https://wbcomtax.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Factories, West Bengal
+  website: https://wbfactories.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Micro, Small & Medium Enterprises, West Bengal
+  website: https://wbmsme.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Mines and Minerals, West Bengal
+  website: https://dmm.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Open and Distance Learning (DODL) - University of Kalyani,
+    West Bengal
+  website: https://dodl.klyuniv.ac.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Registration and Stamp Revenue, West Bengal
+  website: https://wbregistration.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of State Archives, West Bengal
+  website: https://wbsadte.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Textiles (Handlooms, Spinning Mills, Silk Weaving & Handloom
+    Based Handicrafts Division), West Bengal
+  website: https://www.westbengalhandloom.org
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Labour Commissionerate (Maintains Industrial Relations), West Bengal
+  website: https://www.wblc.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Labour Commissionerate (Shops & Establishments Online Registration, Changes
+    etc.), West Bengal
+  website: https://wbshopsonline.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Board of Primary Education, West Bengal
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Haldia Petrochemicals Limited (HPL), Kolkata, West Bengal
+  website: https://www.haldiapetrochemicals.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Siliguri Jalpaiguri Development Authority (SJDA), West Bengal
+  website: https://www.sjda.org
+  category: Boards / Undertakings
+  status: external_link
+- name: State Load Despatch Center (SLDC), Howrah, West Bengal
+  website: https://www.wbsldc.in
+  category: Boards / Undertakings
+  status: external_link
+- name: The West Bengal Power Development Corporation Limited (WBPDCL), West Bengal
+  website: https://www.wbpdcl.co.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Biodiversity Board (WBBB), West Bengal
+  website: https://wbbb.wb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Board of Secondary Education (WBBSE), West Bengal
+  website: https://wbbse.wb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Electronics Industry Development Corporation Limited (WEBEL),
+    West Bengal
+  website: https://www.webel.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Forest Development Corporation Ltd. (WBDFC), Kolkata, West Bengal
+  website: https://www.wbfdc.com
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Highway Development Corporation Limited (WBHDCL), West Bengal
+  website: https://wbhdcl.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Housing Infrastructure Development Corporation Limited, (WBHIDCO),
+    West Bengal
+  website: https://www.wbhidcoltd.com
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Industrial Development Corporation (WBIDC), West Bengal
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Industrial Infrastructure Development Corporation (WBIIDC), West
+    Bengal
+  website: https://wbiidc.wb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Joint Entrance Examinations Board, West Bengal
+  website: https://wbjeeb.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Khadi & Village Industries Board, West Bengal
+  website: https://www.wbkvib.org.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Pollution Control Board (WBPCB), West Bengal
+  website: https://www.wbpcb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal SC, ST & OBC Development and Finance Corporation, West Bengal
+  website: https://wbbcdev.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal State AIDS Prevention & Control Society, Kolkata, West Bengal
+  website: https://wbsapcs.wbhealth.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal Tourism Development Corporation Ltd., West Bengal
+  website: https://www.wbtdcl.com
+  category: Boards / Undertakings
+  status: external_link
+- name: West Bengal State Electricity Distribution Company Limited (WBSEDCL), West
+    Bengal
+  website: https://www.wbsedcl.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Bankura University, West Bengal
+  website: https://www.bankurauniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Bidhan Chandra Krishi Viswavidyalaya, Nadia, West Bengal
+  website: https://www.bckv.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Centre for Distance Education and Online Education, North Bengal University,
+    Siliguri, West Bengal
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Chittaranjan National Cancer Institute (CNCI)
+  website: https://www.cnci.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Computer Aided Design Centre, Jadavpur University, West Bengal
+  website: https://cadcentreju.org
+  category: Academies / Institutions
+  status: external_link
+- name: District Institute of Education and Training (DIET), Gangtok, West Bengal
+  website: https://www.dietgangtok.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Durgapur Government College, West Bengal
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Economic Research Unit (ERU), West Bengal
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Examinations, Admission and eCounselling Services, West Bengal
+  website: https://wbjeeb.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Engineering & Ceramic Technology (GCE&CT), Kolkata,
+    West Bengal
+  website: https://www.gcect.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government College of Engineering & Leather Technology, West Bengal
+  website: https://www.gcelt.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Indian Centre for Space Physics, Kolkata
+  website: https://csp.res.in
+  category: Academies / Institutions
+  status: external_link
+- name: Indian Institute of Engineering Science and Technology (IIEST), Shibpur
+  website: https://www.iiests.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Indian Institute of Social Welfare and Business Management (IISWBM), West
+    Bengal
+  website: https://www.iiswbm.edu
+  category: Academies / Institutions
+  status: external_link
+- name: Indo French Cultural Centre and Museum, West Bengal
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Jadavpur University, West Bengal
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Kalyani Government Engineering College, Nadia, West Bengal
+  website: https://www.kgec.edu.in
+  category: Academies / Institutions
+  status: external_link
+- name: Maulana Abul Kalam Azad University of Technology, West Bengal
+  website: https://makautwb.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Netaji Subhas Administrative Training Institute (ATI), West Bengal
+  website: https://www.atiwb.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Netaji Subhas Open University, West Bengal
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Rabindra Bharati University, West Bengal
+  website: https://www.rbu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Student Credit Card Scheme, Department of Higher Education, West Bengal
+  website: https://wbscc.wb.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: The University of Burdwan, West Bengal
+  website: https://www.buruniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: The West Bengal University of Health Sciences, West Bengal
+  website: https://wbuhs.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: University of Calcutta, West Bengal
+  website: https://www.caluniv.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Anagrasarkalyan, West Bengal
+  website: https://anagrasarkalyan.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bangla Sahayata Kendra, West Bengal
+  website: https://bsk.wb.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Cyber Crime Wing, West Bengal
+  website: https://cybercrimewing.wb.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Mahatmashree Portal, West Bengal
+  website: https://karmashree.wb.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: West Bengal Bhabishyat Credit Card Scheme
+  website: https://bccs.wb.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Youth Services Wing, West Bengal
+  website: https://www.wbyouthservices.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: e-Allotment of Rental Housing Estates, West Bengal
+  website: https://rhe.wb.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Bankura District Forest, West Bengal
+  website: https://www.bankuraforest.in
+  category: Others
+  status: external_link
+- name: Budget, West Bengal
+  website: null
+  category: Others
+  status: external_link
+- name: Corporate social responsibility (CSR), West Bengal
+  website: https://csr.wb.gov.in
+  category: Others
+  status: external_link
+- name: District Health and Family Welfare Samiti, Howrah, West Bengal
+  website: https://www.healthyhowrah.org
+  category: Others
+  status: external_link
+- name: Employment Bank, West Bengal
+  website: https://employmentbankwb.gov.in
+  category: Others
+  status: external_link
+- name: Examination Results, West Bengal
+  website: null
+  category: Others
+  status: external_link
+- name: Haldia Development Authority (HDA), West Bengal
+  website: https://www.hda.gov.in
+  category: Others
+  status: external_link
+- name: Integrated Financial Management System - iFMS, West Bengal
+  website: https://www.wbifms.gov.in
+  category: Others
+  status: external_link
+- name: Integrated Salary Management System - iOSMS, West Bengal
+  website: https://osms.wbsed.gov.in
+  category: Others
+  status: external_link
+- name: Kanyashree Prakalpa, West Bengal
+  website: https://wbkanyashree.gov.in
+  category: Others
+  status: external_link
+- name: Kolkata Environmental Improvement Investment Program (KEIIP), West Bengal
+  website: https://www.keiip.in
+  category: Others
+  status: external_link
+- name: NRI Cell, West Bengal
+  website: https://aponbangla.wb.gov.in
+  category: Others
+  status: external_link
+- name: Non-Conventional & Renewable Energy Sources, West Bengal
+  website: https://nres.wb.gov.in
+  category: Others
+  status: external_link
+- name: OASiS - Online Application for Scholarship in Studies, West Bengal
+  website: https://oasis.gov.in
+  category: Others
+  status: external_link
+- name: Office of Resident Commissioner, West Bengal
+  website: https://rcwb.in
+  category: Others
+  status: external_link
+- name: Online Human Resource Management System for West Bengal Police (eHRMS), West
+    Bengal
+  website: https://ehrms.wbpolice.gov.in
+  category: Others
+  status: external_link
+- name: Paschim Banga Go-Sampad Bikash Sanstha (PBGSBS), West Bengal
+  website: https://pbgsbs.gov.in
+  category: Others
+  status: external_link
+- name: Paschim Banga Resham Shilpi Samabaya Mahasangha Ltd., West Bengal
+  website: https://www.reshamshilpi.in
+  category: Others
+  status: external_link
+- name: Paschim Medinipur District Police
+  website: https://paschimmedinipurpolice.co.in
+  category: Others
+  status: external_link
+- name: Pradhan Mantri Poshan Shakti Nirman (PM POSHAN), West Bengal
+  website: https://mdm.wbsed.gov.in
+  category: Others
+  status: external_link
+- name: Profession Tax, West Bengal
+  website: https://wbprofessiontax.gov.in
+  category: Others
+  status: external_link
+- name: Sabooj Sathi (Bi-cycle Distribution Scheme), West Bengal
+  website: https://wbsaboojsathi.gov.in
+  category: Others
+  status: external_link
+- name: Sarva Shiksha Abhiyan (SSA), West Bengal
+  website: null
+  category: Others
+  status: external_link
+- name: Scholarships Portal, West Bengal
+  website: https://scholarships.wbsed.gov.in
+  category: Others
+  status: external_link
+- name: "Silpasathi - The \u200BRevamped State Single Window Portal, West Bengal"
+  website: https://silpasathi.wb.gov.in
+  category: Others
+  status: external_link

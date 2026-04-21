@@ -1,9 +1,37 @@
-# === IDENTITY ===
-id: "state-andaman_and_nicobar_islands"
-name: "Andaman And Nicobar Islands"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-andaman_and_nicobar_islands
+name: Andaman And Nicobar Islands
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Nicobars
+    website: https://nicobars.andaman.nic.in
+    sub_districts:
+    - Car Nicobar
+    - Great Nicobar
+    - Nancowry
+    blocks:
+    - Campbell Bay
+    - Car Nicobar
+    - Nancowrie
+  - name: North And Middle Andaman
+    website: https://northmiddle.andaman.nic.in
+    sub_districts:
+    - Diglipur
+    - Mayabunder
+    - Rangat
+    blocks:
+    - Diglipur
+    - Mayabunder
+    - Rangat
+  - name: South Andamans
+    website: https://southandaman.nic.in
+    sub_districts:
+    - Ferrargunj
+    - Little Andaman
+    - Port Blair
+    blocks:
+    - Ferrargunj
+    - Little Andaman
+    - Prothrapur

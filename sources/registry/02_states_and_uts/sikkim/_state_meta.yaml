@@ -1,9 +1,84 @@
-# === IDENTITY ===
-id: "state-sikkim"
-name: "Sikkim"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-sikkim
+name: Sikkim
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Gangtok
+    website: null
+    sub_districts:
+    - Gangtok
+    - Rabdang
+    blocks:
+    - Khamdong
+    - Martam
+    - Nandok
+    - Rakdong Tintek
+    - Ranka
+  - name: Gyalshing
+    website: null
+    sub_districts:
+    - Dentam
+    - Gyalshing
+    - Yuksom
+    blocks:
+    - Arithang Chongrang
+    - Dentam
+    - Gyalshing
+    - Hee Martam
+    - Yuksom
+  - name: Mangan
+    website: https://mangan.nic.in
+    sub_districts:
+    - Chungthang
+    - Dzongu
+    - Kabi
+    - Mangan
+    blocks:
+    - Chungthang
+    - Kabi Tingda
+    - Mangan
+    - Passingdang
+  - name: Namchi
+    website: null
+    sub_districts:
+    - Jorethang
+    - Namchi
+    - Namthang
+    - Ravangla
+    - Yangang
+    blocks:
+    - Jorethang
+    - Namchi
+    - Namthang
+    - Ravangla
+    - Sumbuk
+    - Temi
+    - Wok
+    - Yangang
+  - name: Pakyong
+    website: null
+    sub_districts:
+    - Pakyong
+    - Rangpo
+    - Rongli
+    blocks:
+    - Duga
+    - Namcheybong
+    - Pakyong
+    - Parkha
+    - Reghu
+    - Rhenock
+  - name: Soreng
+    website: https://soreng.nic.in
+    sub_districts:
+    - Mangalbarey
+    - Soreng
+    blocks:
+    - Baiguney
+    - Chumbong Chakung
+    - Daramdin
+    - Kaluk
+    - Mangalbarey
+    - Soreng

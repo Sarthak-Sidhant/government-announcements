@@ -1,0 +1,473 @@
+parent_state: Uttar Pradesh
+organizations:
+- name: Official Portal of Uttar Pradesh Government
+  website: https://up.gov.in
+  category: State Portal
+  status: external_link
+- name: Basic Education Department, Uttar Pradesh
+  website: https://rte25.upsdc.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: COVID-19 updates by Office of the Relief Commissioner, Uttar Pradesh
+  website: https://rahat.up.nic.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Institute of Financial Management Training and Research, Uttar Pradesh
+  website: null
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Moradabad Development Authority, Uttar Pradesh
+  website: https://mdamoradabad.up.gov.in
+  category: Attached / Subordinated Offices
+  status: external_link
+- name: Uttar Pradesh Electricity Regulatory Commission, Uttar Pradesh
+  website: https://www.uperc.org
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttar Pradesh Information Commission, Uttar Pradesh
+  website: https://upic.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttar Pradesh State Cooperative Society Election Commission, Uttar Pradesh
+  website: https://upscec.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttar Pradesh State Human Rights Commission
+  website: https://uphrc.up.nic.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Uttar Pradesh Subordinate Services Selection Commission (UPSSSC), Uttar Pradesh
+  website: null
+  category: Commissions/ Committees
+  status: external_link
+- name: Center of BioMedical Research, Lucknow, Uttar Pradesh
+  website: https://cbmr.res.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Gorakhpur Industrial Development Authority (GIDA), Uttar Pradesh
+  website: https://gidagkp.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Real Estate Regulatory Authority (RERA), Uttar Pradesh
+  website: https://up-rera.in/index
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: U.P. Academy of Administration & Management, Uttar Pradesh
+  website: https://upati.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: UP Police, Uttar Pradesh
+  website: https://uppolice.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: UP e-Pension Portal, Uttar Pradesh
+  website: https://epension.up.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Uttar Pradesh Sainik Punarwas Nidhi, Uttar Pradesh
+  website: https://upspnlko.up.gov.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Agricultural Marketing and Agriculture Foreign Trade, Uttar
+    Pradesh
+  website: https://www.upkrishivipran.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Civil Aviation, Uttar Pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Geology & Mining, Uttar Pradesh
+  website: https://dgmup.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Industries and Enterprise Promotion, Uttar Pradesh
+  website: https://msme.up.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Local Bodies, Uttar Pradesh
+  website: https://localbodies.up.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Medical & Health Services, Uttar Pradesh
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Printing and Stationery, Uttar Pradesh
+  website: https://dpsup.up.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Sainik Welfare and Rehabilitation, Uttar Pradesh
+  website: https://skpn.up.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Treasuries, Uttar Pradesh
+  website: https://treasuries.up.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Urban Transport, Uttar Pradesh
+  website: https://uputd.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Office of the Commissioner (Appeals) - Prayagraj
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Uttar Pradesh State Backward Classes Commission, Uttar Pradesh.
+  website: https://upsbcc.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Board Of Technical Education, Uttar Pradesh
+  website: https://bteup.ac.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Board of Revenue, Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Greater Noida Industrial Development Authority (GNIDA), Uttar Pradesh
+  website: https://www.greaternoidaauthority.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Highways Authority, Lucknow, Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Jal Kal Vibhag Nagar Nigam, Lucknow (Lucknow Jal Sansthan) Uttar Pradesh
+  website: https://jklmc.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Madhymic Shiksha Parishad, Prayagraj, Uttar Pradesh
+  website: https://upmsp.edu.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Paschimanchal Vidyut Vitaran Nigam Limited (PVVNL) , Uttar Pradesh
+  website: https://pvvnl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Pollution Control Board, Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Pradeshiya Industrial and Investment Corporation of Uttar Pradesh Limited
+    (PICUP), Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Secondary Education Service Selection Board, Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: U.P. Livestock Development Board, Uttar Pradesh
+  website: https://upldb.up.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: UP Housing and Development Board, Uttar Pradesh
+  website: https://upavp.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Bhumi Sudhar Nigam (UPBSN), Lucknow, Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Cooperative Federation Limited, Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Eco-Tourism Development Board
+  website: https://upecoboard.up.gov.in/en
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Expressways Industrial Development Authority (UPEIDA), Uttar
+    Pradesh
+  website: https://upeida.up.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Jal Nigam (Urban), Uttar Pradesh
+  website: https://jn.upsdc.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Police Recruitment & Promotion Board, Uttar Pradesh
+  website: https://uppbpb.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Power Corporation Limited (UPPCL), Uttar Pradesh
+  website: https://www.uppcl.org
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh Rajkiya Nirman Nigam, Uttar Pradesh
+  website: https://www.uprnn.upsdc.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh State Food and Essential Commodities Corporation Limited (UPSFECC),
+    Uttar Pradesh
+  website: null
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh State Industrial Development Authority (UPSIDA), Uttar Pradesh
+  website: https://onlineupsida.com
+  category: Boards / Undertakings
+  status: external_link
+- name: Uttar Pradesh State Road Transport Corporation, Uttar Pradesh
+  website: https://upsrtc.up.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Purvanchal Vidyut Vitaran Nigam Limited, Uttar Pradesh
+  website: https://puvvnl.up.nic.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Uttar Pradesh Cooperative Sugar Factories Federation Limited, Uttar Pradesh
+  website: null
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Uttar Pradesh Industrial Consultants Limited (UPICO), Uttar Pradesh
+  website: null
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Acharya Narendra Deva University of Agriculture & Technology, Ayodhya, Uttar
+    Pradesh
+  website: https://www.nduat.org
+  category: Academies / Institutions
+  status: external_link
+- name: Bundelkhand Institute of Engineering and Technology, Jhansi, Uttar Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: Chandra Shekhar Azad - University of Agriculture & Technology, Kanpur, Uttar
+    Pradesh
+  website: https://www.csauk.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Chaudhary Charan Singh University, Meerut, Uttar Pradesh
+  website: https://www.ccsuniversity.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Chhatrapati Shahu Ji Maharaj University, Kanpur, Uttar Pradesh
+  website: https://csjmu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Deendayal Upadhyaya State Institute of Rural Development, Lucknow, Uttar Pradesh
+  website: https://www.sirdup.in
+  category: Academies / Institutions
+  status: external_link
+- name: Directorate of Medical Education and Training, Uttar Pradesh
+  website: https://dgme.up.gov.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh
+  website: https://aktu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Dr. Ram Manohar Lohiya National Law University, Lucknow, Uttar Pradesh
+  website: null
+  category: Academies / Institutions
+  status: external_link
+- name: G.S.V.M. Medical College, Kanpur, Uttar Pradesh
+  website: https://www.gsvmmedicalcollege.com
+  category: Academies / Institutions
+  status: external_link
+- name: Gautam Buddha University, Uttar Pradesh
+  website: https://www.gbu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Fatehpur, Uttar Pradesh
+  website: https://gpfatehpur.org
+  category: Academies / Institutions
+  status: external_link
+- name: Government Polytechnic, Kursi Road, Barabanki , Uttar Pradesh
+  website: https://gpkursibbk.com
+  category: Academies / Institutions
+  status: external_link
+- name: Govind Ballabh Pant Social Science Institute, Allahabad, Uttar Pradesh
+  website: https://www.gbpssi.in
+  category: Academies / Institutions
+  status: external_link
+- name: Harcourt Butler Technical University (HBTU), Kanpur, Uttar Pradesh
+  website: https://hbtu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Harcourt Butler Technical University, Admission and eCounselling Services
+  website: https://hbtu.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Indian Insttitute of Technology (BHU), Varanassi
+  website: https://www.iitbhu.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Co-operative and Corporate Management, Research & Training, Lucknow,
+    Uttar Pradesh
+  website: https://www.iccmrt.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Institute of Engineering and Technology, Lucknow, Uttar Pradesh
+  website: https://www.ietlucknow.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Joint Entrance Examination Council (Polytechnic), Uttar Pradesh
+  website: https://jeecup.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Kamla Nehru Institute of Technology (KNIT), Sultanpur, Uttar Pradesh
+  website: https://knit.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: Kendriya Hindi Sansthan, Agra
+  website: https://www.hindisansthan.in
+  category: Academies / Institutions
+  status: external_link
+- name: King George's Medical University, Lucknow, Uttar Pradesh
+  website: https://www.kgmu.org
+  category: Academies / Institutions
+  status: external_link
+- name: Madan Mohan Malaviya University of Technology, Uttar Pradesh
+  website: https://mmmut.admissions.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Bareilly, Uttar Pradesh
+  website: https://mjpru.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: DigiShakti Portal
+  website: https://digishakti.up.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Digital Agriculture Realtime Services, Hassle free Assistance and New Initiatives
+    (DARSHAN), Uttar Pradesh
+  website: https://agridarshan.up.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Mining Services, Uttar Pradesh
+  website: https://upminemitra.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Sewa Mitra, Uttar Pradesh
+  website: https://sewamitra.up.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: StartInUP Portal
+  website: https://startinup.up.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Survey of Villages Abadi and Mapping with Improvised Technology in Village
+    Areas (SVAMITVA)
+  website: https://svamitva.up.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Uttar Pradesh Skill Development Mission, Uttar Pradesh
+  website: https://upsdm.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Uttar Pradesh
+  website: https://up.mygov.in
+  contact:
+    address: Information and Public Relations Department (Govt of Uttar Pradesh) Lok
+      Bhawan, Lucknow, 226001
+    phone: 9415007695, 9455187348
+    fax: ''
+    email: upsoochna[at]gmail[dot]com
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: BhuNaksha (Indian Cadastral Mapping Solution), Uttar Pradesh
+  website: https://upbhunaksha.gov.in
+  category: Others
+  status: external_link
+- name: Bhulekh - Land Records Computerization, Board of Revenue, Uttar Pradesh
+  website: https://upbhulekh.gov.in
+  category: Others
+  status: external_link
+- name: Budget, Uttar Pradesh
+  website: https://budget.up.nic.in
+  category: Others
+  status: external_link
+- name: COVID-19 Information & Updates, Uttar Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Combined Admission System, Department of Medical Health & Family Welfare,
+    Uttar Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: Council of Science and Technology, Uttar Pradesh
+  website: https://cst.up.gov.in
+  category: Others
+  status: external_link
+- name: Devipatan Mandal, Gonda, Uttar Pradesh
+  website: https://devipatanmandal.nic.in
+  category: Others
+  status: external_link
+- name: Examination Results, Uttar Pradesh
+  website: https://upresults.nic.in
+  category: Others
+  status: external_link
+- name: Export Promotion Bureau, Uttar Pradesh
+  website: https://epbupindia.in
+  category: Others
+  status: external_link
+- name: Farmer Loan Redemption Scheme, Uttar Pradesh
+  website: https://www.upkisankarjrahat.upsdc.gov.in
+  category: Others
+  status: external_link
+- name: Greater Noida Industrial Development Authority, Uttar Pradesh
+  website: https://umd.nic.in/gnida
+  category: Others
+  status: external_link
+- name: Hand Pump Management System, Prayagraj, Uttar Pradesh
+  website: null
+  category: Others
+  status: external_link
+- name: ICAR - Indian Institute of Seed Science, Mau, Uttar Pradesh
+  website: https://seedres.icar.gov.in
+  category: Others
+  status: external_link
+- name: Jansunwai - Samadhan (Integrated Public Grievance Redressal System), Uttar
+    Pradesh
+  website: https://jansunwai.up.nic.in
+  category: Others
+  status: external_link
+- name: Koshvani web - A Gateway to Finance Activities, Uttar Pradesh
+  website: https://koshvani.up.nic.in
+  category: Others
+  status: external_link
+- name: Maha Kumbh Mela 2025
+  website: https://kumbh.gov.in
+  category: Others
+  status: external_link
+- name: Mukhyamantri Kanya Sumangla Yojana, Uttar Pradesh
+  website: https://mksy.up.gov.in
+  category: Others
+  status: external_link
+- name: National Health Mission (NHM), Uttar Pradesh
+  website: https://upnrhm.gov.in
+  category: Others
+  status: external_link
+- name: New Okhla Industrial Development Authority (NOIDA), Uttar Pradesh
+  website: https://umd.nic.in/noida
+  category: Others
+  status: external_link
+- name: Office of the Divisional Commissioner, Meerut Division, Uttar Pradesh
+  website: https://meerutdivision.nic.in
+  category: Others
+  status: external_link
+- name: Online Consent Management & Monitoring System, Uttar Pradesh
+  website: https://upocmms.nic.in
+  category: Others
+  status: external_link
+- name: Online Property Tax Management System, Jhansi, Uttar Pradesh
+  website: https://www.jhansipropertytax.com
+  category: Others
+  status: external_link
+- name: Panoramic View of Taj Mahal, Uttar Pradesh
+  website: https://tajmahal.gov.in
+  category: Others
+  status: external_link
+- name: Prayagraj Division, Uttar Pradesh
+  website: https://prayagrajdivision.nic.in
+  category: Others
+  status: external_link

@@ -1,0 +1,196 @@
+parent_state: Manipur
+organizations:
+- name: Official Portal of Manipur Government
+  website: https://manipur.gov.in
+  category: State Portal
+  status: external_link
+- name: Joint Electricity Regulatory Commission for the States of Manipur and Mizoram
+    (JERC)
+  website: https://jerc.mizoram.gov.in
+  category: Commissions/ Committees
+  status: external_link
+- name: Jawaharlal Nehru Institute of Medical Sciences (JNIMS), Imphal, Manipur
+  website: https://jnims.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Manipur State Legal Services Authority (MASLSA), Manipur
+  website: https://maslsa.nic.in
+  category: Statutory / Autonomous Bodies
+  status: external_link
+- name: Directorate of Adult Education, Manipur
+  website: https://www.adulteducation.mn.gov.in/en
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Handlooms and Textiles, Government of Manipur
+  website: null
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Health Services, Manipur
+  website: https://manipurhealthdirectorate.mn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of Printing and Stationary, Manipur
+  website: https://manipurgovtpress.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Directorate of SCERT, Manipur
+  website: https://scertmanipur.nic.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: eGazette Manipur
+  website: https://egazettemanipur.mn.gov.in
+  category: Directorates / Commissionerates
+  status: external_link
+- name: Board of Secondary Education, Manipur
+  website: https://bsem.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Manipur Pollution Control Board (MPCB), Manipur
+  website: https://manipcb.nic.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Manipur Renewable Energy Development Agency (MANIREDA), Manipur
+  website: https://manireda.mn.gov.in
+  category: Boards / Undertakings
+  status: external_link
+- name: Manipur State Power Distribution Company Ltd. (MSPDCL), Manipur
+  website: https://mspdcl.in/home
+  category: Boards / Undertakings
+  status: external_link
+- name: Employment Exchange, Manipur
+  website: https://employmentservicemanipur.nic.in
+  category: PSUs / JVs / Companies / Societies
+  status: external_link
+- name: Council of Higher Secondary Education, Manipur
+  website: https://cohsem.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Council of Higher Secondary Education, Manipur (COHSEM), Manipur
+  website: https://cohsemmanipur.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Hill College - Tadubi, Senapati District, Manipur
+  website: https://hillcollegetadubi.nic.in
+  category: Academies / Institutions
+  status: external_link
+- name: Liberal College, Luwangsangbam, Manipur
+  website: https://liberalcollege.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: The Modern College, Imphal East, Manipur
+  website: https://www.moderncollegeimphal.ac.in
+  category: Academies / Institutions
+  status: external_link
+- name: CMIS Employee Corner, Manipur
+  website: https://employee.man.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Manipur Heli Service Portal
+  website: https://heliservice.manipurtransport.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: National Health Mission, Manipur
+  website: https://nrhmmanipur.org
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Online Recruitment Application System, Manipur
+  website: https://megrecruitment.nic.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: PM - Jay & Chief Minister-GI Hakshelgi Tengbang (CMHT) - Health Assurance
+    Scheme, Manipur
+  website: https://cmhtmanipur.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: Tourist Pass Issuance & Monitoring System, Manipur
+  website: https://touristpass.mn.gov.in
+  category: Schemes / Programmes / Missions / Applications
+  status: external_link
+- name: MyGov Manipur
+  website: https://manipur.mygov.in
+  contact:
+    address: New Secretariat, Western Block Manipur State Data Centre, Ground Floor
+      Indo-Myanmar Road, Babupara, Imphal, Manipur 795001
+    phone: ''
+    fax: ''
+    email: mygov-manipur[at]gov[dot]in
+  directory:
+  - name: Shri Ajit Kumar
+    designation: CEO
+    organization: MyGov
+    contact: 'Ph: 011-24369222, 011-24301913'
+    email: compliance-officer[at]mygov[dot]in
+  sub_organizations: []
+  category: Others
+- name: AIDS Control Society, Manipur
+  website: null
+  category: Others
+  status: external_link
+- name: Direct Benefit Transfer (DBT) Portal, Manipur
+  website: null
+  category: Others
+  status: external_link
+- name: ENVIS Hub, Manipur
+  website: https://manenvis.nic.in
+  category: Others
+  status: external_link
+- name: Examination Results, Manipur
+  website: https://manresults.nic.in
+  category: Others
+  status: external_link
+- name: GRAS-Government Receipt Accounting System, Manipur
+  website: https://egrasmanipur.nic.in
+  category: Others
+  status: external_link
+- name: LouchaPathap - Land Record Information System, Manipur
+  website: https://louchapathap.nic.in
+  category: Others
+  status: external_link
+- name: Manipur Police, Manipur
+  website: https://manipurpolice.gov.in
+  category: Others
+  status: external_link
+- name: Manipur Science and Technology Council
+  website: https://mastec.nic.in
+  category: Others
+  status: external_link
+- name: Manipur State Information of Technology Society
+  website: https://www.msits.gov.in
+  category: Others
+  status: external_link
+- name: Manipur Urban Development Agency (MUDA)
+  website: null
+  category: Others
+  status: external_link
+- name: National Generic Document Registration System, Manipur
+  website: https://ngdrsmanipur.nic.in
+  category: Others
+  status: external_link
+- name: Online Pension Payment System, Manipur
+  website: https://pensionmanipur.nic.in
+  category: Others
+  status: external_link
+- name: Pension Portal, Manipur
+  website: https://pensionmanipur.nic.in/pension/index
+  category: Others
+  status: external_link
+- name: Sarva Shiksha Abhiyan (SSA), Manipur
+  website: https://ssamanipur.nic.in
+  category: Others
+  status: external_link
+- name: State Academy of Training (SAT), Manipur
+  website: https://satmanipur.nic.in
+  category: Others
+  status: external_link
+- name: e-Budget, Manipur
+  website: https://ebudgetmanipur.mn.gov.in
+  category: Others
+  status: external_link
+- name: e-District, Manipur
+  website: https://eservicesmanipur.gov.in
+  category: Others
+  status: external_link
+- name: eProcurement System, Manipur
+  website: https://manipurtenders.gov.in
+  category: Others
+  status: external_link

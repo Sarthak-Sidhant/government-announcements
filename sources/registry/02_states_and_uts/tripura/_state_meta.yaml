@@ -1,9 +1,120 @@
-# === IDENTITY ===
-id: "state-tripura"
-name: "Tripura"
-type: "state_government"
-
-# === HIERARCHY ===
-parent_union: "india"
-capital: ""
-
+id: state-tripura
+name: Tripura
+type: state_government
+parent_union: india
+capital: ''
+administrative_divisions:
+  districts:
+  - name: Dhalai
+    website: https://dhalai.nic.in
+    sub_districts:
+    - Ambassa
+    - Gonda Twisa
+    - Kamalpur
+    - Longtharai Valley
+    blocks:
+    - Ambassa
+    - Chawmanu
+    - Dumburnagar
+    - Durgachowmuhani
+    - Ganganagar
+    - Manu
+    - Raishyabari
+    - Salema
+  - name: Gomati
+    website: https://gomati.nic.in
+    sub_districts:
+    - Amarpur
+    - Karbook
+    - Udaipur
+    blocks:
+    - Amarpur
+    - Kakraban
+    - Karbook
+    - Killa
+    - Matabari
+    - Ompi
+    - Silachari
+    - Tepania
+  - name: Khowai
+    website: https://khowai.nic.in
+    sub_districts:
+    - Khowai
+    - Teliamura
+    blocks:
+    - Kalyanpur
+    - Khowai
+    - Mungiakami
+    - Padmabil
+    - Teliamura
+    - Tulashikhar
+  - name: North Tripura
+    website: https://northtripura.nic.in
+    sub_districts:
+    - Dharmanagar
+    - Kanchanpur
+    - Panisagar
+    blocks:
+    - Damcherra
+    - Dasda
+    - Jampui Hills
+    - Jubarajnagar
+    - Kadamtala
+    - Kalacherra
+    - Laljuri
+    - Panisagar
+  - name: Sepahijala
+    website: https://sepahijala.nic.in
+    sub_districts:
+    - Bishalgarh
+    - Jampuijala
+    - Sonamura
+    blocks:
+    - Bishalgarh
+    - Boxanagar
+    - Charilam
+    - Jampuijala
+    - Kathalia
+    - Mohanbhog
+    - Nalchar
+  - name: South Tripura
+    website: https://southtripura.nic.in
+    sub_districts:
+    - Belonia
+    - Sabroom
+    - Santirbazar
+    blocks:
+    - Bharat Chandra Nagar
+    - Bokafa
+    - Hrishyamukh
+    - Jolaibari
+    - Poangbari
+    - Rajnagar
+    - Rupaichari
+    - Satchand
+  - name: Unakoti
+    website: https://unakoti.nic.in
+    sub_districts:
+    - Kailashahar
+    - Kumarghat
+    blocks:
+    - Chandipur
+    - Gournagar
+    - Kumarghat
+    - Pecharthal
+  - name: West Tripura
+    website: https://westtripura.nic.in
+    sub_districts:
+    - Jirania
+    - Mohanpur
+    - Sadar
+    blocks:
+    - Bamutia
+    - Belbari
+    - Dukli
+    - Hezamara
+    - Jirania
+    - Lefunga
+    - Mandwai
+    - Mohanpur
+    - Old Agartala
